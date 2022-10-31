@@ -12,7 +12,7 @@ Writer.write_csv(stations, 'data/stations.csv')
 
 station_ids = [station['id'] for station in stations]
 
-stations_info = ftiab.get_stations_maintenance_info(station_ids)[:10]
+stations_info = ftiab.get_stations_maintenance_info(station_ids)
 
 for station_info in stations_info:
     id = station_info["id"]
