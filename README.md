@@ -35,12 +35,8 @@ pip install -r requirements.txt
 ```python
 import ftiab
 
-# Getting a list of all planes in the register
+# Getting a list of all stations
 station_list = ftiab.get_station_list()
 
 # Getting maintenance info of a station, here station 1.
 maintenance_info = ftiab.get_station_maintenance_info('1')
-
-# Getting a list with the details of all planes in the register
-all_stations_maintenance_info = fti.get_stations_maintenance_info()
-```
