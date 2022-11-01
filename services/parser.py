@@ -32,7 +32,11 @@ class Parser(object):
 
         soup = BeautifulSoup(response, 'lxml')
 
-        id = int(soup.select_one('GetAVSStatistikResult > AVSStatistik > AVSid').text)
+        try:
+            id = int(soup.select_one('GetAVSStatistikResult > AVSStatistik > AVSid').text)
+        except AttributeError:
+            print(soup)
+
         print(f"Parsing maintenance for station {id}...")
 
         maintenance = []
