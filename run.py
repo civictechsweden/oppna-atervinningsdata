@@ -1,5 +1,6 @@
 import datetime as dt
 import pandas as pd
+import copy
 
 from services.writer import Writer
 
@@ -21,12 +22,15 @@ stations_info = ftiab.get_stations_maintenance_info(station_ids)
 for station_info in stations_info:
     id = station_info["id"]
 
+    station = next((s for s in stations if s['id'] == id), None)
+    station['maintenance'] = station_info['categories']
+
     print(f'Writing maintenance info and history for station {id}...')
 
     Writer.write_json(station_info['categories'], f'data/stationMaintenance/{id}.json')
     Writer.write_csv(station_info['categories'], f'data/stationMaintenance/{id}.csv')
 
-    categories = [category for category in station_info['categories'] if category['senaktivitet']]
+    categories = [copy.deepcopy(category) for category in station_info['categories'] if category['senaktivitet']]
 
     if not categories:
         continue
@@ -55,4 +59,4 @@ for station_info in stations_info:
             maintenance_history = pd.concat([maintenance_history, new_maintenance])
             maintenance_history.to_csv(f'data/stationMaintenanceHistory/{id}.csv', index=False)
 
-
+Writer.write_json(stations, 'data/stations_with_maintenance.json')
