@@ -9,7 +9,7 @@ class Parser(object):
 
         stations = []
 
-        for avs in soup.select('GetAVSResult > AVS'):
+        for avs in soup.select('getavsresult > avs'):
             station = {}
 
             for child in avs.children:
@@ -33,7 +33,7 @@ class Parser(object):
         soup = BeautifulSoup(response, 'lxml')
 
         try:
-            id = int(soup.select_one('GetAVSStatistikResult > AVSStatistik > AVSid').text)
+            id = int(soup.select_one('getavsstatistikresult > avsstatistik > avsid').text)
         except AttributeError:
             print(soup)
 
@@ -41,7 +41,7 @@ class Parser(object):
 
         maintenance = []
 
-        for avs in soup.select('GetAVSStatistikResult > AVSStatistik'):
+        for avs in soup.select('getavsstatistikresult > avsstatistik'):
             statistic = {}
 
             for child in avs.children:
