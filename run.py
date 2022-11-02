@@ -23,7 +23,7 @@ for station_info in stations_info:
     id = station_info["id"]
 
     try:
-        station = next((s for s in stations if s['id'] == id), None)
+        station = next((s for s in stations if s['id'] == str(id)), None)
         station['maintenance'] = station_info['categories']
     except TypeError:
         print(f'TypeError for station {id}')
