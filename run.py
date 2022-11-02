@@ -23,7 +23,7 @@ for station_info in stations_info:
     id = station_info["id"]
 
     try:
-        station = next((s for s in stations if s['id'] == str(id)), None)
+        station = next((s for s in stations if s['id'] == id), None)
         station['maintenance'] = station_info['categories']
     except TypeError:
         print(f'TypeError for station {id}')
@@ -55,10 +55,11 @@ for station_info in stations_info:
         new_maintenance = pd.DataFrame(category, index=[0])
 
         def date_for(df):
+            print(df)
             date_string = df['maintenance'].iloc[0].partition('.')[0]
             return dt.datetime.strptime(date_string, '%Y-%m-%dT%H:%M:%S')
 
-        if date_for(new_maintenance) > date_for(latest_maintenance):
+        if latest_maintenance.empty or date_for(new_maintenance) > date_for(latest_maintenance):
             maintenance_history = pd.concat([maintenance_history, new_maintenance])
             maintenance_history.to_csv(f'data/stationMaintenanceHistory/{id}.csv', index=False)
 

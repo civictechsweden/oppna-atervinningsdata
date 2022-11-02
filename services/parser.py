@@ -17,7 +17,7 @@ class Parser(object):
                 value = child.text
 
                 if key == 'avsid':
-                    station['id'] = value
+                    station['id'] = int(value)
                 elif key != 'latitud' and key != 'longitud':
                     station[child.name.replace('decimal', 'e')] = child.text
 
