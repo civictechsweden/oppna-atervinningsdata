@@ -55,7 +55,6 @@ for station_info in stations_info:
         new_maintenance = pd.DataFrame(category, index=[0])
 
         def date_for(df):
-            print(df)
             date_string = df['maintenance'].iloc[0].partition('.')[0]
             return dt.datetime.strptime(date_string, '%Y-%m-%dT%H:%M:%S')
 

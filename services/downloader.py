@@ -20,7 +20,7 @@ class Downloader(object):
     def __init__(self):
         adapter = HTTPAdapter(max_retries=Retry(total=10, backoff_factor=0.1))
 
-        self.s = FuturesSession(max_workers=100)
+        self.s = FuturesSession(max_workers=10)
         self.s.mount('https://', adapter)
         self.s.headers = {'Content-Type': 'text/xml;charset=UTF-8'}
 
