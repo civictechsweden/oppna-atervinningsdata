@@ -22,8 +22,11 @@ stations_info = ftiab.get_stations_maintenance_info(station_ids)
 for station_info in stations_info:
     id = station_info["id"]
 
-    station = next((s for s in stations if s['id'] == id), None)
-    station['maintenance'] = station_info['categories']
+    try:
+        station = next((s for s in stations if s['id'] == id), None)
+        station['maintenance'] = station_info['categories']
+    except TypeError:
+        print(f'TypeError for station {id}')
 
     print(f'Writing maintenance info and history for station {id}...')
 
