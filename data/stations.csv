@@ -1781,7 +1781,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8980,ICA Supermarket Eriksfältsgatan Hermodalstorget,Skåne län,Malmö,Professorsgatan,Malmö Söder,2,3,1,1,1,0,55.567045,13.021455,true,false
 8982,P-plats snett över Mobilia,Skåne län,Malmö,Per Albin Hanssons väg,Malmö Innerstaden,2,2,1,1,1,0,55.580122,13.001312,true,false
 8987,P-plats badbryggan Limhamnsfältet,Skåne län,Malmö,Limhamnsvägen,Malmö Innerstaden,2,4,1,2,1,0,55.599508,12.960433,true,false
-8989,Limhamn,Skåne län,Malmö,Högerudsplan/Högerudsgatan,Malmö Väster,2,3,1,2,1,0,55.587068,12.939925,true,false
+8989,Limhamn,Skåne län,Malmö,Högerudsplan/Högerudsgatan,Malmö Väster,2,2,1,2,1,0,55.587068,12.939925,true,false
 8994,Hästhagens IP,Skåne län,Malmö,Fågelbacksgatan 9,Malmö Innerstaden,2,2,1,2,1,0,55.597315,12.988193,true,false
 9002,Borgmästaregården,Skåne län,Malmö,Annebergsgatan,Malmö Väster,2,1,1,1,1,0,55.58315,12.997808,true,false
 9008,Flensburg,Skåne län,Malmö,John Ericssons väg,Malmö Innerstaden,2,2,1,2,1,0,55.585765,13.0015,true,false
@@ -2015,7 +2015,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9651,"Svensbyn, Svensby Kooperativa",Norrbottens län,Piteå,Bäckvallenvägen 21,Svensbyn,2,1,1,1,1,0,65.316595,21.241413,true,false
 9652,"Öjebyn, ICA/Konsum",Norrbottens län,Piteå,Öjagatan 35,Öjebyn,2,3,1,2,2,0,65.341412,21.395142,true,false
 9653,Kullen,Norrbottens län,Piteå,Taktvägen,Piteå,2,2,1,1,1,0,65.3197,21.413365,true,false
-9656,"Hammarstrand, Hammarverket",Jämtlands län,Ragunda,Centralgatan 45,Hammarstrand,4,4,1,3,0,0,63.104327,16.358253,true,false
+9656,"Hammarstrand, Hammarverket",Jämtlands län,Ragunda,Centralgatan 45,Hammarstrand,4,4,1,4,0,0,63.104327,16.358253,true,false
 9658,"Höglunda, Höggården",Jämtlands län,Ragunda,,Stugun,2,2,1,1,0,0,63.14957,15.859667,true,false
 9660,"Krångede, Gamla vägen",Jämtlands län,Ragunda,,Hammarstrand,2,1,1,1,0,0,63.147782,16.137583,true,false
 9662,"Mårdsjön, Änge Gård",Jämtlands län,Ragunda,,Stugun,2,2,1,1,0,0,63.302177,15.573883,true,false
@@ -2690,7 +2690,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11246,Östanåvägen,Jönköpings län,Vetlanda,Östanåvägen,Vetlanda,2,1,1,1,1,0,57.417028,15.066343,false,false
 11248,"Dikanäs, Församlingshemsvägen",Västerbottens län,Storuman,Församlingshemsvägen,Dikanäs,2,3,1,2,1,0,65.23691,15.998583,false,false
 11250,Latikberg,Västerbottens län,Vilhelmina,,Latikberg,2,1,1,2,1,0,64.640413,17.055808,true,false
-11251,Malgovik,Västerbottens län,Vilhelmina,,Malgovik,3,2,1,2,1,0,64.639285,16.359365,true,false
+11251,Malgovik,Västerbottens län,Vilhelmina,,Malgovik,2,2,1,2,1,0,64.639285,16.359365,true,false
 11256,"Vilhelmina, Fäboväg./Solgårdsg.",Västerbottens län,Vilhelmina,Solgårdsgatan 2,Vilhelmina,2,2,1,2,1,0,64.633193,16.644563,false,false
 11258,"Vilhelmina, OK-Q8",Västerbottens län,Vilhelmina,Volgsjövägen 58,Vilhelmina,4,4,1,2,1,0,64.622035,16.665755,false,false
 11259,"Vilhelmina, Vattenverket",Västerbottens län,Vilhelmina,Baksjöstrandsvägen,Vilhelmina,2,3,1,2,1,0,64.626698,16.672602,false,false
@@ -2854,7 +2854,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11609,"Järpen, Skansvägen/Strandvägen",Jämtlands län,Åre,Skansvägen/Strandvägen,Järpen,4,5,1,3,1,0,63.351535,13.447418,true,false
 11610,"Kall, Värmeverket",Jämtlands län,Åre,,Kall,2,1,1,1,1,0,63.473355,13.228342,false,false
 11614,"Ottsjö, Posten f.d.",Jämtlands län,Åre,,Undersåker,2,2,1,1,1,0,63.215613,13.060665,false,false
-11616,"Undersåker, Vålådalsvägen",Jämtlands län,Åre,Vålådalsvägen,Undersåker,2,3,1,2,1,0,63.314153,13.234295,true,false
+11616,"Undersåker, Vålådalsvägen",Jämtlands län,Åre,Vålådalsvägen,Undersåker,2,4,1,2,1,0,63.314153,13.234295,true,false
 11618,"Åre, Produkthuset/Konsum ",Jämtlands län,Åre,S:t Olavsvägen,Åre,3,5,1,2,1,0,63.395323,13.087645,true,false
 11636,"Virestad, Horshultsvägen",Kronobergs län,Älmhult,Horshultsvägen,Virestad,2,1,1,1,1,0,56.626232,14.341493,true,false
 11637,"Eneryda, Järnvägsövergång",Kronobergs län,Älmhult,Virestadsvägen,Eneryda,2,1,1,1,1,0,56.70476,14.335882,true,false
@@ -3607,7 +3607,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14963,"Oskarström, Jutans väg",Hallands län,Halmstad,Jutans väg,Oskarström,2,2,1,1,1,0,56.802573,12.973935,true,false
 14968,P-plats centrum,Södermanlands län,Trosa,Högbergsg 34,Trosa,3,2,1,2,1,0,58.897712,17.550387,true,false
 14972,Åda fritid,Södermanlands län,Trosa,Hökebergsvägen,Trosa,2,2,1,2,1,0,58.915497,17.549222,true,false
-14973,Stensund,Södermanlands län,Trosa,"Östersjövägen, nära väg 737",Trosa,3,1,1,1,1,0,58.89929,17.600613,true,false
+14973,Stensund,Södermanlands län,Trosa,"Östersjövägen, nära väg 737",Trosa,2,1,1,1,1,0,58.89929,17.600613,true,false
 14974,Krymla,Södermanlands län,Trosa,Djupviksvägen,Trosa,2,1,1,1,1,0,58.898037,17.580912,true,false
 14976,Västra Hamnplan,Södermanlands län,Trosa,,Trosa,2,0,0,0,0,0,58.892985,17.550708,false,false
 14977,Tofsö,Södermanlands län,Trosa,,Trosa,3,1,1,1,1,0,58.81185,17.44753,true,false
