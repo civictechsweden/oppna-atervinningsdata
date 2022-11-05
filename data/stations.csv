@@ -1588,7 +1588,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8410,"Säby, P-plats Säbyvallen",Blekinge län,Karlskrona,Säbyvallsvägen 2,Säby,2,3,1,3,1,0,56.166898,15.755123,true,false
 8411,"Sälleryd, Stora vägen",Blekinge län,Karlskrona,Stora vägen,Sälleryd,2,1,1,1,1,0,56.293382,15.844318,true,false
 8412,"Torskors, Järnvägsövergången",Blekinge län,Karlskrona,Stora vägen,Torskors,2,1,1,1,1,0,56.211547,15.634443,true,false
-8414,"Trossö, Chapmansplan",Blekinge län,Karlskrona, ,Trossö,2,3,1,2,1,0,56.161637,15.57563,true,false
+8414,"Trossö, Chapmansplan",Blekinge län,Karlskrona, ,Trossö,2,6,1,2,1,0,56.161637,15.57563,true,false
 8419,"Tving, P-plats affären",Blekinge län,Karlskrona, ,Tving,2,2,1,1,1,0,56.310557,15.461122,true,false
 8420,"Vedeby, P-plats köpcentrum Amiralen",Blekinge län,Karlskrona,Verkövägen 5,Vedeby,4,4,1,2,1,0,56.195208,15.641897,true,false
 8421,"Verkö, Toras väg",Blekinge län,Karlskrona,Toras väg,Verkö,2,1,1,1,1,0,56.169988,15.647202,true,false
@@ -3987,7 +3987,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15758,Väpnargatan,Stockholms län,Stockholm,Väpnargatan 4,Östermalm,2,3,1,1,1,0,59.332923,18.078077,false,false
 15759,Sandviksvägen/Lövsta vägen,Stockholms län,Stockholm,Sandviksvägen 155,Hässelby-Vällingby,2,2,1,2,1,0,59.37843,17.81588,true,false
 15760,Björnsongatan  4,Stockholms län,Stockholm,Björnsongatan/ Blackebergsvägen,Bromma,2,3,1,1,1,0,59.343623,17.88898,true,false
-15761,Arvidsjaurs ÅVC,Norrbottens län,Arvidsjaur,Industrivägen,Arvidsjaur,2,1,1,1,1,0,65.60222,19.14583,false,false
+15761,Arvidsjaurs ÅVC,Norrbottens län,Arvidsjaur,Industrivägen,Arvidsjaur,2,1,2,1,1,0,65.60222,19.14583,false,false
 15762,Jokkmokk ÅVC,Norrbottens län,Jokkmokk,Forsnäsvägen 7,Jokkmokk,2,1,1,1,0,0,66.61076,19.850763,false,false
 15763,Porjus ÅVC ,Norrbottens län,Jokkmokk,Lillselet,Lillselet,0,1,0,2,0,0,66.953388,19.799018,false,false
 15767,Österviks ÅVC,Stockholms län,Nacka,"Saltsjöbadsvägen, inf vid Östervik",Saltsjöbaden,2,4,1,2,2,0,59.292232,18.234523,false,false
@@ -4245,7 +4245,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16185,"Gråbo centrum, värmeverket",Västra Götalands län,Lerum,Hjällsnäsvägen,Gråbo,4,3,1,3,1,0,57.83467,12.293413,true,false
 16188,Kviberg,Västra Götalands län,Göteborg,Kvibergs broväg 16,Kviberg,2,4,1,2,1,0,57.732167,12.030543,true,false
 16189,Evedalsvägen (Östra Lugnets skola),Kronobergs län,Växjö,Evedalsvägen,Växjö,4,3,1,2,1,0,56.914272,14.817083,true,false
-16190,Stora Coop Danderyd,Stockholms län,Danderyd,Sunnanängsvägen 2,Enebyberg,2,3,1,2,1,0,59.421155,18.044,false,true
+16190,Stora Coop Danderyd,Stockholms län,Danderyd,Sunnanängsvägen 2,Enebyberg,2,5,1,3,1,0,59.421155,18.044,false,true
 16192,Bråvallavägen/Ösbyvägen,Stockholms län,Danderyd,Ösbyvägen,Djursholm,2,3,1,1,1,0,59.405898,18.060143,true,true
 16194,ICA Maxi Barkarbystaden/Järfälla,Stockholms län,Stockholm,Majorsvägen 8,Barkarbystaden/Järfälla,3,4,2,3,1,0,59.415143,17.86436,false,false
 16195,Pepparvägen,Stockholms län,Stockholm,Pepparvägen 46,Farsta,2,2,1,2,1,0,59.252487,18.08295,false,false
