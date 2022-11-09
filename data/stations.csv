@@ -235,7 +235,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1059,"Forsbacka, Konsum",Gävleborgs län,Gävle,Storgatan,Forsbacka,2,1,1,1,1,0,60.61389,16.89028,true,false
 1067,"Bomhus, Bärnstensvägen",Gävleborgs län,Gävle,Bärnstensvägen 27,Gävle,2,1,1,1,1,0,60.667965,17.217393,true,false
 1071,"Gävle, Fleminggatan/Vallongatan",Gävleborgs län,Gävle,Fleminggatan/Vallongatan,Gävle,2,2,1,1,1,0,60.663447,17.148495,true,false
-1073,"Bomhus, Centrum",Gävleborgs län,Gävle,Bomhus Centrum,Gävle,2,1,1,1,1,0,60.676337,17.214015,true,false
+1073,"Bomhus, Centrum",Gävleborgs län,Gävle,Bomhus Centrum,Gävle,2,1,0,1,1,0,60.676337,17.214015,true,false
 1074,"Sätra, Sätra krysset",Gävleborgs län,Gävle,Sätra krysset,Gävle,2,1,1,1,1,0,60.68418,17.109325,false,false
 1083,"Sätra, Igeltjärnsvägen",Gävleborgs län,Gävle,,Gävle,2,1,1,1,1,0,60.685922,17.093615,false,false
 1084,"Bomhus, Kapellvägen",Gävleborgs län,Gävle,Kapellvägen 1,Gävle,2,1,1,1,1,0,60.683608,17.23548,true,false
@@ -1943,7 +1943,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9497,P-plats Furustigen,Stockholms län,Nynäshamn,Estövägen 7,Nynäshamn,2,3,1,2,1,0,58.895913,17.928433,true,false
 9499,P-plats,Stockholms län,Nynäshamn,Backluravägen 11 C,Nynäshamn,2,3,1,2,1,0,58.913948,17.939482,true,false
 9500,Vid Gatukök,Stockholms län,Nynäshamn,Alkärrsplan,Nynäshamn,2,6,1,3,1,0,58.904107,17.944765,true,false
-9501,Vändplan,Stockholms län,Nynäshamn,Backluravägen,Nynäshamn,2,3,1,2,1,0,58.910302,17.932433,true,false
+9501,Vändplan,Stockholms län,Nynäshamn,Backluravägen,Nynäshamn,2,2,1,2,1,0,58.910302,17.932433,true,false
 9503,Fröjas väg/Idunvägen,Stockholms län,Nynäshamn,,Nynäshamn,3,4,1,2,1,0,58.900498,17.933852,true,false
 9504,Heimdalsvägen 11,Stockholms län,Nynäshamn,,Nynäshamn,2,0,0,0,0,0,58.904783,17.938287,false,false
 9506,Marstavägen 2A,Stockholms län,Nynäshamn,,Stora Vika,2,3,1,2,1,0,58.952872,17.789853,true,false
@@ -2887,7 +2887,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11687,Gamla Arbogavägen,Örebro län,Örebro,Gamla Arbogavägen,Lillkyrka,2,2,1,2,1,0,59.328398,15.504543,true,false
 11689,Mariebergs IP,Örebro län,Örebro,Travbanevägen 5,Marieberg,2,3,1,2,1,0,59.224878,15.155803,true,false
 11690,Mariebergs Köpcentrum,Örebro län,Örebro,,Marieberg,2,2,1,2,1,0,59.216135,15.135157,true,false
-11692,P-plats Församlingshem,Örebro län,Örebro,N Kil,Närkes Kil,2,2,1,2,1,0,59.369565,15.081163,true,false
+11692,P-plats Församlingshem,Örebro län,Örebro,N Kil,Närkes Kil,3,2,1,2,1,0,59.369565,15.081163,true,false
 11695,Medins Livs/ICA Nära,Örebro län,Örebro,Mellösavägen 13-15,Stora Mellösa,2,2,2,2,1,0,59.209772,15.5003,true,false
 11696,Gamla Perrongen,Örebro län,Örebro,"Holmsätersvägen, Vintrosa",Vintrosa,2,3,1,2,1,0,59.251057,14.96047,true,false
 11698,Coop Extra Österplan Parkering,Örebro län,Örebro,Österängsgatan 2,Örebro,5,4,2,4,1,0,59.265468,15.234982,true,false
