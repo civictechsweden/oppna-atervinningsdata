@@ -345,7 +345,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1846,Torup,Hallands län,Hylte,Kvarnvägen,Torup,6,3,1,2,1,0,56.958133,13.073547,true,false
 1847,Unnaryd,Hallands län,Hylte,Snickargatan,Unnaryd,6,3,1,1,1,0,56.959502,13.529322,true,false
 1888,Viksjö Viséns Matbutik,Västernorrlands län,Härnösand,Gammelgården 210,Viksjö,2,1,1,1,1,0,62.779078,17.421003,true,false
-1896,Willys,Västernorrlands län,Härnösand,Gånsviksvägen 8,Härnösand,2,2,1,1,1,0,62.628302,17.957897,true,false
+1896,Willys,Västernorrlands län,Härnösand,Gånsviksvägen 8,Härnösand,2,1,1,1,1,0,62.628302,17.957897,true,false
 1900,Härnösand Sehlstedtsvägen,Västernorrlands län,Härnösand,Sehlstedtsvägen 34,Härnösand,2,1,1,1,1,0,62.64028,17.92889,true,false
 1901,"Härnösand Landgrenskolan, Bollplan",Västernorrlands län,Härnösand,Kastellgatan 25,Härnösand,2,2,1,1,1,0,62.634783,17.952548,true,false
 1902,Härnösand Krukmakarg/Holmgatan,Västernorrlands län,Härnösand,Krukmakargatan 4,Härnösand,2,2,1,1,1,0,62.635882,17.932643,true,false
@@ -1234,7 +1234,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7721,"Hjällbo, p-plats",Västra Götalands län,Göteborg,Skolspåret 7,Hjällbo,2,3,1,1,1,0,57.769063,12.012933,true,false
 7722,"Hjällbo, p-plats",Västra Götalands län,Göteborg,Sandspåret 39,Hjällbo,2,3,1,1,1,0,57.767205,12.015308,true,false
 7723,"Hjällbo, Bergsgårdsgärdet 16",Västra Götalands län,Göteborg,Bergsgårdsgärdet 16,Hjällbo,2,1,1,1,1,0,57.77228,12.022427,true,false
-7727,"Högsbohöjd, taxiangöring C",Västra Götalands län,Göteborg,Tolvskillingsgatan,Högsbohöjd,2,3,1,1,1,0,57.674483,11.915743,true,false
+7727,"Högsbohöjd, taxiangöring C",Västra Götalands län,Göteborg,Pennygången,Högsbohöjd,2,3,1,1,0,0,57.674483,11.915743,false,false
 7730,"Högsbotorp, Skiljemyntsgatan 2",Västra Götalands län,Göteborg,Skiljemyntsgatan 2,Högsbotorp,2,3,1,1,1,0,57.670438,11.927545,true,false
 7732,"Johanneberg, Gibraltargatan 36",Västra Götalands län,Göteborg,Gibraltargatan 36,Johanneberg,2,2,1,2,1,0,57.689792,11.980192,true,false
 7733,"Johanneberg, Gibraltargatan 52",Västra Götalands län,Göteborg,Gibraltargatan 52,Johanneberg,2,3,1,1,1,0,57.687682,11.981967,true,false
@@ -1464,7 +1464,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8151,ICA Träffpunkten,Gävleborgs län,Hudiksvall,Djupegatan 47,Hudiksvall,2,2,1,1,1,0,61.72556,17.14111,false,false
 8153,"Albert & Herbert, Hudiksvall",Gävleborgs län,Hudiksvall,Östanbräcksvägen 72,Hudiksvall,2,2,1,1,1,0,61.75167,17.12417,true,false
 8154,Borgarparken,Gävleborgs län,Hudiksvall,Borgarparken,Hudiksvall,2,3,1,1,1,0,61.73139,17.11472,true,false
-8156,ICA Maxi Stormarknad,Gävleborgs län,Hudiksvall,Blockvägen 1 ,Hudiksvall,4,5,1,2,1,0,61.74194,17.11444,true,false
+8156,ICA Maxi Stormarknad,Gävleborgs län,Hudiksvall,Blockvägen 1 ,Hudiksvall,4,4,1,2,1,0,61.74194,17.11444,true,false
 8157,Tippvägen,Gävleborgs län,Hudiksvall, Korsningen Gammelbansvägen/Saltviksvägen,Hudiksvall,4,5,2,2,1,0,61.71472,17.09111,false,false
 8159,Ica Supermarket Håsta (gamla Rimi),Gävleborgs län,Hudiksvall,Västra vägen 9,Hudiksvall,2,2,1,2,1,0,61.71917,17.08889,false,false
 8160,Q Star,Gävleborgs län,Hudiksvall,Åsak 33,Hög,2,1,1,1,1,0,61.76722,16.99861,true,false
@@ -2409,7 +2409,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10640,"Vågbro Tempo, gamla Ica",Gävleborgs län,Söderhamn,Hemmansvägen,Vågbro,2,2,1,1,1,0,61.32389,17.05944,false,false
 10641,Kungsgården,Gävleborgs län,Söderhamn,Torsängsvägen,Norrala,2,1,1,1,1,0,61.36611,16.94667,true,false
 10648,"Högtofta, skolan",Blekinge län,Sölvesborg,Bjärarydsvägen 825,Kylinge,2,1,1,1,0,0,56.184055,14.610127,true,false
-10649,"Hörvik, daghemmet",Blekinge län,Sölvesborg,,Hörvik,2,1,1,1,0,0,56.039533,14.75284,true,false
+10649,"Hörvik, daghemmet",Blekinge län,Sölvesborg,,Hörvik,2,1,1,1,0,0,56.039533,14.75284,false,false
 10651,"Mjällby, SPAR",Blekinge län,Sölvesborg,V. Mjällbyvägen,Mjällby,2,2,1,2,0,0,56.045218,14.671208,true,false
 10652,"Nogesund, norra infarten",Blekinge län,Sölvesborg,Nogersundsvägen/Talmansvägen,Nogersund,3,1,1,1,0,0,56.012615,14.726152,true,false
 10656,Sandviken,Blekinge län,Sölvesborg,Sandviksv/Västranäsv.,Sandviken,2,1,1,1,0,0,56.022183,14.59983,true,false
@@ -3413,7 +3413,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14362,Grönområde,Stockholms län,Södertälje,Järpstigen 2,Bårsta,2,1,2,1,1,0,59.199145,17.60882,true,false
 14369,Västertorpsvägen/ Broddgränd,Stockholms län,Stockholm,Broddgränd ,Hägersten-Liljeholmen,2,2,1,1,1,0,59.290395,17.970498,true,false
 14370,Backlöksvägen 22,Stockholms län,Stockholm, ,Hässelby-Vällingby,2,3,1,2,1,0,59.393482,17.809927,false,false
-14371,Backtimjegränd,Stockholms län,Stockholm, ,Hässelby-Vällingby,2,3,1,2,1,0,59.38003,17.833925,true,false
 14372,Bergmyntegrän Vändzon,Stockholms län,Stockholm,Bergmyntegränd 1,Hässelby-Vällingby,2,3,1,1,1,0,59.389283,17.801232,true,false
 14373,Dvärglinsgränd,Stockholms län,Stockholm, ,Hässelby-Vällingby,2,2,1,1,1,0,59.392585,17.819343,true,false
 14375,Kvarnhagsgatan 54,Stockholms län,Stockholm,Kvarnhagsgatan 54,Hässelby-Vällingby,2,2,1,2,1,0,59.366402,17.850188,true,false
