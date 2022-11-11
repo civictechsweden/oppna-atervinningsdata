@@ -84924,6 +84924,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 17272,
+        "avs": "Sunnanå Hamn",
+        "lan": "Västra Götalands län",
+        "kommun": "Mellerud",
+        "adress": "Sunnanå Hamn 7",
+        "ort": "Mellerud",
+        "glas": "4",
+        "kartong": "1",
+        "metall": "1",
+        "blandplast": "1",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "58.70750",
+        "longitude": "12.50388",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 17280,
         "avs": "Vemdalskalet",
         "lan": "Jämtlands län",
