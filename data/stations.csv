@@ -875,7 +875,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 6962,Hälledal Handlar´n,Västernorrlands län,Härnösand,Centrumvägen 1,Ramvik,2,1,1,1,1,0,62.807445,17.868887,true,false
 6963,Utansjö Bruksvägen,Västernorrlands län,Härnösand,Bruksvägen 2,Utansjö,2,1,1,1,1,0,62.77417,17.91417,true,false
 6965,Fd AMU center,Västmanlands län,Hallstahammar,Videvägen 3,Hallstahammar,2,4,1,1,1,0,59.615618,16.247272,true,false
-6968,HFAB´s,Västmanlands län,Hallstahammar,Trädgårdsgatan 8,Hallstahammar,2,1,1,2,1,0,59.613633,16.235185,true,false
+6968,HFAB´s,Västmanlands län,Hallstahammar,Trädgårdsgatan 8,Hallstahammar,2,2,1,1,1,0,59.613633,16.235185,true,false
 6972,P-plats KFAB,Södermanlands län,Katrineholm,Vallavägen/Stockholmsvägen,Katrineholm,5,2,1,1,1,0,58.99759,16.217413,true,false
 6975,Brunne Affären f.d.,Västernorrlands län,Härnösand,Stigsjö Brunne 90,Brunne,2,1,1,1,1,0,62.653585,17.634635,true,false
 6979,Gruvfogdevägen,Dalarnas län,Ludvika,Gruvfogdevägen,Grängesberg,2,1,1,1,1,0,60.076278,14.981235,true,false
@@ -2343,7 +2343,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10455,Bydalen Motionsspåret,Västernorrlands län,Sundsvall,Segelvägen,Sundsvall,2,1,1,1,1,0,62.414828,17.325275,false,false
 10460,Konsum p-plats,Västmanlands län,Surahammar,Hammarvägen 30,Ramnäs,2,1,1,2,1,0,59.773808,16.195317,true,false
 10462,Parkeringen,Västmanlands län,Surahammar,Torsgatan/Omvägen,Surahammar,3,2,1,2,1,0,59.708175,16.220185,true,false
-10464,Skogslundshallen,Västmanlands län,Surahammar,Borevägen 12,Surahammar,2,1,1,2,1,0,59.708202,16.230102,true,false
+10464,Skogslundshallen,Västmanlands län,Surahammar,Borevägen 12,Surahammar,2,2,1,2,1,0,59.708202,16.230102,true,false
 10465,Kv Mården,Västmanlands län,Surahammar,Österängsvägen,Surahammar,2,2,1,2,1,0,59.713148,16.23418,true,false
 10466,Odonvägen/musikvägen,Västmanlands län,Surahammar,Musikvägen,Surahammar,4,4,1,4,1,0,59.697325,16.242873,true,false
 10469,Virsbo/Krönet,Västmanlands län,Surahammar,Jägargatan 37,Virsbo,2,1,1,2,1,0,59.873942,16.061193,true,false
@@ -2359,9 +2359,9 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10537,"Svedala, Idrottshallens p-plats",Skåne län,Svedala,Roslättsvägen/Svalörtsgatan,Svedala,2,1,1,1,1,0,55.52136,13.219148,true,false
 10538,NFU skolan,Skåne län,Svedala,Börringevägen 10,Svedala,2,1,1,1,1,0,55.507762,13.244238,true,false
 10539,"Svedala, vändzon",Skåne län,Svedala,Organistgatan,Svedala,2,1,1,1,1,0,55.513057,13.230072,true,false
-10541,"Svedala, på höger sida vid info-skylt",Skåne län,Svedala,Norra Ellenborgsgatan,Svedala,2,1,1,1,1,0,55.50864,13.25192,true,false
+10541,"Svedala, på höger sida vid info-skylt",Skåne län,Svedala,Norra Ellenborgsgatan,Svedala,2,2,1,0,1,0,55.50864,13.25192,true,false
 10545,"Svedala, på hörnet",Skåne län,Svedala,Gjuterigatan/Möllegatan,Svedala,2,1,1,1,1,0,55.50915,13.230527,true,false
-10547,Invid ÅVC,Skåne län,Svedala,Rännilsgatan,Svedala,4,1,1,1,0,0,55.50524,13.221005,false,false
+10547,Invid ÅVC,Skåne län,Svedala,Rännilsgatan,Svedala,4,0,1,1,0,0,55.50524,13.221005,false,false
 10548,Bygdegården,Västra Götalands län,Svenljunga,Bomskogsvägen,Kalv,2,1,1,1,1,0,57.2468,13.057518,true,false
 10549,Medborgarhuset,Västra Götalands län,Svenljunga,Isabergsvägen,Östra Frölunda,2,1,1,2,1,0,57.34537,13.031262,true,false
 10552,Håcksvik,Västra Götalands län,Svenljunga,Siggebergsvägen 1,Håcksvik,2,1,0,0,1,0,57.315673,13.14555,false,false
@@ -3873,7 +3873,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15582,Svärdsjö (ÅVC) ,Dalarnas län,Falun,"Borgärdesvägen, nedanför Källegården",Svärdsjö,4,1,1,1,1,0,60.74583,15.90972,false,false
 15583,Västerskog (ÅVC),Uppsala län,Håbo,Industrivägen 19,Bålsta,7,0,1,0,2,0,59.579727,17.489797,false,false
 15584,Flygstaden (ÅVC),Hallands län,Halmstad,Olofdalsvägen 48,Halmstad,4,4,4,3,1,0,56.675938,12.797353,false,false
-15585,Edskevallen (ÅVC),Gävleborgs län,Hofors,,Hofors,2,1,1,3,1,0,60.53222,16.26861,true,false
+15585,Edskevallen (ÅVC),Gävleborgs län,Hofors,,Hofors,2,2,1,2,1,0,60.53222,16.26861,true,false
 15588,Återbruket Norberg (ÅVC),Västmanlands län,Norberg,Svarvargatan 12,Norberg,8,2,0,1,2,0,60.05444,15.93250,false,false
 15589,"Återvinningscentral, Hassela (ÅVC)",Gävleborgs län,Nordanstig,Reningsverket,Hassela,0,2,0,1,1,0,62.10278,16.71444,false,false
 15590,Kungsgården (ÅVC),Gävleborgs län,Sandviken,Ringarsvägen,Kungsgården,2,1,1,2,1,0,60.598665,16.589407,false,false
@@ -4894,6 +4894,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17581,"Kaxås, Svea Park",Jämtlands län,Krokom,835 98,Offerdal,2,3,1,2,1,0,63.48277,13.92555,false,false
 17589,Arena Park,Skåne län,Lund,Stadsparksgatan,Lund,2,2,1,1,0,0,55.69972,13.18166,false,false
 17594,Gröna Dalen grusplan,Uppsala län,Håbo,Badhusvägen /Runbrovägen,Bålsta,4,3,1,2,1,0,59.56472,17.52555,false,false
+17595,"Solstrålevägen, Storvreta",Uppsala län,Uppsala,Solstrålevägen 22,Storvreta,2,2,1,1,1,0,59.94972,17.69777,false,false
 17602,Sickla köpkvarter Planiavägen,Stockholms län,Nacka,Planiavägen 5,Nacka,4,3,1,2,1,0,59.305605,18.133742,true,false
 17608,Hurva,Skåne län,Eslöv,Tunnbindarvägen,Hurva,2,2,1,1,0,0,55.79333,13.44083,false,false
 17612,Smörlyckan parkering,Skåne län,Lund,Stig Sunners väg,Lund,2,2,1,1,0,0,55.71694,13.20583,false,false
@@ -4918,6 +4919,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17655,Lindholmen station,Stockholms län,Vallentuna,Trädgårdvägen/Gårdsvägen,Vallentuna,2,3,1,2,1,0,59.58361,18.10888,false,false
 17658,Spånga Stationsväg,Stockholms län,Stockholm,Spångastationsväg 39,Spånga,2,3,1,1,1,0,59.38166,17.90027,false,false
 17660,Parkallén,Skåne län,Staffanstorp,Parkallén,Hjärup,2,1,1,1,1,0,55.67138,13.14638,false,false
+17662,Björnrikecentrat,Jämtlands län,Härjedalen,Björnrike Vesselstigen/Björnvägen,Vemdalen,2,2,1,1,1,0,62.42333,13.95277,false,false
 17669,Willys Skutskär,Uppsala län,Älvkarleby,Östra vägen,Skutskär,3,3,1,2,1,0,60.63027,17.41500,false,false
 17674,City Gross Falun,Dalarnas län,Falun,Tallenområdet ,Falun,4,2,1,1,1,0,60.57583,15.60555,false,false
 17676,Tallvägen,Gävleborgs län,Söderhamn,Tallvägen,Söderhamn,2,1,1,1,1,0,61.31222,17.04750,false,false
