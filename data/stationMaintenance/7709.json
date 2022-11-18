@@ -9,13 +9,13 @@
         "material": "Metallförpackningar",
         "materialid": "3",
         "senaktivitet": "2022-11-14T11:23:47",
-        "nastaaktivitet": "2022-11-17T00:00:00"
+        "nastaaktivitet": "2022-12-01T00:00:00"
     },
     {
         "material": "Pappersförpackningar",
         "materialid": "5",
-        "senaktivitet": "2022-11-16T10:42:13",
-        "nastaaktivitet": "2022-11-17T00:00:00"
+        "senaktivitet": "2022-11-17T11:15:05",
+        "nastaaktivitet": "2022-11-18T00:00:00"
     },
     {
         "material": "Tidningar",
@@ -32,13 +32,13 @@
     {
         "material": "Ofärgade glasförpackningar",
         "materialid": "18",
-        "senaktivitet": "2022-11-10T18:41:50",
+        "senaktivitet": "2022-11-17T12:08:57",
         "nastaaktivitet": null
     },
     {
         "material": "Färgade glasförpackningar",
         "materialid": "19",
-        "senaktivitet": "2022-11-10T18:41:50",
+        "senaktivitet": "2022-11-17T12:08:57",
         "nastaaktivitet": null
     }
 ]
