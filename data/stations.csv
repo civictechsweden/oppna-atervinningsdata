@@ -235,7 +235,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1059,"Forsbacka, Konsum",Gävleborgs län,Gävle,Storgatan,Forsbacka,2,1,1,1,1,0,60.61389,16.89028,true,false
 1067,"Bomhus, Bärnstensvägen",Gävleborgs län,Gävle,Bärnstensvägen 27,Gävle,2,1,1,1,1,0,60.667965,17.217393,true,false
 1071,"Gävle, Fleminggatan/Vallongatan",Gävleborgs län,Gävle,Fleminggatan/Vallongatan,Gävle,2,2,1,1,1,0,60.663447,17.148495,true,false
-1073,"Bomhus, Centrum",Gävleborgs län,Gävle,Bomhus Centrum,Gävle,2,1,0,1,1,0,60.676337,17.214015,true,false
+1073,"Bomhus, Centrum",Gävleborgs län,Gävle,Bomhus Centrum,Gävle,2,1,1,1,1,0,60.676337,17.214015,true,false
 1074,"Sätra, Sätra krysset",Gävleborgs län,Gävle,Sätra krysset,Gävle,2,1,1,1,1,0,60.68418,17.109325,false,false
 1083,"Sätra, Igeltjärnsvägen",Gävleborgs län,Gävle,,Gävle,2,1,1,1,1,0,60.685922,17.093615,false,false
 1084,"Bomhus, Kapellvägen",Gävleborgs län,Gävle,Kapellvägen 1,Gävle,2,1,1,1,1,0,60.683608,17.23548,true,false
@@ -561,7 +561,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3207,"Statoil, Persön",Norrbottens län,Luleå,,Persön,2,2,1,1,1,0,65.739957,22.167338,false,false
 3210,Katthedsvägen/Kängsövägen,Norrbottens län,Luleå,,Råneå,3,3,1,1,1,0,65.855633,22.292428,false,false
 3211,Luleå energi ,Norrbottens län,Luleå,Överlotsvägen,Råneå ,2,2,1,1,1,0,65.861495,22.299235,false,false
-3213,Stadsötorget,Norrbottens län,Luleå,,Gammelstaden,3,2,1,1,1,0,65.642237,22.012242,false,false
+3213,Stadsötorget,Norrbottens län,Luleå,,Gammelstaden,2,2,1,1,1,0,65.642237,22.012242,false,false
 3214,Pumpstationen,Norrbottens län,Luleå,Övägen,Gammelstaden,2,2,1,1,1,0,65.643003,21.989685,false,false
 3215,COOP,Norrbottens län,Luleå,Besiktningsvägen,Storheden,2,2,1,1,1,0,65.619142,22.045125,false,false
 3217,Affären/ICA Nära,Norrbottens län,Luleå, ,Örarna,2,2,1,1,1,0,65.707617,22.235678,false,false
@@ -2408,7 +2408,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10640,"Vågbro Tempo, gamla Ica",Gävleborgs län,Söderhamn,Hemmansvägen,Vågbro,2,2,1,1,1,0,61.32389,17.05944,false,false
 10641,Kungsgården,Gävleborgs län,Söderhamn,Torsängsvägen,Norrala,2,1,1,1,1,0,61.36611,16.94667,true,false
 10648,"Högtofta, skolan",Blekinge län,Sölvesborg,Bjärarydsvägen 825,Kylinge,2,1,1,1,0,0,56.184055,14.610127,true,false
-10649,"Hörvik, daghemmet",Blekinge län,Sölvesborg,,Hörvik,2,1,1,1,0,0,56.039533,14.75284,false,false
 10651,"Mjällby, SPAR",Blekinge län,Sölvesborg,V. Mjällbyvägen,Mjällby,2,2,1,2,0,0,56.045218,14.671208,true,false
 10652,"Nogesund, norra infarten",Blekinge län,Sölvesborg,Nogersundsvägen/Talmansvägen,Nogersund,3,1,1,1,0,0,56.012615,14.726152,true,false
 10656,Sandviken,Blekinge län,Sölvesborg,Sandviksv/Västranäsv.,Sandviken,2,1,1,1,0,0,56.022183,14.59983,true,false
@@ -3674,7 +3673,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15200,Jupitervägen/Herkulesvägen,Stockholms län,Lidingö,Jupitervägen,Lidingö,2,0,0,0,0,0,59.351297,18.21952,true,true
 15212,Börringe,Skåne län,Svedala,Börringe Kyrkoväg,Börringe,2,0,0,0,0,0,55.50476,13.359553,false,false
 15214,ÅVC Returpunkten (ÅVC),Östergötlands län,Norrköping,Hydraulvägen,Åby,4,2,1,2,2,0,58.653822,16.172215,false,false
-15217,Koler,Norrbottens län,Piteå,,Koler,3,1,1,1,0,0,65.502213,20.489542,false,false
+15217,Koler,Norrbottens län,Piteå,,Koler,2,1,1,1,0,0,65.502213,20.489542,false,false
 15227,Bergshamra Bockholmsvägen 1 kv Sfären,Stockholms län,Solna,Bockholmsvägen 1,Solna,2,0,0,0,0,0,59.376552,18.04671,false,true
 15229,Ripstigen/Gamlavägen,Stockholms län,Solna,,Solna,2,0,0,0,0,0,59.37833,18.04129,false,true
 15232,Grönområde,Stockholms län,Södertälje,Granövägen 67,Hovsjö,2,1,2,2,1,0,59.173313,17.604073,false,false
@@ -3910,6 +3909,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15644,Tubbaryd (ÅVC),Blekinge län,Karlshamn,Tubbarydsvägen 6,Karlshamn,4,2,0,3,0,0,56.177492,14.844447,false,false
 15645,Mörrum (ÅVC),Blekinge län,Karlshamn,Perstorpsvägen 101-20,Karlshamn,2,0,0,0,0,0,56.18778,14.73000,false,false
 15646,Hultet (ÅVC),Västra Götalands län,Lerum,Olofstorpsvägen,Lerum,6,2,1,2,2,0,57.794605,12.231475,true,false
+15647,Klovsten (åvs utanför åvc),Hallands län,Kungsbacka,Klovstensvägen,Kungsbacka,2,0,0,0,1,0,57.48833,12.05166,false,false
 15652,Häverö (utanför ÅVC),Stockholms län,Norrtälje,Häverö återvinningscentral,Hallstavik,7,3,1,2,1,0,60.036793,18.645548,false,false
 15654,Renova Kläpp (ÅVC),Västra Götalands län,Stenungsund,Kläpp 11741,Ödsmål,2,2,0,2,1,0,58.089993,11.849932,true,false
 15655,Heås (ÅVC),Västra Götalands län,Tjörn,Budalsvägen 157,Skärhamn,2,1,1,1,1,0,57.99922,11.62873,true,false
