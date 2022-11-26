@@ -3,7 +3,7 @@
         "material": "Städning",
         "materialid": "0",
         "senaktivitet": "2022-11-24T11:20:14",
-        "nastaaktivitet": "2022-11-25T00:00:00"
+        "nastaaktivitet": "2022-11-28T00:00:00"
     },
     {
         "material": "Metallförpackningar",
@@ -14,8 +14,8 @@
     {
         "material": "Pappersförpackningar",
         "materialid": "5",
-        "senaktivitet": null,
-        "nastaaktivitet": "2022-11-25T00:00:00"
+        "senaktivitet": "2022-11-25T09:28:06",
+        "nastaaktivitet": "2022-12-02T00:00:00"
     },
     {
         "material": "Tidningar",
