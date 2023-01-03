@@ -4,3 +4,4 @@ urllib3==1.26.12
 beautifulsoup4==4.11.1
 lxml==4.9.1
 pandas==1.5.1
+cryptography==36.0.2
