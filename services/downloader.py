@@ -1,6 +1,7 @@
 from concurrent.futures import as_completed
 from requests.adapters import HTTPAdapter
 from requests_futures.sessions import FuturesSession
+from ssl import create_default_context, Purpose
 from urllib3.util import Retry
 
 FTIWS_URL = 'https://ftiws.ftiab.se/fti_ws/fti_ws.asmx?op={}'
@@ -15,10 +16,23 @@ def soap_envelope(query, xml_parameters):
                   </soap12:Body>
               </soap12:Envelope>"""
 
+
+class HttpAdapterWithLegacySsl(HTTPAdapter):
+
+    def __init__(self, **kwargs):
+        OP_LEGACY_SERVER_CONNECT = 4  # Available as ssl.OP_LEGACY_SERVER_CONNECT in Python 3.12
+        self.ssl_context = create_default_context(Purpose.SERVER_AUTH)
+        self.ssl_context.options |= OP_LEGACY_SERVER_CONNECT
+        super().__init__(**kwargs)
+
+    def init_poolmanager(self, *args, **kwargs):
+        HTTPAdapter.init_poolmanager(self, *args, ssl_context=self.ssl_context, **kwargs)
+
+
 class Downloader(object):
 
     def __init__(self):
-        adapter = HTTPAdapter(max_retries=Retry(total=10, backoff_factor=0.1))
+        adapter = HttpAdapterWithLegacySsl(max_retries=Retry(total=10, backoff_factor=0.1))
 
         self.s = FuturesSession(max_workers=10)
         self.s.mount('https://', adapter)
