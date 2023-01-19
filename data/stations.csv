@@ -969,7 +969,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7169,Borgstena Krögarevägen,Västra Götalands län,Borås,Krögarevägen,Borgstena,2,1,1,1,1,0,57.882185,13.016037,true,false
 7170,Borås S.a Kyrkogatan Caroliskolan,Västra Götalands län,Borås,"S.a Kyrkogatan, Caroliskolan",Borås,2,2,1,1,1,0,57.721997,12.944283,true,false
 7172,Borås Alströmergatan 9a Vattentornet,Västra Götalands län,Borås,"Alströmergatan 9a, Vattentornet",Borås,2,0,0,0,1,0,57.72472,12.94806,true,false
-7173,Borås Coop Forum,Västra Götalands län,Borås,Bergsäter,Borås,2,3,2,1,1,0,57.715775,12.96417,true,false
+7173,Borås Coop Forum,Västra Götalands län,Borås,Bergsäter / Enedalsgatan,Borås,2,3,2,1,1,0,57.715775,12.96417,false,false
 7175,Borås Engelbrektsgatan 122,Västra Götalands län,Borås,Engelbrektsgatan 122,Borås,2,4,1,2,1,0,57.737667,12.954307,true,false
 7177,Sagavallen,Västra Götalands län,Borås,Hornsgatan 39,Borås,2,4,1,4,1,0,57.733153,12.94862,true,false
 7179,Nordängsgatan/Bäckaströmsgatan,Västra Götalands län,Borås,Nordängsgatan 6,Borås,2,3,1,3,1,0,57.727195,12.951698,true,false
@@ -1074,7 +1074,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7456,Svanabyn,Västerbottens län,Dorotea,,Svanavattnet,2,2,1,1,0,0,64.102178,16.64351,false,false
 7459,Träkvista Torg,Stockholms län,Ekerö,Jungfrusundsvägen,Ekerö,3,5,1,5,2,0,59.275098,17.784783,true,false
 7460,Ekerö Centrum,Stockholms län,Ekerö,Bryggarvägen/Tegelbruksvägen,Ekerö,2,1,1,1,1,0,59.28886,17.813302,true,false
-7461,Träkvistavallen,Stockholms län,Ekerö,Ekerövägen,Ekerö,4,6,1,4,2,0,59.280523,17.791182,true,false
+7461,"Träkvistavallen, parkering",Stockholms län,Ekerö,Ekerövägen 65,Ekerö,4,6,1,4,1,0,59.280523,17.791182,false,false
 7463,"Vifärna, Hilleshög",Stockholms län,Ekerö,Korslötsvägen,Färingsö,2,2,1,2,1,0,59.381657,17.688917,true,false
 7464,COOP Konsum Färentuna,Stockholms län,Ekerö,Kungsbergavägen,Kungsberga,2,2,1,2,2,0,59.405178,17.631805,true,false
 7465,"Skolallén, Lovön",Stockholms län,Ekerö,,Lovön,3,4,1,2,2,0,59.320752,17.862857,true,false
@@ -1468,9 +1468,9 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8165,Malsta Skola,Gävleborgs län,Hudiksvall, ,Malsta,2,1,1,1,1,0,61.80972,17.20389,false,false
 8166,Folkets hus,Gävleborgs län,Hudiksvall, ,Njutånger,2,2,1,1,1,0,61.61222,17.04972,true,false
 8170,Gamla BP,Gävleborgs län,Hudiksvall,Ängebo ,Ängebo,2,1,1,1,1,0,61.97194,16.33611,true,false
-8171,Smultronstället Närlivs,Uppsala län,Håbo,Kraftleden/Kalmarleden,Bålsta,5,3,1,2,1,0,59.561435,17.50985,true,false
+8171,Smultronstället Närlivs,Uppsala län,Håbo,Kraftleden/Kalmarleden,Bålsta,4,3,1,2,1,0,59.561435,17.50985,true,false
 8173,Gamla järnvägsstationen/Mickes grill,Uppsala län,Håbo,Stockholmsvägen 1/Jan Fridegårds väg,Bålsta,2,2,1,1,1,0,59.577777,17.512403,true,false
-8175,Åsleden/Fagerdalsvägen,Uppsala län,Håbo,Åsleden/Fagerdalsvägen,Bålsta,3,2,1,1,1,0,59.58023,17.514045,true,false
+8175,Åsleden/Fagerdalsvägen,Uppsala län,Håbo,Åsleden/Fagerdalsvägen,Bålsta,3,1,1,1,1,0,59.58023,17.514045,true,false
 8179,Skolhyddan,Uppsala län,Håbo,Vibyskola,Bålsta,2,2,1,1,1,0,59.547763,17.505058,true,false
 8180,"Skokloster, Slottsskogen/Bassängen",Uppsala län,Håbo,Slottsskogsleden,Skokloster,2,3,1,2,1,0,59.694362,17.60856,true,false
 8181,"Skokloster, Söderskogen",Uppsala län,Håbo,Norr Målbäcken/Lövsångarvägen,Skokloster,2,2,1,1,1,0,59.67879,17.584657,true,false
@@ -1609,7 +1609,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8460,"Tuolluvaara, Borgen",Norrbottens län,Kiruna,Borgenvägen 1,Tuolluvaara,2,1,1,1,1,0,67.84952,20.329653,false,false
 8462,"Övre Soppero, Päiviös Styckeri",Norrbottens län,Kiruna,S. vägkorsningen,Övre Soppero,2,4,1,2,1,0,68.085798,21.707043,false,false
 8482,Bollstabruk Stationsvägen,Västernorrlands län,Kramfors,Stationsvägen,Bollstabruk,4,2,1,2,0,0,62.998317,17.677117,false,false
-8483,Kramfors Brunnevägen/Timmergatan,Västernorrlands län,Kramfors,Brunnevägen/Timmergatan,Kramfors,4,2,1,2,0,0,62.937047,17.802572,false,false
+8483,Kramfors Brunnevägen/Timmergatan,Västernorrlands län,Kramfors,Brunnevägen/Timmergatan,Kramfors,4,3,1,2,0,0,62.937047,17.802572,false,false
 8484,Docksta ,Västernorrlands län,Kramfors,Dockstavägen 30,Docksta,4,2,1,2,0,0,63.054745,18.328885,false,false
 8485,Frånö Frånövägen/Björknäsvägen,Västernorrlands län,Kramfors,Frånövägen/Björknäsvägen,Kramfors,2,1,1,1,0,0,62.904368,17.834972,false,false
 8486,Sandöverken,Västernorrlands län,Kramfors,Verdandi Liavägen 10,Sandöverken,2,1,1,1,0,0,62.881003,17.908598,false,false
