@@ -28987,7 +28987,7 @@
         "adress": "Brunnevägen/Timmergatan",
         "ort": "Kramfors",
         "glas": "4",
-        "kartong": "3",
+        "kartong": "2",
         "metall": "1",
         "blandplast": "2",
         "tidningar": "0",
@@ -48349,7 +48349,7 @@
     },
     {
         "id": 11262,
-        "avs": "Wohlfart varuhall (Ica)",
+        "avs": "Handlarn",
         "lan": "Kalmar län",
         "kommun": "Vimmerby",
         "adress": "Centrumgatan",
@@ -48362,7 +48362,7 @@
         "ejaretrunt": "0",
         "latitude": "57.799943",
         "longitude": "15.71477",
-        "batterier": "true",
+        "batterier": "false",
         "rp_extra": "false"
     },
     {
@@ -87156,6 +87156,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 17520,
+        "avs": "Furulund ",
+        "lan": "Skåne län",
+        "kommun": "Kävlinge",
+        "adress": "Sockenvägen Häradsvägen",
+        "ort": "Furulund",
+        "glas": "2",
+        "kartong": "2",
+        "metall": "1",
+        "blandplast": "1",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "55.76972",
+        "longitude": "13.08666",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 17521,
         "avs": "Grundbergsvägen 11",
         "lan": "Västra Götalands län",
@@ -88466,24 +88484,6 @@
         "ejaretrunt": "0",
         "latitude": "59.30888",
         "longitude": "18.28555",
-        "batterier": "false",
-        "rp_extra": "false"
-    },
-    {
-        "id": 17697,
-        "avs": "Mörby Centrum P- Söder",
-        "lan": "Stockholms län",
-        "kommun": "Danderyd",
-        "adress": "Mörby Centrum",
-        "ort": "Danderyd",
-        "glas": "2",
-        "kartong": "3",
-        "metall": "1",
-        "blandplast": "2",
-        "tidningar": "1",
-        "ejaretrunt": "0",
-        "latitude": "59.39638",
-        "longitude": "18.03777",
         "batterier": "false",
         "rp_extra": "false"
     },

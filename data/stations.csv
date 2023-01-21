@@ -1609,7 +1609,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8460,"Tuolluvaara, Borgen",Norrbottens län,Kiruna,Borgenvägen 1,Tuolluvaara,2,1,1,1,1,0,67.84952,20.329653,false,false
 8462,"Övre Soppero, Päiviös Styckeri",Norrbottens län,Kiruna,S. vägkorsningen,Övre Soppero,2,4,1,2,1,0,68.085798,21.707043,false,false
 8482,Bollstabruk Stationsvägen,Västernorrlands län,Kramfors,Stationsvägen,Bollstabruk,4,2,1,2,0,0,62.998317,17.677117,false,false
-8483,Kramfors Brunnevägen/Timmergatan,Västernorrlands län,Kramfors,Brunnevägen/Timmergatan,Kramfors,4,3,1,2,0,0,62.937047,17.802572,false,false
+8483,Kramfors Brunnevägen/Timmergatan,Västernorrlands län,Kramfors,Brunnevägen/Timmergatan,Kramfors,4,2,1,2,0,0,62.937047,17.802572,false,false
 8484,Docksta ,Västernorrlands län,Kramfors,Dockstavägen 30,Docksta,4,2,1,2,0,0,63.054745,18.328885,false,false
 8485,Frånö Frånövägen/Björknäsvägen,Västernorrlands län,Kramfors,Frånövägen/Björknäsvägen,Kramfors,2,1,1,1,0,0,62.904368,17.834972,false,false
 8486,Sandöverken,Västernorrlands län,Kramfors,Verdandi Liavägen 10,Sandöverken,2,1,1,1,0,0,62.881003,17.908598,false,false
@@ -2685,7 +2685,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11258,"Vilhelmina, OK-Q8",Västerbottens län,Vilhelmina,Volgsjövägen 58,Vilhelmina,4,4,1,2,1,0,64.622035,16.665755,false,false
 11259,"Vilhelmina, Vattenverket",Västerbottens län,Vilhelmina,Baksjöstrandsvägen,Vilhelmina,2,3,1,2,1,0,64.626698,16.672602,false,false
 11261,Idrottspl/Bygdegårds p-plats,Kalmar län,Vimmerby,Västerviksvägen/Idrottsvägen,Frödinge,2,1,1,1,1,0,57.7027,16.008388,true,false
-11262,Wohlfart varuhall (Ica),Kalmar län,Vimmerby,Centrumgatan,Gullringen,2,1,1,1,1,0,57.799943,15.71477,true,false
+11262,Handlarn,Kalmar län,Vimmerby,Centrumgatan,Gullringen,2,1,1,1,1,0,57.799943,15.71477,false,false
 11263,Hembygdsparken,Kalmar län,Vimmerby,Mariannelundsvägen,Rumskulla,2,1,1,1,1,0,57.676007,15.593643,true,false
 11264,Mittemot Storebrohallen,Kalmar län,Vimmerby,Vimmerbyvägen/Örngatan,Storebro,2,1,1,1,1,0,57.587928,15.842352,true,false
 11265,Södra Vi,Kalmar län,Vimmerby,Industrigatan,Södra Vi,2,2,1,1,1,0,57.739797,15.795447,true,false
@@ -4841,6 +4841,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17514,ICA City Knalleland,Västra Götalands län,Borås,Skaraborgsvägen 33,Borås,3,3,1,2,1,0,57.73027,12.93750,true,false
 17515,"Kråknäsparkeringen, Långvind",Gävleborgs län,Hudiksvall,"Stickväg mot Djupvik, Långvind",Enånger,2,1,1,1,1,0,61.42083,17.15916,false,false
 17518,Singel Vaxholm Vårdcentral,Stockholms län,Vaxholm,Kapellgatan 6,Vaxholm,6,0,0,0,1,0,59.403128,18.349907,false,false
+17520,Furulund ,Skåne län,Kävlinge,Sockenvägen Häradsvägen,Furulund,2,2,1,1,1,0,55.76972,13.08666,false,false
 17521,Grundbergsvägen 11,Västra Götalands län,Trollhättan,,Trollhättan,2,2,1,1,1,0,58.29555,12.30472,false,false
 17522,Källviks Brygga,Södermanlands län,Trosa,,Västerljung,2,2,1,2,1,0,58.77944,17.48638,false,false
 17525,Gästhamnen,Södermanlands län,Nyköping,Gert Fredrikssons väg,Nyköping,2,0,0,0,0,0,58.74416,17.02138,false,false
@@ -4914,7 +4915,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17689,Kåvan ,Jämtlands län,Härjedalen,Kåvanvägen (Funäsdalsberget),Funäsdalen,3,3,1,2,1,0,62.55527,12.55861,false,false
 17693,OK Fröslunda / Engelska skolan,Södermanlands län,Eskilstuna,Sturegatan,Eskilstuna,2,2,1,1,1,0,59.35694,16.49888,false,false
 17694,Boo Gårdsskola 2.0,Stockholms län,Nacka,Bovägen 7,Lännersta,2,5,1,2,1,0,59.30888,18.28555,false,false
-17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,1,1,1,1,0,56.704957,16.32314,true,false
