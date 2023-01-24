@@ -1072,7 +1072,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7454,Dorotea Sofiavägen/Ugglestigen,Västerbottens län,Dorotea,Sofiavägen,Dorotea,2,3,1,2,0,0,64.262997,16.401787,true,false
 7455,Laiksjö,Västerbottens län,Dorotea,Byvägen,Laiksjö,2,2,1,1,0,0,64.226107,16.54339,true,false
 7456,Svanabyn,Västerbottens län,Dorotea,,Svanavattnet,2,2,1,1,0,0,64.102178,16.64351,false,false
-7459,Träkvista Torg,Stockholms län,Ekerö,Jungfrusundsvägen,Ekerö,3,5,1,5,2,0,59.275098,17.784783,true,false
 7460,Ekerö Centrum,Stockholms län,Ekerö,Bryggarvägen/Tegelbruksvägen,Ekerö,2,1,1,1,1,0,59.28886,17.813302,true,false
 7461,"Träkvistavallen, parkering",Stockholms län,Ekerö,Ekerövägen 65,Ekerö,4,6,1,4,1,0,59.280523,17.791182,false,false
 7463,"Vifärna, Hilleshög",Stockholms län,Ekerö,Korslötsvägen,Färingsö,2,2,1,2,1,0,59.381657,17.688917,true,false
@@ -1155,7 +1154,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7591,P-plats,Värmlands län,Filipstad,Fagerbergsvägen 1,Filipstad,4,2,2,3,1,0,59.703593,14.168368,false,false
 7592,Kommunförrådet,Värmlands län,Filipstad,"Rättarstigen 7, Djurgården",Lesjöfors,4,4,1,3,1,0,59.978988,14.183935,false,false
 7594,P-plats Konsum,Värmlands län,Filipstad,Kungsvägen 2 A,Nykroppa,2,3,1,3,1,0,59.624162,14.30552,false,false
-7595,Torget,Värmlands län,Filipstad,Högbergsvägen 38,Persberg,3,1,1,2,1,0,59.749798,14.2573,false,false
+7595,Torget,Värmlands län,Filipstad,Högbergsvägen 38,Persberg,2,1,1,2,1,0,59.749798,14.2573,false,false
 7596,Busstorget,Södermanlands län,Gnesta,Stationsvägen 7,Björnlunda,3,2,1,2,1,0,59.064143,17.1596,true,false
 7597,"Elektron, bakom Odal",Södermanlands län,Gnesta,Västra Storgatan 18,Gnesta,5,4,1,3,1,0,59.049432,17.305757,true,false
 7598,Återvinningsgården (ÅVC),Södermanlands län,Gnesta,Vackerby Industriväg 11A,Gnesta,3,6,1,2,1,0,59.055098,17.293345,false,false
@@ -1671,7 +1670,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8603,P-plats Folkets Park,Västmanlands län,Köping,Östanåsgatan,Köping,2,2,1,1,1,0,59.519523,16.004893,true,false
 8607,P-plats Big Inn,Västmanlands län,Köping,Ringvägen,Köping,4,4,1,2,1,0,59.522338,15.976472,true,false
 8610,Mälartorget,Västmanlands län,Köping,Kungsängen,Köping,2,1,1,1,1,0,59.494795,16.012007,true,false
-8612,Nibbletorget,Västmanlands län,Köping,,Köping,2,1,1,1,1,0,59.511548,15.969607,true,false
+8612,Nibbletorget,Västmanlands län,Köping,,Köping,2,2,1,1,1,0,59.511548,15.969607,false,false
 8613,Odensvigården,Västmanlands län,Köping,Odensvi,Odensvi,2,1,1,1,1,0,59.57854,15.993808,true,false
 8616,Tunadalsparkeringen,Västmanlands län,Köping,Tunadalsgatan,Köping,2,1,1,1,1,0,59.515097,15.993455,true,false
 8618,Zigenarbacken/Idrottsplats,Västmanlands län,Köping,Västeråsvägen,Köping,2,2,1,1,1,0,59.514835,16.012712,true,false
