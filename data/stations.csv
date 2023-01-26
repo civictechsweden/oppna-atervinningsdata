@@ -1046,7 +1046,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7331,P-plats ICA Supermarket Solbo,Stockholms län,Botkyrka,Ekvägen (f.d ICA Kom),Tumba,2,3,1,1,1,0,59.188897,17.822432,false,false
 7348,Vändplan,Stockholms län,Botkyrka,Sedelvägen/Tumbavägen,Tumba,2,3,1,2,1,0,59.20224,17.826198,true,false
 7358,Vårsta centrum ,Stockholms län,Botkyrka,"Parkering bakom C, vid Malmsjöskolan",Vårsta,2,3,1,2,1,0,59.164475,17.795253,true,false
-7359,P-plats,Stockholms län,Botkyrka,Malmtorpsvägen/Dalvägen,Vårsta,2,4,1,3,1,0,59.170115,17.798305,true,false
+7359,P-plats,Stockholms län,Botkyrka,Malmtorpsvägen/Dalvägen,Vårsta,2,5,1,3,1,0,59.170115,17.798305,true,false
 7363,Frebyvägen Gatukontoret,Östergötlands län,Boxholm,,Boxholm,4,2,1,2,1,0,58.19719,15.059432,true,false
 7365,Älvkullevägen,Östergötlands län,Boxholm,,Boxholm,2,2,1,1,1,0,58.195737,15.048262,true,false
 7367,Dalgårdsgatan,Östergötlands län,Boxholm,,Boxholm,2,3,1,1,1,0,58.204352,15.055545,true,false
@@ -1910,7 +1910,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9451,"Tempo Humlan, Bryngelstorp",Södermanlands län,Nyköping,Ängstugevägen,Nyköping,4,2,1,2,1,0,58.753643,17.052927,true,false
 9453,Slutet av vägen Arnö,Södermanlands län,Nyköping,Stentorpsvägen,Nyköping,4,2,1,2,1,0,58.727947,17.022352,true,false
 9456,"Västra Trädgårdsgatan/Repslagaregatan, p-plats väster",Södermanlands län,Nyköping,Västra Trädgårdsgatan 52,Nyköping,2,1,1,2,1,0,58.754838,17.004628,true,false
-9457,Tessinområdet,Södermanlands län,Nyköping,Lekvägen,Nyköping,2,2,1,1,1,0,58.751392,17.027835,true,false
+9457,Tessinområdet,Södermanlands län,Nyköping,Lekvägen,Nyköping,2,1,1,1,1,0,58.751392,17.027835,true,false
 9459,Hemgårdsområdet,Södermanlands län,Nyköping,Krukmakaregatan/Ahlbergers väg,Nyköping,2,2,1,2,1,0,58.75297,16.990778,true,false
 9461,"ICA, p-plats mittemot",Södermanlands län,Nyköping,Stenkullavägen/Jupitervägen 8,Nyköping,3,2,1,1,1,0,58.756878,17.039103,true,false
 9462,ICA Supermarket Oppeby,Södermanlands län,Nyköping,Oppebygårdsv 277,Nyköping,4,4,1,4,1,0,58.770005,16.986832,true,false
@@ -3330,7 +3330,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 13304,Högberga  busshållplats,Stockholms län,Lidingö,Södra Kungsvägen/Gåshagaleden,Högberga,3,5,1,2,2,0,59.343068,18.193158,true,true
 13305,"Sticklinge, Rödstuguvägen10 vid Tempo",Stockholms län,Lidingö,Rödstuguvägen 10,Sticklinge,2,5,1,2,1,0,59.382993,18.114217,true,true
 13306,Ica Supermarket,Dalarnas län,Falun,Slätta centrum,Falun,2,2,1,1,1,0,60.620408,15.59542,false,false
-13308,Parkering,Stockholms län,Botkyrka,Vetevägen,Norsborg,2,3,1,2,1,0,59.246392,17.824693,true,false
+13308,Parkering,Stockholms län,Botkyrka,Vetevägen,Norsborg,2,2,1,2,1,0,59.246392,17.824693,true,false
 13325,Vid värmeverket,Uppsala län,Enköping,Fabriksgatan,Enköping,2,1,1,2,1,0,59.646063,17.072632,true,false
 13328,Anna Maria Roos väg/Adler Salvius väg,Stockholms län,Botkyrka,,Tullinge,2,2,1,2,1,0,59.215002,17.893763,true,false
 13330,"Gällivare, Kopparvägen (Forsvallen)",Norrbottens län,Gällivare,Kopparvägen ,Gällivare,2,1,1,1,1,0,67.124923,20.684183,false,false
@@ -3759,7 +3759,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15438,Flishults (ÅVC),Jönköpings län,Vetlanda,Flishult,Vetlanda,6,2,0,3,0,0,57.409572,14.990462,false,false
 15440,Avfallsanläggningen Övreskog (ÅVC),Västra Götalands län,Ulricehamn,,Ulricehamn,4,0,2,0,0,0,57.808795,13.461633,false,false
 15441,Forshall (ÅVC),Västra Götalands län,Grästorp,,Grästorp,2,1,1,1,0,0,58.34278,12.66083,true,false
-15442,Miljövägen 1 (ÅVC),Västra Götalands län,Götene,,Götene,4,2,1,4,0,0,58.530502,13.46419,false,false
+15442,Miljövägen 1 (ÅVC),Västra Götalands län,Götene,,Götene,4,3,1,4,0,0,58.530502,13.46419,false,false
 15443,Borreboda ÅVC,Västra Götalands län,Töreboda,Skövdevägen,Töreboda,4,2,1,3,1,0,58.680955,14.102945,false,false
 15444,Avfallsverket Häringetorp (ÅVC),Kronobergs län,Växjö,,Häringetorp,2,1,1,1,1,0,56.856585,14.693227,true,false
 15445,Braås Mästreda (ÅVC),Kronobergs län,Växjö,ÅVC,Braås,2,1,1,1,1,0,57.0591,15.10559,true,false
