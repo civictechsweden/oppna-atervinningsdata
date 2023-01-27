@@ -1046,7 +1046,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7331,P-plats ICA Supermarket Solbo,Stockholms län,Botkyrka,Ekvägen (f.d ICA Kom),Tumba,2,3,1,1,1,0,59.188897,17.822432,false,false
 7348,Vändplan,Stockholms län,Botkyrka,Sedelvägen/Tumbavägen,Tumba,2,3,1,2,1,0,59.20224,17.826198,true,false
 7358,Vårsta centrum ,Stockholms län,Botkyrka,"Parkering bakom C, vid Malmsjöskolan",Vårsta,2,3,1,2,1,0,59.164475,17.795253,true,false
-7359,P-plats,Stockholms län,Botkyrka,Malmtorpsvägen/Dalvägen,Vårsta,2,5,1,3,1,0,59.170115,17.798305,true,false
+7359,P-plats,Stockholms län,Botkyrka,Malmtorpsvägen/Dalvägen,Vårsta,2,4,1,3,1,0,59.170115,17.798305,true,false
 7363,Frebyvägen Gatukontoret,Östergötlands län,Boxholm,,Boxholm,4,2,1,2,1,0,58.19719,15.059432,true,false
 7365,Älvkullevägen,Östergötlands län,Boxholm,,Boxholm,2,2,1,1,1,0,58.195737,15.048262,true,false
 7367,Dalgårdsgatan,Östergötlands län,Boxholm,,Boxholm,2,3,1,1,1,0,58.204352,15.055545,true,false
@@ -2192,7 +2192,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10084,"Färgarplan, Södermalm",Stockholms län,Stockholm, Tengdahlsgatan,Södermalm,2,1,1,1,1,0,59.310218,18.095015,true,false
 10087,Folkungagatan 141-143,Stockholms län,Stockholm, ,Södermalm,2,2,1,1,1,0,59.315883,18.091108,true,false
 10088,"Bondegatan, Mittemot nr 79",Stockholms län,Stockholm,Bondegatan 79,Södermalm,2,2,1,1,1,0,59.313225,18.095838,true,false
-10094,Intill Katarina Norra Skola,Stockholms län,Stockholm,Södermannagatan 2,Södermalm,2,3,1,2,1,0,59.315798,18.079703,true,false
+10094,Intill Katarina Norra Skola,Stockholms län,Stockholm,Södermannagatan 2,Södermalm,2,2,1,2,1,0,59.315798,18.079703,true,false
 10095,Åsögatan 113-121,Stockholms län,Stockholm, ,Södermalm,2,3,1,2,1,0,59.31313,18.075443,true,false
 10096,"Östgötagatan, vid nr 97",Stockholms län,Stockholm,Östgötagatan 97,Södermalm,2,2,1,1,1,0,59.30653,18.080508,true,false
 10097,Villmanstrandsgatan/Ainogången,Stockholms län,Stockholm," Akalla Centrum, vid Lidl",Rinkeby-Kista,2,3,1,2,1,0,59.413482,17.917022,true,false
@@ -3664,7 +3664,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15229,Ripstigen/Gamlavägen,Stockholms län,Solna,,Solna,2,0,0,0,0,0,59.37833,18.04129,false,true
 15232,Grönområde,Stockholms län,Södertälje,Granövägen 67,Hovsjö,2,1,2,2,1,0,59.173313,17.604073,false,false
 15233,Parkering Rödbloms gränd,Stockholms län,Södertälje,Rödbloms gränd 42,Hovsjö,2,1,2,1,1,0,59.17744,17.600343,true,false
-15234,"Coop Forum, Värmdö marknad",Stockholms län,Värmdö,Gustavsbergsvägen,Gustavsberg,4,6,2,3,1,0,59.308838,18.383525,true,false
+15234,"Coop Forum, Värmdö marknad",Stockholms län,Värmdö,Gustavsbergsvägen,Gustavsberg,4,6,1,3,1,0,59.308838,18.383525,true,false
 15243,Molkom; grusplanen,Värmlands län,Karlstad,Stationsgatan/Muffgatan,Molkom,4,4,1,3,1,0,59.606222,13.736067,false,false
 15253,Hagaparkeringen,Dalarnas län,Malung-Sälen,,Malung,2,1,1,1,1,0,60.682498,13.715957,true,false
 15261,Vammars Köp-center vid Hemköp,Östergötlands län,Valdemarsvik,Hagadalsv 10,Valdemarsvik,4,2,1,2,1,0,58.216605,16.576987,false,false
@@ -4159,7 +4159,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16062,Liljefors Torg/Lidl,Uppsala län,Uppsala,Liljefors Torg 2,Uppsala,2,2,1,1,1,0,59.870957,17.656707,true,false
 16063,Almåsa Fritidsby,Skåne län,Malmö,Almåsa,Malmö Söder,2,1,1,1,1,0,55.564048,13.135852,true,false
 16064,Vändplats vid kiosk,Skåne län,Malmö,Arkitektgatan 1,Malmö Väster,2,2,1,1,1,0,55.580078,12.995567,true,false
-16065,Edsbyn ÅVC,Gävleborgs län,Ovanåker,Gamla Landsvägen,EDSBYN,2,2,1,2,1,0,61.382918,15.834338,false,false
+16065,Edsbyn ÅVC,Gävleborgs län,Ovanåker,Gamla Landsvägen,EDSBYN,2,1,1,2,1,0,61.382918,15.834338,false,false
 16067,"Brunnsbo, Berättelsegatan",Västra Götalands län,Göteborg,Berättelsegatan,Brunnsbo,2,3,1,1,1,0,57.727062,11.967307,true,false
 16068,"Hinneryd, vid gamla affären",Kronobergs län,Markaryd,Byvägen,Hinneryd,2,1,1,1,1,0,56.617873,13.609662,true,false
 16069,Hindersöstallarna,Norrbottens län,Luleå,,Hindersöstallarna,2,2,1,1,1,0,65.545967,22.395923,false,false
