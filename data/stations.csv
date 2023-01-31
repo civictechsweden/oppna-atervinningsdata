@@ -139,7 +139,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 716,Väsbyholm Mälarbaden,Södermanlands län,Eskilstuna,Toftes v 1,Torshälla,2,1,1,1,1,0,59.443145,16.451518,true,false
 717,"Konsum, Ärla",Södermanlands län,Eskilstuna,Stationsvägen 10,Ärla,2,2,1,1,1,0,59.282607,16.676123,true,false
 719,Ärsta,Södermanlands län,Eskilstuna,Ärstavägen,Eskilstuna,4,2,1,2,1,0,59.396317,16.542425,false,false
-720,"Vattenverksvägen, Billinge",Skåne län,Eslöv,,Billinge,2,1,1,1,0,0,55.962975,13.33079,true,false
+720,"Vattenverksvägen, Billinge",Skåne län,Eslöv,,Billinge,2,1,0,1,0,0,55.962975,13.33079,true,false
 721,P-plats badhusparken,Skåne län,Eslöv,Norregatan / Torpstigen,Eslöv,2,2,1,1,0,0,55.842763,13.304998,false,false
 726,Slutet,Skåne län,Eslöv,Lantmannavägen/ Fjärdingsvägen,Eslöv,2,2,1,2,0,0,55.83499,13.277213,true,false
 730,Sallerups Lågprismarknad,Skåne län,Eslöv,Sockenvägen 2,Eslöv,2,1,1,1,0,0,55.828328,13.285128,true,false
@@ -1509,13 +1509,12 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8273,Riddarparkeringen,Stockholms län,Järfälla,,Järfälla,2,2,1,1,2,0,59.4251,17.83809,true,true
 8276,Bredvid Vattmyravallen,Stockholms län,Järfälla,Hästskovägen/Betselvägen,Jakobsberg,2,3,1,2,1,0,59.429858,17.84085,true,true
 8279,Rogbergavägen,Jönköpings län,Jönköping,Rogbergavägen,Huskvarna,2,2,1,1,1,0,57.77987,14.27886,true,false
-8284,Preem mack,Jönköpings län,Jönköping,Grännavägen,Huskvarna,4,2,1,1,1,0,57.796155,14.27092,true,false
 8291,Klockarpsvägen,Jönköpings län,Jönköping,Klockarpsvägen (infart fotbollsplan),Jönköping,2,1,1,1,1,0,57.776265,14.128662,true,false
 8292,Högabergsgatan,Jönköpings län,Jönköping,Högabergsgatan/Dunkehallavägen,Jönköping,4,2,1,1,1,0,57.786522,14.140322,true,false
 8296,Lovisagatan,Jönköpings län,Jönköping,Lovisagatan,Jönköping,4,2,1,1,1,0,57.767203,14.139682,true,false
 8298,Glansgatan,Jönköpings län,Jönköping,Glansgatan,Jönköping,2,2,1,1,1,0,57.782575,14.222223,true,false
 8299,K24  Ekhagen,Jönköpings län,Jönköping,Stockrosgatan,Jönköping,2,2,2,1,1,0,57.776342,14.221022,true,false
-8301,Alviksvägen/ Huskvarnavägen,Jönköpings län,Jönköping,Alviksvägen/Huskvarnav.,Huskvarna,2,2,1,1,1,0,57.792582,14.258692,false,false
+8301,Alviksvägen/ Huskvarnavägen,Jönköpings län,Jönköping,Alviksvägen/Huskvarnav.,Huskvarna,2,3,1,1,1,0,57.792582,14.258692,false,false
 8302,"p-plats Österäng C, Willys",Jönköpings län,Jönköping,Birkagatan,Jönköping,2,1,1,1,1,0,57.787022,14.241627,false,false
 8306,Folkets Park Stationsgatan,Jönköpings län,Jönköping,Stationsgatan,Huskvarna,2,2,1,1,0,0,57.78331,14.262397,false,false
 8313,Per Rösius väg / Coop,Jönköpings län,Jönköping,Per Rösius väg,Jönköping,2,2,1,1,1,0,57.743995,14.136037,true,false
@@ -2150,7 +2149,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10003,"Ucklum, Södra Infarten",Västra Götalands län,Stenungsund,Västerlandavägen vid bensinstationen,Ucklum,3,2,1,1,1,0,58.078637,11.948648,true,false
 10007,Per Ekströms väg 5,Stockholms län,Stockholm,,Bromma,2,4,1,3,1,0,59.345273,17.894725,true,false
 10009,Bromma kyrka,Stockholms län,Stockholm,Gliavägen 128,Bromma,2,3,1,1,1,0,59.353708,17.917262,true,false
-10012,Bergslagsvägen/Vultejusvägen,Stockholms län,Stockholm,Bergslagsvägen 176,Bromma,2,2,1,2,1,0,59.342622,17.907613,true,false
+10012,Bergslagsvägen/Vultejusvägen,Stockholms län,Stockholm,Bergslagsvägen 176,Bromma,2,1,1,2,1,0,59.342622,17.907613,true,false
 10013,Abrahamsbergsvägen,Stockholms län,Stockholm,"Abrahamsbergsvägen, vid nr 62",Bromma,3,4,1,2,1,0,59.332188,17.948578,true,false
 10018,Tackjärnsvägen 6,Stockholms län,Stockholm, ,Bromma,2,1,1,1,1,0,59.345378,17.97189,false,false
 10019,Tussmötevägen/Bandhagsvägen,Stockholms län,Stockholm, Tussmötesvägen 221,Enskede-Årsta-Vantör,2,3,1,2,2,0,59.279845,18.056145,true,false
