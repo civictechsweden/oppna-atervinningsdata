@@ -937,7 +937,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7074,Utanför Näs Verkstäder,Dalarnas län,Avesta,Kolhusvägen,Näs,2,2,1,1,1,0,60.177975,16.478842,true,false
 7075,Tempo,Dalarnas län,Avesta,Skogsbovägen 10,Skogsbo,2,2,1,1,1,0,60.158005,16.180645,true,false
 7078,Högboleden vid info skylten,Dalarnas län,Avesta,Högboleden,Skogsbo-Åsbo,2,2,1,1,1,0,60.15389,16.19694,false,false
-7098,"Klövsjö, Preem",Jämtlands län,Berg,Byvägen,Klövsjö,2,2,1,2,1,0,62.52052,14.192047,false,false
+7098,"Klövsjö, Preem",Jämtlands län,Berg,Byvägen,Klövsjö,3,2,1,2,1,0,62.52052,14.192047,false,false
 7100,"Myrviken, Bensinstationen",Jämtlands län,Berg,Myrviksvägen,Oviken,4,3,1,2,1,0,62.999432,14.341808,true,false
 7101,"Rätan, Buss Olle",Jämtlands län,Berg,Thunellvägen 35,Rätan,2,3,1,2,1,0,62.471563,14.550453,false,false
 7102,Skålan Bygdegård,Jämtlands län,Berg,Skålan 245,Åsarna,2,2,1,1,1,0,62.644828,14.152392,false,false
@@ -3193,7 +3193,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12684,Grusplan Skolvägen,Stockholms län,Södertälje,Skolvägen 2,Mölnbo,2,2,2,2,1,0,59.050152,17.422703,true,false
 12697,Hagaborg; P-plats,Värmlands län,Karlstad,Hantverkaregatan,Karlstad,2,1,1,1,1,0,59.387323,13.518007,false,false
 12704,Kroppkärr,Värmlands län,Karlstad,Talluddsgatan/Östra infarten,Karlstad,2,3,1,1,1,0,59.40029,13.548317,false,false
-12712,Sundsta; bakom Circle K,Värmlands län,Karlstad,Sävegatan/Drottning Kristinas väg (Nobelkorset),Karlstad,4,3,1,2,1,0,59.393365,13.514535,false,false
+12712,Sundsta; bakom Circle K,Värmlands län,Karlstad,Sävegatan/Drottning Kristinas väg (Nobelkorset),Karlstad,2,3,1,2,1,0,59.393365,13.514535,false,false
 12713,Edsvalla,Värmlands län,Karlstad,Edsvallavägen/Dalsängsvägen,Edsvalla,2,2,1,1,1,0,59.439888,13.209732,false,false
 12715,Farmtrade,Värmlands län,Karlstad,Arnövägen,Väse,2,3,1,2,1,0,59.379867,13.849678,false,false
 12717,Skattkärr; Konsum,Värmlands län,Karlstad,Skattkärrsvägen 34,Skattkärr,3,2,1,1,1,0,59.413992,13.674315,false,false
@@ -3427,7 +3427,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14457,Verkmästaregatan,Uppsala län,Enköping,,Enköping,0,1,0,0,1,0,59.650322,17.069435,false,false
 14468,Gårdsvägen/Hagvägen,Stockholms län,Huddinge,,Segeltorp,2,3,1,2,1,0,59.2714,17.929308,true,false
 14472,Landvetter Brattåsvägen/Lunnavägen,Västra Götalands län,Härryda,,Landvetter,2,2,1,2,1,0,57.68559,12.219068,true,false
-14475,Norra Åsbo Renhållnings (ÅVC),Skåne län,Klippan,Hyllstofta 6178,Hyllstofta,2,1,1,2,0,0,56.13556,13.25833,false,false
+14475,Norra Åsbo Renhållnings (ÅVC),Skåne län,Klippan,Hyllstofta 6178,Hyllstofta,2,1,2,2,0,0,56.13556,13.25833,false,false
 14480,ÅV-Centralen (ÅVC),Örebro län,Lekeberg,Tegelslagaregatan,Fjugesta,2,2,1,3,1,0,59.17183,14.880785,true,false
 14487,Mariebergsskolan,Östergötlands län,Motala,Agneshögsgatan/Gustavsviksvägen,Motala,4,3,1,2,1,0,58.539327,14.996727,false,false
 14493,ICA Gården,Östergötlands län,Norrköping,Skogsängsgatan,Skärblacka,2,2,1,1,1,0,58.575942,15.93758,true,false
