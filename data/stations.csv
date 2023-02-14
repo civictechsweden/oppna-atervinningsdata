@@ -344,7 +344,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1847,Unnaryd,Hallands län,Hylte,Snickargatan,Unnaryd,6,3,1,1,1,0,56.959502,13.529322,true,false
 1888,Viksjö Viséns Matbutik,Västernorrlands län,Härnösand,Gammelgården 210,Viksjö,2,1,1,1,1,0,62.779078,17.421003,true,false
 1896,Willys,Västernorrlands län,Härnösand,Gånsviksvägen 8,Härnösand,2,1,1,1,1,0,62.628302,17.957897,true,false
-1900,Härnösand Sehlstedtsvägen,Västernorrlands län,Härnösand,Sehlstedtsvägen 34,Härnösand,2,2,1,0,1,0,62.64028,17.92889,true,false
+1900,Härnösand Sehlstedtsvägen,Västernorrlands län,Härnösand,Sehlstedtsvägen 34,Härnösand,2,1,1,1,1,0,62.64028,17.92889,true,false
 1901,"Härnösand Landgrenskolan, Bollplan",Västernorrlands län,Härnösand,Kastellgatan 25,Härnösand,2,2,1,1,1,0,62.634783,17.952548,true,false
 1902,Härnösand Krukmakarg/Holmgatan,Västernorrlands län,Härnösand,Krukmakargatan 4,Härnösand,2,2,1,1,1,0,62.635882,17.932643,true,false
 1903,Älandsbro Nässlandsvägen,Västernorrlands län,Härnösand,Nässlandsvägen,Älandsbro,2,2,1,1,1,0,62.676398,17.842322,true,false
@@ -1872,7 +1872,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9353,Vilbergens Centrum,Östergötlands län,Norrköping,Urbergsgatan 90,Vilbergen,2,2,1,1,1,0,58.570722,16.17106,true,false
 9371,Åby centrum,Östergötlands län,Norrköping,Åbymovägen 1,Åby,4,2,1,1,1,0,58.664535,16.18043,true,false
 9378,ICA Nära Bergshamra,Stockholms län,Norrtälje,Virkesvägen 1-3,Bergshamra,3,2,1,2,1,0,59.636698,18.654258,true,false
-9379,Arholma/Björkö Brandstation,Stockholms län,Norrtälje,Simpnäsvägen 712,Björkö,5,3,1,2,1,0,59.865915,19.03052,true,false
+9379,Arholma/Björkö Brandstation,Stockholms län,Norrtälje,Simpnäsvägen 712,Björkö,5,2,1,2,1,0,59.865915,19.03052,true,false
 9382,Finsta Livsmedelsbutik,Stockholms län,Norrtälje,Vändplan,Finsta,2,1,1,2,1,0,59.737125,18.49693,true,false
 9385,Tempo Skäret,Stockholms län,Norrtälje,Kustvägen,Hallstavik,6,2,1,2,1,0,60.051758,18.587353,true,false
 9387,Konsum,Stockholms län,Norrtälje,Kuggen,Herräng,2,1,1,1,0,0,60.129995,18.646513,true,false
@@ -4119,7 +4119,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16003,"Odinplatsen, Burggrevegatan",Västra Götalands län,Göteborg,Burggrevegatan,Stampen,2,3,1,1,1,0,57.710207,11.983932,true,false
 16004,"Lidl, Mölnviks handelsplats",Stockholms län,Värmdö,Medeas väg 2,Gustavsberg,2,4,1,2,1,0,59.312122,18.42378,false,false
 16005,Öbolandet,Södermanlands län,Trosa,Edanövägen (brofästet),Trosa,2,2,1,2,1,0,58.88714,17.557723,true,false
-16007,Coop Laholm,Hallands län,Laholm,Ängelholmsvägen,Laholm,3,3,1,2,0,0,56.504642,13.033257,false,false
+16007,Coop Laholm,Hallands län,Laholm,Ängelholmsvägen,Laholm,4,3,1,2,0,0,56.504642,13.033257,false,false
 16008,ICA Nära Hjärtat,Västra Götalands län,Borås,Stora vägen 2,Gånghester,2,2,1,2,1,0,57.697778,13.026492,true,false
 16009,Täby Kyrkby jvgstation,Stockholms län,Täby,Holmgårdsvägen,Täby Kyrkby,3,0,0,0,0,0,59.492782,18.06566,false,true
 16010,"Halor Ronehamn, Gula Hönan",Gotlands län,Gotland,Ronehamnsvägen 40,Ronehamn,0,1,1,1,1,0,57.178868,18.480487,false,false
