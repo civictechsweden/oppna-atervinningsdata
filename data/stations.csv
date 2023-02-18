@@ -1042,7 +1042,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7324,Vändplan Tumba sjukhus,Stockholms län,Botkyrka,Samaritvägen,Tumba,2,3,1,2,1,0,59.203747,17.836417,true,false
 7325,"Rödstu hage, parkeringen",Stockholms län,Botkyrka,"Segersjövägen 59, mitt emot",Tumba,3,2,1,1,1,0,59.197582,17.804885,true,false
 7327,P-plats Tumbavägen,Stockholms län,Botkyrka,Nackdalavägen,Tumba,2,3,1,2,1,0,59.209632,17.82492,true,false
-7331,P-plats ICA Supermarket Solbo,Stockholms län,Botkyrka,Ekvägen (f.d ICA Kom),Tumba,2,2,1,1,1,0,59.188897,17.822432,false,false
+7331,P-plats ICA Supermarket Solbo,Stockholms län,Botkyrka,Ekvägen (f.d ICA Kom),Tumba,2,3,1,1,1,0,59.188897,17.822432,false,false
 7348,Vändplan,Stockholms län,Botkyrka,Sedelvägen/Tumbavägen,Tumba,2,3,1,2,1,0,59.20224,17.826198,true,false
 7358,Vårsta centrum ,Stockholms län,Botkyrka,"Parkering bakom C, vid Malmsjöskolan",Vårsta,2,3,1,2,1,0,59.164475,17.795253,true,false
 7359,P-plats,Stockholms län,Botkyrka,Malmtorpsvägen/Dalvägen,Vårsta,2,4,1,3,1,0,59.170115,17.798305,true,false
@@ -1112,7 +1112,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7524,"Bergsliden, öster",Västra Götalands län,Falköping,Danska vägen,Falköping,2,2,1,2,1,0,58.184587,13.554522,true,false
 7527,Vid Willys,Västra Götalands län,Falköping,Marknadsgatan,Falköping,2,2,1,2,1,0,58.162692,13.559767,true,false
 7528,P-plats,Västra Götalands län,Falköping,Hästbacken,Falköping,2,2,1,2,1,0,58.160598,13.558032,true,false
-7530,ICA Maxi Stormarknad,Västra Götalands län,Falköping,Ålleberg Center,Falköping,2,2,1,2,1,0,58.15451,13.562342,true,false
+7530,ICA Maxi Stormarknad,Västra Götalands län,Falköping,Ålleberg Center,Falköping,2,2,1,2,1,0,58.15277,13.56277,false,false
 7533,"P-plats järnvägen, kiosken",Västra Götalands län,Falköping,,Floby,2,3,2,2,1,0,58.138018,13.33143,true,false
 7534,ICA Matfocus,Västra Götalands län,Falköping,Samuels gränd 1,Kinnarp-Slutarp,2,1,1,2,1,0,58.086617,13.522407,true,false
 7535,Gamla Järnvägsstationen,Västra Götalands län,Falköping,Ryttarevägen,Kättilstorp,2,2,1,2,1,0,58.039675,13.711163,true,false
@@ -1674,7 +1674,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8618,Zigenarbacken/Idrottsplats,Västmanlands län,Köping,Västeråsvägen,Köping,2,2,1,1,1,0,59.514835,16.012712,true,false
 8624,Brandstationen,Hallands län,Laholm,Markarydsvägen,Hishult,2,2,1,1,0,0,56.427022,13.316503,false,false
 8625,G:a järnvägsstationen,Hallands län,Laholm, ,Knäred,2,1,1,2,0,0,56.514225,13.317213,false,false
-8626,Lilla Tjärby,Hallands län,Laholm,Bonnarpsvägen,Lilla Tjärby,2,2,1,1,0,0,56.52603,13.053353,false,false
+8626,Lilla Tjärby,Hallands län,Laholm,Bonnarpsvägen,Lilla Tjärby,2,1,1,1,0,0,56.52603,13.053353,false,false
 8631,Ränneslöv,Hallands län,Laholm,"Fotbollsplanen, Kristineborgsvägen",Ränneslöv,2,1,1,1,0,0,56.454318,13.07617,false,false
 8633,Skottorp,Hallands län,Laholm,Gamla banvallen,Skottorp,2,2,1,1,0,0,56.450517,12.957547,false,false
 8634,Skummeslöv,Hallands län,Laholm,Stora strandvägen,Skummelövsstrand  ,3,2,1,1,0,0,56.460168,12.926537,false,false
@@ -2573,7 +2573,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11002,Rödåsel,Västerbottens län,Umeå,Rödåsel,Tavelsjö,2,1,1,1,1,0,64.088155,19.95324,false,false
 11003,"Sävar, Kiosken",Västerbottens län,Umeå,Majorsvägen 2,Sävar,2,3,1,2,1,0,63.90189,20.557752,false,false
 11004,"Sävar, ICA Sävar",Västerbottens län,Umeå,Generalsvägen 25,Sävar,2,2,1,1,1,0,63.901203,20.549725,true,false
-11005,"Sörmjöle, ICA Tornet",Västerbottens län,Umeå,Sörmjöle 101,Umeå,2,3,1,1,1,0,63.682103,20.002558,true,false
+11005,"Sörmjöle, ICA Tornet",Västerbottens län,Umeå,Sörmjöle 101,Umeå,2,2,1,2,1,0,63.682103,20.002558,true,false
 11007,Täfteå ICA Nära,Västerbottens län,Umeå,Skomakarvägen 75,Täfteå,2,3,1,2,1,0,63.837848,20.485173,true,false
 11008,"Umedalen, Musköten",Västerbottens län,Umeå,J A Linders väg 41,Umeå,2,1,1,1,1,0,63.837648,20.172157,true,false
 11009,"Umedalen, Umedalsallén/Kullavägen",Västerbottens län,Umeå,Kullavägen 92,Umeå,2,3,1,1,1,0,63.844193,20.16124,true,false
@@ -4290,7 +4290,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16316,Skroten Torsång,Dalarnas län,Borlänge,Torsångsvägen,Torsång,2,1,1,1,1,0,60.465988,15.564378,true,false
 16317,Ok/Q8,Dalarnas län,Borlänge,Nolåkersgatan,Borlänge,4,4,1,3,1,0,60.483633,15.446892,true,false
 16318,Islingby ,Dalarnas län,Borlänge,Grindesgatan/Islingbyvägen,Borlänge,2,1,1,1,1,0,60.488338,15.459858,true,false
-16320,Kommunförrådet,Hallands län,Laholm,Repslagaregatan,Laholm,4,3,1,2,0,0,56.509537,13.056347,false,false
+16320,Kommunförrådet,Hallands län,Laholm,Repslagaregatan,Laholm,5,3,1,2,0,0,56.509537,13.056347,false,false
 16322,ÅVC Hammerdal,Jämtlands län,Strömsund,Sikåsvägen 8,Strömsund,2,2,1,1,1,0,63.59458,15.344975,false,false
 16323,ÅVC Junsternäset,Jämtlands län,Strömsund,vid väg 829,Gäddede,2,1,1,1,1,0,64.54250,14.13750,false,false
 16325,Kålgårdsgatan 4,Västmanlands län,Sala,Kålgårdsgatan 4,Sala,2,0,0,0,0,0,59.92000,16.61250,false,false
