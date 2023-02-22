@@ -1451,7 +1451,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8135,Norströms väg,Stockholms län,Huddinge,,Trångsund,2,3,1,2,1,0,59.23059,18.129818,true,false
 8136,Spelvägen 1,Stockholms län,Huddinge,Spelvägen/Hammartorpsvägen,Trångsund,2,3,1,2,1,0,59.23056,18.135257,true,false
 8139,P-plats nedanför nr 189,Stockholms län,Huddinge,Myrstuguvägen,Vårby,2,3,1,2,1,0,59.246637,17.883842,true,false
-8149,Ica Nära,Gävleborgs län,Hudiksvall,Strömbackavägen 17,Friggesund,2,2,1,2,1,0,61.89722,16.54833,true,false
+8149,Ica Nära,Gävleborgs län,Hudiksvall,Strömbackavägen 17,Friggesund,2,2,1,1,1,0,61.89722,16.54833,true,false
 8151,ICA Träffpunkten,Gävleborgs län,Hudiksvall,Djupegatan 47,Hudiksvall,2,2,1,1,1,0,61.72556,17.14111,false,false
 8153,"Albert & Herbert, Hudiksvall",Gävleborgs län,Hudiksvall,Östanbräcksvägen 72,Hudiksvall,2,2,1,1,1,0,61.75167,17.12417,true,false
 8154,Borgarparken,Gävleborgs län,Hudiksvall,Borgarparken,Hudiksvall,2,3,1,1,1,0,61.73139,17.11472,true,false
@@ -1588,7 +1588,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8427,Kils centrum; Systembolaget,Värmlands län,Kil,Magasingatan,Kil,2,2,2,1,1,0,59.504953,13.320805,true,false
 8430,Mon,Värmlands län,Kil,Mogatan,Kil,2,2,1,1,1,0,59.509383,13.333058,true,false
 8433,Kils centrum; Willys,Värmlands län,Kil,Skogsvägen 41,Kil,2,1,1,1,1,0,59.499647,13.316485,true,false
-8434,Norra Stenåsen,Värmlands län,Kil,Stenåsvägen/Vintervägen,Kil,3,1,1,1,1,0,59.501843,13.339783,true,false
+8434,Norra Stenåsen,Värmlands län,Kil,Stenåsvägen/Vintervägen,Kil,2,1,1,1,1,0,59.501843,13.339783,true,false
 8435,Lersätter,Värmlands län,Kil,Sunnanåvägen,Kil,2,2,1,1,1,0,59.500828,13.299493,true,false
 8439,F.d. Thornparkeringen,Östergötlands län,Kinda,Industrigatan,Horn,4,1,1,1,1,0,57.895575,15.841168,false,false
 8440,"Hycklinge, Bensinstationen",Östergötlands län,Kinda, ,Hycklinge,2,0,0,0,1,0,57.923573,15.920168,false,false
@@ -3300,7 +3300,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 13268,Lastbilsparkeringen,Stockholms län,Österåker,Hackstavägen/Storängsvägen,Hacksta,2,4,1,2,1,0,59.486283,18.29622,true,false
 13270,Festplats Granliden,Stockholms län,Österåker,,Ljusterö,3,4,1,3,2,0,59.483507,18.540077,true,false
 13272,Angelskog (ÅVC),Blekinge län,Ronneby,,Ronneby,2,1,1,1,0,0,56.183858,15.314998,false,false
-13273,Kretsloppsgården (ÅVC),Jönköpings län,Aneby,Skärsjö industriområde,Aneby,2,2,2,3,2,0,57.82806,14.80139,true,false
+13273,Kretsloppsgården (ÅVC),Jönköpings län,Aneby,Skärsjö industriområde,Aneby,2,2,1,3,2,0,57.82806,14.80139,true,false
 13275,Statoil,Norrbottens län,Luleå,Domarvägen 1,Gammelstaden,2,1,1,1,1,0,65.632743,22.032665,false,false
 13276,Reningsverk,Norrbottens län,Luleå, ,Sundom,2,2,1,1,1,0,65.7694,22.264855,false,false
 13277,Trumselvägen,Norrbottens län,Luleå,,Niemisel,2,2,1,1,1,0,66.021788,21.986673,false,false
@@ -4571,7 +4571,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17056,Finkarby,Stockholms län,Nykvarn,Näsbyvägen 11,Taxinge,2,1,2,1,1,0,59.224927,17.306667,true,false
 17057,Skånela idrottsplan,Stockholms län,Sigtuna,Smedstorpsvägen ,Skånela,2,2,1,1,1,0,59.582188,17.968523,true,false
 17059,Hammenhög,Skåne län,Simrishamn,Södergårdsvägen bakom förskola och sporthall,Hammenhög,2,2,1,1,1,0,55.498362,14.142415,true,false
-17060,Kronogården,Västra Götalands län,Ale,Kronovägen 1,Älvängen,2,2,1,2,1,0,57.948498,12.13132,true,false
+17060,Kronogården,Västra Götalands län,Ale,Kronovägen 1,Älvängen,2,1,1,2,1,0,57.948498,12.13132,true,false
 17061,Pilegården,Västra Götalands län,Göteborg,Askims Pilegårdsväg,Askim,2,5,1,3,1,0,57.64056,11.93278,false,false
 17062,ICA Supermarket Rimbo,Stockholms län,Norrtälje,Finstavägen 6,Rimbo,5,4,2,4,1,0,59.74365,18.378628,true,false
 17066,Seglingsberg,Västmanlands län,Surahammar,Hökebovägen/Seglingsbergs Gård,"Seglingsberg, Ramnäs",2,1,1,2,1,0,59.82278,16.14583,true,false
