@@ -1114,7 +1114,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7528,P-plats,Västra Götalands län,Falköping,Hästbacken,Falköping,2,2,1,2,1,0,58.160598,13.558032,true,false
 7530,ICA Maxi Stormarknad,Västra Götalands län,Falköping,Ålleberg Center,Falköping,2,2,1,2,1,0,58.15277,13.56277,false,false
 7533,"P-plats järnvägen, kiosken",Västra Götalands län,Falköping,,Floby,2,3,2,2,1,0,58.138018,13.33143,true,false
-7534,ICA Matfocus,Västra Götalands län,Falköping,Samuels gränd 1,Kinnarp-Slutarp,2,1,1,2,1,0,58.086617,13.522407,true,false
+7534,ICA Matfocus,Västra Götalands län,Falköping,Samuels gränd 1,Kinnarp-Slutarp,2,2,1,1,1,0,58.086617,13.522407,true,false
 7535,Gamla Järnvägsstationen,Västra Götalands län,Falköping,Ryttarevägen,Kättilstorp,2,2,1,2,1,0,58.039675,13.711163,true,false
 7536,Odensberg,Västra Götalands län,Falköping,Hulegårdsvägen,Odensberg,2,1,1,2,1,0,58.152702,13.441063,true,false
 7537,Tempo Stenstorp,Västra Götalands län,Falköping,Storgatan 28,Stenstorp,2,2,1,2,1,0,58.272232,13.71615,false,false
@@ -1451,7 +1451,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8135,Norströms väg,Stockholms län,Huddinge,,Trångsund,2,3,1,2,1,0,59.23059,18.129818,true,false
 8136,Spelvägen 1,Stockholms län,Huddinge,Spelvägen/Hammartorpsvägen,Trångsund,2,3,1,2,1,0,59.23056,18.135257,true,false
 8139,P-plats nedanför nr 189,Stockholms län,Huddinge,Myrstuguvägen,Vårby,2,3,1,2,1,0,59.246637,17.883842,true,false
-8149,Ica Nära,Gävleborgs län,Hudiksvall,Strömbackavägen 17,Friggesund,2,2,1,1,1,0,61.89722,16.54833,true,false
+8149,Ica Nära,Gävleborgs län,Hudiksvall,Strömbackavägen 17,Friggesund,2,1,1,1,1,0,61.89722,16.54833,true,false
 8151,ICA Träffpunkten,Gävleborgs län,Hudiksvall,Djupegatan 47,Hudiksvall,2,2,1,1,1,0,61.72556,17.14111,false,false
 8153,"Albert & Herbert, Hudiksvall",Gävleborgs län,Hudiksvall,Östanbräcksvägen 72,Hudiksvall,2,2,1,1,1,0,61.75167,17.12417,true,false
 8154,Borgarparken,Gävleborgs län,Hudiksvall,Borgarparken,Hudiksvall,2,3,1,1,1,0,61.73139,17.11472,true,false
