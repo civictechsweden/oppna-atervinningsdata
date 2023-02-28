@@ -1016,7 +1016,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7247,Äspered Äsperedsvägen/Albins,Västra Götalands län,Borås,Äsperedsvägen/Albins,Äspered,2,1,2,1,1,0,57.753405,13.176368,true,false
 7249,Vändplan,Stockholms län,Botkyrka,Trädesvägen,Botkyrka,2,3,1,2,1,0,59.245633,17.822048,true,false
 7252,Vändplan,Stockholms län,Botkyrka,Tomtbergavägen 66,Botkyrka,0,3,1,2,1,0,59.248935,17.832147,true,false
-7255,Said Livs,Stockholms län,Botkyrka,St Albans väg,Botkyrka,2,3,1,2,1,0,59.243033,17.81367,true,false
+7255,Said Livs,Stockholms län,Botkyrka,St Albans väg,Botkyrka,2,0,0,1,1,0,59.243033,17.81367,true,false
 7259,OK/Q8,Stockholms län,Botkyrka,Rosenhill,Grödinge,2,2,1,2,1,0,59.140235,17.832417,true,false
 7263,P-plats vid vändplan,Stockholms län,Botkyrka,Nämndemannavägen,Botkyrka,2,3,1,2,1,0,59.242557,17.857725,true,false
 7267,Vändplan,Stockholms län,Botkyrka,Linvägen,Botkyrka,0,2,1,2,1,0,59.247545,17.831673,true,false
@@ -2312,7 +2312,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10399,Granlo Vikingavägen/Västra vägen,Västernorrlands län,Sundsvall,Vikingavägen 77,Sundsvall,2,2,1,1,1,0,62.405533,17.244505,false,false
 10400,Granloholm Granloholms kyrka,Västernorrlands län,Sundsvall,Varbergsvägen,Sundsvall,2,1,1,1,1,0,62.410352,17.270123,false,false
 10401,Granloholm OK-Q8 (Aut),Västernorrlands län,Sundsvall,Linköpingsvägen,Sundsvall,2,2,1,1,1,0,62.409263,17.28485,false,false
-10406,Haga ,Västernorrlands län,Sundsvall,Tivolivägen 19,Sundsvall,2,2,1,1,1,0,62.397192,17.317747,false,false
+10406,Haga ,Västernorrlands län,Sundsvall,Tivolivägen 19,Sundsvall,2,2,2,1,1,0,62.397192,17.317747,false,false
 10407,Hemmanet Idrottsplatsen,Västernorrlands län,Sundsvall,Hällevägen 16,Kvissleby,2,1,1,1,1,0,62.31178,17.359457,false,false
 10408,Holm Kyrkan (P-plats),Västernorrlands län,Sundsvall,Anungård 175,Holm,2,1,1,1,1,0,62.658247,16.630377,false,false
 10409,Indal Tempo Indal,Västernorrlands län,Sundsvall,Fältvägen 3,Indal,2,2,1,1,1,0,62.57889,17.09500,false,false
@@ -3313,7 +3313,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 13285,Stöpen (ÅVC),Västra Götalands län,Skövde,Vägen mot Ulvåker,Stöpen,2,1,1,1,1,0,58.47917,13.87500,false,false
 13286,Timmersdala (ÅVC),Västra Götalands län,Skövde,Bäckedalsvägen,Timmersdala,4,1,1,2,2,0,58.53111,13.75639,false,false
 13287,Värsås (ÅVC),Västra Götalands län,Skövde,Vid reningsverket,Värsås,2,2,1,2,1,0,58.34972,14.05694,false,false
-13288,Skultorp (ÅVC),Västra Götalands län,Skövde,Industrigatan,Skultorp,2,2,1,3,1,0,58.347623,13.831502,true,false
+13288,Skultorp (ÅVC),Västra Götalands län,Skövde,Industrigatan,Skultorp,3,2,1,3,1,0,58.347623,13.831502,true,false
 13290,Tidan (ÅVC),Västra Götalands län,Skövde,Vaholmsvägen,Tidan,2,1,1,1,1,0,58.58167,13.99972,false,false
 13291,Brandstation,Norrbottens län,Luleå,Gammelstadsvägen/Kyrkbyn,Gammelstaden,2,2,1,1,1,0,65.642405,22.033927,false,false
 13292,Reningsverket,Norrbottens län,Luleå,,Avan,2,2,1,1,1,0,65.687108,21.794885,false,false
@@ -4571,7 +4571,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17056,Finkarby,Stockholms län,Nykvarn,Näsbyvägen 11,Taxinge,2,1,2,1,1,0,59.224927,17.306667,true,false
 17057,Skånela idrottsplan,Stockholms län,Sigtuna,Smedstorpsvägen ,Skånela,2,2,1,1,1,0,59.582188,17.968523,true,false
 17059,Hammenhög,Skåne län,Simrishamn,Södergårdsvägen bakom förskola och sporthall,Hammenhög,2,2,1,1,1,0,55.498362,14.142415,true,false
-17060,Kronogården,Västra Götalands län,Ale,Kronovägen 1,Älvängen,2,1,1,2,1,0,57.948498,12.13132,true,false
+17060,Kronogården,Västra Götalands län,Ale,Kronovägen 1,Älvängen,2,2,1,2,1,0,57.948498,12.13132,false,false
 17061,Pilegården,Västra Götalands län,Göteborg,Askims Pilegårdsväg,Askim,2,5,1,3,1,0,57.64056,11.93278,false,false
 17062,ICA Supermarket Rimbo,Stockholms län,Norrtälje,Finstavägen 6,Rimbo,5,4,2,4,1,0,59.74365,18.378628,true,false
 17066,Seglingsberg,Västmanlands län,Surahammar,Hökebovägen/Seglingsbergs Gård,"Seglingsberg, Ramnäs",2,1,1,2,1,0,59.82278,16.14583,true,false
@@ -4866,6 +4866,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17579,Söderby Gårdsväg ,Stockholms län,Salem,Söderby Gårdväg 71,Salem Rönninge,2,4,1,3,1,0,59.20138,17.78166,false,false
 17580,Harkskärsvägen 79,Gävleborgs län,Gävle,Harkskärsvägen 79,Gävle,2,1,1,1,1,0,60.76694,17.32333,true,false
 17581,"Kaxås, Svea Park",Jämtlands län,Krokom,835 98,Offerdal,2,3,1,2,1,0,63.48277,13.92555,false,false
+17585,Elestorp,Skåne län,Bjuv,Spannmålsgatan ,Ekeby,2,4,1,2,1,0,56.00250,12.95388,false,false
 17586,Idrottsplatsen,Skåne län,Helsingborg,Kardemummagatan,Gantofta,2,2,1,1,1,0,55.98527,12.80305,false,false
 17589,Arena Park,Skåne län,Lund,Stadsparksgatan,Lund,2,2,1,1,0,0,55.69972,13.18166,false,false
 17594,Gröna Dalen grusplan,Uppsala län,Håbo,Badhusvägen /Runbrovägen,Bålsta,4,3,1,2,1,0,59.56472,17.52555,false,false
