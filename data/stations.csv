@@ -41,7 +41,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 152,Dals-Långed,Västra Götalands län,Bengtsfors,Ängbäcksvägen Mustadfors,Dals-Långed,2,2,1,2,1,0,58.921473,12.313392,true,false
 154,Bruksvägen,Västra Götalands län,Bengtsfors,Bruksvägen,Gustavsfors,2,3,1,1,1,0,59.191325,12.108457,true,false
 162,Hackås ,Jämtlands län,Berg,Torget 7,Hackås,2,2,1,1,1,0,62.924693,14.517727,true,false
-172,"Balsjö, Balsjö Bensin & Handel",Västerbottens län,Bjurholm,Balsjö 36,Bjurholm,2,2,1,1,1,0,63.925333,19.05794,false,false
+172,"Balsjö, Balsjö Bensin & Handel",Västerbottens län,Bjurholm,Balsjö 36,Bjurholm,3,2,1,1,1,0,63.925333,19.05794,false,false
 191,Coop Forum,Norrbottens län,Boden,Kungsgatan 42,Boden,2,3,1,1,1,0,65.826165,21.685318,true,false
 195,"Prästholmen, Prästholmsskolan",Norrbottens län,Boden,Prinsgatan 26,Boden,2,2,1,1,1,0,65.830763,21.698892,true,false
 196,"Sanden, Sturegatan/Kyrkgatan",Norrbottens län,Boden,Sturegatan,Boden,2,3,1,1,1,0,65.819485,21.693253,true,false
@@ -3363,7 +3363,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 13777,"Hornsgatan, P-plats",Västmanlands län,Kungsör,Hornsgatan 4,Kungsör,2,2,1,1,1,0,59.425072,16.092252,true,false
 13791,Kartåsens Avfallsanläggning (ÅVC),Västra Götalands län,Lidköping,,Lidköping,2,0,0,0,1,0,58.48917,13.21611,true,false
 13792,Lidåker,Västra Götalands län,Lidköping,Solhagsvägen 26,Lidköping,2,2,1,1,1,0,58.49193,13.155723,false,false
-13862,"Majorna, Blåsutgatan 2",Västra Götalands län,Göteborg,Blåsutgatan 1,Majorna,2,4,1,1,1,0,57.692445,11.922425,true,false
+13862,"Majorna, Blåsutgatan 2",Västra Götalands län,Göteborg,Blåsutgatan 1,Majorna,2,3,1,1,1,0,57.692445,11.922425,true,false
 13870,Tippen (ÅVC),Västra Götalands län,Mellerud,Hunnebyn,Mellerud,4,1,1,2,1,0,58.734428,12.405218,true,false
 13879,Trängbo camping,Örebro län,Nora,,Nora,2,1,1,1,1,0,59.525733,15.042875,true,false
 13926,ÅVC Hallabro,Blekinge län,Ronneby,Aborrmålavägen,Hallabro,2,1,1,1,0,0,56.389775,15.10952,false,false
