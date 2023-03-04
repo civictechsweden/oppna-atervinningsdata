@@ -16898,7 +16898,7 @@
         "ejaretrunt": "0",
         "latitude": "62.52052",
         "longitude": "14.192047",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -16934,7 +16934,7 @@
         "ejaretrunt": "0",
         "latitude": "62.471563",
         "longitude": "14.550453",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -16952,7 +16952,7 @@
         "ejaretrunt": "0",
         "latitude": "62.644828",
         "longitude": "14.152392",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -16970,7 +16970,7 @@
         "ejaretrunt": "0",
         "latitude": "62.766442",
         "longitude": "14.436362",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -16988,7 +16988,7 @@
         "ejaretrunt": "0",
         "latitude": "62.645027",
         "longitude": "14.372602",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -18302,6 +18302,24 @@
         "ejaretrunt": "0",
         "latitude": "59.248935",
         "longitude": "17.832147",
+        "batterier": "true",
+        "rp_extra": "false"
+    },
+    {
+        "id": 7255,
+        "avs": "Said Livs",
+        "lan": "Stockholms län",
+        "kommun": "Botkyrka",
+        "adress": "St Albans väg",
+        "ort": "Botkyrka",
+        "glas": "2",
+        "kartong": "0",
+        "metall": "0",
+        "blandplast": "0",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "59.243033",
+        "longitude": "17.81367",
         "batterier": "true",
         "rp_extra": "false"
     },
@@ -64022,7 +64040,7 @@
         "ejaretrunt": "0",
         "latitude": "62.851602",
         "longitude": "12.798907",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -73886,7 +73904,7 @@
         "ejaretrunt": "0",
         "latitude": "62.504733",
         "longitude": "14.18778",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -74642,7 +74660,7 @@
         "ejaretrunt": "0",
         "latitude": "62.803205",
         "longitude": "13.059145",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -80330,7 +80348,7 @@
         "ejaretrunt": "0",
         "latitude": "62.500845",
         "longitude": "14.108342",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -84866,7 +84884,7 @@
         "ejaretrunt": "0",
         "latitude": "62.493023",
         "longitude": "14.116188",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -86576,7 +86594,7 @@
         "ejaretrunt": "0",
         "latitude": "62.47805",
         "longitude": "14.23027",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
