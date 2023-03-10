@@ -1016,7 +1016,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7247,Äspered Äsperedsvägen/Albins,Västra Götalands län,Borås,Äsperedsvägen/Albins,Äspered,2,1,2,1,1,0,57.753405,13.176368,true,false
 7249,Vändplan,Stockholms län,Botkyrka,Trädesvägen,Botkyrka,2,3,1,2,1,0,59.245633,17.822048,true,false
 7252,Vändplan,Stockholms län,Botkyrka,Tomtbergavägen 66,Botkyrka,0,3,1,2,1,0,59.248935,17.832147,true,false
-7255,Said Livs,Stockholms län,Botkyrka,St Albans väg,Botkyrka,2,1,1,1,1,0,59.243033,17.81367,true,false
+7255,Said Livs,Stockholms län,Botkyrka,St Albans väg,Botkyrka,2,4,1,2,1,0,59.243033,17.81367,true,false
 7259,OK/Q8,Stockholms län,Botkyrka,Rosenhill,Grödinge,2,2,1,2,1,0,59.140235,17.832417,true,false
 7263,P-plats vid vändplan,Stockholms län,Botkyrka,Nämndemannavägen,Botkyrka,2,3,1,2,1,0,59.242557,17.857725,true,false
 7267,Vändplan,Stockholms län,Botkyrka,Linvägen,Botkyrka,0,2,1,2,1,0,59.247545,17.831673,true,false
@@ -2263,10 +2263,10 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10273,Korsning Kampementsgatan/Värtavägen,Stockholms län,Stockholm, Kampementsgatan 2,Östermalm,2,2,1,1,1,0,59.346435,18.102548,true,false
 10278,Erik Dahlbergsgatan 43,Stockholms län,Stockholm, ,Östermalm,2,4,1,1,1,0,59.344957,18.09305,true,false
 10285,"Gunnarn, Konsum",Västerbottens län,Storuman,Gubbträskvägen 2,Gunnarn,2,3,1,1,1,0,65.006313,17.678328,false,false
-10286,"Hemavan, Avloppsreningsverket",Västerbottens län,Storuman,Älvstigen,Hemavan,6,4,1,2,1,0,65.814952,15.081113,false,false
+10286,"Hemavan, Avloppsreningsverket",Västerbottens län,Storuman,Älvstigen,Hemavan,7,4,1,2,1,0,65.814952,15.081113,false,false
 10287,"Slussfors, Slussfors Boa",Västerbottens län,Storuman,Skogsvägen 2,Slussfors,3,3,1,2,1,0,65.43083,16.24806,false,false
 10288,"Stensele, Ica Nära",Västerbottens län,Storuman,Blå vägen 87,Stensele,2,2,1,1,1,0,65.068788,17.146255,false,false
-10291,"Storuman, Storhälla IP",Västerbottens län,Storuman,Idrottsgatan 1/Hantverkargatan ,Storuman,5,4,1,3,1,0,65.089837,17.105708,false,false
+10291,"Storuman, Storhälla IP",Västerbottens län,Storuman,Idrottsgatan 1/Hantverkargatan ,Storuman,4,4,1,3,1,0,65.089837,17.105708,false,false
 10296,Park,Södermanlands län,Strängnäs,Slottsbrinksvägen 8,Mariefred,3,4,1,2,1,0,59.26553,17.213015,true,false
 10299,Konsum Brandstationen,Södermanlands län,Strängnäs,Ruddammsgatan/Kärnbogatan,Mariefred,4,2,1,1,1,0,59.262483,17.221608,true,false
 10309,P-plats,Södermanlands län,Strängnäs,Finningevägen 1-3,Strängnäs,2,1,1,1,1,0,59.363955,17.036433,true,false
@@ -2949,7 +2949,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11929,Lysekil Sälgvägen,Västra Götalands län,Lysekil,Sälgvägen,Lysekil,2,1,1,1,1,0,58.278717,11.455145,true,false
 11930,Bredsand COOP,Västernorrlands län,Sundsvall,Tallvägen 1,Sundsvall,2,2,1,1,1,0,62.352398,17.365768,false,false
 11932,Allégatan,Jönköpings län,Vetlanda,Allégatan (35),Ekenässjön,2,2,1,1,1,0,57.489322,15.020203,false,false
-11934,"Vännäs, ICA Kvantum",Västerbottens län,Vännäs,Östra Järnvägsgatan 20,Vännäs,2,0,0,0,0,0,63.90806,19.75306,false,false
 11935,Talltorp,Västmanlands län,Västerås,Talltorpsgatan,Talltorp,0,1,0,0,1,0,59.607138,16.603775,false,false
 11942,"Östra Stranden, Sommarvägen",Hallands län,Halmstad,Sommarvägen,Östra Stranden,2,2,1,1,1,0,56.649915,12.88674,true,false
 11948,"Bingsmarkens camping, fritidsområdet",Skåne län,Skurup, Bingsmarken,Bingsmarken,2,1,1,1,1,0,55.386657,13.500445,true,false
@@ -3807,7 +3806,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15515,Ica Högbyhallen,Gotlands län,Gotland,Hagagatan,Hemse,2,0,0,0,0,0,57.24056,18.37528,false,false
 15516,Torget vid konsum,Gotlands län,Gotland,Nygatan,Hemse,2,0,0,0,0,0,57.23917,18.37806,false,false
 15518,Hamnen,Gotlands län,Gotland,Kappelshamn Flenvikevägen,Kappelshamn,2,0,0,0,0,0,57.84944,18.78667,false,false
-15522,Konsum,Gotlands län,Gotland,Storvägen 83,Ljugarn,2,0,0,0,0,0,57.33250,18.70250,false,false
 15523,Ica,Gotlands län,Gotland,När Hallute,När,2,0,0,0,0,0,57.25917,18.63639,false,false
 15524,Konsum,Gotlands län,Gotland,Visbyvägen 35,Roma,2,0,0,0,0,0,57.50417,18.45583,false,false
 15527,Hamnen,Gotlands län,Gotland,Stenkyrka Ringvide,Lickershamn,2,0,0,0,0,0,57.82583,18.51194,false,false
