@@ -544,7 +544,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3162,Ställviksberget,Dalarnas län,Ludvika,Hammarbacksvägen,Ludvika,2,3,1,1,1,0,60.161732,15.18139,true,false
 3167,GIA,Dalarnas län,Ludvika,Kopparbergsvägen,Grängesberg,2,2,1,2,1,0,60.072533,15.002792,true,false
 3177,"COOP Nära, Sunnansjö",Dalarnas län,Ludvika,Botbergsvägen,Sunnansjö,2,1,1,1,1,0,60.216185,14.957677,true,false
-3189,Pumpstationen,Norrbottens län,Luleå,Likskärsvägen,Bensbyn,2,2,0,1,1,0,65.640328,22.233895,false,false
+3189,Pumpstationen,Norrbottens län,Luleå,Likskärsvägen,Bensbyn,2,2,1,1,1,0,65.640328,22.233895,false,false
 3190,Konsum,Norrbottens län,Luleå,Producentvägen,Bergnäset,2,2,1,1,1,0,65.57444,22.10528,false,false
 3191,Trollebergsvägen/Trolltjärnsvägen,Norrbottens län,Luleå,,Bergnäset,3,2,1,1,1,0,65.56917,22.11306,false,false
 3192,Krabbstigen,Norrbottens län,Luleå,,Bergviken,2,1,1,1,1,0,65.601045,22.147943,false,false
@@ -3636,7 +3636,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15123,Campingen,Västmanlands län,Norberg,,Norberg,2,0,0,0,0,0,60.07472,15.92917,false,false
 15132,Klaraplan Parkering,Hallands län,Kungsbacka,Kells hage,Gottskär ,3,2,1,2,1,0,57.39000,12.01583,true,false
 15136,Getterön,Hallands län,Varberg,Östra Hamnvägen,Varberg,4,4,1,3,1,0,57.12111,12.25000,false,false
-15137,Limabacka gamla ÅVC,Hallands län,Varberg,,Limabacka,2,1,1,1,1,0,57.23917,12.18722,false,false
 15140,Bösarp,Hallands län,Varberg,Skällingevägen,Skällinge,2,1,1,1,1,0,57.18417,12.41750,false,false
 15143,Skå Återvinningscentral,Stockholms län,Ekerö,,Färingsö,3,2,1,3,4,0,59.338243,17.728868,false,false
 15151,ÅVC,Västra Götalands län,Hjo,Timmervägen 1,Hjo,6,3,2,3,1,0,58.314512,14.286413,true,false
@@ -3878,7 +3877,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15633,Bredviksbergets avfallsanläggning (ÅVC),Norrbottens län,Piteå,,Öjebyn,4,1,1,1,1,0,65.37579,21.38927,false,false
 15634,Avfallsupplaget Brändkläppen (ÅVC),Norrbottens län,Boden,,Boden,4,0,0,0,1,0,65.84833,21.73917,false,false
 15635,Boda (ÅVC),Västra Götalands län,Borås,Sjumilagatan,Borås,4,3,4,2,1,0,57.726103,12.986123,true,false
-15636,Dalsjöfors (ÅVC),Västra Götalands län,Borås,Ställvägen,Dalsjöfors,4,2,3,2,1,0,57.715147,13.08524,true,false
+15636,Dalsjöfors (ÅVC),Västra Götalands län,Borås,Ställvägen,Dalsjöfors,2,2,2,2,1,0,57.715147,13.08524,true,false
 15637,Fristad (ÅVC),Västra Götalands län,Borås,Statoil,Fristad,4,2,2,2,1,0,57.814883,13.014178,true,false
 15638,Lusharpan (ÅVC),Västra Götalands län,Borås,Regementsgatan 22,Borås,6,4,4,2,1,0,57.714102,12.918563,true,false
 15642,Ulvbergets ÅVC,Gävleborgs län,Hudiksvall,,Hudiksvall,2,4,2,4,1,0,61.72167,17.02389,true,false
