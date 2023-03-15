@@ -3112,7 +3112,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12443,Norrmjöle,Västerbottens län,Umeå,Norrmjöle,Umeå,2,1,1,1,1,0,63.673468,20.11728,false,false
 12444,Stöcke,Västerbottens län,Umeå,Stöcke/Logvägen,Umeå,2,2,1,1,1,0,63.739203,20.230168,false,false
 12445,"Stöcksjö, Degernäsvägen",Västerbottens län,Umeå,"Stöcksjö, Degernäsvägen 7",Umeå,2,2,1,1,1,0,63.77738,20.190828,true,false
-12450,"Umeå, Parkgatan 4",Västerbottens län,Umeå,Parkgatan 4,Umeå,2,1,1,1,1,0,63.830663,20.261545,true,false
+12450,"Umeå, Parkgatan 4",Västerbottens län,Umeå,Parkgatan 4,Umeå,2,0,1,1,1,0,63.830663,20.261545,true,false
 12451,"Botsmark, Byagårdsvägen",Västerbottens län,Umeå,Byagårdsvägen ,Botsmark,2,1,1,1,1,0,64.253897,20.244512,true,false
 12453,"Sandbacka, Sandbackavägen 3",Västerbottens län,Umeå,Sandbackavägen 3,Umeå,2,2,1,2,1,0,63.839337,20.275017,true,false
 12457,"Flurkmark, Reningsverket",Västerbottens län,Umeå,Flurkmark,Umeå,2,1,1,1,1,0,63.978852,20.246992,true,false
@@ -4271,7 +4271,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16291,Turinge/Vidbynäs,Stockholms län,Nykvarn,Gamla Strängnäsvägen,Turinge,4,2,2,2,1,0,59.197532,17.436987,true,false
 16292,Anders Frantzens park,Stockholms län,Stockholm,Kanalvägen,Södermalm,2,2,1,1,1,0,59.311508,18.106483,true,false
 16294,Folkets Park,Östergötlands län,Åtvidaberg,Parkvägen 1,Åtvidaberg,4,2,1,2,1,0,58.201825,15.987408,false,false
-16297,Vretavägen,Östergötlands län,Mjölby,Vretavägen,Skänninge,3,2,1,2,1,0,58.399372,15.084078,true,false
+16297,Vretavägen,Östergötlands län,Mjölby,Vretavägen,Skänninge,2,2,1,2,1,0,58.399372,15.084078,true,false
 16299,Pendelparkering vid Mörbyskolan,Stockholms län,Danderyd,Vendevägen 96,Mörby,4,6,1,4,1,0,59.39304,18.046482,true,true
 16300,Valhallavägen/Oxenstiernsgatan,Stockholms län,Stockholm,Valhallavägen 194,Östermalm,2,2,1,2,1,0,59.337555,18.103773,true,false
 16301,p-plats mitt emot Reningsverket,Skåne län,Staffanstorp,Sliparevägen 2,Staffanstorp,2,1,1,1,1,0,55.65428,13.212865,true,false
