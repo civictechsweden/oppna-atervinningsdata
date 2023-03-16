@@ -2812,7 +2812,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11558,Badplatsen,Kronobergs län,Växjö,Öjabyvägen,Öjaby,2,1,1,1,1,0,56.900785,14.739112,true,false
 11559,Runvägen,Kronobergs län,Växjö,Runvägen,Räppe,2,2,1,1,1,0,56.894365,14.738498,true,false
 11560,Östra Räppevägen,Kronobergs län,Växjö,Östra Räppevägen 1,Östra Räppe,2,1,1,1,1,0,56.87829,14.743323,true,false
-11565,"Reningsverket, Hestra",Östergötlands län,Ydre,Tranåsvägen,Hestra,4,2,1,1,1,0,57.957435,15.080025,true,false
+11565,"Reningsverket, Hestra",Östergötlands län,Ydre,Tranåsvägen,Hestra,4,2,1,2,1,0,57.957435,15.080025,false,false
 11566,"Reningsverket, Rydsnäs",Östergötlands län,Ydre,Eksjövägen,Rydsnäs,4,2,1,1,1,0,57.798772,15.154647,true,false
 11567,"Österbymo, Reningsverket, utanför ÅVC",Östergötlands län,Ydre,Ågatan,Österbymo,4,2,1,2,1,0,57.82335,15.291968,false,false
 11570,"Macken, norr om Rivavägen, Glemmingebro",Skåne län,Ystad,Rivavägen,Glemmingebro,2,1,1,1,1,0,55.450515,14.019787,false,false
@@ -2901,7 +2901,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11770,"Sund, Droskgränd",Västernorrlands län,Örnsköldsvik,Droskgränd,Domsjö,4,3,1,2,1,0,63.266775,18.689593,true,false
 11771,"Sörliden, Järvhagavägen/Järvstagatan",Västernorrlands län,Örnsköldsvik,Järvstagatan 15,Örnsköldsvik,2,1,1,1,1,0,63.284582,18.746323,true,false
 11772,Trehörningsjö Konsum P-plats,Västernorrlands län,Örnsköldsvik,Centralgatan 31,Trehörningsjö,2,1,1,1,1,0,63.693972,18.866528,true,false
-11773,Örnsköldsvik Vegagatan/E 4,Västernorrlands län,Örnsköldsvik,Vegagatan 21,Örnsköldsvik,2,0,3,2,1,0,63.291983,18.721088,true,false
+11773,Örnsköldsvik Vegagatan/E 4,Västernorrlands län,Örnsköldsvik,Vegagatan 21,Örnsköldsvik,2,1,3,1,1,0,63.291983,18.721088,true,false
 11777,Överhörnäs Minilivs,Västernorrlands län,Örnsköldsvik,Granitvägen 3,Överhörnäs,2,1,1,1,1,0,63.288538,18.556355,true,false
 11781,Coop Extra,Jämtlands län,Östersund,Trädgårdsvägen 2,Frösön,3,2,1,1,1,0,63.182008,14.618405,true,false
 11785,Rödövägen/Arnljots väg,Jämtlands län,Östersund,RödövägenArnljots väg,Frösön,2,1,1,1,1,0,63.17274,14.548585,true,false
@@ -3596,7 +3596,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14992,Grönområde,Stockholms län,Södertälje,Vretvägen 21,Järna,2,2,2,1,1,0,59.096725,17.563177,true,false
 14995,"Ljustorp, Centrum",Västernorrlands län,Timrå,,Bergeforsen,2,1,1,1,1,0,62.61833,17.34111,true,false
 14996,Ica Supermarket,Kalmar län,Vimmerby,Falkängsgatan,Vimmerby,2,0,0,0,0,0,57.663865,15.854835,false,false
-15000,"Örnsköldsvik, Östra Livs",Västernorrlands län,Örnsköldsvik,Vintergatan 2,Örnsköldsvik,2,0,0,0,0,0,63.29472,18.72639,false,false
 15002,Knalleland Ica Kvantum,Västra Götalands län,Borås,Bergslenagatan,Borås,2,4,1,2,1,0,57.731878,12.938047,true,false
 15003,Knalleland Storknallen ,Västra Götalands län,Borås,Herrljungagatan,Borås,2,4,1,2,1,0,57.734548,12.942347,true,false
 15007,Karlsborgs Fästning,Västra Götalands län,Karlsborg,Östra Vallgatan 4,Karlsborg,2,2,1,1,1,0,58.529517,14.531633,true,false
