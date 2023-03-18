@@ -56041,14 +56041,14 @@
         "adress": "Parkgatan 4",
         "ort": "Umeå",
         "glas": "2",
-        "kartong": "0",
+        "kartong": "1",
         "metall": "1",
         "blandplast": "1",
         "tidningar": "1",
         "ejaretrunt": "0",
         "latitude": "63.830663",
         "longitude": "20.261545",
-        "batterier": "true",
+        "batterier": "false",
         "rp_extra": "false"
     },
     {
