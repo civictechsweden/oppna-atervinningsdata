@@ -2484,7 +2484,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10802,"Nittorp, bilverkstaden",Västra Götalands län,Tranemo,Åsenvägen,Nittorp,2,1,1,2,1,0,57.545402,13.49143,true,false
 10803,"Sjötofta, f.d.affären",Västra Götalands län,Tranemo,Stationsplan,Sjötofta,2,1,1,2,1,0,57.358107,13.289565,true,false
 10804,Tranemo centrum,Västra Götalands län,Tranemo,"Parkgatan, bakom ICA Kvantum",Tranemo,2,3,1,2,1,0,57.482473,13.348837,true,false
-10806,"Uddebo, bussvändplatsen",Västra Götalands län,Tranemo,Kalsebovägen,Uddebo,2,1,1,2,1,0,57.471343,13.259703,true,false
+10806,"Uddebo, bussvändplatsen",Västra Götalands län,Tranemo,Kalsebovägen,Uddebo,3,1,1,2,1,0,57.471343,13.259703,true,false
 10810,Ica Nära,Jönköpings län,Tranås,Jönköpingsvägen 66,Gripenberg,3,2,1,1,1,0,57.989332,14.849657,true,false
 10812,Sommen Mossebogatan,Jönköpings län,Tranås,Mossebogatan,Sommen,2,3,1,1,1,0,58.139668,14.965477,true,false
 10814,Tranås Skyttegatan IP,Jönköpings län,Tranås,"Skyttegatan, IP",Tranås,2,2,1,1,1,0,58.033687,14.958442,true,false
@@ -3738,7 +3738,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15422,Furskog (ÅVC),Värmlands län,Årjäng,,Årjäng,2,1,2,2,1,0,59.385787,12.045278,false,false
 15423,Brukshandeln Forsmark,Uppsala län,Östhammar,,Forsmark,2,1,1,1,1,0,60.36857,18.153877,false,false
 15424,Vansbro Bäckdalen (ÅVC),Dalarnas län,Vansbro,5 km väster om Vansbro,Vansbro,2,2,1,3,1,0,60.496545,14.164348,false,false
-15426,Gynnås (ÅVC),Jönköpings län,Gnosjö,Gynnås avfallsanläggning,Gnosjö,3,1,1,1,2,0,57.38266,13.696852,true,false
+15426,Gynnås (ÅVC),Jönköpings län,Gnosjö,Gynnås avfallsanläggning,Gnosjö,2,1,1,1,2,0,57.38266,13.696852,true,false
 15430,Ekshärad (ÅVC),Värmlands län,Hagfors,Hästfallsvägen 10A,Ekshärad,2,0,1,5,1,0,60.1686,13.49534,false,false
 15432,ÅVC Vålberg (ÅVC),Värmlands län,Karlstad,Älvenäsvägen/Notbodvägen 2,Vålberg,2,3,1,1,1,0,59.384298,13.18904,false,false
 15433,Sysslebäck (ÅVC),Värmlands län,Torsby,Klarälsvägen 100,Sysslebäck,4,6,1,6,1,0,60.71750,12.87667,false,false
@@ -4523,7 +4523,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16938,Lulsundet,Norrbottens län,Luleå,Truppvägen 24,Luleå,2,2,1,1,1,0,65.600888,22.184773,false,false
 16942,"Östbergabackarna, infarten från Årstafältet",Stockholms län,Stockholm,Östbergabackarna 73,Enskede-Årsta-Vantör,2,2,1,2,1,0,59.288693,18.036718,true,false
 16943,Liljeholmsstranden,Stockholms län,Stockholm,Liljeholmsstranden 5,Hägersten-Liljeholmen,2,2,1,2,1,0,59.314098,18.027257,false,false
-16944,"Willys, Ekenhuset",Västra Götalands län,Mölndal,Ekenleden 3,Kållered,3,5,2,3,1,0,57.600373,12.046612,false,false
+16944,"Willys, Ekenhuset",Västra Götalands län,Mölndal,Ekenleden 3,Kållered,4,4,2,3,1,0,57.600373,12.046612,false,false
 16946,Idrottsvägen,Jönköpings län,Eksjö,Idrottsvägen 2,Bruzaholm,2,1,1,1,1,0,57.640595,15.272597,true,false
 16948,Gustafstorget ,Dalarnas län,Malung-Sälen,Kärnvägen,Sälen,2,2,1,1,1,0,61.160347,13.1927,false,false
 16949,ICA,Kalmar län,Mönsterås,Alsteråvägen,Ålem,2,2,1,2,1,0,56.955353,16.382178,false,false
