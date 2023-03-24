@@ -1362,7 +1362,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7933,P-plats Västerport (port 73),Stockholms län,Haninge,Nynäsvägen ,Handen,4,10,2,4,1,0,59.179185,18.146137,true,false
 7938,Haninge Centrum,Stockholms län,Haninge,Norra parkeringen ,Handen,2,3,1,3,1,0,59.172132,18.140358,true,false
 7939,Elhus,Stockholms län,Haninge,Hallstens väg,Handen,2,6,1,3,1,0,59.189168,18.143177,true,false
-7940,Tuvvägen/Gamla Nynäsvägen,Stockholms län,Haninge,,Handen,2,3,1,2,1,0,59.157387,18.136407,true,false
+7940,Tuvvägen/Gamla Nynäsvägen,Stockholms län,Haninge,,Handen,2,3,0,3,1,0,59.157387,18.136407,true,false
 7944,Skärets livs,Stockholms län,Haninge,Södra Jordbrovägen 165,Jordbro,2,3,1,2,1,0,59.138003,18.139318,true,false
 7945,Vändplan,Stockholms län,Haninge,Södra Jordbrovägen 120,Jordbro,2,3,1,2,1,0,59.136025,18.133977,true,false
 7946,P-plats,Stockholms län,Haninge,Södra Jordbrovägen 111,Jordbro,2,3,1,2,1,0,59.137182,18.1263,true,false
@@ -1629,7 +1629,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8513,"Laxsjö, Laxsjö Bensin & Konfektyr",Jämtlands län,Krokom,,Föllinge,2,1,1,1,1,0,63.812652,14.797888,false,false
 8514,"Nälden, ICA Näldhallen",Jämtlands län,Krokom,Idrottsvägen,Nälden,2,3,1,2,1,0,63.346962,14.251692,false,false
 8515,"Rödön, Containerplats",Jämtlands län,Krokom,,Krokom,2,2,1,2,1,0,63.249775,14.420323,true,false
-8516,"Rötviken, Servicepunkt Handlarn",Jämtlands län,Krokom, Rötviken 204,Föllinge,2,2,0,1,1,0,63.973995,14.164998,false,false
+8516,"Rötviken, Servicepunkt Handlarn",Jämtlands län,Krokom, Rötviken 204,Föllinge,2,2,1,1,1,0,63.973995,14.164998,false,false
 8518,"Ytterån, Infart Industriområdet",Jämtlands län,Krokom,Sjöviksvägen,Nälden,2,1,1,1,1,0,63.319303,14.175675,true,false
 8521,"Ås, Tengens",Jämtlands län,Krokom,Åsvägen,Ås,2,3,1,2,1,0,63.23556,14.57889,true,false
 8523,"Änge, Brandstation",Jämtlands län,Krokom,,Offerdal,2,4,1,3,1,0,63.45441,14.075388,true,false
@@ -2484,7 +2484,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10802,"Nittorp, bilverkstaden",Västra Götalands län,Tranemo,Åsenvägen,Nittorp,2,1,1,2,1,0,57.545402,13.49143,true,false
 10803,"Sjötofta, f.d.affären",Västra Götalands län,Tranemo,Stationsplan,Sjötofta,2,1,1,2,1,0,57.358107,13.289565,true,false
 10804,Tranemo centrum,Västra Götalands län,Tranemo,"Parkgatan, bakom ICA Kvantum",Tranemo,2,3,1,2,1,0,57.482473,13.348837,true,false
-10806,"Uddebo, bussvändplatsen",Västra Götalands län,Tranemo,Kalsebovägen,Uddebo,3,1,1,2,1,0,57.471343,13.259703,true,false
+10806,"Uddebo, bussvändplatsen",Västra Götalands län,Tranemo,Kalsebovägen,Uddebo,2,1,1,2,1,0,57.471343,13.259703,true,false
 10810,Ica Nära,Jönköpings län,Tranås,Jönköpingsvägen 66,Gripenberg,3,2,1,1,1,0,57.989332,14.849657,true,false
 10812,Sommen Mossebogatan,Jönköpings län,Tranås,Mossebogatan,Sommen,2,3,1,1,1,0,58.139668,14.965477,true,false
 10814,Tranås Skyttegatan IP,Jönköpings län,Tranås,"Skyttegatan, IP",Tranås,2,2,1,1,1,0,58.033687,14.958442,true,false
