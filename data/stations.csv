@@ -369,7 +369,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1966,"Askeröd, Lokalföreningen",Skåne län,Hörby, ,Askeröd,2,1,1,1,0,0,55.758933,13.592608,true,false
 1970,"Hörby, Konsum P-plats",Skåne län,Hörby,Slagtoftavägen,Hörby,2,2,1,1,0,0,55.855623,13.663357,true,false
 1972,"Hörby, Mittemot Vårdcentralen",Skåne län,Hörby,Råbyvägen,Hörby,2,1,1,1,0,0,55.846188,13.671197,true,false
-1973,Skomakaregatan,Skåne län,Hörby,Skomakaregatan,Hörby,2,2,1,1,0,0,55.84537,13.6568,true,false
+1973,Skomakaregatan,Skåne län,Hörby,Skomakaregatan,Hörby,3,2,1,1,0,0,55.84537,13.6568,true,false
 1978,"Svensköp, Fotbollsplanens  p-plats",Skåne län,Hörby, ,Svensköp,2,1,1,1,0,0,55.875525,13.86244,true,false
 1979,"Södra Rörum, Lanthandeln",Skåne län,Hörby, ,Södra Rörum,2,1,1,1,0,0,55.923942,13.670658,true,false
 1980,"Önneköp, Önnebo",Skåne län,Hörby,Simons väg,Önneköp,2,1,1,1,0,0,55.787773,13.871738,true,false
@@ -829,7 +829,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 6627,"Älvsbyn, Reningsverket",Norrbottens län,Älvsbyn,Gammelvägen,Älvsbyn,2,3,1,1,0,0,65.666505,21.030618,true,false
 6631,Björkhagen,Skåne län,Ängelholm,Kustroddarevägen,Skepparkroken,2,2,1,2,1,0,56.290605,12.81057,false,false
 6634,Grilleken,Skåne län,Ängelholm,Allmänna Gränd,Hjärnarp,3,5,1,2,1,0,56.315802,12.9175,false,false
-6635,"Kroneslätt, P-plats samåkning",Skåne län,Ängelholm,Bäckadalsvägen,Kroneslätt,2,7,1,4,1,0,56.23215,12.878157,false,false
+6635,"Kroneslätt, P-plats samåkning",Skåne län,Ängelholm,Bäckadalsvägen,Kroneslätt,2,6,1,3,1,0,56.23215,12.878157,false,false
 6641,"Munka Ljungby, Toftavägen",Skåne län,Ängelholm,Toftavägen,Munka-Ljungby,2,5,1,3,1,0,56.255198,12.962482,false,false
 6646,Errarps skola,Skåne län,Ängelholm,Valhallsvägen,Skälderviken,2,3,1,2,1,0,56.279125,12.84497,false,false
 6659,Framnäs,Västra Götalands län,Öckerö, ,Björkö,2,2,2,2,1,0,57.71806,11.68361,false,false
@@ -2926,7 +2926,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11831,Rallaren/Jysk m.m.,Stockholms län,Österåker,Rallarvägen 8,Åkers Runö,3,6,1,4,1,0,59.481397,18.282087,true,false
 11832,Svinninge Marina,Stockholms län,Österåker,,Svinninge,2,0,0,0,0,0,59.457177,18.27851,false,false
 11834,Torpvägen,Uppsala län,Östhammar,Torpvägen,Alunda,4,2,1,1,1,0,60.065305,18.076893,true,false
-11836,Bygdegård,Uppsala län,Östhammar,,Ekeby,2,1,1,1,0,0,60.072212,18.19183,true,false
+11836,Bygdegård,Uppsala län,Östhammar,,Ekeby,3,1,1,1,0,0,60.072212,18.19183,true,false
 11838,"Parkering vid Vårdcentralen, Torget",Uppsala län,Östhammar,,Gimo,2,2,1,1,1,0,60.172313,18.184793,true,false
 11839,ICA Sjöboden,Uppsala län,Östhammar,,Gräsö,4,3,1,2,1,0,60.348845,18.462775,true,false
 11840,Gräsöbadens Camping,Uppsala län,Östhammar,Västerbyn 296,Gräsö,2,1,1,1,0,0,60.352422,18.447877,false,false
@@ -4101,7 +4101,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15990,Färlöv Folkets Hus,Skåne län,Kristianstad,Fru Marines väg 29,Färlöv,2,1,1,1,1,0,56.076258,14.091885,true,false
 15991,Katrina Fjällby,Jämtlands län,Berg,Stortravägen,"Klövsjö, Berg",2,2,1,1,1,0,62.504733,14.18778,true,false
 15992,Hovgården,Stockholms län,Ekerö,,Adelsö,2,3,1,2,3,0,59.360343,17.529242,true,false
-15993,Bastionen,Skåne län,Kristianstad,Norretullsvägen,Kristianstad,2,2,1,1,1,0,56.03505,14.151953,true,false
+15993,Bastionen,Skåne län,Kristianstad,Norretullsvägen,Kristianstad,2,3,1,1,1,0,56.03505,14.151953,true,false
 15995,Kiruna ÅVC,Norrbottens län,Kiruna,Kurravaaravägen,Kiruna,2,1,1,1,1,0,67.86289,20.28351,false,false
 15996,Skärvik,Stockholms län,Ekerö,Jungfrusundsvägen,Ekerö,2,3,1,2,2,0,59.272542,17.814183,true,false
 15997,Sävstaås Avfallsanläggning ÅVC,Gävleborgs län,Bollnäs,Edsbyvägen 200,Bollnäs,3,3,1,3,1,0,61.34214,16.307173,false,false
