@@ -497,7 +497,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2922,Brunnby ICA,Östergötlands län,Linköping,Vallbytorpsvägen,Ljungsbro,2,1,1,1,1,0,58.493868,15.502675,false,false
 2923,Ekholmens centrum,Östergötlands län,Linköping,Ekholmens Centrum 4,Ekholmen,4,3,1,2,1,0,58.379345,15.68323,false,false
 2925,Vid infarten,Östergötlands län,Linköping,Grönhögsv / Ekängsv,Ekängen,2,1,1,1,1,0,58.462305,15.640855,false,false
-2926,Skiffervägen,Östergötlands län,Linköping,Skifferv 4,Gistad,2,1,1,1,1,0,58.468165,15.892062,false,false
+2926,Skiffervägen,Östergötlands län,Linköping,Skifferv 4,Gistad,2,1,1,0,1,0,58.468165,15.892062,false,false
 2941,Vändplan vid kyrka/vårdcentral,Östergötlands län,Linköping,Himnav 151,Linghem,4,2,1,1,1,0,58.42738,15.782477,false,false
 2942,Tellbovägen,Östergötlands län,Linköping,Tellbov / Hästhovsv,Linghem,4,2,1,1,1,0,58.437677,15.797975,false,false
 2945,"Ridhuset, Ånestad, ",Östergötlands län,Linköping,Ridhusgatan 1,Linköping,2,2,1,1,1,0,58.38631,15.649612,false,false
@@ -1626,7 +1626,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8508,Kluk/Bleckåsen,Jämtlands län,Krokom, ,Trångsviken,2,2,1,1,1,0,63.393875,13.82092,false,false
 8511,"Krokom, Snickerivägen",Jämtlands län,Krokom,Snickerivägen 5,Krokom,4,3,1,3,1,0,63.328665,14.445623,false,false
 8512,"Landön, Containerplats",Jämtlands län,Krokom, ,Offerdal,2,2,1,2,1,0,63.558793,14.277682,true,false
-8513,"Laxsjö, Laxsjö Bensin & Konfektyr",Jämtlands län,Krokom,,Föllinge,2,1,1,1,1,0,63.812652,14.797888,false,false
+8513,"Laxsjö, Laxsjö Bensin & Konfektyr",Jämtlands län,Krokom,,Föllinge,3,1,1,1,1,0,63.812652,14.797888,false,false
 8514,"Nälden, ICA Näldhallen",Jämtlands län,Krokom,Idrottsvägen,Nälden,2,3,1,2,1,0,63.346962,14.251692,false,false
 8515,"Rödön, Containerplats",Jämtlands län,Krokom,,Krokom,2,2,1,2,1,0,63.249775,14.420323,true,false
 8516,"Rötviken, Servicepunkt Handlarn",Jämtlands län,Krokom, Rötviken 204,Föllinge,2,2,1,1,1,0,63.973995,14.164998,false,false
@@ -2926,7 +2926,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11831,Rallaren/Jysk m.m.,Stockholms län,Österåker,Rallarvägen 8,Åkers Runö,3,6,1,4,1,0,59.481397,18.282087,true,false
 11832,Svinninge Marina,Stockholms län,Österåker,,Svinninge,2,0,0,0,0,0,59.457177,18.27851,false,false
 11834,Torpvägen,Uppsala län,Östhammar,Torpvägen,Alunda,4,2,1,1,1,0,60.065305,18.076893,true,false
-11836,Bygdegård,Uppsala län,Östhammar,,Ekeby,3,1,1,1,0,0,60.072212,18.19183,true,false
+11836,Bygdegård,Uppsala län,Östhammar,,Ekeby,2,1,1,1,0,0,60.072212,18.19183,true,false
 11838,"Parkering vid Vårdcentralen, Torget",Uppsala län,Östhammar,,Gimo,2,2,1,1,1,0,60.172313,18.184793,true,false
 11839,ICA Sjöboden,Uppsala län,Östhammar,,Gräsö,4,3,1,2,1,0,60.348845,18.462775,true,false
 11840,Gräsöbadens Camping,Uppsala län,Östhammar,Västerbyn 296,Gräsö,2,1,1,1,0,0,60.352422,18.447877,false,false
@@ -4162,7 +4162,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16084,Virebergsvägen (vid Hagbyvägen),Stockholms län,Solna,Virebergsvägen  16D,Solna,2,2,1,1,1,0,59.36004,17.986325,true,true
 16085,"Åkrahällsskolan, p-plats",Kalmar län,Nybro,Mossvägen,Nybro,2,1,1,2,1,0,56.743725,15.931675,false,false
 16086,Hedgatan/Gamla Landsvägen,Norrbottens län,Arvidsjaur,Hedgatan/Gamla Landsvägen,Arvidsjaur,2,4,1,2,2,0,65.587305,19.195182,true,false
-16087,Statoil,Dalarnas län,Leksand,Leksandsvägen,Leksand,4,4,1,2,1,0,60.737723,15.002852,false,false
+16087,CircleK,Dalarnas län,Leksand,Leksandsvägen,Leksand,4,4,1,2,1,0,60.737723,15.002852,false,false
 16090,Vedum,Västra Götalands län,Vara,Norrgatan 4,Vedum,2,1,1,1,1,0,58.171562,12.996183,true,false
 16091,Vid Parken,Skåne län,Kristianstad,Medspårsvägen,Everöd,2,1,1,1,1,0,55.900417,14.08595,true,false
 16092,Södra Järnvägsgatan,Västerbottens län,Skellefteå,Södra Järnvägsgatan 31-33,Skellefteå,2,1,1,1,0,0,64.753375,20.953608,true,false
