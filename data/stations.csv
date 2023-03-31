@@ -868,7 +868,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 6955,Dukers väg 2A,Jönköpings län,Eksjö,Dukers väg 2A,Eksjö,2,2,1,1,1,0,57.652803,14.9839,true,false
 6958,Blikstorp,Västra Götalands län,Hjo,Centralvägen,Bilkstorp,2,1,1,2,1,0,58.28222,14.05811,false,false
 6960,Hemsön Färjeläget,Västernorrlands län,Härnösand,Älandsbro,Strinningen,2,2,1,1,1,0,62.69005,17.979312,true,false
-6961,Häggdånger Kyrkan,Västernorrlands län,Härnösand,Kyrkan,Häggdånger,2,1,1,1,1,0,62.540073,17.819348,true,false
+6961,Häggdånger Kyrkan,Västernorrlands län,Härnösand,Kyrkan,Häggdånger,2,0,1,1,1,0,62.540073,17.819348,true,false
 6962,Hälledal Handlar´n,Västernorrlands län,Härnösand,Centrumvägen 1,Ramvik,2,1,1,1,1,0,62.807445,17.868887,true,false
 6963,Utansjö Bruksvägen,Västernorrlands län,Härnösand,Bruksvägen 2,Utansjö,2,1,1,1,1,0,62.77417,17.91417,true,false
 6965,Fd AMU center,Västmanlands län,Hallstahammar,Videvägen 3,Hallstahammar,2,4,1,1,1,0,59.615618,16.247272,true,false
@@ -2933,7 +2933,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11842,vid FD butiken,Uppsala län,Östhammar,Storvägen 2,Hargshamn,2,1,1,1,1,0,60.170397,18.462177,true,false
 11845,Länsökiosken,Uppsala län,Östhammar,,Sandika,2,0,0,0,0,0,60.235157,18.434332,false,false
 11849,Kajen,Uppsala län,Östhammar,Strandgatan 1,Öregrund,2,0,0,0,0,0,60.34055,18.44166,false,false
-11851,Käbboda,Uppsala län,Östhammar,Karl Kihlboms Väg,Österbybruk,2,0,0,0,1,0,60.190895,17.884255,false,false
 11858,Coop,Uppsala län,Östhammar,Energivägen 2,Östhammar,4,4,1,3,1,0,60.248577,18.34892,true,false
 11878,"Lansjärv, Folkets Hus",Norrbottens län,Överkalix,Storvägen,Lansjärv,2,2,1,2,1,0,66.656143,22.194252,true,false
 11881,"Hedenäset, Avloppsreningsverket",Norrbottens län,Övertorneå,Torgvägen 1,Hedenäset,2,2,1,1,0,0,66.240183,23.683302,false,false
@@ -4051,7 +4050,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15900,Lahällsvägen - infart,Stockholms län,Täby,Studievägen,Täby,2,5,1,3,2,0,59.427253,18.06487,true,true
 15901,Bruksgatan,Hallands län,Laholm,Bruksgatan,Genevad,2,1,1,1,0,0,56.571383,13.029117,false,false
 15902,Kastlösa,Kalmar län,Mörbylånga,Spannmålsgatan 5,Kastlösa,2,1,1,1,1,0,56.453362,16.427338,false,false
-15903,ICA Maxi,Västernorrlands län,Härnösand,Kaptensgatan,Härnösand,2,2,1,1,1,0,62.635362,17.927517,false,false
+15903,ICA Maxi,Västernorrlands län,Härnösand,Kaptensgatan,Härnösand,2,0,1,1,1,0,62.635362,17.927517,false,false
 15913,Kävlinge ÅVC (innanför),Skåne län,Kävlinge,Floravägen 41,Kävlinge,0,0,0,1,0,0,55.790277,13.099537,false,false
 15919,Willys,Dalarnas län,Orsa,Moravägen 14,Orsa,2,3,1,2,1,0,61.115617,14.624543,false,false
 15920,Simhallen,Västernorrlands län,Härnösand,Brunnhusgatan,Härnösand,2,1,1,1,1,0,62.62853,17.941605,true,false
