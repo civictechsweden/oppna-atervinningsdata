@@ -340,7 +340,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1843,Landeryd,Hallands län,Hylte,Stationen,Landeryd,2,1,1,1,1,0,57.077863,13.268242,true,false
 1844,Långaryd,Hallands län,Hylte,Odlingsvägen,Långaryd,2,1,1,1,1,0,57.042535,13.340647,true,false
 1845,Rydöbruk,Hallands län,Hylte,Stationen,Rydöbruk,2,1,1,1,1,0,56.961877,13.143278,true,false
-1846,Torup,Hallands län,Hylte,Kvarnvägen,Torup,6,3,1,2,1,0,56.958133,13.073547,true,false
+1846,Torup,Hallands län,Hylte,Kvarnvägen,Torup,8,3,1,2,1,0,56.958133,13.073547,true,false
 1847,Unnaryd,Hallands län,Hylte,Snickargatan,Unnaryd,6,3,1,1,1,0,56.959502,13.529322,true,false
 1888,Viksjö Viséns Matbutik,Västernorrlands län,Härnösand,Gammelgården 210,Viksjö,2,1,1,1,1,0,62.779078,17.421003,true,false
 1896,Willys,Västernorrlands län,Härnösand,Gånsviksvägen 8,Härnösand,2,1,1,1,1,0,62.628302,17.957897,true,false
@@ -3626,7 +3626,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15092,Ramsö,Västra Götalands län,Strömstad,Gästhamnen,Ramsö,2,0,0,0,0,0,58.83194,11.06694,false,false
 15093,Norra Hamnen,Västra Götalands län,Strömstad,"Skeppsbroplatsen, Västra Hamngatan",Strömstad,2,0,0,0,0,0,58.94083,11.16694,false,false
 15102,Lidköping ICA Klockan,Västra Götalands län,Lidköping,,Lidköping,2,0,0,0,0,0,58.50167,13.14361,false,false
-15109,ICA Supermarket Margretelund,Västra Götalands län,Lidköping,Floragatan 8,Lidköping,2,0,0,0,0,0,58.49527,13.16944,false,false
 15114,Tosteberga,Skåne län,Kristianstad,Bodavägen,Tosteberga,2,1,1,1,1,0,56.007782,14.435167,true,false
 15116,Högsön Bygdegården,Norrbottens län,Luleå,,Luleå,2,0,0,0,0,0,65.89889,22.44694,false,false
 15121,Ullstämma (ÅVC),Östergötlands län,Linköping,Värmevägen,Linköping,9,7,1,5,4,0,58.36936,15.696123,false,false
@@ -4188,7 +4187,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16136,"Västra vägen, mittemot nr 5",Stockholms län,Solna,Västra vägen 5,Solna,2,1,1,1,1,0,59.361015,18.002088,true,true
 16137,Kolvägen,Gävleborgs län,Ockelbo,Kolvägen Lingbo,Ockelbo,2,1,1,1,1,0,61.043343,16.677468,true,false
 16138,Mjöhult,Skåne län,Höganäs,Rälsvägen,Mjöhult,2,1,1,2,1,0,56.177182,12.679607,true,false
-16140,Herrljunga Cider,Västra Götalands län,Herrljunga,Östergårdsgatan,Herrljunga,3,0,0,0,0,0,58.07972,13.01639,false,false
 16142,Alfredhäll,Skåne län,Lomma,Alfredshällsvägen,Bjärred,2,1,1,1,1,0,55.717502,13.040013,true,false
 16143,Sturegatan,Västra Götalands län,Hjo,,Hjo,2,0,0,0,0,0,58.30639,14.28917,false,false
 16150,ÅVC Borgafjäll,Västerbottens län,Dorotea,Väg 1052,Borgafjäll,2,1,1,1,0,0,64.83694,15.13667,false,false
