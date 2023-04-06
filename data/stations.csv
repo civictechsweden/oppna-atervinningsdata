@@ -556,7 +556,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3203,Statoil Centrum,Norrbottens län,Luleå,Stationsgatan 30,Luleå,3,2,1,1,1,0,65.58139,22.14389,false,false
 3205,Mjölkudden,Norrbottens län,Luleå,Mästerlotsvägen,Mjölkudden,2,2,1,1,1,0,65.602127,22.131017,false,false
 3206,Bromsargatan/Boggiegatan,Norrbottens län,Luleå,,Notviken,2,2,1,1,1,0,65.613133,22.096772,false,false
-3207,"Statoil, Persön",Norrbottens län,Luleå,,Persön,2,2,1,1,1,0,65.739957,22.167338,false,false
+3207,"Statoil, Persön",Norrbottens län,Luleå,,Persön,3,2,1,1,1,0,65.739957,22.167338,false,false
 3210,Katthedsvägen/Kängsövägen,Norrbottens län,Luleå,,Råneå,3,3,1,1,1,0,65.855633,22.292428,false,false
 3211,Luleå energi ,Norrbottens län,Luleå,Överlotsvägen,Råneå ,2,2,1,1,1,0,65.861495,22.299235,false,false
 3213,Stadsötorget,Norrbottens län,Luleå,,Gammelstaden,2,2,1,1,1,0,65.642237,22.012242,false,false
@@ -3160,7 +3160,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12618,Kvantum Skutviken,Norrbottens län,Luleå,Delfingatan,Luleå,4,3,1,2,1,0,65.59407,22.150705,false,false
 12620,Medborgarhuset,Norrbottens län,Luleå,,Måttsund,2,1,1,1,1,0,65.532603,21.920638,false,false
 12621,E4/Ersnäsvägen,Norrbottens län,Luleå,,Ersnäs,2,2,1,1,1,0,65.531982,21.788378,false,false
-12622,Bygdegården,Norrbottens län,Luleå,,Alvik,2,2,1,1,1,0,65.573122,21.774147,false,false
+12622,Bygdegården,Norrbottens län,Luleå,,Alvik,3,2,1,1,1,0,65.573122,21.774147,false,false
 12623,Bygdegården (Byahus),Norrbottens län,Luleå, ,Klöverträsk,2,2,1,1,1,0,65.634038,21.403573,false,false
 12625,Bilverkstad,Norrbottens län,Luleå,G:la Alviksträskvägen,Bälinge,2,2,1,1,1,0,65.630827,21.925508,false,false
 12626,Hamnen,Norrbottens län,Luleå, ,Kallax,2,2,1,1,1,0,65.52111,22.06389,false,false
@@ -4367,7 +4367,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16540,"Kvarnholmsvägen, bredvid hotellet",Stockholms län,Nacka,Kvarnholmsvägen 50,Kvarnholmen,2,1,1,1,1,0,59.31226,18.12568,true,false
 16545,Stockby  Returpark (ÅVC),Stockholms län,Lidingö,Stockbyvägen 3,Lidingö,7,3,2,3,0,0,59.356388,18.175393,false,true
 16546,Myrstacken ÅVS på ÅVC,Jämtlands län,Härjedalen,Indusstrigatan 16,Sveg,2,4,1,2,1,0,62.042725,14.339765,false,false
-16547,Ljusnedal ÅVS på ÅVC,Jämtlands län,Härjedalen,Industrigatan 5,Funäsdalen,2,6,1,4,1,0,62.525455,12.597487,false,false
+16547,Ljusnedal ÅVS på ÅVC,Jämtlands län,Härjedalen,Industrigatan 5,Funäsdalen,2,5,1,4,1,0,62.525455,12.597487,false,false
 16549,Ekesvägen 15,Kalmar län,Torsås,Ekesvägen 15,Söderåkra,2,2,1,2,1,0,56.451138,16.070873,true,false
 16551,Nåntunavägen ,Uppsala län,Uppsala,Korsningen Nåntunav/Hemslöjdsvägen,Uppsala,2,1,1,1,1,0,59.817638,17.696387,true,false
 16554,Volrat Thamsgatan 18,Västra Götalands län,Göteborg,Volrat Thamsgatan 18,Johanneberg,2,2,1,1,1,0,57.690498,11.986773,true,false
@@ -4650,7 +4650,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17218,Vikhemsområdet,Skåne län,Staffanstorp,"Vikhemsvägen, P-plats",Staffanstorp,2,2,1,1,1,0,55.63127,13.197607,true,false
 17219,Borggårdsallén,Skåne län,Staffanstorp,"Borggårdsallén, vid P-plats",Staffanstorp,2,2,1,1,1,0,55.65064,13.205562,false,false
 17220,Staffansvallen P-plats,Skåne län,Staffanstorp,Kronoslättsvägen,Staffanstorp,2,2,1,1,1,0,55.6342,13.212012,true,false
-17222,Olseröd,Västra Götalands län,Kungälv,Räfsalsvägen,Munkegärde,2,2,1,2,1,0,57.88777,11.96638,false,false
+17222,Olseröd,Västra Götalands län,Kungälv,Räfsalsvägen,Munkegärde,2,3,1,2,1,0,57.88777,11.96638,false,false
 17223,Hagsätravägen,Stockholms län,Stockholm,Hagsätravägen 125,Enskede-Årsta-Vantör,2,2,1,1,0,0,59.26111,18.02564,true,false
 17225,ICA Musikvägen,Västra Götalands län,Härryda,Musikvägen ,Mölnlycke,2,3,1,2,1,0,57.64750,12.12138,false,false
 17228,Västra vägen/Blomgatan,Stockholms län,Solna,Västra vägen,Solna,2,2,1,1,1,0,59.358877,18.006648,true,true
