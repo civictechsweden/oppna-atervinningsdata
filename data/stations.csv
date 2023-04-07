@@ -553,10 +553,10 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3195,Hammarenvägen/ Näsuddenvägen,Norrbottens län,Luleå,,Södra Sunderbyn,2,3,1,1,1,0,65.652495,21.950063,false,false
 3198,"Knöppelåsen, Hagahallen",Norrbottens län,Luleå,Hagaplan / Vitmossegatan,Bredviken,2,2,1,1,1,0,65.58725,22.203827,false,false
 3199,Spannmålsvägen,Norrbottens län,Luleå,,Kvarnbäcken,2,3,1,1,1,0,65.591432,22.223825,false,false
-3203,Statoil Centrum,Norrbottens län,Luleå,Stationsgatan 30,Luleå,3,2,1,1,1,0,65.58139,22.14389,false,false
+3203,Statoil Centrum,Norrbottens län,Luleå,Stationsgatan 30,Luleå,2,2,1,1,1,0,65.58139,22.14389,false,false
 3205,Mjölkudden,Norrbottens län,Luleå,Mästerlotsvägen,Mjölkudden,2,2,1,1,1,0,65.602127,22.131017,false,false
 3206,Bromsargatan/Boggiegatan,Norrbottens län,Luleå,,Notviken,2,2,1,1,1,0,65.613133,22.096772,false,false
-3207,"Statoil, Persön",Norrbottens län,Luleå,,Persön,3,2,1,1,1,0,65.739957,22.167338,false,false
+3207,"Statoil, Persön",Norrbottens län,Luleå,,Persön,2,2,1,1,1,0,65.739957,22.167338,false,false
 3210,Katthedsvägen/Kängsövägen,Norrbottens län,Luleå,,Råneå,3,3,1,1,1,0,65.855633,22.292428,false,false
 3211,Luleå energi ,Norrbottens län,Luleå,Överlotsvägen,Råneå ,2,2,1,1,1,0,65.861495,22.299235,false,false
 3213,Stadsötorget,Norrbottens län,Luleå,,Gammelstaden,2,2,1,1,1,0,65.642237,22.012242,false,false
@@ -3160,7 +3160,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12618,Kvantum Skutviken,Norrbottens län,Luleå,Delfingatan,Luleå,4,3,1,2,1,0,65.59407,22.150705,false,false
 12620,Medborgarhuset,Norrbottens län,Luleå,,Måttsund,2,1,1,1,1,0,65.532603,21.920638,false,false
 12621,E4/Ersnäsvägen,Norrbottens län,Luleå,,Ersnäs,2,2,1,1,1,0,65.531982,21.788378,false,false
-12622,Bygdegården,Norrbottens län,Luleå,,Alvik,3,2,1,1,1,0,65.573122,21.774147,false,false
+12622,Bygdegården,Norrbottens län,Luleå,,Alvik,2,2,1,1,1,0,65.573122,21.774147,false,false
 12623,Bygdegården (Byahus),Norrbottens län,Luleå, ,Klöverträsk,2,2,1,1,1,0,65.634038,21.403573,false,false
 12625,Bilverkstad,Norrbottens län,Luleå,G:la Alviksträskvägen,Bälinge,2,2,1,1,1,0,65.630827,21.925508,false,false
 12626,Hamnen,Norrbottens län,Luleå, ,Kallax,2,2,1,1,1,0,65.52111,22.06389,false,false
@@ -3636,7 +3636,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15140,Bösarp,Hallands län,Varberg,Skällingevägen,Skällinge,2,1,1,1,1,0,57.18417,12.41750,false,false
 15143,Skå Återvinningscentral,Stockholms län,Ekerö,,Färingsö,3,2,1,3,4,0,59.338243,17.728868,false,false
 15151,ÅVC,Västra Götalands län,Hjo,Timmervägen 1,Hjo,6,3,2,3,1,0,58.314512,14.286413,true,false
-15152,Falköpingsvägen,Västra Götalands län,Hjo,Sigghusgatan 3,Hjo,2,0,0,0,0,0,58.30166,14.27500,true,false
+15152,Falköpingsvägen,Västra Götalands län,Hjo,Sigghusgatan 3,Hjo,3,0,0,0,0,0,58.30166,14.27500,true,false
 15156,Blåbergets innanför (ÅVC) k-parken,Västernorrlands län,Sundsvall,Knävland 164,Sundsvall,4,2,1,1,1,0,62.37806,17.16639,false,false
 15157,Johannedal ÅVC,Västernorrlands län,Sundsvall,Johannedalsvägen 67,Sundsbruk,2,2,1,1,1,0,62.44000,17.38806,false,false
 15160,Skäret (ÅVC),Örebro län,Ljusnarsberg,,Kopparberg,2,2,1,2,1,0,59.89361,14.94417,false,false
@@ -4778,7 +4778,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17434,Vid rondellen,Skåne län,Malmö,N Parkgatan / Kristianstadsgatan,Malmö,2,2,1,1,1,0,55.59208,13.012157,true,false
 17435,Kittelfjäll,Västerbottens län,Vilhelmina,Kittelfjäll 211,Dikanäs,3,3,1,3,1,0,65.25027,15.50166,false,false
 17437,ÅVC Brattåsen,Jämtlands län,Åre,"4 km väster om Enafors, intill E14",Storlien,2,1,0,1,1,0,63.27083,12.26555,false,false
-17438,Vid Vallentuna Ishall,Stockholms län,Vallentuna,Parkvägen,Vallentuna,2,3,1,2,1,0,59.534073,18.092548,true,true
+17438,Vid Vallentuna Ishall,Stockholms län,Vallentuna,Parkvägen,Vallentuna,2,1,1,2,1,0,59.534073,18.092548,true,true
 17439,Sörbyn,Norrbottens län,Boden,Sörbyn 3,Gunnarsbyn,2,1,1,1,1,0,66.04694,21.78555,false,false
 17440,Degerbäcken,Norrbottens län,Boden,Degerbäckens by 47C,Boden,2,1,1,1,1,0,65.85833,21.40916,false,false
 17441,Bleket,Västra Götalands län,Uddevalla,Vargstigen 2,Uddevalla,2,3,1,2,1,0,58.36611,11.93694,false,false
