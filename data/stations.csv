@@ -4741,6 +4741,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,6,0,0,3,1,0,59.348148,17.94994,false,false
 17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,3,4,0,4,1,0,59.386962,17.792227,false,false
 17381,Överlida,Västra Götalands län,Svenljunga,Hallavägen 6,Överlida,2,1,1,2,0,0,57.35083,12.89583,false,false
+17382,Mårdaklev,Västra Götalands län,Svenljunga,Bäckavägen 1,Mårdaklev,2,3,1,2,1,0,57.24611,12.97638,false,false
 17383,Hamrafjället,Jämtlands län,Härjedalen,Fäbodvägen,Tänndalen,3,3,1,2,1,0,62.57388,12.22416,false,false
 17384,Junsele ÅVC,Västernorrlands län,Sollefteå,Edsbacken 125,Junsele,2,1,1,1,1,0,63.70694,16.79083,false,false
 17385,Ramsele ÅVC,Västernorrlands län,Sollefteå,Ståsvedjan 111,Ramsele,2,1,1,1,1,0,63.56250,16.44777,false,false
@@ -4861,6 +4862,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17585,Elestorp,Skåne län,Bjuv,Spannmålsgatan ,Ekeby,2,4,1,2,1,0,56.00250,12.95388,false,false
 17586,Idrottsplatsen,Skåne län,Helsingborg,Kardemummagatan,Gantofta,2,2,1,1,1,0,55.98527,12.80305,false,false
 17589,Arena Park,Skåne län,Lund,Stadsparksgatan,Lund,2,2,1,1,0,0,55.69972,13.18166,false,false
+17592,Nymölla,Skåne län,Bromölla,Åvägen,Nymölla,2,1,1,1,1,0,56.04000,14.46750,false,false
 17594,Gröna Dalen grusplan,Uppsala län,Håbo,Badhusvägen /Runbrovägen,Bålsta,4,3,1,2,1,0,59.56472,17.52555,false,false
 17595,"Solstrålevägen, Storvreta",Uppsala län,Uppsala,Solstrålevägen 22,Storvreta,2,2,1,1,1,0,59.94972,17.69777,false,false
 17600,PEKÅS,Värmlands län,Kristinehamn,Oscarsborgsgatan 6 ,Kristinehamn,2,2,1,2,1,0,59.31944,14.11388,false,false
