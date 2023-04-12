@@ -1202,7 +1202,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7677,"Bergsjön Västra, Lidl",Västra Götalands län,Göteborg,Galileis gatan 50,Bergsjön Västra,2,3,1,1,1,0,57.761852,12.050805,true,false
 7683,"Bergsjön Västra, Siriusgatan 78",Västra Götalands län,Göteborg,Siriusgatan 78,Bergsjön Västra,2,3,1,1,1,0,57.756357,12.054052,true,false
 7684,"Bergsjön Västra, Teleskopgatan 4",Västra Götalands län,Göteborg,Teleskopgatan 4,Bergsjön Västra,2,2,1,1,1,0,57.762997,12.060562,true,false
-7685,"Björkekärr, Lådämnesgatan 31",Västra Götalands län,Göteborg,Lådämnesgatan 31,Björkekärr,2,3,1,1,1,0,57.715938,12.053245,true,false
+7685,"Björkekärr, Lådämnesgatan 31",Västra Götalands län,Göteborg,Lådämnesgatan 31,Björkekärr,2,2,1,1,1,0,57.715938,12.053245,true,false
 7687,"Björkekärr, på baksidan Stabbetorget",Västra Götalands län,Göteborg,Stabbetorget 6,Björkekärr,2,4,1,1,1,0,57.715373,12.047487,true,false
 7688,"Björkekärr, Träkilsgatan 2",Västra Götalands län,Göteborg,Träkilsgatan 2,Björkekärr,2,3,1,1,1,0,57.716915,12.055822,true,false
 7689,"Brämaregården, Västra Andersgårdsgatan 4",Västra Götalands län,Göteborg,Västra Andersgårdgatan 4,Brämaregården,2,1,1,1,1,0,57.715573,11.926337,true,false
@@ -3498,7 +3498,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14719,"Gamlestaden, Måns Bryntessonsplatsen 1 p-plats",Västra Götalands län,Göteborg,Måns Bryntessonsplatsen 1,Gamlestaden,2,3,1,1,1,0,57.731153,12.00837,true,false
 14722,"Annelund, utanför ÅVC",Västra Götalands län,Herrljunga,,Annelund,2,1,1,2,1,0,57.993363,13.093675,true,false
 14729,Stannum Trä,Västra Götalands län,Lerum,Benelyckevägen,Gråbo,2,1,1,1,1,0,57.825142,12.246752,true,false
-14730,Mjörnbotorget Centrum,Västra Götalands län,Lerum,,Gråbo,4,4,1,2,1,0,57.835702,12.298092,true,false
+14730,Mjörnbotorget Centrum,Västra Götalands län,Lerum,,Gråbo,4,4,1,2,0,0,57.835702,12.298092,false,false
 14732,"Bomhus, Furuviksvägen/Korsnäsvägen",Gävleborgs län,Gävle,Furuviksvägen/Korsnäsvägen,Gävle,2,1,1,1,1,0,60.67284,17.266805,true,false
 14741,ICA Supermarket Grytan ,Västmanlands län,Västerås,Norrleden/Grytavägen 1,Gryta,3,2,1,2,1,0,59.638015,16.546512,true,false
 14746,Odenskog  utanför Återvinningscentralen,Jämtlands län,Östersund,Krubbvägen 6,Östersund,4,3,2,2,2,0,63.166818,14.681403,false,false
@@ -3636,7 +3636,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15140,Bösarp,Hallands län,Varberg,Skällingevägen,Skällinge,2,1,1,1,1,0,57.18417,12.41750,false,false
 15143,Skå Återvinningscentral,Stockholms län,Ekerö,,Färingsö,3,2,1,3,4,0,59.338243,17.728868,false,false
 15151,ÅVC,Västra Götalands län,Hjo,Timmervägen 1,Hjo,6,3,2,3,1,0,58.314512,14.286413,true,false
-15152,Falköpingsvägen,Västra Götalands län,Hjo,Sigghusgatan 3,Hjo,3,0,0,0,0,0,58.30166,14.27500,true,false
+15152,Falköpingsvägen,Västra Götalands län,Hjo,Sigghusgatan 3,Hjo,2,0,0,0,0,0,58.30166,14.27500,true,false
 15156,Blåbergets innanför (ÅVC) k-parken,Västernorrlands län,Sundsvall,Knävland 164,Sundsvall,4,2,1,1,1,0,62.37806,17.16639,false,false
 15157,Johannedal ÅVC,Västernorrlands län,Sundsvall,Johannedalsvägen 67,Sundsbruk,2,2,1,1,1,0,62.44000,17.38806,false,false
 15160,Skäret (ÅVC),Örebro län,Ljusnarsberg,,Kopparberg,2,2,1,2,1,0,59.89361,14.94417,false,false
@@ -4716,6 +4716,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17343,Parkeringen vid Sollenkroka hamn,Stockholms län,Värmdö,Lövdalsvägen,Sollenkroka,2,2,1,2,1,0,59.37261,18.698185,true,false
 17344,"Klockarfjället, Vemdalen",Jämtlands län,Härjedalen,Klockarfjällsvägen 2,Vemdalen,3,3,1,1,1,0,62.49277,13.92916,false,false
 17345,"Skalpasset, Vemdalen",Jämtlands län,Härjedalen,Skalpassvägen 1,Vemdalen,3,2,1,2,1,0,62.49361,13.94000,false,false
+17348,Polishuset,Norrbottens län,Piteå,Kolugnsvägen/Västra Kajvägen,Piteå,2,3,1,2,1,0,65.31555,21.46722,false,false
 17349,Frillesås ÅVC,Hallands län,Kungsbacka,Rya Industriväg 50,Frillesås,3,1,1,1,1,0,57.32388,12.18583,true,false
 17351,Parkering vid Jysk,Skåne län,Höganäs,"Bagerigatan 7, P-plats",Höganäs,2,1,1,1,1,0,56.201225,12.56449,false,false
 17353,Saxnäs ÅVC,Västerbottens län,Vilhelmina,Vilhelminavägen ,Marsfjäll,2,2,1,1,1,0,64.965543,15.392673,false,false
@@ -4735,7 +4736,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17371,Helgenäs ,Kalmar län,Västervik,Helgenäs hamn,Edsbruk,2,1,1,1,1,0,57.99656,16.495808,false,false
 17372,Kastmansgatan (Vågen),Kalmar län,Torsås,Kastmansgatan 100,Bergkvara,2,2,1,1,1,0,56.386198,16.081495,true,false
 17373,Skolhusvägen (Stora Herrestad),Skåne län,Ystad,Skolhusvägen,Ystad,2,1,1,1,1,0,55.472573,13.87382,true,false
-17375,Ripfjället,Jämtlands län,Härjedalen,Skalfjällsvägen,Vemdalen,2,0,0,0,0,0,62.48277,14.03694,false,false
 17377,Östberga Återvinningscentral,Stockholms län,Stockholm,Bussens väg,Enskede,4,0,0,2,1,0,59.285977,18.046305,false,false
 17378,Vantörs återvinningcentral (Utanför),Stockholms län,Stockholm,Kvicksundsvägen,Bandhagen,2,0,0,2,1,0,59.257768,18.058253,false,false
 17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,6,0,0,3,1,0,59.348148,17.94994,false,false
