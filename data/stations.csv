@@ -96,7 +96,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 583,Kristinagränd,Örebro län,Degerfors,Kristinagränd,Degerfors,2,1,1,1,1,0,59.234597,14.430292,true,false
 584,"Posten, Agen",Örebro län,Degerfors,Telegatan,Degerfors,2,1,1,1,1,0,59.238688,14.43236,true,false
 588,P-plats Folkets Park,Örebro län,Degerfors,Gamla Björneborgsvägen,Degerfors,2,2,1,1,1,0,59.239975,14.420267,false,false
-589,Strömtorp ICA,Örebro län,Degerfors,Amgärdesgatan/Strömstorpsvägen,Strömtorp,2,2,1,1,1,0,59.249127,14.413845,true,false
 590,Industrivägen ,Örebro län,Degerfors,Industrivägen,Svartå,2,2,1,1,1,0,59.127407,14.521885,true,false
 600,Idrottsvägen,Värmlands län,Eda,,Charlottenberg,4,2,1,3,1,0,59.884642,12.310253,true,false
 601,Källgatan,Värmlands län,Eda,,Charlottenberg,6,3,1,3,1,0,59.876825,12.284835,true,false
@@ -1057,7 +1056,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7377,"Kyrkvägen, p-plats",Skåne län,Bromölla,Kyrkvägen,Bromölla,2,1,1,1,1,0,56.08356,14.469592,false,false
 7386,Folkets Husgatan/Dalagatan,Skåne län,Bromölla,,Bromölla,2,1,1,1,1,0,56.07561,14.486753,false,false
 7408,Infarten till sågverket,Skåne län,Bromölla,Byvägen,Gualöv,2,1,1,1,1,0,56.048607,14.427233,false,false
-7413,Åvägen/Massavägen,Skåne län,Bromölla,,Nymölla,2,1,1,1,1,0,56.040583,14.465988,false,false
 7414,Idrottsplatsen,Skåne län,Bromölla,Idrottsv.,Näsum,2,1,1,1,1,0,56.17335,14.505982,false,false
 7419,"Busshållplats, Valje",Skåne län,Bromölla,Östersjövägen/Backavägen,Valje,2,1,1,1,1,0,56.059228,14.535073,false,false
 7423,"Albacken, Folkets Hus",Jämtlands län,Bräcke,,Sörbygden,2,2,1,2,1,0,62.780252,16.024558,false,false
