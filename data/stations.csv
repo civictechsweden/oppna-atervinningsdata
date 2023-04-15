@@ -2903,7 +2903,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11781,Coop Extra,Jämtlands län,Östersund,Trädgårdsvägen 2,Frösön,3,2,1,1,1,0,63.182008,14.618405,true,false
 11785,Rödövägen/Arnljots väg,Jämtlands län,Östersund,RödövägenArnljots väg,Frösön,2,1,1,1,1,0,63.17274,14.548585,true,false
 11786,Valla Centrum,Jämtlands län,Östersund,Önevägen,Frösön,2,2,1,1,1,0,63.168932,14.567028,false,false
-11787,"Fåker, elljusspår",Jämtlands län,Östersund, Grönviksvägen,Fåker,2,1,1,1,1,0,62.993758,14.579978,true,false
+11787,"Fåker, elljusspår",Jämtlands län,Östersund, Grönviksvägen,Fåker,2,1,1,0,1,0,62.993758,14.579978,true,false
 11788,"Genvalla, Vid infarten till fastighet",Jämtlands län,Östersund,Genvalla 150,Genvalla,2,1,1,1,1,0,63.155253,14.517603,true,false
 11790,"Häggenås, Häggenås Livs",Jämtlands län,Östersund,Gustaf Rydstedts väg 2,Häggenås,2,1,1,1,1,0,63.390998,14.903478,true,false
 11791,"Högarna, Skolan/Bagarstugan",Jämtlands län,Östersund,,Häggenås,2,1,1,1,1,0,63.418002,15.249668,false,false
@@ -4903,6 +4903,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17694,Boo Gårdsskola 2.0,Stockholms län,Nacka,Bovägen 7,Lännersta,2,5,1,2,1,0,59.30888,18.28555,false,false
 17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 17712,Väröbacka IP,Hallands län,Varberg,Lyckevägen 15,Limabacka,2,1,1,1,1,0,57.23972,12.18416,false,false
+17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,3,1,1,2,1,0,59.30916,18.37972,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,1,1,1,1,0,56.704957,16.32314,true,false
