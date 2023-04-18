@@ -1782,7 +1782,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9028,Gästhamnen,Västra Götalands län,Mariestad,Kanalvägen 5-9,Lyrestad,2,2,1,1,1,0,58.80273,14.05819,true,false
 9031,Folkets Park,Västra Götalands län,Mariestad,Strandvägen 27,Mariestad,2,1,1,1,1,0,58.714028,13.828592,true,false
 9036,St1 Tapp Vattentornet ,Västra Götalands län,Mariestad,"Marieforsleden, Krontorp",Mariestad,2,2,1,2,1,0,58.711597,13.8594,true,false
-9038,Bilverkstad,Västra Götalands län,Mariestad,Gärdesgatan 2,Mariestad,2,1,1,1,1,0,58.705368,13.820537,true,false
+9038,Bilverkstad,Västra Götalands län,Mariestad,Gärdesgatan 2,Mariestad,3,1,1,1,1,0,58.705368,13.820537,true,false
 9039,Folktandvården,Västra Götalands län,Mariestad,Bråtenvägen 4,Mariestad,2,2,1,2,1,0,58.695128,13.804077,true,false
 9044,Sandbäcksvägen fd Skeppet,Västra Götalands län,Mariestad,Sandbäcksvägen 42-44,Mariestad,2,1,1,1,1,0,58.698935,13.835678,true,false
 9045,Marieholms centrum,Västra Götalands län,Mariestad,Älgstigen 1,Mariestad,3,2,1,1,1,0,58.704425,13.802655,true,false
@@ -4903,7 +4903,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17694,Boo Gårdsskola 2.0,Stockholms län,Nacka,Bovägen 7,Lännersta,2,5,1,2,1,0,59.30888,18.28555,false,false
 17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 17712,Väröbacka IP,Hallands län,Varberg,Lyckevägen 15,Limabacka,2,1,1,1,1,0,57.23972,12.18416,false,false
-17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,3,1,1,2,1,0,59.30916,18.37972,false,false
+17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,2,2,1,2,1,0,59.30916,18.37972,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,1,1,1,1,0,56.704957,16.32314,true,false
