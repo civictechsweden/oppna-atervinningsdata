@@ -703,7 +703,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 4441,"S:t Olof, Medborgarhuset",Skåne län,Simrishamn,Hultgatan/Kapellgatan,S:t Olof,2,1,1,1,1,0,55.638078,14.12682,true,false
 4447,Brunnshallens kundparkering,Skåne län,Simrishamn,Yngve Östbergs väg/Kristianstadsvägen,Simrishamn,3,2,1,1,1,0,55.557762,14.346125,true,false
 4452,Skeppshandeln,Skåne län,Simrishamn,Branteviksvägen,Skillinge,3,2,1,1,1,0,55.476465,14.287818,true,false
-4454,Östra Tommarp,Skåne län,Simrishamn,Industrigatan / Skomakaregatan,Tommarp,2,1,1,1,1,0,55.53855,14.23528,true,false
+4454,Östra Tommarp,Skåne län,Simrishamn,Industrigatan / Skomakaregatan,Tommarp,3,1,1,1,1,0,55.53855,14.23528,true,false
 4516,"Bernshammar, Affärsplan",Västmanlands län,Skinnskatteberg,,Bernshammar,4,1,1,2,1,0,59.669492,15.770987,true,false
 4517,"Färna, Svinhuset",Västmanlands län,Skinnskatteberg,Fåfängans väg,Färna Bruk,2,1,1,2,1,0,59.78123,15.85692,true,false
 4518,"Q-star, Riddarhyttan",Västmanlands län,Skinnskatteberg,Liensvägen 12,Riddarhyttan,3,1,1,2,1,0,59.808698,15.539247,false,false
@@ -1257,7 +1257,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7769,"Kungsladugård, Sannaplan",Västra Götalands län,Göteborg,Sannaplan,Kungsladugård,2,3,1,1,1,0,57.684367,11.915495,true,false
 7770,"Kungsladugård, Svanebäcksgatan 25",Västra Götalands län,Göteborg,Svanebäcksgatan 25,Kungsladugård,2,2,1,1,1,0,57.687217,11.91847,true,false
 7771,"Kvillebäcken, Bäckängsgatan 2",Västra Götalands län,Göteborg,Bäckängsgatan 2,Kvillebäcken,2,2,1,1,1,0,57.730285,11.917988,true,false
-7772,"Kvillebäcken, Drakblommegatan 25",Västra Götalands län,Göteborg,Drakblommegatan 25,Kvillebäcken,2,3,1,1,1,0,57.727438,11.93608,true,false
 7776,"Kvillebäcken, Gullrisgatan 1",Västra Götalands län,Göteborg,Gullrisgatan 1,Kvillebäcken,4,5,2,4,1,0,57.726675,11.94513,true,false
 7777,"Kvillebäcken, Wieselgrensgatan 10",Västra Götalands län,Göteborg,Sven Agne Larssons väg,Kvillebäcken,2,3,1,2,1,0,57.723937,11.93406,true,false
 7780,"Kärra, Lillekärr Södra 198",Västra Götalands län,Göteborg,Lillekärr Södra 198,Kärra,2,3,1,1,1,0,57.793783,11.990518,true,false
@@ -3078,7 +3077,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12289,"Prästslätten, Kvarteret Champinjonen (1)",Blekinge län,Karlshamn,Södra Prästslättsvägen,Karlshamn,2,1,1,1,0,0,56.180295,14.863298,true,false
 12290,Sandviken Centrum,Örebro län,Karlskoga,Sandviksvägen,Karlskoga,2,1,1,1,1,0,59.33037,14.56159,false,false
 12295,Centrum Bollebygd,Västra Götalands län,Bollebygd,Ekedalsvägen / Ballebovägen,Bollebygd,4,2,1,1,1,0,57.669165,12.569297,true,false
-12298,Perstorps Återvinningsgård (ÅVC),Skåne län,Perstorp,Arons Väg 16,Perstorp,2,3,0,0,1,0,56.140283,13.37612,false,false
+12298,Perstorps Återvinningsgård (ÅVC),Skåne län,Perstorp,Arons Väg 16,Perstorp,2,3,0,0,2,0,56.140283,13.37612,false,false
 12299,"Sölvesborg, Lasses Kiosk Svarta led",Blekinge län,Sölvesborg,verkstadsgatan,Sölvesborg,2,1,1,1,0,0,56.053207,14.570208,true,false
 12300,Vid gamla Vandrarhemmet,Skåne län,Eslöv,Flyingevägen,Gårdstånga,2,2,1,1,0,0,55.761403,13.327415,true,false
 12310,"Masthugget, Kjellmansgatan 7",Västra Götalands län,Göteborg,Kjellmansgatan 7,Masthugget,2,3,1,1,1,0,57.69807,11.938528,true,false
@@ -3422,7 +3421,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14457,Verkmästaregatan,Uppsala län,Enköping,,Enköping,0,1,0,0,1,0,59.650322,17.069435,false,false
 14468,Gårdsvägen/Hagvägen,Stockholms län,Huddinge,,Segeltorp,2,3,1,2,1,0,59.2714,17.929308,true,false
 14472,Landvetter Brattåsvägen/Lunnavägen,Västra Götalands län,Härryda,,Landvetter,2,2,1,2,1,0,57.68559,12.219068,true,false
-14475,Norra Åsbo Renhållnings (ÅVC),Skåne län,Klippan,Hyllstofta 6178,Hyllstofta,2,1,0,2,1,0,56.13556,13.25833,false,false
+14475,Norra Åsbo Renhållnings (ÅVC),Skåne län,Klippan,Hyllstofta 6178,Hyllstofta,2,1,1,2,1,0,56.13556,13.25833,false,false
 14480,ÅV-Centralen (ÅVC),Örebro län,Lekeberg,Tegelslagaregatan,Fjugesta,2,2,1,3,1,0,59.17183,14.880785,true,false
 14487,Mariebergsskolan,Östergötlands län,Motala,Agneshögsgatan/Gustavsviksvägen,Motala,4,3,1,2,1,0,58.539327,14.996727,false,false
 14493,ICA Gården,Östergötlands län,Norrköping,Skogsängsgatan,Skärblacka,2,2,1,1,1,0,58.575942,15.93758,true,false
@@ -3897,10 +3896,10 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15680,Höör ÅVC,Skåne län,Höör,Verkstadsgatan,Höör,2,3,1,4,0,0,55.939292,13.554528,false,false
 15682,Hörby ÅVC,Skåne län,Hörby,"Kristianstadsvägen, Stavröd",Hörby,2,2,1,5,0,0,55.864293,13.700583,false,false
 15684,Barnamossen (ÅVC),Hallands län,Kungsbacka,Barnamossevägen,Kungsbacka,2,2,1,2,1,0,57.52333,12.14028,true,false
-15687,Ljungbyheds Återvinningsgård (ÅVC),Skåne län,Klippan,Rågångsgatan 2,Ljungbyhed,2,2,0,0,1,0,56.064832,13.229858,false,false
-15688,Åbytorp Återvinningsgård (ÅVC),Skåne län,Klippan,Åbytorpsvägen,Klippan,4,3,0,0,2,0,56.13015,13.124342,false,false
-15689,Övarps Återvinningsgård (ÅVC),Skåne län,Klippan,Övarp,Östra Ljungby,2,1,0,3,1,0,56.196003,13.101777,false,false
-15690,Örkelljunga Återvinningsgård (ÅVC),Skåne län,Örkelljunga,Industrigatan 15,Örkelljunga,4,3,0,0,2,0,56.290362,13.305025,false,false
+15687,Ljungbyheds Återvinningsgård (ÅVC),Skåne län,Klippan,Rågångsgatan 2,Ljungbyhed,2,2,1,0,1,0,56.064832,13.229858,false,false
+15688,Åbytorp Återvinningsgård (ÅVC),Skåne län,Klippan,Åbytorpsvägen,Klippan,4,3,2,0,2,0,56.13015,13.124342,false,false
+15689,Övarps Återvinningsgård (ÅVC),Skåne län,Klippan,Övarp,Östra Ljungby,2,1,1,3,1,0,56.196003,13.101777,false,false
+15690,Örkelljunga Återvinningsgård (ÅVC),Skåne län,Örkelljunga,Industrigatan 15,Örkelljunga,4,3,2,0,2,0,56.290362,13.305025,false,false
 15691,Sörmossen (ÅVC),Västra Götalands län,Ale,"Rördalsvägen, Storskogen",Bohus,2,2,1,1,1,0,57.845075,12.05173,true,false
 15692,Råssa ÅVC (utanför),Västra Götalands län,Bollebygd,Göteborgsvägen,Bollebygd,4,2,1,2,1,0,57.67806,12.62278,true,false
 15693,Bälinge (ÅVC),Västra Götalands län,Alingsås,Bäling,Alingsås,2,0,0,0,1,0,57.94444,12.58472,false,false
