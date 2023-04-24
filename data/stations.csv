@@ -4861,6 +4861,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17592,Nymölla,Skåne län,Bromölla,Åvägen,Nymölla,2,1,1,1,1,0,56.04000,14.46750,false,false
 17594,Gröna Dalen grusplan,Uppsala län,Håbo,Badhusvägen /Runbrovägen,Bålsta,4,3,1,2,1,0,59.56472,17.52555,false,false
 17595,"Solstrålevägen, Storvreta",Uppsala län,Uppsala,Solstrålevägen 22,Storvreta,2,2,1,1,1,0,59.94972,17.69777,false,false
+17598,Skee Bygdegård,Västra Götalands län,Strömstad,Grålösavägen,Skee,2,2,1,1,1,0,58.91916,11.26777,false,false
 17600,PEKÅS,Värmlands län,Kristinehamn,Oscarsborgsgatan 6 ,Kristinehamn,2,2,1,2,1,0,59.31944,14.11388,false,false
 17602,Sickla köpkvarter Planiavägen,Stockholms län,Nacka,Planiavägen 5,Nacka,4,3,1,2,1,0,59.305605,18.133742,true,false
 17606,Värmbols IP,Södermanlands län,Katrineholm,Dalvägen,Katrineholm,2,2,1,2,1,0,58.98972,16.15805,false,false
@@ -4891,6 +4892,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17660,Parkallén,Skåne län,Staffanstorp,Parkallén,Hjärup,2,1,1,1,1,0,55.67138,13.14638,false,false
 17661,Blåklockansväg,Stockholms län,Nacka,Blåklockansväg 2,Saltsjö-Boo,2,2,1,2,1,0,59.31027,18.26027,false,false
 17662,Björnrikecentrat,Jämtlands län,Härjedalen,Björnrike Vesselstigen/Björnvägen,Vemdalen,2,2,1,1,1,0,62.42333,13.95277,false,false
+17665,"Vik, Sältenmotet",Jämtlands län,Strömsund,Hogar Gård ,Strömstad,2,2,1,2,1,0,58.87166,11.27138,false,false
 17669,Willys Skutskär,Uppsala län,Älvkarleby,Östra vägen,Skutskär,3,3,1,2,1,0,60.63027,17.41500,false,false
 17674,City Gross Falun,Dalarnas län,Falun,Tallenområdet ,Falun,4,2,1,1,1,0,60.57583,15.60555,false,false
 17676,Tallvägen,Gävleborgs län,Söderhamn,Tallvägen,Söderhamn,2,1,1,1,1,0,61.31222,17.04750,false,false
