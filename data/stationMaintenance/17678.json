@@ -8,14 +8,14 @@
     {
         "material": "Metallförpackningar",
         "materialid": "3",
-        "senaktivitet": null,
+        "senaktivitet": "2023-04-27T07:43:42",
         "nastaaktivitet": "2023-05-23T00:00:00"
     },
     {
         "material": "Pappersförpackningar",
         "materialid": "5",
-        "senaktivitet": null,
-        "nastaaktivitet": "2023-04-27T00:00:00"
+        "senaktivitet": "2023-04-27T11:27:12",
+        "nastaaktivitet": "2023-04-29T00:00:00"
     },
     {
         "material": "Tidningar",
