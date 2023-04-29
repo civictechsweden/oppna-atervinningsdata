@@ -3721,8 +3721,8 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15411,Karlbergs avfallsstation (ÅVC),Värmlands län,Grums,"Bakom Värmlandsrasta, Nyängsgatan 11",Grums,4,2,1,1,1,0,59.362918,13.128903,false,false
 15413,Återvinningscentralen (ÅVC),Jönköpings län,Eksjö,Svarvgatan,Eksjö,5,2,2,2,2,0,57.65947,14.996367,false,false
 15414,Stigen (ÅVC),Västra Götalands län,Färgelanda,,Färgelanda,2,1,1,2,1,0,58.57429,12.055027,true,false
-15416,Huskvarna sortergård (ÅVC),Jönköpings län,Jönköping,,Huskvarna,4,1,0,1,3,0,57.782062,14.257105,true,false
-15419,Kaxholmen sortergård (ÅVC),Jönköpings län,Jönköping,,Jönköping,2,1,0,1,2,0,57.85500,14.28944,true,false
+15416,Huskvarna sortergård (ÅVC),Jönköpings län,Jönköping,,Huskvarna,4,1,1,1,3,0,57.782062,14.257105,true,false
+15419,Kaxholmen sortergård (ÅVC),Jönköpings län,Jönköping,,Jönköping,2,1,1,1,2,0,57.85500,14.28944,true,false
 15421,Östby (ÅVC),Västra Götalands län,Åmål,,Åmål,4,3,1,4,1,0,59.094987,12.75812,true,false
 15422,Furskog (ÅVC),Värmlands län,Årjäng,,Årjäng,2,1,2,2,1,0,59.385787,12.045278,false,false
 15423,Brukshandeln Forsmark,Uppsala län,Östhammar,,Forsmark,3,1,1,1,1,0,60.36857,18.153877,false,false
@@ -3759,8 +3759,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15461,Storvreta (ÅVC),Uppsala län,Uppsala,Ärentunavägen,Storvreta,2,3,1,4,2,0,59.964855,17.697573,true,false
 15462,Malmen (ÅVC),Östergötlands län,Linköping,Malmenvägen,Linköping,7,4,1,4,3,0,58.408675,15.547135,false,false
 15463,Gärstad (ÅVC),Östergötlands län,Linköping,Tekniska verken,Linköping,5,3,1,2,2,0,58.435518,15.644825,false,false
-15464,Floby (ÅVC) ,Västra Götalands län,Falköping,Ullenevägen ,FLOBY,2,2,1,2,1,0,58.15194,13.32556,false,false
-15465,Stenstorp (ÅVC) ,Västra Götalands län,Falköping,,STENSTORP,2,2,1,3,1,0,58.293487,13.745595,false,false
 15466,Rödjorna (ÅVC),Västra Götalands län,Skara,,Skara,2,1,1,1,1,0,58.376373,13.545233,true,false
 15467,Risängen (ÅVC),Västra Götalands län,Skövde,,Skövde,6,3,1,6,0,0,58.378968,13.876518,false,false
 15468,"Bångahagen, Återvinningscentral (ÅVC)",Västra Götalands län,Mariestad,Marieforsleden 7,Mariestad,6,5,1,9,1,0,58.706202,13.861343,true,false
@@ -3927,7 +3925,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15732,Bureå ÅVC ,Västerbottens län,Skellefteå,Sinusvägen,Bureå,2,3,1,2,0,0,64.612937,21.188242,true,false
 15733,Clemensnäs/Ursviken ÅVC,Västerbottens län,Skellefteå,Mekanvägen,Clemensnäs,2,3,1,1,0,0,64.710095,21.159182,false,false
 15734,Lilla Hammar ÅVC,Skåne län,Vellinge,Lilla Hammar,Höllviken,3,2,0,0,0,0,55.428108,12.952407,false,false
-15736,Bankeryd (ÅVC),Jönköpings län,Jönköping,Tallvägen,Bankeryd,2,1,0,1,2,0,57.87000,14.10861,true,false
+15736,Bankeryd (ÅVC),Jönköpings län,Jönköping,Tallvägen,Bankeryd,2,1,1,1,2,0,57.87000,14.10861,true,false
 15737,Tingbergsvallen,Hallands län,Kungsbacka,Borgmästaregatan,Kungsbacka,2,2,1,1,1,0,57.49111,12.06778,true,false
 15739,Villmanstrand ÅVC,Hallands län,Halmstad,Villmanstrand,Nilstorp,4,4,4,4,1,0,56.637792,12.924187,true,false
 15740,Åskilje,Västerbottens län,Storuman,Korsväg E12,Åskilje,2,2,1,2,1,0,64.907648,17.863467,false,false
@@ -4263,7 +4261,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16300,Valhallavägen/Oxenstiernsgatan,Stockholms län,Stockholm,Valhallavägen 194,Östermalm,2,2,1,2,1,0,59.337555,18.103773,true,false
 16301,p-plats mitt emot Reningsverket,Skåne län,Staffanstorp,Sliparevägen 2,Staffanstorp,2,1,1,1,1,0,55.65428,13.212865,true,false
 16302,Mårtensgatan 29,Jönköpings län,Gislaved,Mårtensgatan 29,Gislaved,2,3,1,2,1,0,57.301457,13.545948,true,false
-16303,Ingo,Skåne län,Höganäs,Karlsfältsvägen 1,Viken,2,2,1,1,1,0,56.146462,12.580365,true,false
 16304,fd busshållplatsen,Skåne län,Staffanstorp,Storgatan/Skånevägen,Staffanstorp,2,1,1,1,1,0,55.641392,13.2043,false,false
 16306,Stadsskogen,Västra Götalands län,Ulricehamn,Avenboksgatan / Grönahögsvägen 90,Ulricehamn,2,2,1,2,1,0,57.77944,13.42389,true,false
 16307,Kroksta,Västernorrlands län,Örnsköldsvik,Björnavägen 73,Örnsköldsvik,4,4,1,3,1,0,63.315888,18.6939,true,false
@@ -4901,6 +4898,8 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17694,Boo Gårdsskola 2.0,Stockholms län,Nacka,Bovägen 7,Lännersta,2,5,1,2,1,0,59.30888,18.28555,false,false
 17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,2,2,1,2,1,0,59.30916,18.37972,false,false
+17720,FLOBY ÅVC Tillfällig,Västra Götalands län,Falköping,"Nygrannesgården, SörbyKorsgården 1",Floby,2,2,1,2,1,0,58.13527,13.36833,false,false
+17721,ÅVC Stenstorp Tillfällig,Västra Götalands län,Falköping,Östergatan 3,Stenstorp,2,2,1,3,1,0,58.27194,13.72611,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,1,1,1,1,0,56.704957,16.32314,true,false
