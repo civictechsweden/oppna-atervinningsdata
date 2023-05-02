@@ -2260,7 +2260,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10273,Korsning Kampementsgatan/Värtavägen,Stockholms län,Stockholm, Kampementsgatan 2,Östermalm,2,3,1,1,1,0,59.346435,18.102548,true,false
 10278,Erik Dahlbergsgatan 43,Stockholms län,Stockholm, ,Östermalm,2,4,1,1,1,0,59.344957,18.09305,true,false
 10285,"Gunnarn, Konsum",Västerbottens län,Storuman,Gubbträskvägen 2,Gunnarn,2,3,1,1,1,0,65.006313,17.678328,false,false
-10286,"Hemavan, Avloppsreningsverket",Västerbottens län,Storuman,Älvstigen,Hemavan,7,4,1,2,1,0,65.814952,15.081113,false,false
+10286,"Hemavan, Avloppsreningsverket",Västerbottens län,Storuman,Älvstigen,Hemavan,6,4,1,2,1,0,65.814952,15.081113,false,false
 10287,"Slussfors, Slussfors Boa",Västerbottens län,Storuman,Skogsvägen 2,Slussfors,2,3,1,2,1,0,65.43083,16.24806,false,false
 10288,"Stensele, Ica Nära",Västerbottens län,Storuman,Blå vägen 87,Stensele,2,2,1,1,1,0,65.068788,17.146255,false,false
 10291,"Storuman, Storhälla IP",Västerbottens län,Storuman,Idrottsgatan 1/Hantverkargatan ,Storuman,4,4,1,3,1,0,65.089837,17.105708,false,false
@@ -3485,7 +3485,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14711,"Skelleftehamn, Hörnan",Västerbottens län,Skellefteå,Sjömansgatan 13,Skelleftehamn,2,1,1,1,0,0,64.692465,21.233013,true,false
 14712,Sjöleden/Perstorpsleden,Jönköpings län,Mullsjö,,Mullsjö,4,2,1,2,1,0,57.915023,13.889683,false,false
 14713,Mullsjö (ÅVC),Jönköpings län,Mullsjö,Borrgatan,Mullsjö,4,1,1,1,1,0,57.911627,13.86064,true,false
-14714,"Skellefteå, Degermyran (ÅVC)",Västerbottens län,Skellefteå,Lidvägen,Skellefteå,4,1,1,2,0,0,64.770303,21.033248,false,false
+14714,"Skellefteå, Degermyran (ÅVC)",Västerbottens län,Skellefteå,Lidvägen,Skellefteå,4,2,1,2,0,0,64.770303,21.033248,false,false
 14718,"Björkekärr, Rosendalsgatan 8",Västra Götalands län,Göteborg,Rosendalsgatan 8,Björkekärr,2,3,1,1,1,0,57.71321,12.042975,true,false
 14719,"Gamlestaden, Måns Bryntessonsplatsen 1 p-plats",Västra Götalands län,Göteborg,Måns Bryntessonsplatsen 1,Gamlestaden,2,3,1,1,1,0,57.731153,12.00837,true,false
 14722,"Annelund, utanför ÅVC",Västra Götalands län,Herrljunga,,Annelund,2,1,1,2,1,0,57.993363,13.093675,true,false
@@ -3923,7 +3923,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15730,Lövånger ÅVC,Västerbottens län,Skellefteå,Kyrkrern,Lövånger,2,2,1,1,0,0,64.3659,21.306387,false,false
 15731,Malå ÅVC,Västerbottens län,Malå,Industrivägen 5,Malå,4,0,1,0,0,0,65.187232,18.759453,false,false
 15732,Bureå ÅVC ,Västerbottens län,Skellefteå,Sinusvägen,Bureå,2,3,1,2,0,0,64.612937,21.188242,true,false
-15733,Clemensnäs/Ursviken ÅVC,Västerbottens län,Skellefteå,Mekanvägen,Clemensnäs,2,3,1,1,0,0,64.710095,21.159182,false,false
+15733,Clemensnäs/Ursviken ÅVC,Västerbottens län,Skellefteå,Mekanvägen,Clemensnäs,2,4,1,1,0,0,64.710095,21.159182,false,false
 15734,Lilla Hammar ÅVC,Skåne län,Vellinge,Lilla Hammar,Höllviken,3,2,0,0,0,0,55.428108,12.952407,false,false
 15736,Bankeryd (ÅVC),Jönköpings län,Jönköping,Tallvägen,Bankeryd,2,1,1,1,2,0,57.87000,14.10861,true,false
 15737,Tingbergsvallen,Hallands län,Kungsbacka,Borgmästaregatan,Kungsbacka,2,2,1,1,1,0,57.49111,12.06778,true,false
