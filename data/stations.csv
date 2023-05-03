@@ -876,7 +876,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 6975,Brunne Affären f.d.,Västernorrlands län,Härnösand,Stigsjö Brunne 90,Brunne,2,1,1,1,1,0,62.653585,17.634635,true,false
 6979,Gruvfogdevägen,Dalarnas län,Ludvika,Gruvfogdevägen,Grängesberg,2,1,1,1,1,0,60.076278,14.981235,true,false
 6980,Storfors Uddvägen/Kvarnvägen,Värmlands län,Storfors,Uddvägen/Kvarnvägen,Storfors,4,2,1,1,1,0,59.52792,14.260248,true,false
-6982,Hemköp,Västra Götalands län,Alingsås,Sveagatan 8,Alingsås,3,1,1,1,1,0,57.926575,12.526147,true,false
+6982,Hemköp,Västra Götalands län,Alingsås,Sveagatan 8,Alingsås,2,1,1,1,1,0,57.926575,12.526147,true,false
 6984,ICA Supermarket Noltorpsgatan ,Västra Götalands län,Alingsås,Noltorpsgatan 8,Alingsås,2,2,1,1,1,0,57.938032,12.52297,true,false
 6986,Willys,Västra Götalands län,Alingsås,Hagaplan,Alingsås,4,4,1,3,0,0,57.937843,12.534435,false,false
 6990,"Östlyckan, Nolby 37:1",Västra Götalands län,Alingsås,Mångatan/ Kometgatan,Alingsås,2,2,1,2,1,0,57.93048,12.548583,true,false
@@ -2263,7 +2263,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10286,"Hemavan, Avloppsreningsverket",Västerbottens län,Storuman,Älvstigen,Hemavan,6,4,1,2,1,0,65.814952,15.081113,false,false
 10287,"Slussfors, Slussfors Boa",Västerbottens län,Storuman,Skogsvägen 2,Slussfors,2,3,1,2,1,0,65.43083,16.24806,false,false
 10288,"Stensele, Ica Nära",Västerbottens län,Storuman,Blå vägen 87,Stensele,2,2,1,1,1,0,65.068788,17.146255,false,false
-10291,"Storuman, Storhälla IP",Västerbottens län,Storuman,Idrottsgatan 1/Hantverkargatan ,Storuman,4,4,1,3,1,0,65.089837,17.105708,false,false
+10291,"Storuman, Storhälla IP",Västerbottens län,Storuman,Idrottsgatan 1/Hantverkargatan ,Storuman,5,4,1,3,1,0,65.089837,17.105708,false,false
 10296,Park,Södermanlands län,Strängnäs,Slottsbrinksvägen 8,Mariefred,3,4,1,2,1,0,59.26553,17.213015,true,false
 10299,Konsum Brandstationen,Södermanlands län,Strängnäs,Ruddammsgatan/Kärnbogatan,Mariefred,4,2,1,1,1,0,59.262483,17.221608,true,false
 10309,P-plats,Södermanlands län,Strängnäs,Finningevägen 1-3,Strängnäs,2,1,1,1,1,0,59.363955,17.036433,true,false
@@ -3361,9 +3361,9 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 13954,Måsalycke (ÅVC),Skåne län,Simrishamn,"Strax söder om S:t Olof, mot Smedstorp",S:t Olof,3,1,0,2,1,0,55.61477,14.134202,false,false
 13955,Simrishamn (ÅVC),Skåne län,Simrishamn,Fabriksgatan,Simrishamn,3,2,0,2,1,0,55.544623,14.327638,false,false
 13956,"Skogome, Sandbanksvägen",Västra Götalands län,Göteborg,Sandbanksvägen,Skogome,2,3,1,1,1,0,57.761087,11.946585,true,false
-13998,"Storuman, Järnvägsgatan 9",Västerbottens län,Storuman,Järnvägsgatan 9,Storuman,4,3,1,2,1,0,65.0951,17.109268,false,false
+13998,"Storuman, Järnvägsgatan 9",Västerbottens län,Storuman,Järnvägsgatan 9,Storuman,3,3,1,2,1,0,65.0951,17.109268,false,false
 13999,"Kyrktåsjö, ICA Nära",Jämtlands län,Strömsund,Köpmangatan/Backvägen,Kyrktåsjö,3,2,1,2,1,0,64.22278,15.90361,true,false
-14044,Vattjom Vattjomsvägen,Västernorrlands län,Sundsvall,Vattjomsvägen 52,Matfors,2,1,1,1,1,0,62.364892,17.029863,false,false
+14044,Vattjom Vattjomsvägen,Västernorrlands län,Sundsvall,Vattjomsvägen 52,Matfors,3,1,1,1,1,0,62.364892,17.029863,false,false
 14090,"Centrum, bakom korvkiosken",Västra Götalands län,Tibro,Storgatan/Bäckdalsgatan,Tibro,2,2,1,1,1,0,58.422148,14.165203,true,false
 14091,Tibro ÅVC,Västra Götalands län,Tibro,Rydsgatan 9,Tibro,4,2,1,3,1,0,58.417902,14.136977,true,false
 14098,"Nyböle, Cirkelvägen",Västernorrlands län,Timrå,Cirkelvägen,Sörberge,2,2,1,1,1,0,62.505013,17.37367,true,false
@@ -3968,7 +3968,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15791,Håkanryd Idrottsklubben KAMP,Skåne län,Bromölla,Håkanrydsvägen 178-9,Bromölla,2,1,1,1,1,0,56.091322,14.535043,false,false
 15793,Salmunge ÅVC,Stockholms län,Norrtälje,Salmunge gård 5223 mellan Finsta & Rimbo,Rimbo,6,1,1,2,2,0,59.738772,18.447788,true,false
 15794,Utanför grindarna på Krokeks ÅVC,Östergötlands län,Norrköping,Sjöviksvägen 161,Krokek,4,2,1,1,1,0,58.686802,16.34322,false,false
-15795,Grönklitt,Dalarnas län,Orsa,Skidanläggningen,Orsa,3,2,1,1,1,0,61.20732,14.540172,true,false
+15795,Grönklitt,Dalarnas län,Orsa,Skidanläggningen,Orsa,2,2,1,1,1,0,61.20732,14.540172,true,false
 15796,Lidl,Stockholms län,Täby,Enhagsvägen 24,Täby,3,6,2,3,1,0,59.439793,18.035167,false,true
 15797,ICA Supermarket,Jönköpings län,Eksjö,Prästgatan 4,Eksjö,2,2,1,1,1,0,57.665962,14.97631,true,false
 15800,ÅVC Strömsund,Jämtlands län,Strömsund,Lia,Strömsund,2,1,1,0,1,0,63.88861,15.66306,false,false
@@ -4927,7 +4927,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 99042,Mörkeskogs avfallsanläggning (ÅVC),Kalmar län,Mönsterås,Vägen mellan Mönsterås och Blomstermåla,Mönsterås,5,1,1,1,1,0,57.01235,16.401735,false,false
 99043,Önnered Juteskärsgatan ,Västra Götalands län,Göteborg,Juteskärsgatan 2,Önnered,2,3,1,1,1,0,57.638658,11.881888,true,false
 99045,"Noltorp, Centrum, Citronen 8",Västra Götalands län,Alingsås,Citrongatan,Alingsås,2,1,1,2,1,0,57.940418,12.523285,true,false
-99046,"Prästeryd, Tuveby",Västra Götalands län,Alingsås,Prästerydsvägen,Alingsås,2,2,1,1,1,0,57.92083,12.54111,false,false
+99046,"Prästeryd, Tuveby",Västra Götalands län,Alingsås,Prästerydsvägen,Alingsås,3,2,1,1,1,0,57.92083,12.54111,false,false
 99048,"Stallgatan, Smedby",Stockholms län,Upplands-Väsby,Stallgatan,Smedby,2,1,1,1,1,0,59.513753,17.90864,true,true
 99049,Folkets Park Kupolen,Östergötlands län,Linköping,Malmslättsvägen ,Valla,4,2,1,1,1,0,58.407343,15.589218,false,false
 99052,"Väst-Teg, Isladan vid",Västerbottens län,Umeå,Tegsvägen,Umeå,2,2,1,1,1,0,63.816793,20.241572,true,false
