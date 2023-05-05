@@ -883,7 +883,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 6991,"P-plats kyrkan Stocklycke, Ängabo 2:3",Västra Götalands län,Alingsås,Stockslyckevägen,Alingsås,2,1,1,2,1,0,57.92184,12.553855,true,false
 6992,Bakom affären,Västra Götalands län,Alingsås,Ingaredsgatan,Ingared,4,2,1,1,1,0,57.849273,12.457697,true,false
 6994,Järnvägsgatan,Västra Götalands län,Alingsås,,Sollebrunn,4,2,1,1,1,0,58.119072,12.53472,true,false
-6995,Bussvändplats,Västra Götalands län,Alingsås,St Mellby väg 190 mot Nossebro,Stora Mellby,3,1,1,1,1,0,58.144142,12.58674,true,false
+6995,Bussvändplats,Västra Götalands län,Alingsås,St Mellby väg 190 mot Nossebro,Stora Mellby,2,1,1,1,1,0,58.144142,12.58674,true,false
 6996,"Västra Bodarna, Affären",Västra Götalands län,Alingsås,Västra Bodarnevägen,Alingsås,2,1,1,1,1,0,57.88750,12.47361,true,false
 6999,Vattentornet,Kronobergs län,Alvesta,Aringsåsvägen,Alvesta,2,1,1,1,1,0,56.897545,14.57403,true,false
 7000,Blädingevägen,Kronobergs län,Alvesta,Blädingevägen,Alvesta,2,1,1,1,1,0,56.895453,14.54865,true,false
@@ -2134,7 +2134,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9981,Smögen ICA Nära,Västra Götalands län,Sotenäs,ICA Nära f.d. Ankaret,Smögen,4,2,1,1,1,0,58.362812,11.233782,true,false
 9982,Todderöd Bygdegården vid Todderödskola,Västra Götalands län,Sotenäs,Bygdegården vid Todderödskola,Todderöd,2,1,1,1,1,0,58.409848,11.335168,true,false
 9983,Väjern Parkeringen,Västra Götalands län,Sotenäs,Parkeringen,Väjern,2,1,1,1,1,0,58.379678,11.263158,true,false
-9990,"Staffanstorp, P-plats Färgboden",Skåne län,Staffanstorp,Lagv/Domsagovägen 1,Staffanstorp,2,1,1,1,1,0,55.640293,13.194097,true,false
+9990,"Staffanstorp, P-plats Färgboden",Skåne län,Staffanstorp,Lagv/Domsagovägen 1,Staffanstorp,2,2,1,1,1,0,55.640293,13.194097,true,false
 9993,Jörlandaboden,Västra Götalands län,Stenungsund,Kyrkebyvägen,Jörlanda,3,2,1,1,1,0,57.98653,11.828338,true,false
 9995,P-plats,Västra Götalands län,Stenungsund,Södra vägen,Stenungsund,3,1,1,1,1,0,58.068788,11.821597,true,false
 9997,Kristinedals Förskola,Västra Götalands län,Stenungsund,Uppegårdsvägen 4,Stenungsund,3,1,1,1,1,0,58.064473,11.833495,false,false
@@ -3441,7 +3441,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14574,Gällaryd,Jönköpings län,Värnamo,Bakom kyrkan,Gällaryd,2,1,1,1,1,0,57.132138,14.28889,true,false
 14577,"Vårgårda, Tumbergsdeponi (ÅVC)",Västra Götalands län,Vårgårda,Återvinningsvägen 1,Vårgårda,2,1,1,4,1,0,58.050885,12.858687,true,false
 14578,"Guldheden Syster Emmas Gata 11, p-plats",Västra Götalands län,Göteborg,Syster Emmas Gata 11,Guldheden,2,3,1,1,1,0,57.678502,11.9746,true,false
-14579,"Guldheden Syster Estrids Gata 5, p-plats",Västra Götalands län,Göteborg,Syster Estrids Gata 5,Guldheden,2,3,1,1,1,0,57.67997,11.97188,true,false
+14579,"Guldheden Syster Estrids Gata 5, p-plats",Västra Götalands län,Göteborg,Syster Estrids Gata 5,Guldheden,2,2,1,1,1,0,57.67997,11.97188,true,false
 14580,"Kattisavan, Kattisavan Camping",Västerbottens län,Lycksele,Kattisavan 33,Lycksele,2,2,1,1,0,0,64.753192,18.16539,true,false
 14582,"Söndrum södra, Krypvidevägen",Hallands län,Halmstad,Krypvidevägen,Söndrum Södra,2,4,1,2,1,0,56.654247,12.781768,true,false
 14583,P-plats vid fotbollsplan,Skåne län,Ystad, Saltsjöbadsvägen,Ystad,2,1,1,1,1,0,55.422497,13.839403,true,false
