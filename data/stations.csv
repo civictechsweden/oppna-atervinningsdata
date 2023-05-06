@@ -4198,7 +4198,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16180,"Månsabovägen, parkering",Skåne län,Svalöv,Månsabovägen,Svalöv,2,1,1,1,1,0,55.921618,13.111602,false,false
 16181,Stens Väg,Jönköpings län,Vetlanda,Stens Väg 2A,Vetlanda,2,2,1,1,1,0,57.415398,15.092757,false,false
 16184,Hemmestatorp,Stockholms län,Värmdö,Värmdövägen,Värmdö,3,6,2,4,2,0,59.32906,18.500842,true,false
-16185,"Gråbo centrum, värmeverket",Västra Götalands län,Lerum,Hjällsnäsvägen,Gråbo,8,4,1,3,1,0,57.83467,12.293413,true,false
+16185,"Gråbo centrum, värmeverket",Västra Götalands län,Lerum,Hjällsnäsvägen,Gråbo,4,3,1,3,1,0,57.83467,12.293413,true,false
 16188,Kviberg,Västra Götalands län,Göteborg,Kvibergs broväg 16,Kviberg,2,4,1,2,1,0,57.732167,12.030543,true,false
 16189,Evedalsvägen (Östra Lugnets skola),Kronobergs län,Växjö,Evedalsvägen,Växjö,4,3,1,2,1,0,56.914272,14.817083,true,false
 16190,Stora Coop Danderyd,Stockholms län,Danderyd,Sunnanängsvägen 2,Enebyberg,2,5,1,3,1,0,59.421155,18.044,false,true
@@ -4762,7 +4762,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17429,Tryckerigatan,Jönköpings län,Nässjö,Tryckerigatan ,Nässjö,2,1,1,1,1,0,57.67027,14.69333,false,false
 17430,Lindevägen/Trädskolevägen,Stockholms län,Stockholm,Trädskolevägen 21,Enskede-Årsta-Vantör,2,2,1,2,1,0,59.287137,18.080335,true,false
 17431,Äsperöd,Västra Götalands län,Uddevalla,Äsperödsvägen 2,Uddevalla,2,2,1,1,1,0,58.34444,11.96250,true,false
-17432,Fagersta station,Västmanlands län,Fagersta,Centralvägen 17,Fagersta,4,2,1,2,1,0,59.990405,15.817798,true,false
+17432,Fagersta station,Västmanlands län,Fagersta,Postvägen 3,Fagersta,4,2,1,2,1,0,59.990405,15.817798,false,false
 17433,Vallgatan ,Skåne län,Vellinge,Vallgatan,Vellinge,2,2,1,2,1,0,55.471043,13.010295,true,false
 17434,Vid rondellen,Skåne län,Malmö,N Parkgatan / Kristianstadsgatan,Malmö,2,2,1,1,1,0,55.59208,13.012157,true,false
 17435,Kittelfjäll,Västerbottens län,Vilhelmina,Kittelfjäll 211,Dikanäs,3,3,1,3,1,0,65.25027,15.50166,false,false

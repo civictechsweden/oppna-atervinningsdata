@@ -75588,8 +75588,8 @@
         "kommun": "Lerum",
         "adress": "Hjällsnäsvägen",
         "ort": "Gråbo",
-        "glas": "8",
-        "kartong": "4",
+        "glas": "4",
+        "kartong": "3",
         "metall": "1",
         "blandplast": "3",
         "tidningar": "1",
@@ -85738,7 +85738,7 @@
         "avs": "Fagersta station",
         "lan": "Västmanlands län",
         "kommun": "Fagersta",
-        "adress": "Centralvägen 17",
+        "adress": "Postvägen 3",
         "ort": "Fagersta",
         "glas": "4",
         "kartong": "2",
@@ -85748,7 +85748,7 @@
         "ejaretrunt": "0",
         "latitude": "59.990405",
         "longitude": "15.817798",
-        "batterier": "true",
+        "batterier": "false",
         "rp_extra": "false"
     },
     {
