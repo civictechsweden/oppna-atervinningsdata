@@ -60,7 +60,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 231,"Vittjärv, Skjutbanevägen",Norrbottens län,Boden,Skjutbanevägen,Boden,2,1,1,1,1,0,65.84913,21.598443,true,false
 241,ICA/Servus,Gävleborgs län,Bollnäs,Storgatan 26,Arbrå,2,1,1,1,1,0,61.47111,16.37806,true,false
 244,Forum,Gävleborgs län,Bollnäs,Storgatan  ,Arbrå,2,2,1,1,1,0,61.46806,16.37750,true,false
-248,Karlslunds centrum,Gävleborgs län,Bollnäs,Kvarnvägen,Bollnäs,2,1,1,1,1,0,61.35778,16.40000,true,false
 253,Rektorgatan 10-12,Gävleborgs län,Bollnäs,Rektorgatan 10-12,Bollnäs,2,1,1,1,1,0,61.34722,16.39750,false,false
 254,Sävesta Hemköp,Gävleborgs län,Bollnäs,Aseavägen,Bollnäs,2,2,1,1,1,0,61.34250,16.38194,true,false
 257,Affären Konsum,Gävleborgs län,Bollnäs,"Affären, Konsum",Hällbo,2,1,1,1,1,0,61.221115,16.421567,true,false
@@ -184,7 +183,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 918,Forshaga; Grossbolsskolan,Värmlands län,Forshaga,Södergatan/Storgatan,Forshaga,4,4,1,2,1,0,59.536857,13.480995,true,false
 919,Olsäter; Olsäters Handel,Värmlands län,Forshaga,Olsätersvägen 17,Olsäter,2,1,1,1,1,0,59.716945,13.495442,true,false
 920,Skived; Coop Nära,Värmlands län,Forshaga,Lövgatan 6,Forshaga,2,2,1,2,1,0,59.520712,13.481202,true,false
-922,Färgelanda Centrum,Västra Götalands län,Färgelanda,,Färgelanda,4,7,1,3,1,0,58.56984,11.998342,true,false
+922,Färgelanda Centrum,Västra Götalands län,Färgelanda,,Färgelanda,4,7,1,4,1,0,58.56984,11.998342,true,false
 923,"Färgelanda, Höjden/Höjdenvägen",Västra Götalands län,Färgelanda,Höjdenvägen,Färgelanda,2,1,1,2,1,0,58.574145,11.997385,true,false
 924,"Högsäter, Skomakarevägen",Västra Götalands län,Färgelanda,Skomakarevägen,Högsäter,2,3,1,2,1,0,58.649157,12.052993,true,false
 927,"Stigen, Stampvägen",Västra Götalands län,Färgelanda,Stampvägen,Stigen,2,1,1,2,1,0,58.567077,12.064788,true,false
@@ -4897,6 +4896,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17694,Boo Gårdsskola 2.0,Stockholms län,Nacka,Bovägen 7,Lännersta,2,5,1,2,1,0,59.30888,18.28555,false,false
 17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,2,2,1,2,1,0,59.30916,18.37972,false,false
+17719,ÅVC Fyrislund,Uppsala län,Uppsala,Arkgatan 14,Uppsala,4,3,1,4,0,0,59.85583,17.71833,false,false
 17721,ÅVC Stenstorp Tillfällig,Västra Götalands län,Falköping,Östergatan 3,Stenstorp,2,2,1,3,1,0,58.27194,13.72611,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
