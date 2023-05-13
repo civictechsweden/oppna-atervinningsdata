@@ -197,7 +197,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 936,Mockfjärd IOGT,Dalarnas län,Gagnef,,Mockfjärd,2,2,1,1,1,0,60.499302,14.965115,true,false
 937,Mockfjärd -rest Jerusalem,Dalarnas län,Gagnef,,Mockfjärd,2,2,1,2,1,0,60.509178,14.962302,false,false
 938,Furuborgsvägen,Jönköpings län,Gislaved,Furuborgsvägen,Anderstorp,3,2,1,1,1,0,57.2823,13.628795,false,false
-940,Norravägen,Jönköpings län,Gislaved,Norravägen,Broaryd,5,2,1,1,1,0,57.121675,13.255577,true,false
+940,Norravägen,Jönköpings län,Gislaved,Norravägen,Broaryd,4,2,1,1,1,0,57.121675,13.255577,true,false
 941,Nya Västra Bruksgatan,Jönköpings län,Gislaved,Västra Bruksgatan,Burseryd,2,2,1,1,1,0,57.199647,13.2858,true,false
 946,Danska vägen 1,Jönköpings län,Gislaved,Danska vägen 1,Gislaved,6,2,1,1,1,0,57.290098,13.526488,true,false
 947,Traststigens P-plats,Jönköpings län,Gislaved,Traststigen,Gislaved,2,1,1,1,1,0,57.304598,13.534073,true,false
@@ -367,7 +367,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1966,"Askeröd, Lokalföreningen",Skåne län,Hörby, ,Askeröd,2,1,1,1,0,0,55.758933,13.592608,true,false
 1970,"Hörby, Konsum P-plats",Skåne län,Hörby,Slagtoftavägen,Hörby,2,2,1,1,0,0,55.855623,13.663357,true,false
 1972,"Hörby, Mittemot Vårdcentralen",Skåne län,Hörby,Råbyvägen,Hörby,2,1,1,1,0,0,55.846188,13.671197,true,false
-1973,Skomakaregatan,Skåne län,Hörby,Skomakaregatan,Hörby,3,2,1,1,0,0,55.84537,13.6568,true,false
+1973,Skomakaregatan,Skåne län,Hörby,Skomakaregatan,Hörby,2,2,1,1,0,0,55.84537,13.6568,true,false
 1978,"Svensköp, Fotbollsplanens  p-plats",Skåne län,Hörby, ,Svensköp,2,1,1,1,0,0,55.875525,13.86244,true,false
 1979,"Södra Rörum, Lanthandeln",Skåne län,Hörby, ,Södra Rörum,2,1,1,1,0,0,55.923942,13.670658,true,false
 1980,"Önneköp, Önnebo",Skåne län,Hörby,Simons väg,Önneköp,2,1,1,1,0,0,55.787773,13.871738,true,false
@@ -2832,7 +2832,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11610,"Kall, Värmeverket",Jämtlands län,Åre,,Kall,2,1,1,1,1,0,63.473355,13.228342,false,false
 11614,"Ottsjö, Posten f.d.",Jämtlands län,Åre,,Undersåker,2,2,1,1,1,0,63.215613,13.060665,false,false
 11616,"Undersåker, Vålådalsvägen",Jämtlands län,Åre,Vålådalsvägen,Undersåker,2,4,1,2,1,0,63.314153,13.234295,true,false
-11618,"Åre, Produkthuset/Konsum ",Jämtlands län,Åre,S:t Olavsvägen,Åre,3,5,1,2,1,0,63.395323,13.087645,true,false
+11618,"Åre, Produkthuset/Konsum ",Jämtlands län,Åre,S:t Olavsvägen,Åre,3,5,1,3,1,0,63.395323,13.087645,true,false
 11636,"Virestad, Horshultsvägen",Kronobergs län,Älmhult,Horshultsvägen,Virestad,2,1,1,1,1,0,56.626232,14.341493,true,false
 11637,"Eneryda, Järnvägsövergång",Kronobergs län,Älmhult,Virestadsvägen,Eneryda,2,1,1,1,1,0,56.70476,14.335882,true,false
 11638,"Delary, Bankvägen",Kronobergs län,Älmhult,Bankvägen,Delary,2,2,1,1,1,0,56.547452,13.954762,true,false
@@ -3753,7 +3753,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15457,Gottsunda (ÅVC),Uppsala län,Uppsala,korsningen Valthornsvägen/Elfrida Andrées väg,Uppsala,4,3,1,3,2,0,59.811593,17.635213,false,false
 15458,Librobäck (ÅVC),Uppsala län,Uppsala,Söderforsgatan,Uppsala,4,4,1,4,2,0,59.878303,17.595082,true,false
 15459,Lövstalöt (ÅVC),Uppsala län,Uppsala,Tårpilsvägen,Lövstalöt,2,1,1,1,1,0,59.960608,17.580757,false,false
-15460,"Boländerna, Spikgatan  (ÅVC)",Uppsala län,Uppsala,Spikgatan 1,Uppsala,4,3,1,4,1,0,59.845733,17.67973,false,false
 15461,Storvreta (ÅVC),Uppsala län,Uppsala,Ärentunavägen,Storvreta,2,3,1,4,2,0,59.964855,17.697573,true,false
 15462,Malmen (ÅVC),Östergötlands län,Linköping,Malmenvägen,Linköping,7,4,1,4,3,0,58.408675,15.547135,false,false
 15463,Gärstad (ÅVC),Östergötlands län,Linköping,Tekniska verken,Linköping,5,3,1,2,2,0,58.435518,15.644825,false,false
