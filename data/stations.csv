@@ -454,7 +454,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2492,Björneborg,Värmlands län,Kristinehamn,Hyttgatan,Björneborg,2,2,1,1,1,0,59.243038,14.252752,true,false
 2493,Bäckhammar,Värmlands län,Kristinehamn,Öståsgatan,Bäckhammar,2,1,1,1,1,0,59.160247,14.190072,true,false
 2494,Gaterud,Värmlands län,Kristinehamn,Visnum Kilsvägen Gaterud,Kristinehamn,2,1,1,1,1,0,59.252498,14.12274,true,false
-2495,Axvallagatan Malmen,Värmlands län,Kristinehamn,Axvallagatan,Kristinehamn,2,1,1,1,1,0,59.302802,14.116915,true,false
+2495,Axvallagatan Malmen,Värmlands län,Kristinehamn,Axvallagatan,Kristinehamn,4,1,1,1,1,0,59.302802,14.116915,true,false
 2497,Djurgårdsvägen,Värmlands län,Kristinehamn,Djurgårdsvägen,Kristinehamn,2,2,1,2,1,0,59.299782,14.093477,false,false
 2500,Karlagatan,Värmlands län,Kristinehamn,Karlagatan,Kristinehamn,2,1,1,1,1,0,59.319138,14.137263,true,false
 2502,Mejerigatan ,Värmlands län,Kristinehamn,Mejerigatan,Kristinehamn,2,1,1,1,1,0,59.314332,14.10207,true,false
@@ -1420,7 +1420,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8070,Kvarnängsvägen Sågstuvägen,Stockholms län,Huddinge,,Visättra,2,3,1,3,1,0,59.218357,17.956767,true,false
 8071,Röntgenvägen 1,Stockholms län,Huddinge,,Flemingsberg,2,3,1,2,1,0,59.224247,17.936567,true,false
 8073,Sörskogen,Stockholms län,Huddinge,Tryffelvägen,Fullersta,2,5,1,3,2,0,59.225888,17.99175,true,false
-8078,Elhus,Stockholms län,Huddinge,Mossvägen/Bergholmsvägen,Fullersta,2,5,1,2,1,0,59.239115,17.971337,true,false
+8078,Elhus,Stockholms län,Huddinge,Mossvägen/Bergholmsvägen,Fullersta,2,4,1,2,1,0,59.239115,17.971337,true,false
 8081,Bredvid parkeringen Grillpalatset,Stockholms län,Huddinge,Kommunalvägen/Klockarvägen,Fullersta,2,4,1,2,2,0,59.237967,17.982127,true,false
 8087,Nyängsvägen/Mariedalsvägen,Stockholms län,Huddinge,,Fullersta,1,3,1,1,1,0,59.23169,17.978452,false,false
 8088,Rådsvägen 14,Stockholms län,Huddinge,,Fullersta,2,3,1,2,1,0,59.241943,17.988462,true,false
