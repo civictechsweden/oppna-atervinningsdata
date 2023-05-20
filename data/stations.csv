@@ -453,10 +453,10 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2491,P-plats,Skåne län,Kristianstad,Videllsgatan,Kristianstad,2,1,1,1,1,0,56.023305,14.1598,true,false
 2492,Björneborg,Värmlands län,Kristinehamn,Hyttgatan,Björneborg,2,2,1,1,1,0,59.243038,14.252752,true,false
 2493,Bäckhammar,Värmlands län,Kristinehamn,Öståsgatan,Bäckhammar,2,1,1,1,1,0,59.160247,14.190072,true,false
-2494,Gaterud,Värmlands län,Kristinehamn,Visnum Kilsvägen Gaterud,Kristinehamn,3,1,1,1,1,0,59.252498,14.12274,true,false
-2495,Axvallagatan Malmen,Värmlands län,Kristinehamn,Axvallagatan,Kristinehamn,4,1,1,1,1,0,59.302802,14.116915,true,false
+2494,Gaterud,Värmlands län,Kristinehamn,Visnum Kilsvägen Gaterud,Kristinehamn,2,1,1,1,1,0,59.252498,14.12274,true,false
+2495,Axvallagatan Malmen,Värmlands län,Kristinehamn,Axvallagatan,Kristinehamn,2,1,1,1,1,0,59.302802,14.116915,true,false
 2497,Djurgårdsvägen,Värmlands län,Kristinehamn,Djurgårdsvägen,Kristinehamn,2,2,1,2,1,0,59.299782,14.093477,false,false
-2500,Karlagatan,Värmlands län,Kristinehamn,Karlagatan,Kristinehamn,4,1,1,1,1,0,59.319138,14.137263,true,false
+2500,Karlagatan,Värmlands län,Kristinehamn,Karlagatan,Kristinehamn,2,1,1,1,1,0,59.319138,14.137263,true,false
 2502,Mejerigatan ,Värmlands län,Kristinehamn,Mejerigatan,Kristinehamn,2,1,1,1,1,0,59.314332,14.10207,true,false
 2504,Nolbygatan,Värmlands län,Kristinehamn,Nolbygatan,Kristinehamn,2,1,1,1,1,0,59.320382,14.096563,true,false
 2507,S:a Staketgatan,Värmlands län,Kristinehamn,S:a Staketgatan 40,Kristinehamn,2,2,1,1,1,0,59.3068,14.106127,false,false
@@ -2578,7 +2578,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11028,Kungsängens kyrkby,Stockholms län,Upplands-Bro,Kungsvägen 20,Kungsängen,2,1,1,1,1,0,59.484137,17.755645,true,false
 11029,"Tibble Torg, COOP Konsum",Stockholms län,Upplands-Bro,Hjortronsvägen vändzon,Tibble,2,2,1,1,1,0,59.485147,17.73415,false,false
 11030,Vändplats,Stockholms län,Upplands-Bro,"Finnstabergsvägen, vändzon",Upplands Bro,2,1,1,1,1,0,59.517742,17.649842,true,false
-11033,OK Kungsängen,Stockholms län,Upplands-Bro,Skolvägen,Upplands Bro,2,0,0,0,1,0,59.479493,17.730813,false,false
 11039,P-plats stallet,Stockholms län,Upplands-Väsby,Prästgårdsvägen,Prästgårdsmarken,2,1,1,1,1,0,59.51446,17.886258,true,true
 11043,Smedsgärdshallen,Stockholms län,Upplands-Väsby,Holmvägen,Vilunda,2,1,1,1,1,0,59.522128,17.9208,true,true
 11044,Hasselskolans p-plats,Stockholms län,Upplands-Väsby,Hammarbyvägen,Väsbyskogen,2,2,1,1,1,0,59.526855,17.913233,true,true
@@ -3630,6 +3629,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15156,Blåbergets innanför (ÅVC) k-parken,Västernorrlands län,Sundsvall,Knävland 164,Sundsvall,4,2,1,1,1,0,62.37806,17.16639,false,false
 15157,Johannedal ÅVC,Västernorrlands län,Sundsvall,Johannedalsvägen 67,Sundsbruk,2,2,1,1,1,0,62.44000,17.38806,false,false
 15160,Skäret (ÅVC),Örebro län,Ljusnarsberg,,Kopparberg,2,2,1,2,1,0,59.89361,14.94417,false,false
+15184,Mörbylund,Stockholms län,Danderyd,Mörbylund 5,Mörby,2,0,0,0,0,0,59.387853,18.041382,false,true
 15186,Högelid,Västra Götalands län,Svenljunga,,Svenljunga,2,2,1,2,0,0,57.499495,13.101975,false,false
 15187,Örsgatan,Västra Götalands län,Svenljunga,Örsgatan,Svenljunga,2,1,1,2,0,0,57.49111,13.10750,false,false
 15199,Odenvägen/Friggavägen Vasaplatsen,Stockholms län,Lidingö,"Lidingö C,  Odenvägen / Friggavägen",Lidingö,2,0,0,0,0,0,59.367088,18.13378,true,true
