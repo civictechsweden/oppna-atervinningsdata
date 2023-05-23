@@ -1057,7 +1057,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7408,Infarten till sågverket,Skåne län,Bromölla,Byvägen,Gualöv,2,1,1,1,1,0,56.048607,14.427233,false,false
 7414,Idrottsplatsen,Skåne län,Bromölla,Idrottsv.,Näsum,2,1,1,1,1,0,56.17335,14.505982,false,false
 7419,"Busshållplats, Valje",Skåne län,Bromölla,Östersjövägen/Backavägen,Valje,2,1,1,1,1,0,56.059228,14.535073,false,false
-7423,"Albacken, Folkets Hus",Jämtlands län,Bräcke,,Sörbygden,3,2,1,2,1,0,62.780252,16.024558,false,false
+7423,"Albacken, Folkets Hus",Jämtlands län,Bräcke,,Sörbygden,2,2,1,2,1,0,62.780252,16.024558,false,false
 7425,"Gällö, Vägverket",Jämtlands län,Bräcke,Revsundsvägen 6,Gällö,2,3,1,1,1,0,62.916452,15.235453,true,false
 7426,"Kälarne, Centrumparken",Jämtlands län,Bräcke,Stationsvägen,Kälarne,2,2,1,1,1,0,62.98028,16.08333,false,false
 7428,Pilgrimstad,Jämtlands län,Bräcke,Pilgrimscenter 110,Pilgrimstad,3,2,1,2,1,0,62.950583,15.047112,false,false
@@ -1154,7 +1154,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7596,Busstorget,Södermanlands län,Gnesta,Stationsvägen 7,Björnlunda,3,2,1,2,1,0,59.064143,17.1596,true,false
 7597,"Elektron, bakom Odal",Södermanlands län,Gnesta,Västra Storgatan 18,Gnesta,5,4,1,3,1,0,59.049432,17.305757,true,false
 7598,Återvinningsgården (ÅVC),Södermanlands län,Gnesta,Vackerby Industriväg 11A,Gnesta,3,6,1,2,1,0,59.055098,17.293345,false,false
-7599,Stopp Stormarknad,Södermanlands län,Gnesta,Dansutvägen 2,Gnesta,8,4,1,3,1,0,59.039578,17.325887,true,false
+7599,Stopp Stormarknad,Södermanlands län,Gnesta,Dansutvägen 2,Gnesta,8,5,1,4,1,0,59.039578,17.325887,true,false
 7600,"Laxne, Mariefredsvägen",Södermanlands län,Gnesta,Mariefredsvägen,Laxne,2,2,1,2,1,0,59.168493,17.186135,true,false
 7601,ICA Strandhallen,Södermanlands län,Gnesta,Metarvägen 6/ Dagavägen 13,Stjärnhov,4,2,1,2,1,0,59.078958,17.01154,true,false
 7614,Dokkas,Norrbottens län,Gällivare,,Dokkas,2,1,1,2,1,0,67.069553,21.315975,false,false
