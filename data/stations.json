@@ -3984,7 +3984,7 @@
         "kommun": "Gullspång",
         "adress": "Skagersviksvägen",
         "ort": "Skagersvik",
-        "glas": "3",
+        "glas": "4",
         "kartong": "1",
         "metall": "1",
         "blandplast": "1",
@@ -9063,7 +9063,7 @@
         "glas": "2",
         "kartong": "1",
         "metall": "1",
-        "blandplast": "0",
+        "blandplast": "1",
         "tidningar": "1",
         "ejaretrunt": "0",
         "latitude": "58.426773",
@@ -50540,7 +50540,7 @@
         "ejaretrunt": "0",
         "latitude": "55.450515",
         "longitude": "14.019787",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -50684,7 +50684,7 @@
         "ejaretrunt": "0",
         "latitude": "55.428795",
         "longitude": "13.805908",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -67290,7 +67290,7 @@
         "kommun": "Töreboda",
         "adress": "Skövdevägen",
         "ort": "Töreboda",
-        "glas": "4",
+        "glas": "3",
         "kartong": "2",
         "metall": "1",
         "blandplast": "3",
@@ -87404,7 +87404,7 @@
         "ejaretrunt": "0",
         "latitude": "55.45583",
         "longitude": "13.93305",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {

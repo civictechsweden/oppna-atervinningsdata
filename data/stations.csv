@@ -220,7 +220,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1005,"Bussterminalen, Stationsgatan",Västra Götalands län,Gullspång,Stationsgatan,Gullspång,2,5,2,2,1,0,58.985475,14.099518,true,false
 1007,"Hova hotell, p-plats",Västra Götalands län,Gullspång,Finells väg 5,Hova,2,3,1,2,1,0,58.856538,14.21934,true,false
 1009,Otterbäckens Marina,Västra Götalands län,Gullspång,Amnevägen/Ankarvägen,Otterbäcken,2,2,1,2,1,0,58.94901,14.040208,true,false
-1010,"Skagersvik, Träbiten",Västra Götalands län,Gullspång,Skagersviksvägen,Skagersvik,3,1,1,1,1,0,58.968002,14.106578,true,false
+1010,"Skagersvik, Träbiten",Västra Götalands län,Gullspång,Skagersviksvägen,Skagersvik,4,1,1,1,1,0,58.968002,14.106578,true,false
 1045,"Sörby, Coop Krysset",Gävleborgs län,Gävle,Skogmursvägen 35,Gävle,4,4,1,1,1,0,60.658192,17.13408,false,false
 1048,"Björke, Björke Livs",Gävleborgs län,Gävle,Utnoravägen 1,Gävle,2,2,1,1,1,0,60.76618,17.19082,true,false
 1051,"Bomhus, ICA Supermarket",Gävleborgs län,Gävle,Hövdingavägen 2,Gävle,2,1,1,1,1,0,60.665935,17.227783,true,false
@@ -502,7 +502,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2965,Johannelunds Centrum,Östergötlands län,Linköping,Skogslyckeg/Munkhagsg.,Johannelund,2,1,1,1,1,0,58.397102,15.661152,false,false
 2967,Ica Skillingen,Östergötlands län,Linköping,Riksdalergatan 2,Vidingsjö,2,2,1,1,1,0,58.382755,15.651603,false,false
 2972,ICA Malmslätt centrum,Östergötlands län,Linköping,Allévägen,Malmslätt,4,2,1,1,1,0,58.413365,15.520842,false,false
-2993,Skäggetorp Centrum,Östergötlands län,Linköping,Skäggetorps Centrum 10,Linköping,2,1,1,0,1,0,58.426773,15.583437,false,false
+2993,Skäggetorp Centrum,Östergötlands län,Linköping,Skäggetorps Centrum 10,Linköping,2,1,1,1,1,0,58.426773,15.583437,false,false
 3000,Bergdalsgatan,Östergötlands län,Linköping,Bergdalsgatan,Linköping,2,1,1,1,1,0,58.402627,15.632493,false,false
 3010,Cloettavallen,Östergötlands län,Linköping,Evastigen,Ljungsbro,4,5,1,2,1,0,58.507043,15.503262,false,false
 3013,"Daghemmet, Maspelösa",Östergötlands län,Linköping, ,Maspelösa,2,1,1,1,1,0,58.492123,15.422507,false,false
@@ -2806,7 +2806,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11565,"Reningsverket, Hestra",Östergötlands län,Ydre,Tranåsvägen,Hestra,4,2,1,2,1,0,57.957435,15.080025,false,false
 11566,"Reningsverket, Rydsnäs",Östergötlands län,Ydre,Eksjövägen,Rydsnäs,4,2,1,1,1,0,57.798772,15.154647,true,false
 11567,"Österbymo, Reningsverket, utanför ÅVC",Östergötlands län,Ydre,Ågatan,Österbymo,4,2,1,2,1,0,57.82335,15.291968,false,false
-11570,"Macken, norr om Rivavägen, Glemmingebro",Skåne län,Ystad,Rivavägen,Glemmingebro,2,1,1,1,1,0,55.450515,14.019787,false,false
+11570,"Macken, norr om Rivavägen, Glemmingebro",Skåne län,Ystad,Rivavägen,Glemmingebro,2,1,1,1,1,0,55.450515,14.019787,true,false
 11571,Hedeskoga (ÅVC),Skåne län,Ystad, Blåsborgsvägen,Hedeskoga,2,2,0,2,2,0,55.463467,13.783633,false,false
 11572,"P-plats, bakom kyrkan, Hedeskoga",Skåne län,Ystad,Råggatan,Hedeskoga,2,1,1,1,1,0,55.451537,13.798972,true,false
 11574,"Idrottsplatsen, Kåseberga",Skåne län,Ystad, ,Kåseberga,3,1,1,1,1,0,55.388747,14.06309,true,false
@@ -2814,7 +2814,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11578,Charlo idrottsplats,Skåne län,Ystad,Skönadalsvägen,Svarte,2,3,1,1,1,0,55.434648,13.711777,true,false
 11579,Transformatorstation,Skåne län,Ystad,Byabacksvägen,Sövestad,2,1,1,1,1,0,55.498378,13.799147,true,false
 11586,Kryddgatan,Skåne län,Ystad,,Ystad,2,1,1,1,1,0,55.44332,13.828342,true,false
-11587,Mölletorget,Skåne län,Ystad,Stenbocksgatan,Ystad,2,1,0,0,1,0,55.428795,13.805908,false,false
+11587,Mölletorget,Skåne län,Ystad,Stenbocksgatan,Ystad,2,1,0,0,1,0,55.428795,13.805908,true,false
 11589,"Coop Konsum, Abrahamslund, p-plats",Skåne län,Ystad,Missunnavägen,Ystad,4,4,1,2,1,0,55.432012,13.799113,true,false
 11590,"Alby, Konsum",Västernorrlands län,Ånge,Kapellgatan ,Alby,2,1,1,1,1,0,62.494988,15.476195,false,false
 11593,Fränsta ,Västernorrlands län,Ånge,Kyrkrèn 8,Fränsta,2,2,1,2,1,0,62.496048,16.171422,true,false
@@ -3737,7 +3737,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15440,Avfallsanläggningen Övreskog (ÅVC),Västra Götalands län,Ulricehamn,,Ulricehamn,4,0,2,0,0,0,57.808795,13.461633,false,false
 15441,Forshall (ÅVC),Västra Götalands län,Grästorp,,Grästorp,2,1,1,1,0,0,58.34278,12.66083,true,false
 15442,Miljövägen 1 (ÅVC),Västra Götalands län,Götene,,Götene,4,3,1,4,0,0,58.530502,13.46419,false,false
-15443,Borreboda ÅVC,Västra Götalands län,Töreboda,Skövdevägen,Töreboda,4,2,1,3,1,0,58.680955,14.102945,false,false
+15443,Borreboda ÅVC,Västra Götalands län,Töreboda,Skövdevägen,Töreboda,3,2,1,3,1,0,58.680955,14.102945,false,false
 15444,Avfallsverket Häringetorp (ÅVC),Kronobergs län,Växjö,,Häringetorp,2,1,1,1,1,0,56.856585,14.693227,true,false
 15445,Braås Mästreda (ÅVC),Kronobergs län,Växjö,ÅVC,Braås,2,1,1,1,1,0,57.0591,15.10559,true,false
 15446,Rottne (ÅVC),Kronobergs län,Växjö,Växjövägen,Rottne,2,1,1,1,1,0,57.04077,14.919827,true,false
@@ -4854,7 +4854,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17602,Sickla köpkvarter Planiavägen,Stockholms län,Nacka,Planiavägen 5,Nacka,4,3,1,2,1,0,59.305605,18.133742,true,false
 17606,Värmbols IP,Södermanlands län,Katrineholm,Dalvägen,Katrineholm,2,2,1,2,1,0,58.98972,16.15805,false,false
 17608,Hurva,Skåne län,Eslöv,Tunnbindarvägen,Hurva,2,2,1,1,0,0,55.79333,13.44083,false,false
-17609,Affären intill järnvägen,Skåne län,Ystad,Lantmannavägen,Köpingebro,2,2,1,1,1,0,55.45583,13.93305,false,false
+17609,Affären intill järnvägen,Skåne län,Ystad,Lantmannavägen,Köpingebro,2,2,1,1,1,0,55.45583,13.93305,true,false
 17612,Smörlyckan parkering,Skåne län,Lund,Stig Sunners väg,Lund,2,2,1,1,0,0,55.71694,13.20583,false,false
 17614,(ÅVC) Smidesvägen,Stockholms län,Vallentuna,Smidesvägen 23,Vallentuna,4,2,1,2,0,0,59.53138,18.09888,false,true
 17615,"Campus Roslagen, korsning Kaserngatan/Astrid Lindgrens gata",Stockholms län,Norrtälje,Kaserngatan 2-4,Norrtälje,2,1,1,1,1,0,59.75222,18.68027,false,false
