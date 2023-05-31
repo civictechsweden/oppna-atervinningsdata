@@ -1082,7 +1082,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7480,"Allégården, bakom",Kalmar län,Emmaboda,Kyrkvägen 38,Långasjö,2,1,1,1,1,0,56.577142,15.4474,true,false
 7482,Bygdegården,Västra Götalands län,Essunga,,Främmestad,2,2,1,1,1,0,58.231182,12.664843,true,false
 7483,"Samlingslokalen, g:a affären",Västra Götalands län,Essunga,,Fåglum,2,2,1,1,1,0,58.125878,12.780565,false,false
-7484,Dahrentråd,Västra Götalands län,Essunga,Apelvägen,Jonslund,2,1,1,1,1,0,58.163132,12.835758,true,false
 7485,Affären ICA,Västra Götalands län,Essunga,,Krokstorp,2,2,1,1,1,0,58.167112,12.793487,true,false
 7489,Fredens väg,Hallands län,Falkenberg,P-plats Slätten,Falkenberg,2,1,1,1,1,0,56.89556,12.52889,true,false
 7490,Hjortsberg,Hallands län,Falkenberg,Hjortvägen,Falkenberg,4,3,2,3,1,0,56.88500,12.51389,true,false
@@ -1387,7 +1386,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7986,Huggarvägen/Gårdsvägen,Stockholms län,Haninge,,Västerhaninge,2,3,1,3,1,0,59.11214,18.10945,true,false
 7987,Nederstaleden/Målarvägen,Stockholms län,Haninge,,Västerhaninge,2,3,1,3,1,0,59.116733,18.087328,true,false
 7989,"Haparanda, Tullgatan",Norrbottens län,Haparanda,Tullgatan 7,Haparanda,2,2,1,1,0,0,65.83721,24.136865,false,false
-7991,Haparanda V Esplanden 34,Norrbottens län,Haparanda,Västra Esplanaden 34,Haparanda,2,0,1,1,0,0,65.83466,24.130498,true,false
 7992,"Haparanda, Ripvägen Närsta",Norrbottens län,Haparanda,Ripvägen ,Haparanda,2,2,1,1,0,0,65.835635,24.106402,false,false
 7993,"Haparanda, Sågareg/Grankullev.",Norrbottens län,Haparanda,Sågaregatan 30,Haparanda,2,2,1,1,0,0,65.827448,24.13248,true,false
 7995,"Karungi, Industrihuset",Norrbottens län,Haparanda,Stationsvägen 66,Karungi,2,2,1,1,0,0,66.043018,23.951732,true,false
@@ -3281,7 +3279,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 13247,"Haga, Simhallen",Västerbottens län,Umeå,Skogsbrynet,Umeå,2,3,1,1,1,0,63.832583,20.284912,true,false
 13248,Yttersjö,Västerbottens län,Umeå,Yttersjö,Umeå,2,1,1,2,1,0,63.77167,19.99083,true,false
 13252,Härnösand (ÅVC),Västernorrlands län,Härnösand,Jaktstigen 1,Härnösand,2,1,1,1,1,0,62.62944,17.90917,false,false
-13253,Kyrkbäcksgatan,Västra Götalands län,Kungälv,Kyrkbäcksgatan,Ytterby,2,5,1,2,1,0,57.85361,11.91194,true,false
+13253,Kyrkbäcksgatan,Västra Götalands län,Kungälv,Kyrkbäcksgatan,Ytterby,2,4,1,2,1,0,57.85361,11.91194,true,false
 13257,Marstrandsparkeringen,Gävleborgs län,Ockelbo,Marstrandsvägen,Ockelbo,2,2,1,1,1,0,60.882757,16.701873,true,false
 13263,Skafterödsvägen,Västra Götalands län,Uddevalla,Skafterödsvägen,Ljungskile,6,5,1,3,1,0,58.215918,11.917223,true,false
 13266,Hallevi,Västra Götalands län,Vänersborg,Nordkroksvägen 91,Vargön,2,1,1,1,1,0,58.367793,12.397722,true,false
@@ -4640,6 +4638,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17228,Västra vägen/Blomgatan,Stockholms län,Solna,Västra vägen,Solna,2,2,1,1,1,0,59.358877,18.006648,true,true
 17229,Härryda skola,Västra Götalands län,Härryda,Assmundtorpsvägen 13,Härryda,2,3,1,2,1,0,57.692152,12.300838,true,false
 17230,Jäla Hembygdsgård,Västra Götalands län,Falköping,Jäla Ullarp,Floby,2,1,1,1,1,0,58.03138,13.35611,false,false
+17232,Mollösunds hamn,Västra Götalands län,Orust,Hamnvägen 4,Mollösund,2,0,0,0,0,0,58.07361,11.46888,false,false
 17235,Mc Donalds Vita Fläcken,Västra Götalands län,Kungälv,Gymnasiegatan,Kungälv,2,4,1,2,1,0,57.87583,11.97250,true,false
 17236,Gjuterivägen,Blekinge län,Karlskrona,Gjuterivägen/Slottsvägen,Lyckeby,2,2,1,1,1,0,56.19638,15.65222,false,false
 17238,Stora Coop Tomtebo,Västerbottens län,Umeå,Mineralvägen 7,Umeå,2,3,2,2,1,0,63.81111,20.33139,false,false
@@ -4887,6 +4886,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17678,"Limabacka, Brandstationen",Hallands län,Varberg,Virkesvägen 2,Väröbacka,2,2,1,2,1,0,57.24000,12.18777,false,false
 17679,Svartvik (utanför ÅVC:n),Västernorrlands län,Sundsvall,Sandslåvägen,Kvissleby,2,1,1,1,1,0,62.31055,17.37416,false,false
 17681,IKEA Malmö,Skåne län,Malmö,Drakgatan / Stolpbodsgatan,Malmö,2,3,1,2,0,0,55.55138,12.98888,false,false
+17683,Lunnehov IP,Västra Götalands län,Essunga,Barne-Åsaka Lunnehov 701,Jonslund,2,1,1,1,1,0,58.15416,12.82722,false,false
 17685,Heljeved ÅVC,Västra Götalands län,Vara,Fordonsgatan 6,Vara,2,3,1,2,0,0,58.25555,12.97666,false,false
 17687,Branästoppen Orren,Värmlands län,Torsby,Toppstugevägen 4,Sysslebäck,2,2,1,1,1,0,60.65222,12.93277,false,false
 17689,Kåvan ,Jämtlands län,Härjedalen,Kåvanvägen (Funäsdalsberget),Funäsdalen,3,3,1,2,1,0,62.55527,12.55861,false,false
