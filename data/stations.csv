@@ -2137,7 +2137,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9998,Willys,Västra Götalands län,Stenungsund,Strandvägen 35,Stenungsund,3,2,1,1,1,0,58.07532,11.820412,true,false
 9999,Hasselbacken,Västra Götalands län,Stenungsund,Hasselbackevägen,Stenungsund,3,2,1,1,1,0,58.061718,11.844755,true,false
 10000,"Kyrkonorum, bakom fd affären",Västra Götalands län,Stenungsund, ,Stenungsund,3,1,1,1,1,0,58.05622,11.864947,true,false
-10001,Stora Vägen,Västra Götalands län,Stenungsund,,Stora Höga,5,3,1,2,1,0,58.010358,11.830302,true,false
+10001,Stora Vägen,Västra Götalands län,Stenungsund,,Stora Höga,4,3,1,2,1,0,58.010358,11.830302,true,false
 10002,Fotbollsplanen,Västra Götalands län,Stenungsund, ,Svenshögen,3,2,1,1,1,0,58.138602,11.944107,true,false
 10003,"Ucklum, Södra Infarten",Västra Götalands län,Stenungsund,Västerlandavägen vid bensinstationen,Ucklum,3,2,1,1,1,0,58.078637,11.948648,true,false
 10007,Per Ekströms väg 5,Stockholms län,Stockholm,,Bromma,2,4,1,3,1,0,59.345273,17.894725,true,false
@@ -2905,7 +2905,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11801,"Torvalla, Coop Nära",Jämtlands län,Östersund,Timmervägen/Barkvägen,Östersund,3,1,1,1,1,0,63.158343,14.741132,false,false
 11806,"Odenhallen, Ica Supermarket",Jämtlands län,Östersund,Slåttervägen 31,Östersund,2,2,1,1,1,0,63.155675,14.68145,true,false
 11807,Körfältets Centrum,Jämtlands län,Östersund,Körfältsvägen,Östersund,2,1,1,1,1,0,63.17731,14.672975,false,false
-11811,"Torvalla, Vattentornet",Jämtlands län,Östersund,Basvägen,Östersund,2,1,1,1,1,0,63.158363,14.751483,false,false
+11811,"Torvalla, Vattentornet",Jämtlands län,Östersund,Basvägen,Östersund,2,1,2,1,1,0,63.158363,14.751483,false,false
 11813,"Odensala, Lillsjövägen/Svanvägen",Jämtlands län,Östersund,,Östersund,2,1,1,1,1,0,63.157,14.711587,false,false
 11819,"Margretelunds Centrum, Favan",Stockholms län,Österåker,Söralidsvägen/Muskötvägen,Margretelund,4,4,1,2,1,0,59.472388,18.331588,true,false
 11820,Rydbo Station,Stockholms län,Österåker,Brovallsvägen/Björkvägen,Rydbo,2,2,1,2,1,0,59.46500,18.18444,false,false
@@ -3669,7 +3669,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15328,Djursjukhusvägen,Västmanlands län,Hallstahammar,,Strömsholm,2,2,1,2,1,0,59.525177,16.243607,true,false
 15329,Hälla Shopping parkering,Västmanlands län,Västerås,Stockholmsvägen,Västerås,4,3,1,2,1,0,59.60875,16.622908,true,false
 15331,"Ersboda, Coop Forum",Västerbottens län,Umeå,Formvägen 4,Umeå,4,3,1,2,1,0,63.850095,20.301517,true,false
-15333,"Korpilombolo, vid macken",Norrbottens län,Pajala,Strandvägen,Korpilombolo,2,2,0,2,1,0,66.848202,23.062843,true,false
 15334,Asarnas väg,Västmanlands län,Västerås,,Irsta,2,3,1,2,1,0,59.61091,16.694785,true,false
 15336,Lilla Askerön,Västra Götalands län,Tjörn,,Lilla Askerön,2,1,1,1,1,0,58.094888,11.732175,true,false
 15338,Furuvik,Gävleborgs län,Gävle,Östnäsvägen ,Gävle,2,1,1,1,1,0,60.649782,17.335217,true,false
@@ -3735,7 +3734,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15440,Avfallsanläggningen Övreskog (ÅVC),Västra Götalands län,Ulricehamn,,Ulricehamn,4,0,2,0,0,0,57.808795,13.461633,false,false
 15441,Forshall (ÅVC),Västra Götalands län,Grästorp,,Grästorp,2,1,1,1,0,0,58.34278,12.66083,true,false
 15442,Miljövägen 1 (ÅVC),Västra Götalands län,Götene,,Götene,4,3,1,4,0,0,58.530502,13.46419,false,false
-15443,Borreboda ÅVC,Västra Götalands län,Töreboda,Skövdevägen,Töreboda,3,2,1,3,1,0,58.680955,14.102945,false,false
+15443,Borreboda ÅVC,Västra Götalands län,Töreboda,Skövdevägen,Töreboda,4,2,1,3,1,0,58.680955,14.102945,false,false
 15444,Avfallsverket Häringetorp (ÅVC),Kronobergs län,Växjö,,Häringetorp,2,1,1,1,1,0,56.856585,14.693227,true,false
 15445,Braås Mästreda (ÅVC),Kronobergs län,Växjö,ÅVC,Braås,2,1,1,1,1,0,57.0591,15.10559,true,false
 15446,Rottne (ÅVC),Kronobergs län,Växjö,Växjövägen,Rottne,2,1,1,1,1,0,57.04077,14.919827,true,false
@@ -4899,6 +4898,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17719,ÅVC Fyrislund,Uppsala län,Uppsala,Arkgatan 14,Uppsala,4,3,1,4,0,0,59.85583,17.71833,false,false
 17720,FLOBY ÅVC Tillfällig,Västra Götalands län,Falköping,"Nygrannesgården, SörbyKorsgården 1",Floby,2,2,1,2,1,0,58.13527,13.36833,false,false
 17721,ÅVC Stenstorp Tillfällig,Västra Götalands län,Falköping,Östergatan 3,Stenstorp,2,2,1,3,1,0,58.27194,13.72611,false,false
+17728,Inne på ÅVC Hallsberg,Örebro län,Hallsberg,Utkällevägen 22,Hallsberg,2,2,1,2,1,0,59.06111,15.04583,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,1,1,1,1,0,56.704957,16.32314,true,false
