@@ -435,7 +435,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2413,Idrottsplatsen,Skåne län,Kristianstad,Kälkestadsvägen,Kiaby,2,1,1,1,1,0,56.06828,14.322432,true,false
 2426,Vid affären,Skåne län,Kristianstad,Fredskogsvägen 9-19,Norra Åsum,2,1,1,1,1,0,55.995862,14.15152,true,false
 2435,Sommarlust,Skåne län,Kristianstad,Sommarlustvägen,Kristianstad,2,1,1,1,1,0,56.042667,14.164548,true,false
-2439,ICA Maxi,Skåne län,Kristianstad,Mäster Bonggatan,Kristianstad,2,3,0,2,1,0,56.024883,14.170323,true,false
+2439,ICA Maxi,Skåne län,Kristianstad,Mäster Bonggatan,Kristianstad,2,2,0,2,1,0,56.024883,14.170323,true,false
 2446,Östermalm,Skåne län,Kristianstad,Villandsgatan/Hönedalsvägen,Kristianstad,2,1,1,1,1,0,56.035665,14.162573,true,false
 2451,Linderöd,Skåne län,Kristianstad,Äsphultsvägen,Linderöd,2,1,1,1,1,0,55.932582,13.82433,true,false
 2452,Maglehem,Skåne län,Kristianstad,Julebodavägen,Maglehem,2,1,1,1,1,0,55.767803,14.15419,true,false
@@ -1198,7 +1198,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7677,"Bergsjön Västra, Lidl",Västra Götalands län,Göteborg,Galileis gatan 50,Bergsjön Västra,2,3,1,1,1,0,57.761852,12.050805,true,false
 7683,"Bergsjön Västra, Siriusgatan 78",Västra Götalands län,Göteborg,Siriusgatan 78,Bergsjön Västra,2,3,1,1,1,0,57.756357,12.054052,true,false
 7684,"Bergsjön Västra, Teleskopgatan 4",Västra Götalands län,Göteborg,Teleskopgatan 4,Bergsjön Västra,2,2,1,1,1,0,57.762997,12.060562,true,false
-7685,"Björkekärr, Lådämnesgatan 31",Västra Götalands län,Göteborg,Lådämnesgatan 31,Björkekärr,2,2,1,1,1,0,57.715938,12.053245,true,false
+7685,"Björkekärr, Lådämnesgatan 31",Västra Götalands län,Göteborg,Lådämnesgatan 31,Björkekärr,2,3,1,1,1,0,57.715938,12.053245,true,false
 7687,"Björkekärr, på baksidan Stabbetorget",Västra Götalands län,Göteborg,Stabbetorget 6,Björkekärr,2,4,1,1,1,0,57.715373,12.047487,true,false
 7688,"Björkekärr, Träkilsgatan 2",Västra Götalands län,Göteborg,Träkilsgatan 2,Björkekärr,2,3,1,1,1,0,57.716915,12.055822,true,false
 7689,"Brämaregården, Västra Andersgårdsgatan 4",Västra Götalands län,Göteborg,Västra Andersgårdgatan 4,Brämaregården,2,1,1,1,1,0,57.715573,11.926337,true,false
@@ -1266,7 +1266,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7788,"Lövgärdet, Kummingatan 86",Västra Götalands län,Göteborg,Kummingatan 86,Lövgärdet,2,3,1,1,1,0,57.810105,12.04367,true,false
 7792,"Lövgärdet, Senapsgatan 1",Västra Götalands län,Göteborg,Senapsgatan 1,Lövgärdet,2,3,1,1,1,0,57.814717,12.041022,true,false
 7793,"Masthugget, Bangatan 54",Västra Götalands län,Göteborg,Bangatan 54,Masthugget,2,1,1,1,1,0,57.693725,11.93683,true,false
-7794,"Masthugget, Bockhornsgatan 2",Västra Götalands län,Göteborg,Bockhornsgatan 2,Masthugget,2,1,1,1,1,0,57.69322,11.94035,true,false
+7794,"Masthugget, Bockhornsgatan 2",Västra Götalands län,Göteborg,Bockhornsgatan 2,Masthugget,2,1,1,0,1,0,57.69322,11.94035,true,false
 7795,"Masthugget, Jungmansgatan 14",Västra Götalands län,Göteborg,Jungmansgatan 14,Masthugget,2,1,1,1,1,0,57.695183,11.946582,true,false
 7796,"Masthugget, Repslagaregatan 7",Västra Götalands län,Göteborg,Repslagaregatan 7,Masthugget,2,3,1,1,1,0,57.69542,11.938683,true,false
 7797,"Masthugget, Vegagatan 19",Västra Götalands län,Göteborg,Vegagatan 19,Masthugget,2,2,1,1,1,0,57.692665,11.948037,true,false
@@ -3973,6 +3973,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15808,"Kainulasjärvi, Lanthandel",Norrbottens län,Pajala,Byavägen 35,Kainulasjärvi,2,2,1,1,1,0,67.003168,22.493793,false,false
 15809,"Kitkiöjärvi,Gamla skolan",Norrbottens län,Pajala,,Kitkiöjärvi,2,1,1,1,1,0,67.815067,23.143973,false,false
 15810,"Bomhus, Tempo",Gävleborgs län,Gävle,Ångermansvägen 1,Gävle,2,1,1,1,1,0,60.673253,17.2528,true,false
+15815,Siviks Avfallsanläggning (ÅVC),Västra Götalands län,Lysekil,Träleberg 164,Lysekil,2,0,0,0,0,0,58.29333,11.44916,false,false
 15817,ICA Maxi Toftanäs,Skåne län,Malmö,Topplocksgatan 10,Malmö Öster,2,4,1,2,1,0,55.598532,13.095945,true,false
 15818,ICA Dragonen,Stockholms län,Täby,Vallatorpsvägen 6,Täby,2,3,1,2,1,0,59.465592,18.044122,true,true
 15822,Willys p-plats ,Stockholms län,Norrtälje,Baldersgatan 27,Norrtälje,4,2,1,2,1,0,59.766102,18.69417,false,false
