@@ -558,7 +558,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3210,Katthedsvägen/Kängsövägen,Norrbottens län,Luleå,,Råneå,3,3,1,1,1,0,65.855633,22.292428,false,false
 3211,Luleå energi ,Norrbottens län,Luleå,Överlotsvägen,Råneå ,2,2,1,1,1,0,65.861495,22.299235,false,false
 3213,Stadsötorget,Norrbottens län,Luleå,,Gammelstaden,2,2,1,1,1,0,65.642237,22.012242,false,false
-3214,Pumpstationen,Norrbottens län,Luleå,Övägen,Gammelstaden,3,2,1,1,1,0,65.643003,21.989685,false,false
+3214,Pumpstationen,Norrbottens län,Luleå,Övägen,Gammelstaden,3,1,1,1,1,0,65.643003,21.989685,false,false
 3215,COOP,Norrbottens län,Luleå,Besiktningsvägen,Storheden,2,2,1,1,1,0,65.619142,22.045125,false,false
 3217,Affären/ICA Nära,Norrbottens län,Luleå, ,Örarna,2,2,1,1,1,0,65.707617,22.235678,false,false
 3218,Örnäset,Norrbottens län,Luleå,Metargränd,Örnäset,2,2,1,1,1,0,65.575087,22.20717,false,false
@@ -1074,7 +1074,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7464,COOP Konsum Färentuna,Stockholms län,Ekerö,Kungsbergavägen,Kungsberga,2,2,1,2,2,0,59.405178,17.631805,true,false
 7465,"Skolallén, Lovön",Stockholms län,Ekerö,,Lovön,3,4,1,2,2,0,59.320752,17.862857,true,false
 7466,"Söderby IP, Munsö",Stockholms län,Ekerö,Ekerövägen,Munsö,3,2,1,2,2,0,59.387457,17.577963,true,false
-7467,ICA Nyckelby,Stockholms län,Ekerö,"Nyckelby, Kaggeholmsv. 2",Ekerö,2,3,1,2,2,0,59.287578,17.714732,true,false
+7467,ICA Nyckelby,Stockholms län,Ekerö,"Nyckelby, Kaggeholmsv. 2",Ekerö,3,3,1,2,2,0,59.287578,17.714732,true,false
 7470,"COOP, Stenhamra Centrum",Stockholms län,Ekerö,"Fårhagsplan, Uppgårdsvägen",Färingsö,3,3,1,2,1,0,59.33528,17.685173,false,false
 7472,Tappström infartsparkering,Stockholms län,Ekerö,Tappströmsvägen 1,Ekerö,4,7,2,5,2,0,59.290192,17.806893,true,false
 7478,Distriktsmottagning,Kalmar län,Emmaboda,Postvägen,Eriksmåla,2,1,1,1,1,0,56.735948,15.484193,true,false
@@ -1152,7 +1152,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7595,Torget,Värmlands län,Filipstad,Högbergsvägen 38,Persberg,2,1,1,2,1,0,59.749798,14.2573,false,false
 7596,Busstorget,Södermanlands län,Gnesta,Stationsvägen 7,Björnlunda,3,2,1,2,1,0,59.064143,17.1596,true,false
 7597,"Elektron, bakom Odal",Södermanlands län,Gnesta,Västra Storgatan 18,Gnesta,5,4,1,3,1,0,59.049432,17.305757,true,false
-7598,Återvinningsgården (ÅVC),Södermanlands län,Gnesta,Vackerby Industriväg 11A,Gnesta,3,6,1,2,1,0,59.055098,17.293345,false,false
+7598,Återvinningsgården (ÅVC),Södermanlands län,Gnesta,Vackerby Industriväg 11A,Gnesta,3,8,1,2,1,0,59.055098,17.293345,false,false
 7599,Stopp Stormarknad,Södermanlands län,Gnesta,Dansutvägen 2,Gnesta,8,5,1,4,1,0,59.039578,17.325887,true,false
 7600,"Laxne, Mariefredsvägen",Södermanlands län,Gnesta,Mariefredsvägen,Laxne,2,2,1,2,1,0,59.168493,17.186135,true,false
 7601,ICA Strandhallen,Södermanlands län,Gnesta,Metarvägen 6/ Dagavägen 13,Stjärnhov,4,2,1,2,1,0,59.078958,17.01154,true,false
@@ -3973,7 +3973,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15808,"Kainulasjärvi, Lanthandel",Norrbottens län,Pajala,Byavägen 35,Kainulasjärvi,2,2,1,1,1,0,67.003168,22.493793,false,false
 15809,"Kitkiöjärvi,Gamla skolan",Norrbottens län,Pajala,,Kitkiöjärvi,2,1,1,1,1,0,67.815067,23.143973,false,false
 15810,"Bomhus, Tempo",Gävleborgs län,Gävle,Ångermansvägen 1,Gävle,2,1,1,1,1,0,60.673253,17.2528,true,false
-15815,Siviks Avfallsanläggning (ÅVC),Västra Götalands län,Lysekil,Träleberg 164,Lysekil,2,0,0,0,0,0,58.29333,11.44916,false,false
+15815,Siviks Avfallsanläggning (ÅVC),Västra Götalands län,Lysekil,Träleberg 164,Lysekil,2,1,1,1,0,0,58.29333,11.44916,false,false
 15817,ICA Maxi Toftanäs,Skåne län,Malmö,Topplocksgatan 10,Malmö Öster,2,4,1,2,1,0,55.598532,13.095945,true,false
 15818,ICA Dragonen,Stockholms län,Täby,Vallatorpsvägen 6,Täby,2,3,1,2,1,0,59.465592,18.044122,true,true
 15822,Willys p-plats ,Stockholms län,Norrtälje,Baldersgatan 27,Norrtälje,4,2,1,2,1,0,59.766102,18.69417,false,false
@@ -4638,7 +4638,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17228,Västra vägen/Blomgatan,Stockholms län,Solna,Västra vägen,Solna,2,2,1,1,1,0,59.358877,18.006648,true,true
 17229,Härryda skola,Västra Götalands län,Härryda,Assmundtorpsvägen 13,Härryda,2,3,1,2,1,0,57.692152,12.300838,true,false
 17230,Jäla Hembygdsgård,Västra Götalands län,Falköping,Jäla Ullarp,Floby,2,1,1,1,1,0,58.03138,13.35611,false,false
-17232,Mollösunds hamn,Västra Götalands län,Orust,Hamnvägen 4,Mollösund,2,0,0,0,0,0,58.07361,11.46888,false,false
+17232,Mollösunds hamn,Västra Götalands län,Orust,Hamnvägen 4,Mollösund,3,0,0,0,0,0,58.07361,11.46888,false,false
 17235,Mc Donalds Vita Fläcken,Västra Götalands län,Kungälv,Gymnasiegatan,Kungälv,2,4,1,2,1,0,57.87583,11.97250,true,false
 17236,Gjuterivägen,Blekinge län,Karlskrona,Gjuterivägen/Slottsvägen,Lyckeby,2,2,1,1,1,0,56.19638,15.65222,false,false
 17238,Stora Coop Tomtebo,Västerbottens län,Umeå,Mineralvägen 7,Umeå,2,3,2,2,1,0,63.81111,20.33139,false,false
