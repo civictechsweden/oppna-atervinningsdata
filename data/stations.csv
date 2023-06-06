@@ -199,7 +199,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 938,Furuborgsvägen,Jönköpings län,Gislaved,Furuborgsvägen,Anderstorp,3,2,1,1,1,0,57.2823,13.628795,false,false
 940,Norravägen,Jönköpings län,Gislaved,Norravägen,Broaryd,4,2,1,1,1,0,57.121675,13.255577,true,false
 941,Nya Västra Bruksgatan,Jönköpings län,Gislaved,Västra Bruksgatan,Burseryd,2,2,1,1,1,0,57.199647,13.2858,true,false
-946,Danska vägen 1,Jönköpings län,Gislaved,Danska vägen 1,Gislaved,6,2,1,1,1,0,57.290098,13.526488,true,false
+946,Danska vägen 1,Jönköpings län,Gislaved,Danska vägen 1,Gislaved,4,2,1,1,1,0,57.290098,13.526488,true,false
 947,Traststigens P-plats,Jönköpings län,Gislaved,Traststigen,Gislaved,2,1,1,1,1,0,57.304598,13.534073,true,false
 948,Stationen,Jönköpings län,Gislaved,Mogatan,Hestra,3,1,1,1,1,0,57.442727,13.59679,false,false
 950,Tempo,Jönköpings län,Gislaved,Segerstadsvägen,Reftele,4,1,1,1,1,0,57.174175,13.59462,true,false
@@ -613,7 +613,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3637,Mörbylånga Gamla sockerbruket ,Kalmar län,Mörbylånga,Gamla sockerbruket,Mörbylånga,6,3,1,3,1,0,56.527037,16.387482,true,false
 3638,Bakom Överskottsbolaget,Kalmar län,Mörbylånga,,Ölands skogsby,2,2,1,2,1,0,56.629458,16.515148,true,false
 3698,Bergsjö G:a idrottsplatsen,Gävleborgs län,Nordanstig,Skolvägen,Bergsjö,4,4,1,2,1,0,61.983803,17.057818,false,false
-3699,Gnarps Skola,Gävleborgs län,Nordanstig,Södra Vägen/Bergevägen,Gnarp,2,3,1,1,1,0,62.053068,17.2432,false,false
+3699,Gnarps Skola,Gävleborgs län,Nordanstig,Södra Vägen/Bergevägen,Gnarp,2,4,1,1,1,0,62.053068,17.2432,false,false
 3700,Harmånger Centrum,Gävleborgs län,Nordanstig,Centrum,Harmånger,2,3,1,1,1,0,61.928848,17.21881,false,false
 3701,Hassela Centrum,Gävleborgs län,Nordanstig,Korsning Fribergsvägen/Ringvägen,Hassela,2,2,1,1,1,0,62.108505,16.712815,false,false
 3702,Ilsbo ICA,Gävleborgs län,Nordanstig,Kyrkvägen,Ilsbo,2,2,1,1,1,0,61.856467,17.049842,false,false
@@ -1454,7 +1454,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8159,Ica Supermarket Håsta (gamla Rimi),Gävleborgs län,Hudiksvall,Västra vägen 9,Hudiksvall,2,2,1,2,1,0,61.71917,17.08889,false,false
 8160,Q Star,Gävleborgs län,Hudiksvall,Åsak 33,Hög,2,1,1,2,1,0,61.76722,16.99861,true,false
 8161,COOP Konsum,Gävleborgs län,Hudiksvall,Stora vägen 9,Iggesund,2,3,1,2,1,0,61.64306,17.07917,false,false
-8162,Preem,Gävleborgs län,Hudiksvall,Stora vägen 54,Iggesund,2,2,1,1,1,0,61.65278,17.08222,true,false
+8162,Preem,Gävleborgs län,Hudiksvall,Stora vägen 54,Iggesund,2,2,1,2,1,0,61.65278,17.08222,true,false
 8163,Ingstahemmet,Gävleborgs län,Hudiksvall, ,Rogsta,2,2,1,1,1,0,61.76472,17.19944,true,false
 8164,Linde Livs ,Gävleborgs län,Hudiksvall, ,Lindefallet,2,1,1,1,1,0,61.48778,16.93667,true,false
 8165,Malsta Skola,Gävleborgs län,Hudiksvall, ,Malsta,2,1,1,1,1,0,61.80972,17.20389,false,false
