@@ -428,7 +428,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2401,"Fjälkestad, Idrottsplatsen",Skåne län,Kristianstad,Fjälkestadsvägen,Fjälkestad,2,1,1,1,1,0,56.103982,14.171757,true,false
 2404,Henning Anderssons Väg,Skåne län,Kristianstad,Henning Anderssons Väg,Fjälkinge,2,1,1,1,1,0,56.044522,14.276937,false,false
 2405,Furubodavägen,Skåne län,Kristianstad,Furubodavägen 226,Furuboda,2,1,1,1,1,0,55.8449,14.212923,true,false
-2407,Vips Matnäras p-plats,Skåne län,Kristianstad,Fredrika Bremers Väg 30,Gärds Köpinge,2,1,1,1,1,0,55.946003,14.1571,true,false
+2407,Vips Matnäras p-plats,Skåne län,Kristianstad,Fredrika Bremers Väg 30,Gärds Köpinge,2,1,1,0,1,0,55.946003,14.1571,true,false
 2409,Vid Matnära i Hammar,Skåne län,Kristianstad,Åängavägen 1,Kristianstad,2,1,1,1,1,0,56.029493,14.197907,true,false
 2411,"Huaröd, Affären",Skåne län,Kristianstad,Karlins väg,Huaröd,2,1,1,1,1,0,55.841785,13.968687,true,false
 2412,Ivö nära camping,Skåne län,Kristianstad,Ärkebiskopens Väg,Ivö,2,1,1,1,1,0,56.11106,14.386835,true,false
@@ -2892,7 +2892,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11772,Trehörningsjö Konsum P-plats,Västernorrlands län,Örnsköldsvik,Centralgatan 31,Trehörningsjö,2,1,1,1,1,0,63.693972,18.866528,true,false
 11773,Örnsköldsvik Vegagatan/E 4,Västernorrlands län,Örnsköldsvik,Vegagatan 21,Örnsköldsvik,2,1,3,1,1,0,63.291983,18.721088,true,false
 11777,Överhörnäs Minilivs,Västernorrlands län,Örnsköldsvik,Granitvägen 3,Överhörnäs,2,1,1,1,1,0,63.288538,18.556355,true,false
-11781,Coop Extra,Jämtlands län,Östersund,Trädgårdsvägen 2,Frösön,3,2,1,1,1,0,63.182008,14.618405,true,false
+11781,Coop Extra,Jämtlands län,Östersund,Trädgårdsvägen 2,Frösön,3,2,0,2,1,0,63.182008,14.618405,true,false
 11785,Rödövägen/Arnljots väg,Jämtlands län,Östersund,RödövägenArnljots väg,Frösön,2,1,1,1,1,0,63.17274,14.548585,true,false
 11786,Valla Centrum,Jämtlands län,Östersund,Önevägen,Frösön,2,2,1,1,1,0,63.168932,14.567028,false,false
 11787,"Fåker, elljusspår",Jämtlands län,Östersund, Grönviksvägen,Fåker,2,1,1,1,1,0,62.993758,14.579978,true,false
@@ -4445,7 +4445,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16832,Midgårdsvägen; parkering,Stockholms län,Sigtuna,MIdgårdsvägen 14,Märsta,2,3,1,2,1,0,59.618233,17.820967,true,false
 16834,Bondevägen,Värmlands län,Säffle,Bondevägen,Säffle,4,4,1,3,1,0,59.125163,12.937542,false,false
 16835,Långtidsparkeringen,Västra Götalands län,Tanum,Repslagaregatan ,Grebbestad,5,4,1,2,1,0,58.686575,11.26477,true,false
-16836,Telegatan,Östergötlands län,Söderköping,Telegatan,Söderköping,4,4,1,3,1,0,58.472658,16.332392,true,false
+16836,Telegatan,Östergötlands län,Söderköping,Telegatan,Söderköping,5,4,1,3,1,0,58.472658,16.332392,true,false
 16837,Kallhäll station,Stockholms län,Järfälla,Kallhällsleden,Kallhäll,2,2,1,1,1,0,59.451562,17.809725,true,true
 16840,Sättra; vid förskolan och bangolfen,Stockholms län,Norrtälje,Byhusvägen,Sättra Riala,2,2,1,1,1,0,59.621163,18.438247,false,false
 16841,Kjula Kiosk och Grill,Södermanlands län,Eskilstuna,Kvarnvägen 2,Eskilstuna,2,2,1,2,1,0,59.383382,16.677223,false,false
