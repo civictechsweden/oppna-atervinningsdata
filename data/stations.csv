@@ -2579,7 +2579,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11039,P-plats stallet,Stockholms län,Upplands-Väsby,Prästgårdsvägen,Prästgårdsmarken,2,1,1,1,1,0,59.51446,17.886258,true,true
 11043,Smedsgärdshallen,Stockholms län,Upplands-Väsby,Holmvägen,Vilunda,2,1,1,1,1,0,59.522128,17.9208,true,true
 11044,Hasselskolans p-plats,Stockholms län,Upplands-Väsby,Hammarbyvägen,Väsbyskogen,2,2,1,1,1,0,59.526855,17.913233,true,true
-11045,Parkeringen vid pizzabutiken,Stockholms län,Upplands-Väsby,Frejavägen,Vatthagen,2,2,1,1,1,0,59.51348,17.93065,true,true
+11045,Parkeringen vid pizzabutiken,Stockholms län,Upplands-Väsby,Frejavägen,Vatthagen,3,2,1,1,1,0,59.51348,17.93065,true,true
 11046,"Runby, Bromsbodavägen",Stockholms län,Upplands-Väsby,Bromsbodavägen,Runby backar,2,1,1,1,1,0,59.526143,17.888298,true,true
 11048,Västra pendlarparkeringen,Stockholms län,Upplands-Väsby,Ladbrovägen,Väsby station,2,1,1,1,1,0,59.520363,17.897332,true,true
 11049,Maria Krantzons väg,Stockholms län,Upplands-Väsby,,Carlslund,2,1,1,1,1,0,59.518328,17.929495,true,true
@@ -3431,7 +3431,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14569,"Norrmalm, Brandstationen",Västerbottens län,Lycksele,Bergstigen/Klippstigen,Lycksele,3,2,1,2,0,0,64.590965,18.695467,true,false
 14570,Bussvändplan/Saltängens skola,Stockholms län,Nacka,Hägervägen/Tranvägen,Saltsjö - Duvnäs,2,3,1,2,1,0,59.30873,18.210908,true,false
 14571,Apportvägen,Stockholms län,Nacka,Apportvägen,Duvnäs - Utskog,3,5,1,3,1,0,59.326927,18.20432,true,false
-14572,Lertagsgatan (ÅVC),Örebro län,Hallsberg,,Hallsberg,2,2,1,4,1,0,59.076643,15.090717,false,false
 14573,Expovägen vid Hunddagis,Jönköpings län,Värnamo,Expovägen,Värnamo,4,2,1,1,1,0,57.173457,14.064108,true,false
 14574,Gällaryd,Jönköpings län,Värnamo,Bakom kyrkan,Gällaryd,2,1,1,1,1,0,57.132138,14.28889,true,false
 14577,"Vårgårda, Tumbergsdeponi (ÅVC)",Västra Götalands län,Vårgårda,Återvinningsvägen 1,Vårgårda,2,1,1,4,1,0,58.050885,12.858687,true,false
@@ -4355,7 +4354,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16554,Volrat Thamsgatan 18,Västra Götalands län,Göteborg,Volrat Thamsgatan 18,Johanneberg,2,2,1,1,1,0,57.690498,11.986773,true,false
 16557,"Älgö, ösidan efter bron",Stockholms län,Nacka,Älgövägen,Saltsjöbaden,2,4,1,2,1,0,59.263615,18.313138,true,false
 16558,Norra Stationsvägen/vid förrådstältet,Stockholms län,Nykvarn,Norra Stationsvägen 20,Nykvarn,2,1,2,2,1,0,59.177298,17.440215,true,false
-16559,Rotebro Coop/Willys parkering,Stockholms län,Sollentuna,Konsumentvägen 1A,Sollentuna,3,1,1,0,1,0,59.47065,17.91439,true,true
+16559,Rotebro Coop/Willys parkering,Stockholms län,Sollentuna,Konsumentvägen 1A,Sollentuna,3,1,1,1,1,0,59.47065,17.91439,false,true
 16560,Hedvigsborg IP,Västra Götalands län,Borås,Kråkeredsstigen,Borås,2,4,1,2,1,0,57.705713,12.950527,true,false
 16562,Överby Köpcenter,Västra Götalands län,Trollhättan,Överby Köpcenter,Trollhättan,4,4,1,2,1,0,58.311523,12.303912,true,false
 16566,Kvarntorps ÅVC,Värmlands län,Forshaga,Traktorgatan 1,Forshaga,4,2,1,2,1,0,59.565815,13.481685,false,false
@@ -4722,7 +4721,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17377,Östberga Återvinningscentral,Stockholms län,Stockholm,Bussens väg,Enskede,4,0,0,2,1,0,59.285977,18.046305,false,false
 17378,Vantörs återvinningcentral (Utanför),Stockholms län,Stockholm,Kvicksundsvägen,Bandhagen,2,0,0,2,1,0,59.257768,18.058253,false,false
 17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,6,0,0,3,1,0,59.348148,17.94994,false,false
-17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,3,4,0,4,1,0,59.386962,17.792227,false,false
+17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,3,4,1,3,1,0,59.386962,17.792227,false,false
 17381,Överlida,Västra Götalands län,Svenljunga,Hallavägen 6,Överlida,2,1,1,2,0,0,57.35083,12.89583,false,false
 17382,Mårdaklev,Västra Götalands län,Svenljunga,Bäckavägen 1,Mårdaklev,2,3,1,2,1,0,57.24611,12.97638,false,false
 17383,Hamrafjället,Jämtlands län,Härjedalen,Fäbodvägen,Tänndalen,3,3,1,2,1,0,62.57388,12.22416,false,false
