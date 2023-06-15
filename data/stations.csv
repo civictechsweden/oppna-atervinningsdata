@@ -2823,7 +2823,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11601,Östavall,Västernorrlands län,Ånge,Förrådsvägen,Östavall,2,1,1,1,1,0,62.427795,15.477627,false,false
 11602,"Överturingen, tankstationen",Västernorrlands län,Ånge,,Överturingen,2,1,1,1,1,0,62.450733,14.919022,false,false
 11605,"Duved, Hamrebacken",Jämtlands län,Åre,Hamrebacken,Duved,4,3,1,2,1,0,63.396425,12.91305,false,false
-11607,Hallen vid ÅVC,Jämtlands län,Åre,ÅVC Hallen,Hallen,2,4,1,2,1,0,63.17056,14.10944,false,false
+11607,Hallen vid ÅVC,Jämtlands län,Åre,ÅVC Hallen,Hallen,3,4,1,2,1,0,63.17056,14.10944,false,false
 11608,"Huså, Reningsverket",Jämtlands län,Åre,,Järpen,2,1,1,1,1,0,63.486463,13.137092,true,false
 11609,"Järpen, Skansvägen/Strandvägen",Jämtlands län,Åre,Skansvägen/Strandvägen,Järpen,4,5,1,3,1,0,63.351535,13.447418,true,false
 11610,"Kall, Värmeverket",Jämtlands län,Åre,,Kall,2,1,1,1,1,0,63.473355,13.228342,false,false
@@ -2892,7 +2892,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11772,Trehörningsjö Konsum P-plats,Västernorrlands län,Örnsköldsvik,Centralgatan 31,Trehörningsjö,2,1,1,1,1,0,63.693972,18.866528,true,false
 11773,Örnsköldsvik Vegagatan/E 4,Västernorrlands län,Örnsköldsvik,Vegagatan 21,Örnsköldsvik,2,1,3,1,1,0,63.291983,18.721088,true,false
 11777,Överhörnäs Minilivs,Västernorrlands län,Örnsköldsvik,Granitvägen 3,Överhörnäs,2,1,1,1,1,0,63.288538,18.556355,true,false
-11781,Coop Extra,Jämtlands län,Östersund,Trädgårdsvägen 2,Frösön,3,2,0,2,1,0,63.182008,14.618405,true,false
+11781,Coop Extra,Jämtlands län,Östersund,Trädgårdsvägen 2,Frösön,2,2,0,2,1,0,63.182008,14.618405,true,false
 11785,Rödövägen/Arnljots väg,Jämtlands län,Östersund,RödövägenArnljots väg,Frösön,2,1,1,1,1,0,63.17274,14.548585,true,false
 11786,Valla Centrum,Jämtlands län,Östersund,Önevägen,Frösön,2,2,1,1,1,0,63.168932,14.567028,false,false
 11787,"Fåker, elljusspår",Jämtlands län,Östersund, Grönviksvägen,Fåker,2,1,1,1,1,0,62.993758,14.579978,true,false
@@ -4148,7 +4148,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16092,Södra Järnvägsgatan,Västerbottens län,Skellefteå,Södra Järnvägsgatan 31-33,Skellefteå,2,1,1,1,0,0,64.753375,20.953608,true,false
 16093,Major Nilssonsgatan,Skåne län,Malmö,Major Nilssonsgatan/Köpenhamnsvägen,Malmö Innerstaden,2,2,1,2,1,0,55.59417,12.972418,false,false
 16094,Textilvägen ,Dalarnas län,Falun,Textilvägen Sågmyra,Sågmyra,2,1,1,1,1,0,60.71463,15.294635,false,false
-16095,Tärnaby,Västerbottens län,Storuman,Industrivägen,Tärnaby,3,4,1,2,1,0,65.709608,15.247922,false,false
+16095,Tärnaby,Västerbottens län,Storuman,Industrivägen,Tärnaby,3,4,1,2,0,0,65.70972,15.24805,false,false
 16096,Ödeshög ÅVC,Östergötlands län,Ödeshög,"Bakom Folkets Park , Orrnäs",Ödeshög,2,2,0,4,1,0,58.23344,14.622847,false,false
 16098,Västra Ingelstad,Skåne län,Vellinge,Stationsvägen,Västra Ingelstad,2,2,1,2,1,0,55.491177,13.10747,true,false
 16100,Åmänningevägen; vid tvärbanans station,Stockholms län,Stockholm,Åmänningevägen 65,Enskede-Årsta-Vantör,2,3,2,2,2,0,59.296483,18.041692,true,false
@@ -4649,7 +4649,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17254,Åkarp,Skåne län,Burlöv,Lervägen ,Åkarp,2,2,1,2,1,0,55.656783,13.100905,false,false
 17255,Idrottsvägen,Östergötlands län,Valdemarsvik,Idrottsvägen,Valdemarsvik,4,2,1,1,1,0,58.200885,16.605465,false,false
 17256,Ringarum,Östergötlands län,Valdemarsvik,Solgårdsvägen,Ringarum,2,1,1,1,1,0,58.33333,16.44638,false,false
-17257,Kallsedet,Jämtlands län,Åre,Utmed riksväg 336,Järpen,2,2,1,2,1,0,63.70083,12.94611,true,false
+17257,Kallsedet,Jämtlands län,Åre,Utmed riksväg 336,Järpen,4,2,1,2,1,0,63.70083,12.94611,true,false
 17259,"Banvallsvägen, Hjärup",Skåne län,Staffanstorp,Banvallsvägen,"Hjärup, Staffanstorp",2,3,1,2,1,0,55.675273,13.13952,false,false
 17261,Biografen/Parkgrillen,Stockholms län,Vaxholm,Hamngatan 31,Vaxholm,2,2,1,1,1,0,59.404355,18.346505,true,false
 17262,Ruddammsvägen,Stockholms län,Stockholm,Ruddammsvägen 15-17,Östermalm,2,2,1,1,1,0,59.351152,18.064337,true,false
