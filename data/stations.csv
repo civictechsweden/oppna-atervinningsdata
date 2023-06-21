@@ -525,7 +525,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3068,Nybo,Gävleborgs län,Ljusdal,Tempo Nybo,Järvsö,2,2,1,1,1,0,61.67167,16.14472,true,false
 3069,Ramsjö Affären,Gävleborgs län,Ljusdal,Tempo Ramsjö Sundsvägen 7 ,Ramsjö,2,2,1,1,1,0,62.18278,15.64889,true,false
 3070,Tallåsen Torget,Gävleborgs län,Ljusdal,Stationsvägen 1,Tallåsen,2,2,1,1,1,0,61.86722,16.00639,true,false
-3095,Björnhyttan ÅVC,Dalarnas län,Ludvika,Björnhyttan,Björnhyttan,4,2,2,2,2,0,60.13528,15.02556,false,false
+3095,Björnhyttan ÅVC,Dalarnas län,Ludvika,Björnhyttan,Björnhyttan,4,2,1,3,2,0,60.13528,15.02556,false,false
 3100,Brandstationen,Dalarnas län,Ludvika, Stationsbacken,Fredriksberg,4,4,1,2,1,0,60.141203,14.378108,true,false
 3113,OK/Q8,Dalarnas län,Ludvika,Gärdsvedsvägen 3,Grangärde,2,1,1,1,1,0,60.270888,14.983055,true,false
 3117,P-plats Grängesvallen,Dalarnas län,Ludvika,Björkallen,Grängesberg,2,1,1,1,1,0,60.086072,15.013967,true,false
@@ -4047,7 +4047,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15937,"Limmared, Glashuset",Västra Götalands län,Tranemo,Östra Järnvägsgatan / Södra vägen,Limmared,2,2,1,2,1,0,57.5336,13.354598,true,false
 15940,Lidl Spelhagsvägen,Södermanlands län,Nyköping,Spelhagsvägen 2,Nyköping,2,2,1,2,1,0,58.743028,17.006713,true,false
 15942,"Stenbockens gata, vändplan",Stockholms län,Haninge,Stenbockens gata 118,Haninge,2,3,1,2,1,0,59.168023,18.176053,true,false
-15944,Coop Forum Österleden,Hallands län,Varberg,Vrångagatan,Varberg,4,3,1,3,2,0,57.08166,12.28166,false,false
 15946,Mot ÅVC:n,Kalmar län,Torsås,Västra Industrigatan,Torsås,4,2,1,3,2,0,56.403057,15.998303,false,false
 15947,ICA Supermarket,Skåne län,Ystad,Militärvägen,Ystad,2,4,1,2,1,0,55.434733,13.839275,true,false
 15948,"ICA Kvantum, Larsberg",Stockholms län,Lidingö,Agavägen 1,Lidingö,3,3,1,2,2,0,59.35042,18.144882,true,true
