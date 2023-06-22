@@ -210,7 +210,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 975,"Åsenöga, p-plats Vi församlingshemmet",Jönköpings län,Gnosjö,Örerydsvägen,Åsenöga,2,1,1,1,1,0,57.40667,13.79500,false,false
 989,Grums; Björknäsgatan,Värmlands län,Grums,Björknäsgatan,Grums,2,2,1,1,1,0,59.340815,13.097873,true,false
 991,Grums; Ica Orrby,Värmlands län,Grums,Orrkullegatan 2,Grums,2,2,1,1,1,0,59.347125,13.101172,true,false
-992,Grums; Åsgatan,Värmlands län,Grums,Åsgatan,Grums,2,1,1,1,1,0,59.353403,13.107377,true,false
 994,Segmons centrum,Värmlands län,Grums,Edsgatan,Segmon,2,1,1,1,1,0,59.275332,13.04026,true,false
 996,Värmskog; mittemot Liljenäs skola,Värmlands län,Grums,L M Ericssons väg,Värmskog,2,1,1,1,1,0,59.452897,12.908637,true,false
 997,Flakeberg Köpglädje,Västra Götalands län,Grästorp,,Flakeberg,2,1,1,2,1,0,58.32282,12.759177,true,false
@@ -1801,7 +1800,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9097,Råstorp Järnvägsövergång,Kronobergs län,Markaryd,Järnvägsövergång,Råstorp,2,1,1,1,1,0,56.484733,13.532095,true,false
 9115,Timsfors Prästtorpsv/Massav,Kronobergs län,Markaryd,Prästtorpsv/Massav,Timsfors,2,1,1,1,1,0,56.479885,13.610235,true,false
 9118,Traryd Konsum,Kronobergs län,Markaryd,Torggatan,Traryd,2,1,1,1,1,0,56.579322,13.748308,true,false
-9125,"Mobila p-plats köpcentrum, Mantorp",Östergötlands län,Mjölby,Hedv 1,Mantorp,4,2,1,1,1,0,58.365623,15.296655,true,false
+9125,"Depot p-plats köpcentrum, Mantorp",Östergötlands län,Mjölby,Hedv 1,Mantorp,4,2,1,1,1,0,58.365623,15.296655,false,false
 9127,Korsningen Riksvägen/Trumpetarevägen,Östergötlands län,Mjölby,Trumpetarevägen 1,Mantorp,2,2,1,1,1,0,58.348035,15.276772,true,false
 9130,P-plats mitt för Stjärngatan,Östergötlands län,Mjölby,Smålandsvägen 40,Mjölby,2,1,1,1,1,0,58.321162,15.121525,true,false
 9133,Lagmansskolan,Östergötlands län,Mjölby,Ringvägen 11,Mjölby,2,1,1,1,1,0,58.318727,15.134895,true,false
@@ -4102,7 +4101,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16017,Ulriksdal,Stockholms län,Solna,Kolonnvägen / Galoppvägen,Solna,2,4,1,2,1,0,59.38074,18.006185,true,true
 16018,John Åkerlunds väg/Prästängarna,Stockholms län,Sigtuna,John Åkerlunds väg,Sigtuna,2,2,1,1,1,0,59.617237,17.695762,true,false
 16020,Parkering Segersäng,Stockholms län,Nynäshamn,Segersängsvägen,Segersäng,2,3,1,2,1,0,59.027958,17.926725,true,false
-16025,Korsning Östra Storgatan,Skåne län,Åstorp,Olofsgatan,Kvidinge,2,2,1,1,1,0,56.131267,13.061897,false,false
 16026,Näsgatan mitt emot Returen,Västra Götalands län,Åmål,Näsgatan,Åmål,3,4,1,2,0,0,59.036853,12.714573,false,false
 16027,ÅVC Molkom,Värmlands län,Karlstad,Industrivägen,Molkom,4,1,1,1,1,0,59.608062,13.742642,false,false
 16028,Coop A6,Jönköpings län,Jönköping,Bataljonsgatan,Jönköping,2,2,1,2,1,0,57.771882,14.207507,true,false
@@ -4719,7 +4717,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17373,Skolhusvägen (Stora Herrestad),Skåne län,Ystad,Skolhusvägen,Ystad,2,1,1,1,1,0,55.472573,13.87382,true,false
 17377,Östberga Återvinningscentral,Stockholms län,Stockholm,Bussens väg,Enskede,4,0,0,2,1,0,59.285977,18.046305,false,false
 17378,Vantörs återvinningcentral (Utanför),Stockholms län,Stockholm,Kvicksundsvägen,Bandhagen,2,0,0,2,1,0,59.257768,18.058253,false,false
-17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,6,0,0,3,1,0,59.348148,17.94994,false,false
+17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,5,0,0,2,1,0,59.348148,17.94994,false,false
 17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,3,4,1,3,1,0,59.386962,17.792227,false,false
 17381,Överlida,Västra Götalands län,Svenljunga,Hallavägen 6,Överlida,2,1,1,2,0,0,57.35083,12.89583,false,false
 17382,Mårdaklev,Västra Götalands län,Svenljunga,Bäckavägen 1,Mårdaklev,2,3,1,2,1,0,57.24611,12.97638,false,false
@@ -4898,6 +4896,9 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17720,FLOBY ÅVC Tillfällig,Västra Götalands län,Falköping,"Nygrannesgården, SörbyKorsgården 1",Floby,2,2,1,2,1,0,58.13527,13.36833,false,false
 17721,ÅVC Stenstorp Tillfällig,Västra Götalands län,Falköping,Östergatan 3,Stenstorp,2,2,1,3,1,0,58.27194,13.72611,false,false
 17728,Inne på ÅVC Hallsberg,Örebro län,Hallsberg,Utkällevägen 22,Hallsberg,2,2,1,2,1,0,59.06111,15.04583,false,false
+17732,Grönbergsgatan 10,Värmlands län,Grums,Grönbergsgatan 10,Grums,2,1,1,1,1,0,59.35361,13.11111,false,false
+17734,NSR Återvinningscentral ,Skåne län,Höganäs,Skjutbanevägen 1,Strandbaden - Höganäs,0,2,1,1,0,0,56.21888,12.55694,false,false
+17735,Ängelholms ÅVC,Skåne län,Ängelholm,Nordalagatan 1,Ängelholm,2,0,0,0,0,0,56.25388,12.91111,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,1,1,1,1,0,56.704957,16.32314,true,false
