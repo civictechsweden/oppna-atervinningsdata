@@ -18806,7 +18806,7 @@
         "ejaretrunt": "0",
         "latitude": "58.19719",
         "longitude": "15.059432",
-        "batterier": "true",
+        "batterier": "false",
         "rp_extra": "false"
     },
     {
@@ -22388,24 +22388,6 @@
         "ejaretrunt": "0",
         "latitude": "57.761717",
         "longitude": "12.0408",
-        "batterier": "true",
-        "rp_extra": "false"
-    },
-    {
-        "id": 7759,
-        "avs": "Krokslätt, Carlandersplatsen",
-        "lan": "Västra Götalands län",
-        "kommun": "Göteborg",
-        "adress": "Carlandersplatsen",
-        "ort": "Krokslätt",
-        "glas": "2",
-        "kartong": "0",
-        "metall": "0",
-        "blandplast": "0",
-        "tidningar": "1",
-        "ejaretrunt": "0",
-        "latitude": "57.692982",
-        "longitude": "11.98754",
         "batterier": "true",
         "rp_extra": "false"
     },
@@ -30403,7 +30385,7 @@
     },
     {
         "id": 8813,
-        "avs": "Tollered B-Max livs",
+        "avs": "Handlarn i Tollered",
         "lan": "Västra Götalands län",
         "kommun": "Lerum",
         "adress": "Volrath Bergs väg 5",
@@ -30416,7 +30398,7 @@
         "ejaretrunt": "0",
         "latitude": "57.818222",
         "longitude": "12.4188",
-        "batterier": "true",
+        "batterier": "false",
         "rp_extra": "false"
     },
     {
@@ -76489,14 +76471,14 @@
         "adress": "Sliparevägen 2",
         "ort": "Staffanstorp",
         "glas": "2",
-        "kartong": "1",
+        "kartong": "2",
         "metall": "1",
         "blandplast": "1",
         "tidningar": "1",
         "ejaretrunt": "0",
         "latitude": "55.65428",
         "longitude": "13.212865",
-        "batterier": "true",
+        "batterier": "false",
         "rp_extra": "false"
     },
     {
@@ -86522,7 +86504,7 @@
         "ejaretrunt": "0",
         "latitude": "55.76972",
         "longitude": "13.08666",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -87134,24 +87116,6 @@
         "ejaretrunt": "0",
         "latitude": "55.98527",
         "longitude": "12.80305",
-        "batterier": "false",
-        "rp_extra": "false"
-    },
-    {
-        "id": 17589,
-        "avs": "Arena Park",
-        "lan": "Skåne län",
-        "kommun": "Lund",
-        "adress": "Stadsparksgatan",
-        "ort": "Lund",
-        "glas": "2",
-        "kartong": "2",
-        "metall": "1",
-        "blandplast": "1",
-        "tidningar": "0",
-        "ejaretrunt": "0",
-        "latitude": "55.69972",
-        "longitude": "13.18166",
         "batterier": "false",
         "rp_extra": "false"
     },

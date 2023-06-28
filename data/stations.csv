@@ -1043,7 +1043,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7348,Vändplan,Stockholms län,Botkyrka,Sedelvägen/Tumbavägen,Tumba,2,3,1,2,1,0,59.20224,17.826198,true,false
 7358,Vårsta centrum ,Stockholms län,Botkyrka,"Parkering bakom C, vid Malmsjöskolan",Vårsta,2,3,1,2,1,0,59.164475,17.795253,true,false
 7359,P-plats,Stockholms län,Botkyrka,Malmtorpsvägen/Dalvägen,Vårsta,2,4,1,3,1,0,59.170115,17.798305,true,false
-7363,Frebyvägen Gatukontoret,Östergötlands län,Boxholm,,Boxholm,4,2,1,2,1,0,58.19719,15.059432,true,false
+7363,Frebyvägen Gatukontoret,Östergötlands län,Boxholm,,Boxholm,4,2,1,2,1,0,58.19719,15.059432,false,false
 7365,Älvkullevägen,Östergötlands län,Boxholm,,Boxholm,2,2,1,1,1,0,58.195737,15.048262,true,false
 7367,Dalgårdsgatan,Östergötlands län,Boxholm,,Boxholm,2,3,1,1,1,0,58.204352,15.055545,true,false
 7371,Malexander Hammarvägen,Östergötlands län,Boxholm,,Malexander,6,4,1,2,1,0,58.036742,15.279422,true,false
@@ -1243,7 +1243,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7756,"Kortedala Norra, Sjusovaregatan 6",Västra Götalands län,Göteborg,Sjusovaregatan 6,Kortedala Norra,2,1,1,1,1,0,57.757795,12.044007,true,false
 7757,"Kortedala Norra, Årstidsgatan 22",Västra Götalands län,Göteborg,Årstidsgatan 22,Kortedala Norra,2,3,1,1,1,0,57.75948,12.039635,true,false
 7758,"Kortedala Norra, Årstidstorget",Västra Götalands län,Göteborg,Årstidstorget,Kortedala Norra,2,1,1,1,1,0,57.761717,12.0408,true,false
-7759,"Krokslätt, Carlandersplatsen",Västra Götalands län,Göteborg,Carlandersplatsen,Krokslätt,2,0,0,0,1,0,57.692982,11.98754,true,false
 7760,"Krokslätt, Olofshöjdsgatan",Västra Götalands län,Göteborg,Olofshöjdsgatan,Krokslätt,2,2,1,1,1,0,57.688607,11.991465,true,false
 7763,"Kungsladugård, Slottsskogsgatan 92",Västra Götalands län,Göteborg,Slottsskogsgatan 92,Kungsladugård,2,3,1,1,1,0,57.68383,11.931235,true,false
 7764,"Kungsladugård, Blåvalsgatan 10",Västra Götalands län,Göteborg,Blåvalsgatan 10,Kungsladugård,2,3,1,1,1,0,57.677108,11.927857,true,false
@@ -1688,7 +1687,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8809,HSB-parkeringen  Utängsvägen,Västra Götalands län,Lerum,Utängsvägen,Sjövik,2,1,1,1,1,0,57.916255,12.36534,true,false
 8811,Stenkullen Ölslanda lycka Ölslanda,Västra Götalands län,Lerum,"Ölslanda lycka, Ölslanda",Stenkullen,2,2,1,1,1,0,57.785162,12.301737,true,false
 8812,"Lerums sportcentrum, Endorfin ",Västra Götalands län,Lerum,Gråbovägen 13,Stenkullen,2,2,1,1,1,0,57.792313,12.309782,true,false
-8813,Tollered B-Max livs,Västra Götalands län,Lerum,Volrath Bergs väg 5,Tollered,3,1,1,1,1,0,57.818222,12.4188,true,false
+8813,Handlarn i Tollered,Västra Götalands län,Lerum,Volrath Bergs väg 5,Tollered,3,1,1,1,1,0,57.818222,12.4188,false,false
 8815,Bo Gärde,Stockholms län,Lidingö,Grönstavägen på parkering vid Bo Skola,Bo Gärde,2,2,1,1,1,0,59.374802,18.155035,true,true
 8817,Söder om Hjärtums handel,Västra Götalands län,Lilla Edet,,Hjärtum,2,3,1,2,1,0,58.17944,12.10861,true,false
 8818,Brandstationen,Västra Götalands län,Lilla Edet,Mårten Torsgatan,Lilla Edet,2,3,1,2,1,0,58.13056,12.13472,true,false
@@ -4248,7 +4247,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16297,Vretavägen,Östergötlands län,Mjölby,Vretavägen,Skänninge,2,2,1,2,1,0,58.399372,15.084078,true,false
 16299,Pendelparkering vid Mörbyskolan,Stockholms län,Danderyd,Vendevägen 96,Mörby,4,6,1,4,1,0,59.39304,18.046482,true,true
 16300,Valhallavägen/Oxenstiernsgatan,Stockholms län,Stockholm,Valhallavägen 194,Östermalm,2,2,1,2,1,0,59.337555,18.103773,true,false
-16301,p-plats mitt emot Reningsverket,Skåne län,Staffanstorp,Sliparevägen 2,Staffanstorp,2,1,1,1,1,0,55.65428,13.212865,true,false
+16301,p-plats mitt emot Reningsverket,Skåne län,Staffanstorp,Sliparevägen 2,Staffanstorp,2,2,1,1,1,0,55.65428,13.212865,false,false
 16302,Mårtensgatan 29,Jönköpings län,Gislaved,Mårtensgatan 29,Gislaved,2,3,1,2,1,0,57.301457,13.545948,true,false
 16304,fd busshållplatsen,Skåne län,Staffanstorp,Storgatan/Skånevägen,Staffanstorp,2,1,1,1,1,0,55.641392,13.2043,false,false
 16306,Stadsskogen,Västra Götalands län,Ulricehamn,Avenboksgatan / Grönahögsvägen 90,Ulricehamn,2,2,1,2,1,0,57.77944,13.42389,true,false
@@ -4805,7 +4804,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17514,ICA City Knalleland,Västra Götalands län,Borås,Skaraborgsvägen 33,Borås,3,3,1,2,1,0,57.73027,12.93750,true,false
 17515,"Kråknäsparkeringen, Långvind",Gävleborgs län,Hudiksvall,"Stickväg mot Djupvik, Långvind",Enånger,2,1,1,1,1,0,61.42083,17.15916,false,false
 17518,Singel Vaxholm Vårdcentral,Stockholms län,Vaxholm,Kapellgatan 6,Vaxholm,3,0,0,0,1,0,59.403128,18.349907,false,false
-17520,Furulund ,Skåne län,Kävlinge,Sockenvägen Häradsvägen,Furulund,2,2,1,1,1,0,55.76972,13.08666,false,false
+17520,Furulund ,Skåne län,Kävlinge,Sockenvägen Häradsvägen,Furulund,2,2,1,1,1,0,55.76972,13.08666,true,false
 17521,Grundbergsvägen 11,Västra Götalands län,Trollhättan,,Trollhättan,2,2,1,1,1,0,58.29555,12.30472,false,false
 17522,Källviks Brygga,Södermanlands län,Trosa,,Västerljung,2,2,1,2,1,0,58.77944,17.48638,false,false
 17525,Gästhamnen,Södermanlands län,Nyköping,Gert Fredrikssons väg,Nyköping,2,0,0,0,0,0,58.74416,17.02138,false,false
@@ -4840,7 +4839,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17581,"Kaxås, Svea Park",Jämtlands län,Krokom,835 98,Offerdal,2,3,1,2,1,0,63.48277,13.92555,false,false
 17585,Elestorp,Skåne län,Bjuv,Spannmålsgatan ,Ekeby,2,4,1,2,1,0,56.00250,12.95388,false,false
 17586,Idrottsplatsen,Skåne län,Helsingborg,Kardemummagatan,Gantofta,2,2,1,1,1,0,55.98527,12.80305,false,false
-17589,Arena Park,Skåne län,Lund,Stadsparksgatan,Lund,2,2,1,1,0,0,55.69972,13.18166,false,false
 17592,Nymölla,Skåne län,Bromölla,Åvägen,Nymölla,2,1,1,1,1,0,56.04000,14.46750,false,false
 17594,Gröna Dalen grusplan,Uppsala län,Håbo,Badhusvägen /Runbrovägen,Bålsta,4,3,1,2,1,0,59.56472,17.52555,false,false
 17595,"Solstrålevägen, Storvreta",Uppsala län,Uppsala,Solstrålevägen 22,Storvreta,2,2,1,1,1,0,59.94972,17.69777,false,false
