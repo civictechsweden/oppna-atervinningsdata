@@ -1106,7 +1106,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7524,"Bergsliden, öster",Västra Götalands län,Falköping,Danska vägen,Falköping,2,2,1,2,1,0,58.184587,13.554522,true,false
 7527,Vid Willys,Västra Götalands län,Falköping,Marknadsgatan,Falköping,2,2,1,2,1,0,58.162692,13.559767,true,false
 7528,P-plats,Västra Götalands län,Falköping,Hästbacken,Falköping,2,2,1,2,1,0,58.160598,13.558032,true,false
-7530,ICA Maxi Stormarknad,Västra Götalands län,Falköping,Ålleberg Center,Falköping,2,2,1,2,1,0,58.15277,13.56277,false,false
 7533,"P-plats järnvägen, kiosken",Västra Götalands län,Falköping,,Floby,2,3,2,2,1,0,58.138018,13.33143,true,false
 7534,ICA Matfocus,Västra Götalands län,Falköping,Samuels gränd 1,Kinnarp-Slutarp,2,2,1,1,1,0,58.086617,13.522407,true,false
 7535,Gamla Järnvägsstationen,Västra Götalands län,Falköping,Ryttarevägen,Kättilstorp,2,2,1,2,1,0,58.039675,13.711163,true,false
@@ -3725,7 +3724,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15435,Herrljunga (ÅVC),Västra Götalands län,Herrljunga,,Herljunga,2,1,1,2,1,0,58.080948,13.00526,true,false
 15436,Nyhems (ÅVC),Jönköpings län,Gnosjö,"Nyhems industriområde, Håkanstorpsvägen",Hillerstorp,2,1,0,0,1,0,57.300817,13.863997,true,false
 15437,Vaggeryd (ÅVC),Jönköpings län,Vaggeryd,Krokvägen,Vaggeryd,4,3,1,2,2,0,57.511355,14.167538,true,false
-15438,Flishults (ÅVC),Jönköpings län,Vetlanda,Flishult,Vetlanda,6,2,0,3,0,0,57.409572,14.990462,false,false
+15438,Flishults (ÅVC),Jönköpings län,Vetlanda,Flishult,Vetlanda,6,3,0,3,0,0,57.409572,14.990462,false,false
 15440,Avfallsanläggningen Övreskog (ÅVC),Västra Götalands län,Ulricehamn,,Ulricehamn,4,0,2,0,0,0,57.808795,13.461633,false,false
 15441,Forshall (ÅVC),Västra Götalands län,Grästorp,,Grästorp,2,1,1,1,0,0,58.34278,12.66083,true,false
 15442,Miljövägen 1 (ÅVC),Västra Götalands län,Götene,,Götene,4,3,2,4,0,0,58.530502,13.46419,false,false
@@ -3950,7 +3949,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15783,Svartbyn,Norrbottens län,Överkalix,Ga: Konsum,Svartbyn,2,2,1,1,1,0,66.265837,22.836017,true,false
 15784,Återbruket (ÅVC),Västmanlands län,Köping,Himmetavägen 2,Köping,6,2,2,2,2,0,59.527305,15.955925,false,false
 15785,Älvros,Jämtlands län,Härjedalen,Affären Älvros,Sveg,2,1,1,1,1,0,62.047572,14.651257,false,false
-15786,"Stadsdel Norr, ICA Maxi",Jämtlands län,Östersund,Arenavägen 19,Östersund,5,4,2,3,1,0,63.192352,14.652482,false,false
+15786,"Stadsdel Norr, ICA Maxi",Jämtlands län,Östersund,Arenavägen 19,Östersund,4,4,2,3,1,0,63.192352,14.652482,false,false
 15787,Hämnäs,Värmlands län,Årjäng,Gamla Skolan,Årjäng,2,1,1,1,1,0,59.521787,12.051438,true,false
 15788,Enebybergs IP,Stockholms län,Danderyd,Arholmavägen 33,Enebyberg,2,6,1,2,1,0,59.425238,18.031747,false,true
 15791,Håkanryd Idrottsklubben KAMP,Skåne län,Bromölla,Håkanrydsvägen 178-9,Bromölla,2,1,1,1,1,0,56.091322,14.535043,false,false
@@ -4886,6 +4885,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17690,Hälsingborgsvägen,Skåne län,Höganäs,Ridstigen,Viken,2,2,1,1,1,0,56.14166,12.58638,false,false
 17693,OK Fröslunda / Engelska skolan,Södermanlands län,Eskilstuna,Sturegatan,Eskilstuna,2,2,1,1,1,0,59.35694,16.49888,false,false
 17694,Boo Gårdsskola 2.0,Stockholms län,Nacka,Bovägen 7,Lännersta,2,5,1,2,1,0,59.30888,18.28555,false,false
+17695,ICA Maxi Falköping NY,Västra Götalands län,Falköping,Lönnerbladsgatan 2,Falköping,2,2,1,2,1,0,58.15277,13.56277,false,false
 17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 17707,Ekhammar IP,Stockholms län,Upplands-Bro,Bygdegårdsvägen 28,Kungsängen,3,3,1,2,1,0,59.47972,17.74138,false,false
 17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,2,2,1,2,1,0,59.30916,18.37972,false,false
