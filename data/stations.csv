@@ -202,7 +202,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 946,Danska vägen 1,Jönköpings län,Gislaved,Danska vägen 1,Gislaved,4,2,1,1,1,0,57.290098,13.526488,true,false
 947,Traststigens P-plats,Jönköpings län,Gislaved,Traststigen,Gislaved,2,1,1,1,1,0,57.304598,13.534073,true,false
 948,Stationen,Jönköpings län,Gislaved,Mogatan,Hestra,3,1,1,1,1,0,57.442727,13.59679,false,false
-950,Tempo,Jönköpings län,Gislaved,Segerstadsvägen,Reftele,4,1,1,1,1,0,57.174175,13.59462,true,false
+950,Tempo,Jönköpings län,Gislaved,Segerstadsvägen,Reftele,5,1,1,1,1,0,57.174175,13.59462,true,false
 956,Tallberga Köpcentrum,Jönköpings län,Gislaved,,Tallberga,4,1,1,1,1,0,57.090622,13.685857,true,false
 967,"Hillerstorp, Industrigatan",Jönköpings län,Gnosjö,Industrigatan,Hillerstorp,2,2,1,2,1,0,57.313872,13.882027,true,false
 969,"Kulltorp, Bygdegården",Jönköpings län,Gnosjö,Bygdevägen,Kulltorp,2,1,1,1,1,0,57.261978,13.789583,false,false
@@ -2762,7 +2762,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11484,Parkgatan,Kronobergs län,Växjö,Parkgatan,Braås,2,1,1,1,1,0,57.062653,15.054045,true,false
 11488,Marknadsvägen,Kronobergs län,Växjö,Marknadsvägen 14,Dädesjö,2,1,1,1,1,0,57.010068,15.10221,true,false
 11489,Kårevägen/Byvägen,Kronobergs län,Växjö,Kårevägen/Byvägen,Furuby,2,1,1,1,1,0,56.854522,15.033058,true,false
-11491,Stationsvägen,Kronobergs län,Växjö,Leksaksvägen,Gemla,3,1,1,1,1,0,56.868605,14.636915,true,false
+11491,Stationsvägen,Kronobergs län,Växjö,Leksaksvägen,Gemla,3,0,1,2,1,0,56.868605,14.636915,true,false
 11495,Sjöbolsvägen,Kronobergs län,Växjö,Sjöbolsvägen,Ingelstad,2,1,1,1,1,0,56.736323,14.932103,true,false
 11498,Affären,Kronobergs län,Växjö,,Kalvsvik,2,1,1,1,1,0,56.731942,14.711732,true,false
 11500,Bäckgatan,Kronobergs län,Växjö,Bäckgatan,Lammhult,4,2,1,1,1,0,57.168582,14.583435,true,false
@@ -2811,12 +2811,12 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11589,"Coop Konsum, Abrahamslund, p-plats",Skåne län,Ystad,Missunnavägen,Ystad,4,4,1,2,1,0,55.432012,13.799113,true,false
 11590,"Alby, Konsum",Västernorrlands län,Ånge,Kapellgatan ,Alby,2,1,1,1,1,0,62.494988,15.476195,false,false
 11593,Fränsta ,Västernorrlands län,Ånge,Kyrkrèn 8,Fränsta,2,2,1,2,1,0,62.496048,16.171422,true,false
-11595,"Kölsillre, Kölsillre Handel",Västernorrlands län,Ånge,,Östavall,2,1,1,1,1,0,62.398202,15.209382,true,false
+11595,"Kölsillre, Kölsillre Handel",Västernorrlands län,Ånge,,Östavall,3,1,1,1,1,0,62.398202,15.209382,true,false
 11596,Ljungaverk,Västernorrlands län,Ånge,Fredriksgatan ,Ljungaverk,2,1,1,1,1,0,62.492508,16.04953,false,false
 11598,"Torpshammar, Konsum",Västernorrlands län,Ånge,Torpshammarsvägen 3,Torpshammar,2,3,1,1,1,0,62.474437,16.331518,true,false
 11600,"Ånge, ICA Ånge",Västernorrlands län,Ånge,N. Borgsjövägen 24,Ånge,2,2,1,2,1,0,62.524337,15.675408,false,false
 11601,Östavall,Västernorrlands län,Ånge,Förrådsvägen,Östavall,2,1,1,1,1,0,62.427795,15.477627,false,false
-11602,"Överturingen, tankstationen",Västernorrlands län,Ånge,,Överturingen,2,1,1,1,1,0,62.450733,14.919022,false,false
+11602,"Överturingen, tankstationen",Västernorrlands län,Ånge,,Överturingen,4,1,1,1,1,0,62.450733,14.919022,false,false
 11605,"Duved, Hamrebacken",Jämtlands län,Åre,Hamrebacken,Duved,4,3,1,2,1,0,63.396425,12.91305,false,false
 11607,Hallen vid ÅVC,Jämtlands län,Åre,ÅVC Hallen,Hallen,3,4,1,2,1,0,63.17056,14.10944,false,false
 11608,"Huså, Reningsverket",Jämtlands län,Åre,,Järpen,2,1,1,1,1,0,63.486463,13.137092,true,false
@@ -3757,7 +3757,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15479,Milstensvägen/Ursviksvägen,Stockholms län,Sundbyberg,,Sundbyberg,2,3,1,2,1,0,59.383703,17.955797,true,true
 15480,Nygatan 4,Södermanlands län,Strängnäs,Vid Kommunhuset,Strängnäs,3,2,1,1,1,0,59.376458,17.024477,true,false
 15481,ÅVS Tänndalen,Jämtlands län,Härjedalen,Vid Bygdegården,Tänndalen,3,2,1,1,1,0,62.546243,12.324197,false,false
-15482,"Birsta, Ica Maxi",Västernorrlands län,Sundsvall,Antennvägen 11,Sundsbruk,4,6,1,3,1,0,62.442847,17.344752,false,false
+15482,"Birsta, Ica Maxi",Västernorrlands län,Sundsvall,Antennvägen 11,Sundsbruk,4,5,1,3,1,0,62.442847,17.344752,false,false
 15483,"Kullön, Naturresarvat, parkeringen",Stockholms län,Vaxholm,Stockholmsvägen,Vaxön,2,4,1,2,1,0,59.414422,18.309522,false,false
 15485,Tegelbruks området,Skåne län,Svedala,Byggmästaregatan,Svedala,2,1,1,1,1,0,55.501843,13.243097,true,false
 15486,Torkel Knutssonsgatan,Stockholms län,Stockholm,,Södermalm,2,3,1,1,1,0,59.318962,18.056393,true,false
