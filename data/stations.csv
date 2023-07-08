@@ -459,7 +459,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2504,Nolbygatan,Värmlands län,Kristinehamn,Nolbygatan,Kristinehamn,2,1,1,1,1,0,59.320382,14.096563,true,false
 2507,S:a Staketgatan,Värmlands län,Kristinehamn,S:a Staketgatan 40,Kristinehamn,2,2,1,1,1,0,59.3068,14.106127,false,false
 2508,Sandfallsvägen,Värmlands län,Kristinehamn,Sandfallsvägen/Riksväg 26,Kristinehamn,2,1,1,1,1,0,59.327095,14.114982,false,false
-2512,Storängsgatan ,Värmlands län,Kristinehamn,Storängsgatan,Kristinehamn,2,1,1,1,1,0,59.308612,14.129678,true,false
+2512,Storängsgatan ,Värmlands län,Kristinehamn,Storängsgatan,Kristinehamn,4,1,1,1,1,0,59.308612,14.129678,true,false
 2517,Östanvinden ,Värmlands län,Kristinehamn,Östanvinden 1,Kristinehamn,2,1,1,1,1,0,59.33342,14.08892,true,false
 2518,Nybble,Värmlands län,Kristinehamn,Mariestadsvägen 23,Nybble,2,1,1,1,1,0,59.100842,14.162543,true,false
 2519,Skottlanda,Värmlands län,Kristinehamn,,Skottlanda,2,1,1,1,1,0,59.098088,14.270103,true,false
@@ -1415,7 +1415,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8073,Sörskogen,Stockholms län,Huddinge,Tryffelvägen,Fullersta,2,5,1,3,2,0,59.225888,17.99175,true,false
 8078,Elhus,Stockholms län,Huddinge,Mossvägen/Bergholmsvägen,Fullersta,2,4,1,2,1,0,59.239115,17.971337,true,false
 8081,Bredvid parkeringen Grillpalatset,Stockholms län,Huddinge,Kommunalvägen/Klockarvägen,Fullersta,2,4,1,2,2,0,59.237967,17.982127,true,false
-8087,Nyängsvägen/Mariedalsvägen,Stockholms län,Huddinge,,Fullersta,1,3,1,1,1,0,59.23169,17.978452,false,false
+8087,Nyängsvägen/Mariedalsvägen,Stockholms län,Huddinge,,Fullersta,1,2,1,1,1,0,59.23169,17.978452,false,false
 8088,Rådsvägen 14,Stockholms län,Huddinge,,Fullersta,2,3,1,2,1,0,59.241943,17.988462,true,false
 8090,Vänhemsvägen/Åvägen,Stockholms län,Huddinge,,Fullersta,2,5,1,3,1,0,59.247517,17.971923,true,false
 8091,Busshållplats,Stockholms län,Huddinge,Gladövägen/Hökärrsvägen,Gladö kvarn,2,4,1,3,1,0,59.1956,18.006535,true,false
@@ -1795,7 +1795,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9097,Råstorp Järnvägsövergång,Kronobergs län,Markaryd,Järnvägsövergång,Råstorp,2,1,1,1,1,0,56.484733,13.532095,true,false
 9115,Timsfors Prästtorpsv/Massav,Kronobergs län,Markaryd,Prästtorpsv/Massav,Timsfors,2,1,1,1,1,0,56.479885,13.610235,true,false
 9118,Traryd Konsum,Kronobergs län,Markaryd,Torggatan,Traryd,2,1,1,1,1,0,56.579322,13.748308,true,false
-9125,"Depot p-plats köpcentrum, Mantorp",Östergötlands län,Mjölby,Hedv 1,Mantorp,4,2,1,1,1,0,58.365623,15.296655,false,false
+9125,"Depot p-plats köpcentrum, Mantorp",Östergötlands län,Mjölby,Hedv 1,Mantorp,2,2,1,1,1,0,58.365623,15.296655,false,false
 9127,Korsningen Riksvägen/Trumpetarevägen,Östergötlands län,Mjölby,Trumpetarevägen 1,Mantorp,2,2,1,1,1,0,58.348035,15.276772,true,false
 9130,P-plats mitt för Stjärngatan,Östergötlands län,Mjölby,Smålandsvägen 40,Mjölby,2,1,1,1,1,0,58.321162,15.121525,true,false
 9133,Lagmansskolan,Östergötlands län,Mjölby,Ringvägen 11,Mjölby,2,1,1,1,1,0,58.318727,15.134895,true,false
@@ -3018,7 +3018,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12201,Badhuset,Västra Götalands län,Götene,Skogsvägen 17,Götene,2,1,1,1,0,0,58.527112,13.480797,true,false
 12207,Vändplats vid garaget,Stockholms län,Nacka,Diligensvägen mitt emot  38 -72,Jarlaberg,0,2,0,0,2,0,59.315647,18.17281,false,false
 12209,Ornövägen,Stockholms län,Nacka,Ornövägen 20-34,Orminge,2,2,0,0,1,0,59.331353,18.258732,true,false
-12210,Skarpövägen,Stockholms län,Nacka,Skarpövägen 1,Orminge,2,2,1,2,1,0,59.333632,18.262977,false,false
+12210,Skarpövägen,Stockholms län,Nacka,Skarpövägen 1,Orminge,2,1,1,2,1,0,59.333632,18.262977,false,false
 12211,Låghus,Stockholms län,Nacka,Skarpövägen 25-27,Nacka,2,3,1,1,1,0,59.333278,18.258235,true,false
 12213,Posten,Stockholms län,Värmdö,Björkås centrum,Djurö,3,4,1,2,1,0,59.3114,18.700508,true,false
 12214,"Östra Ekedal, Gustavsberg",Stockholms län,Värmdö,Gezelius Väg/Kapellvägen,Gustavsberg,2,2,1,1,1,0,59.328275,18.374757,true,false
@@ -4012,7 +4012,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15875,IKEA Erikslund,Västmanlands län,Västerås,Domkraftsgatan 2,Erikslund,4,2,1,2,1,0,59.608212,16.449715,false,false
 15877,"Frejgatan, mittemot nr 31 / Tulegatan",Stockholms län,Stockholm,Frejgatan/ Tulegatan,Norrmalm,2,4,1,1,1,0,59.347242,18.056782,true,false
 15881,Burgsvik ÅVC,Gotlands län,Gotland,"Hundlausar, vid väg 500",Burgsvik,4,5,1,4,1,0,57.007437,18.251953,false,false
-15882,Fårö ,Gotlands län,Gotland,Vid betalsäcksmottagningen,Fårö,5,3,1,2,1,0,57.88472,19.08972,false,false
+15882,Fårö ,Gotlands län,Gotland,Vid fd betalsäcksmottagningen  ,Fårö,5,3,1,2,1,0,57.88472,19.08972,false,false
 15883,Ljugarn ÅVC,Gotlands län,Gotland,"Hallute backe, infört vid väg 143",Ljugarn,4,3,2,4,2,0,57.34132,18.69108,false,false
 15886,"Kockbacka, på  parkering",Stockholms län,Upplands-Bro,Begoniaslingan,Upplands Bro,2,2,1,1,1,0,59.510605,17.655552,true,false
 15887,Bakom den gamla smedjan,Kalmar län,Borgholm,Köpingevägen,Köpingsvik,3,4,1,2,1,0,56.881862,16.721533,true,false
@@ -4514,7 +4514,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16981,Askim Sisjödal,Västra Götalands län,Göteborg,Sisjöbäckens väg,Askim,2,3,1,2,1,0,57.636438,11.956033,true,false
 16982,Sävstaås Avfallsanläggning Företagsdel,Gävleborgs län,Bollnäs,Edsbyvägen 200,Bollnäs,2,2,1,1,0,0,61.341765,16.305087,false,false
 16983,Sunnmans väg (singelstation),Värmlands län,Munkfors,Sunnmans väg 4,Munkfors,2,0,0,0,0,0,59.83278,13.53972,false,false
-16989,Coop Konsum,Värmlands län,Grums,Sveagatan 104,Grums,4,2,1,2,1,0,59.354168,13.114298,true,false
+16989,Coop Konsum,Värmlands län,Grums,Sveagatan 104,Grums,4,3,1,2,1,0,59.354168,13.114298,true,false
 16991,utanför åvc Lersätter,Värmlands län,Kil,Värmevägen,Kil,4,4,1,3,1,0,59.507173,13.292288,false,false
 16992,Returen ÅVC (inne),Västra Götalands län,Tranemo,Ambjörnarpsvägen,Tranemo,0,0,0,2,0,0,57.47361,13.33806,true,false
 16993,Rudtorpsvägen (singelstation),Värmlands län,Munkfors,Rudtorpsvägen,Ransäter,2,0,0,0,0,0,59.76972,13.46250,false,false
