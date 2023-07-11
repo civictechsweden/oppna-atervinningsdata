@@ -746,7 +746,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 5520,"Eljaröd, infarten till Sjöhusavägen",Skåne län,Tomelilla,Sjöhusavägen,Eljaröd,2,1,1,1,1,0,55.697858,14.035688,true,false
 5521,"Lunnarp, Idrottsplatsen",Skåne län,Tomelilla,Markvägen,Lunnarp,2,1,1,1,1,0,55.53935,14.043307,true,false
 5522,"Onslunda, Lantmannavägen/Stationsvägen",Skåne län,Tomelilla,Lantmannavägen/Stationsvägen,Onslunda,2,1,1,1,1,0,55.599375,14.052732,true,false
-5523,"Skåne Tranås, kyrkans parkering",Skåne län,Tomelilla,Helgonavägen,Tranås,2,1,1,1,1,0,55.61492,13.993445,true,false
+5523,"Skåne Tranås, kyrkans parkering",Skåne län,Tomelilla,Helgonavägen,Tranås,3,1,1,1,1,0,55.61492,13.993445,true,false
 5524,Smedstorps Snickeri,Skåne län,Tomelilla,Gårdslösavägen,Smedstorp,2,1,1,1,1,0,55.54959,14.115035,true,false
 5527,ICA Kvantum,Skåne län,Tomelilla,,Tomelilla,2,2,1,1,1,0,55.546312,13.946662,true,false
 5623,"Sjuntorp, Skrehall",Västra Götalands län,Trollhättan,,Sjuntorp,2,2,1,1,1,0,58.183932,12.218418,true,false
@@ -937,7 +937,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7100,"Myrviken, Bensinstationen",Jämtlands län,Berg,Myrviksvägen,Oviken,4,3,1,2,1,0,62.999432,14.341808,true,false
 7101,"Rätan, Buss Olle",Jämtlands län,Berg,Thunellvägen 35,Rätan,2,3,1,2,1,0,62.471563,14.550453,true,false
 7102,Skålan Bygdegård,Jämtlands län,Berg,Skålan 245,Åsarna,2,2,1,1,1,0,62.644828,14.152392,true,false
-7104,"Svenstavik, Ishallen",Jämtlands län,Berg,Industrivägen,Svenstavik,4,4,1,3,1,0,62.766442,14.436362,true,false
+7104,"Svenstavik, Ishallen",Jämtlands län,Berg,Industrivägen,Svenstavik,4,4,1,2,1,0,62.766442,14.436362,true,false
 7105,"Åsarna, Busstation",Jämtlands län,Berg,Olstavägen,Åsarna,2,2,1,2,1,0,62.645027,14.372602,true,false
 7127,Erikstorpsvägen,Västra Götalands län,Bollebygd,,Bollebygd,2,1,1,1,1,0,57.680005,12.56646,true,false
 7128,Idrottsplatsen,Västra Götalands län,Bollebygd,Källevägen,Bollebygd,2,1,1,1,1,0,57.672612,12.577392,true,false
@@ -4894,6 +4894,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17739,Parkallén,Skåne län,Staffanstorp,Parkallén,Hjärup / Staffanstorp,2,1,1,1,1,0,55.67111,13.14638,false,false
 17740,P-plats Järnvägskrogen,Skåne län,Staffanstorp,Järnvägsgatan,Staffanstorp,2,3,1,2,1,0,55.64138,13.21666,false,false
 17741,P-plats mitt emot Reningsverket,Skåne län,Staffanstorp,Sliparevägen,Staffanstorp,2,2,1,1,1,0,55.65416,13.21277,false,false
+17745,Industrivägen,Norrbottens län,Pajala,Industrivägen 4,Korpilombolo,2,2,1,2,1,0,66.84750,23.06000,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,1,1,1,1,0,56.704957,16.32314,true,false
