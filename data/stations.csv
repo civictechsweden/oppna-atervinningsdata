@@ -4823,6 +4823,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17558,Haga vid E.ON,Skåne län,Vellinge,Storevångsvägen ,Skanör,2,2,1,2,1,0,55.40722,12.86555,false,false
 17562,Centrum Q8,Skåne län,Vellinge,Börjesgatan,Vellinge,2,7,1,4,1,0,55.47333,13.02000,false,false
 17564,Dorotea ÅVC,Västerbottens län,Dorotea,Väg 1052,Dorotea,4,0,1,0,0,0,64.26111,16.36611,false,false
+17565,Viksnäs (vägen till),Södermanlands län,Trosa,Viksnäs ,Trosa,2,2,1,2,1,0,58.82277,17.47194,false,false
 17568,"Storklinten, Övre Svartlå",Norrbottens län,Boden,Storklinten,Boden,2,1,1,1,1,0,66.01972,21.24194,false,false
 17569,Jönköping sortergård,Jönköpings län,Jönköping,Returvägen 7,Jönköping,2,2,1,2,2,0,57.73805,14.15666,false,false
 17571,Baggetorp ,Södermanlands län,Vingåker,Riksväg 52 nära Smedjevägen,Baggetorp,2,2,1,1,1,0,59.00944,16.05555,false,false
@@ -4883,10 +4884,12 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17695,ICA Maxi Falköping NY,Västra Götalands län,Falköping,Lönnerbladsgatan 2,Falköping,2,2,1,2,1,0,58.15277,13.56277,false,false
 17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 17707,Ekhammar IP,Stockholms län,Upplands-Bro,Bygdegårdsvägen 28,Kungsängen,3,3,1,2,1,0,59.47972,17.74138,false,false
+17710,"Bolagsskolan, Bromsgatan ",Norrbottens län,Kiruna,Bromsgatan 20,Kiruna,2,1,1,1,1,0,67.84416,20.23666,false,false
 17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,2,2,1,2,1,0,59.30916,18.37972,false,false
 17719,ÅVC Fyrislund,Uppsala län,Uppsala,Arkgatan 14,Uppsala,4,4,1,6,0,0,59.85583,17.71833,false,false
 17720,FLOBY ÅVC Tillfällig,Västra Götalands län,Falköping,"Nygrannesgården, SörbyKorsgården 1",Floby,2,2,1,2,1,0,58.13527,13.36833,false,false
 17721,ÅVC Stenstorp Tillfällig,Västra Götalands län,Falköping,Östergatan 3,Stenstorp,2,2,1,3,1,0,58.27194,13.72611,false,false
+17723,Parkgatan - tillfällig,Norrbottens län,Kiruna,Parkgatan ,Kiruna,2,2,1,1,1,0,67.86472,20.22861,false,false
 17728,Inne på ÅVC Hallsberg,Örebro län,Hallsberg,Utkällevägen 22,Hallsberg,2,2,1,2,1,0,59.06111,15.04583,false,false
 17732,Grönbergsgatan 10,Värmlands län,Grums,Grönbergsgatan 10,Grums,2,1,1,1,1,0,59.35361,13.11111,false,false
 17734,NSR Återvinningscentral ,Skåne län,Höganäs,Skjutbanevägen 1,Strandbaden - Höganäs,0,2,1,1,0,0,56.21888,12.55694,false,false
@@ -4894,6 +4897,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17739,Parkallén,Skåne län,Staffanstorp,Parkallén,Hjärup / Staffanstorp,2,1,1,1,1,0,55.67111,13.14638,false,false
 17740,P-plats Järnvägskrogen,Skåne län,Staffanstorp,Järnvägsgatan,Staffanstorp,2,3,1,2,1,0,55.64138,13.21666,false,false
 17741,P-plats mitt emot Reningsverket,Skåne län,Staffanstorp,Sliparevägen,Staffanstorp,2,2,1,1,1,0,55.65416,13.21277,false,false
+17743,Kälarne ÅVC,Jämtlands län,Bräcke,Västanedevägen 1,Kälarne,2,1,1,1,1,0,62.98500,16.08583,false,false
 17745,Industrivägen,Norrbottens län,Pajala,Industrivägen 4,Korpilombolo,2,2,1,2,1,0,66.84750,23.06000,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
