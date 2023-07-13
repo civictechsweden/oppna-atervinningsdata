@@ -145,7 +145,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 739,P-plats,Skåne län,Eslöv,Kungshult Hasslerödsvägen,Kungshult,2,1,1,1,0,0,55.853795,13.416772,true,false
 740,ÅVC Löberöd (utanför),Skåne län,Eslöv,Löparegatan ,Löberöd,2,2,1,1,0,0,55.77494,13.50447,true,false
 741,"Stationsvägen, Stehag",Skåne län,Eslöv,,Stehag,2,1,1,1,0,0,55.90186,13.398287,false,false
-742,"Rönnedalsvägen, Stockamölla",Skåne län,Eslöv,Rullebörsvägen ,Stockamöllan,2,1,1,1,0,0,55.946548,13.370353,true,false
+742,"Rönnedalsvägen, Stockamölla",Skåne län,Eslöv,Rullebörsvägen ,Stockamöllan,3,1,1,1,0,0,55.946548,13.370353,true,false
 743,Kampanjevägen,Skåne län,Eslöv,Kampanjevägen,Toftaholm,2,1,1,1,0,0,55.784683,13.266875,true,false
 751,"ICA Centrum, p-plats",Västmanlands län,Fagersta,Järntorget 1,Fagersta,4,1,1,1,1,0,60.005442,15.790565,true,false
 752,P-plats Coop Extra,Västmanlands län,Fagersta,Stationsvägen 18,Fagersta,5,3,1,2,1,0,60.004397,15.797352,true,false
@@ -316,7 +316,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1646,Runhällen f.d. Järnvägsområdet,Uppsala län,Heby,F.d. Järnvägsområdet,Runhällen,2,1,1,1,1,0,60.0258,16.822118,true,false
 1647,Tärnsjö Stationsgatan,Uppsala län,Heby,Stationsgatan 29,Tärnsjö,4,4,1,3,1,0,60.15773,16.929383,true,false
 1648,Vittinge Ösbyvägen,Uppsala län,Heby,Ösbyvögen,Vittinge,2,2,1,2,1,0,59.902828,17.06275,true,false
-1698,Stationen,Västra Götalands län,Hjo,Bangatan 4,Hjo,4,2,1,2,0,0,58.306132,14.294368,false,false
+1698,Stationen,Västra Götalands län,Hjo,Bangatan 4,Hjo,5,2,1,2,0,0,58.306132,14.294368,false,false
 1699,"Korsberga, Centrum, Bygdegården",Västra Götalands län,Hjo,Hjovägen,Korsberga,2,1,1,2,1,0,58.30414,14.100598,false,false
 1821,"Hultsfred, Godsmagasinet",Kalmar län,Hultsfred,Storgatan,Hultsfred,4,2,1,2,1,0,57.489138,15.845503,true,false
 1822,Nytorpsvägen (ca 200 m från Willys),Kalmar län,Hultsfred,Nytorpsvägen 6,Hultsfred,2,2,1,1,1,0,57.501027,15.830752,true,false
@@ -359,7 +359,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1921,Bråta ÅVC,Västra Götalands län,Härryda, ,Mölnlycke,4,2,2,2,1,0,57.67028,12.13250,true,false
 1923,"Mölnlycke, Parkeringshuset Mölnlycke Centrum",Västra Götalands län,Härryda,Biblioteksvägen,Mölnlycke,3,4,1,3,1,0,57.65722,12.11250,true,false
 1931,"Mölnlycke, Vällsjö Centrum",Västra Götalands län,Härryda,Rådavägen,Mölnlycke,2,2,1,1,1,0,57.65056,12.09333,true,false
-1932,"Mölnlycke, Skinnefjäll",Västra Götalands län,Härryda,Skinnefjällsvägen,Mölnlycke,2,2,1,2,1,0,57.65306,12.13444,true,false
+1932,"Mölnlycke, Skinnefjäll",Västra Götalands län,Härryda,Skinnefjällsvägen,Mölnlycke,2,3,1,2,1,0,57.65306,12.13444,true,false
 1933,"Mölnlycke, Törnrosvägen",Västra Götalands län,Härryda,Törnrosvägen,Mölnlycke,2,4,1,2,1,0,57.66513,12.108342,true,false
 1935,"Rävlanda, Stationen",Västra Götalands län,Härryda,Rävlanda stationsväg,Rävlanda,2,3,1,1,1,0,57.65389,12.49944,true,false
 1966,"Askeröd, Lokalföreningen",Skåne län,Hörby, ,Askeröd,2,1,1,1,0,0,55.758933,13.592608,true,false
@@ -2541,7 +2541,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10953,"Gamla grusgropen, norr om väg 182 mot Timmele",Västra Götalands län,Ulricehamn,,Älmestad,2,2,1,2,1,0,57.89722,13.35444,true,false
 10954,"Ålidhem, Biologigränd 18",Västerbottens län,Umeå,Biologigränd 18,Umeå,2,1,1,1,1,0,63.808318,20.310433,true,false
 10962,"Sofiehem, Tallvägen/Sofiehemsvägen",Västerbottens län,Umeå,Tallvägen 8,Umeå,2,2,1,1,1,0,63.812503,20.2982,false,false
-10963,"Ålidhem, Kuratorvägen",Västerbottens län,Umeå,Kuratorvägen,Umeå,2,2,1,1,1,0,63.817002,20.321343,true,false
+10963,"Ålidhem, Kuratorvägen",Västerbottens län,Umeå,Kuratorvägen,Umeå,2,3,1,1,1,0,63.817002,20.321343,true,false
 10967,"Berghem, Nydalavägen 43",Västerbottens län,Umeå,Nydalavägen 43,Umeå,2,1,1,1,1,0,63.8292,20.304168,true,false
 10968,"Brännland, Konsum",Västerbottens län,Umeå,Brännland,Umeå,2,2,1,2,1,0,63.87529,20.061168,true,false
 10969,"Ersboda, Konsum",Västerbottens län,Umeå,Byttgränd 3-5,Umeå,2,1,1,1,1,0,63.857132,20.333278,false,false
