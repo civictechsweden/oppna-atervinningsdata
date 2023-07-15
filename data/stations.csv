@@ -1587,7 +1587,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8450,"Kiruna, Folkets hus",Norrbottens län,Kiruna,Vänortstorget,Kiruna,2,1,1,1,1,0,67.855522,20.224777,false,false
 8451,"Kiruna, Lomboloskolan",Norrbottens län,Kiruna,Movägen,Kiruna,2,1,1,1,1,0,67.838247,20.26027,false,false
 8452,"Kiruna, Centralskolan",Norrbottens län,Kiruna,Mangigatan 23,Kiruna,2,1,1,1,1,0,67.854822,20.230017,false,false
-8456,"Kiruna, Ullspiran",Norrbottens län,Kiruna,Bromsgatan 10,Kiruna,2,1,1,1,1,0,67.844995,20.228635,false,false
 8457,COOP FORUM,Norrbottens län,Kiruna,Österleden 12,Kiruna,4,3,2,2,1,0,67.844645,20.256188,false,false
 8459,"Svappavaara, Konsum",Norrbottens län,Kiruna,Kirunavägen,Svappavaara,2,2,1,1,1,0,67.648022,21.04562,false,false
 8460,"Tuolluvaara, Borgen",Norrbottens län,Kiruna,Borgenvägen 1,Tuolluvaara,2,1,1,1,1,0,67.84952,20.329653,false,false
@@ -4664,7 +4663,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17302,Vintergatan/ängshagen,Västmanlands län,Sala,Vintergatan,Sala,0,1,0,0,1,0,59.90888,16.61277,false,false
 17303,Steninge Slottsby,Stockholms län,Sigtuna,Steninge slottsväg 152,Steninge Slottsby,2,2,1,1,1,0,59.606927,17.80127,true,false
 17305,Sturegatan,Jönköpings län,Sävsjö,Sturegatan ,Sävsjö,2,3,1,2,1,0,57.39722,14.66972,true,false
-17306,Idre Himmelfjäll,Dalarnas län,Älvdalen,Polarisvägen 5,Idre,2,4,1,1,1,0,61.885447,12.766533,false,false
+17306,Idre Himmelfjäll,Dalarnas län,Älvdalen,Polarisvägen 5,Idre,2,3,1,1,1,0,61.885447,12.766533,false,false
 17316,"Kattarp, Rallaregatan 4",Skåne län,Helsingborg,Rallaregatan 4,Kattarp,2,2,1,2,1,0,56.141083,12.778973,false,false
 17318,"Hasslarp, Södra Torggatan",Skåne län,Helsingborg,Södra Torggatan,Hasslarp,2,2,1,2,1,0,56.135987,12.815703,true,false
 17320,"Vallåkra, Ryavägen 64",Skåne län,Helsingborg,"Ryavägen 64, P-plats IP",Vallåkra,2,2,1,2,1,0,55.96222,12.84722,true,false
