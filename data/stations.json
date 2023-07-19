@@ -28584,6 +28584,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 8456,
+        "avs": "Kiruna, Ullspiran",
+        "lan": "Norrbottens län",
+        "kommun": "Kiruna",
+        "adress": "Bromsgatan 10",
+        "ort": "Kiruna",
+        "glas": "2",
+        "kartong": "0",
+        "metall": "0",
+        "blandplast": "0",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "67.844995",
+        "longitude": "20.228635",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 8457,
         "avs": "COOP FORUM",
         "lan": "Norrbottens län",
@@ -65287,7 +65305,7 @@
     },
     {
         "id": 15229,
-        "avs": "Ripstigen/Gamlavägen",
+        "avs": "Ripstigen/Gamla vägen",
         "lan": "Stockholms län",
         "kommun": "Solna",
         "adress": "",
@@ -69309,7 +69327,7 @@
         "glas": "2",
         "kartong": "4",
         "metall": "2",
-        "blandplast": "4",
+        "blandplast": "6",
         "tidningar": "1",
         "ejaretrunt": "0",
         "latitude": "61.72167",
