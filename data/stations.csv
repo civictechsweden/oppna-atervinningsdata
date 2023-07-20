@@ -384,7 +384,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2122,"Läckeby, Stråkvägen",Kalmar län,Kalmar,Stråkvägen,Läckeby,2,1,2,1,1,0,56.783997,16.296952,true,false
 2123,"Påryd, Klumpaplan",Kalmar län,Kalmar,Industrigatan,Påryd,2,2,1,1,1,0,56.567573,15.921575,true,false
 2124,Dörbylundsvägen,Kalmar län,Kalmar,Dörbylundsvägen,Rinkabyholm,3,2,1,1,1,0,56.661078,16.272822,true,false
-2126,Affären,Kalmar län,Kalmar,Ryssbyvägen,Rockneby,2,1,1,1,1,0,56.80391,16.347905,true,false
+2126,Affären,Kalmar län,Kalmar,Ryssbyvägen,Rockneby,2,1,0,1,1,0,56.80391,16.347905,true,false
 2127,Krooks väg,Kalmar län,Kalmar,Krooks väg,Smedby,2,2,1,1,1,0,56.675605,16.247738,false,false
 2129,Tingby Skans,Kalmar län,Kalmar,Smedbyvägen,Smedby,2,1,1,1,1,0,56.680085,16.232398,true,false
 2130,ICA Nära,Kalmar län,Kalmar,Poppelgatan 1,Trekanten,2,2,1,1,1,0,56.695025,16.121192,true,false
@@ -1587,7 +1587,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8450,"Kiruna, Folkets hus",Norrbottens län,Kiruna,Vänortstorget,Kiruna,2,1,1,1,1,0,67.855522,20.224777,false,false
 8451,"Kiruna, Lomboloskolan",Norrbottens län,Kiruna,Movägen,Kiruna,2,1,1,1,1,0,67.838247,20.26027,false,false
 8452,"Kiruna, Centralskolan",Norrbottens län,Kiruna,Mangigatan 23,Kiruna,2,1,1,1,1,0,67.854822,20.230017,false,false
-8456,"Kiruna, Ullspiran",Norrbottens län,Kiruna,Bromsgatan 10,Kiruna,2,0,0,0,1,0,67.844995,20.228635,false,false
+8456,"Kiruna, Ullspiran",Norrbottens län,Kiruna,Bromsgatan 10,Kiruna,2,1,1,1,1,0,67.844995,20.228635,false,false
 8457,COOP FORUM,Norrbottens län,Kiruna,Österleden 12,Kiruna,4,3,2,2,1,0,67.844645,20.256188,false,false
 8459,"Svappavaara, Konsum",Norrbottens län,Kiruna,Kirunavägen,Svappavaara,2,2,1,1,1,0,67.648022,21.04562,false,false
 8460,"Tuolluvaara, Borgen",Norrbottens län,Kiruna,Borgenvägen 1,Tuolluvaara,2,1,1,1,1,0,67.84952,20.329653,false,false
@@ -1883,7 +1883,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9436,"Nybro, Jutarnas Livs (Preem)",Kalmar län,Nybro,Jutarnas väg,Nybro,2,2,1,2,1,0,56.742075,15.889128,true,false
 9437,"Coop, vid Hanemålaskolan, P-plats",Kalmar län,Nybro,Hanemålavägen 4,Nybro,4,2,1,2,1,0,56.732672,15.947882,false,false
 9438,"Nybro, Kvarneslättsgatan",Kalmar län,Nybro,Kvarneslättsgatan,Nybro,2,2,1,1,1,0,56.734648,15.92152,true,false
-9440,"Nybro, ICA Kvantum",Kalmar län,Nybro,Bangatan,Nybro,4,3,1,2,1,0,56.742713,15.902165,true,false
+9440,"Nybro, ICA Kvantum",Kalmar län,Nybro,Bangatan,Nybro,4,4,1,2,1,0,56.742713,15.902165,true,false
 9442,"Nybro, Kungshallsvägen/Algatan",Kalmar län,Nybro,Kungshallsvägen 33,Nybro,2,1,1,2,1,0,56.753542,15.90643,true,false
 9443,"Orrefors, Simon Gates väg",Kalmar län,Nybro,Simon Gates väg,Orrefors,2,2,1,2,1,0,56.843488,15.746725,true,false
 9444,"Örsjö, Orrabäcksvägen",Kalmar län,Nybro,Orrabäcksvägen,Örsjö,2,1,1,2,1,0,56.698375,15.751522,true,false
@@ -4883,7 +4883,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17695,ICA Maxi Falköping NY,Västra Götalands län,Falköping,Lönnerbladsgatan 2,Falköping,2,2,1,2,1,0,58.15277,13.56277,false,false
 17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 17707,Ekhammar IP,Stockholms län,Upplands-Bro,Bygdegårdsvägen 28,Kungsängen,3,3,1,2,1,0,59.47972,17.74138,false,false
-17710,"Bolagsskolan, Bromsgatan ",Norrbottens län,Kiruna,Bromsgatan 20,Kiruna,2,1,1,1,1,0,67.84416,20.23666,false,false
 17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,2,2,1,2,1,0,59.30916,18.37972,false,false
 17719,ÅVC Fyrislund,Uppsala län,Uppsala,Arkgatan 14,Uppsala,4,4,1,6,0,0,59.85583,17.71833,false,false
 17720,FLOBY ÅVC Tillfällig,Västra Götalands län,Falköping,"Nygrannesgården, SörbyKorsgården 1",Floby,2,2,1,2,1,0,58.13527,13.36833,false,false
