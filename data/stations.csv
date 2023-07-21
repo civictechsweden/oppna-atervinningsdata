@@ -147,7 +147,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 741,"Stationsvägen, Stehag",Skåne län,Eslöv,,Stehag,2,1,1,1,0,0,55.90186,13.398287,false,false
 742,"Rönnedalsvägen, Stockamölla",Skåne län,Eslöv,Rullebörsvägen ,Stockamöllan,2,1,1,1,0,0,55.946548,13.370353,true,false
 743,Kampanjevägen,Skåne län,Eslöv,Kampanjevägen,Toftaholm,2,1,1,1,0,0,55.784683,13.266875,true,false
-751,"ICA Centrum, p-plats",Västmanlands län,Fagersta,Järntorget 1,Fagersta,4,1,1,1,1,0,60.005442,15.790565,true,false
+751,"ICA Centrum, p-plats",Västmanlands län,Fagersta,Järntorget 1,Fagersta,3,1,1,1,1,0,60.005442,15.790565,true,false
 752,P-plats Coop Extra,Västmanlands län,Fagersta,Stationsvägen 18,Fagersta,5,3,1,2,1,0,60.004397,15.797352,true,false
 754,P-plats Coop Nära,Västmanlands län,Fagersta,Norrbyvägen 11,Fagersta,3,2,1,2,1,0,59.997743,15.816222,true,false
 755,"Oti krog, Statoil",Västmanlands län,Fagersta, ,Fagersta,2,2,1,1,1,0,59.964332,15.766742,true,false
@@ -459,7 +459,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2504,Nolbygatan,Värmlands län,Kristinehamn,Nolbygatan,Kristinehamn,2,1,1,1,1,0,59.320382,14.096563,true,false
 2507,S:a Staketgatan,Värmlands län,Kristinehamn,S:a Staketgatan 40,Kristinehamn,2,2,1,1,1,0,59.3068,14.106127,false,false
 2508,Sandfallsvägen,Värmlands län,Kristinehamn,Sandfallsvägen/Riksväg 26,Kristinehamn,2,1,1,1,1,0,59.327095,14.114982,false,false
-2512,Storängsgatan ,Värmlands län,Kristinehamn,Storängsgatan,Kristinehamn,4,1,1,1,1,0,59.308612,14.129678,true,false
+2512,Storängsgatan ,Värmlands län,Kristinehamn,Storängsgatan,Kristinehamn,2,1,1,1,1,0,59.308612,14.129678,true,false
 2517,Östanvinden ,Värmlands län,Kristinehamn,Östanvinden 1,Kristinehamn,2,1,1,1,1,0,59.33342,14.08892,true,false
 2518,Nybble,Värmlands län,Kristinehamn,Mariestadsvägen 23,Nybble,2,1,1,1,1,0,59.100842,14.162543,true,false
 2519,Skottlanda,Värmlands län,Kristinehamn,,Skottlanda,2,1,1,1,1,0,59.098088,14.270103,true,false
@@ -3850,7 +3850,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15636,Dalsjöfors (ÅVC),Västra Götalands län,Borås,Ställvägen,Dalsjöfors,2,2,2,2,1,0,57.715147,13.08524,true,false
 15637,Fristad (ÅVC),Västra Götalands län,Borås,Statoil,Fristad,4,2,2,2,1,0,57.814883,13.014178,true,false
 15638,Lusharpan (ÅVC),Västra Götalands län,Borås,Regementsgatan 22,Borås,6,4,4,2,1,0,57.714102,12.918563,true,false
-15642,Ulvbergets ÅVC,Gävleborgs län,Hudiksvall,,Hudiksvall,2,4,2,6,1,0,61.72167,17.02389,true,false
+15642,Ulvbergets ÅVC,Gävleborgs län,Hudiksvall,,Hudiksvall,2,4,2,5,1,0,61.72167,17.02389,true,false
 15644,Tubbaryd (ÅVC),Blekinge län,Karlshamn,Tubbarydsvägen 6,Karlshamn,4,2,0,3,0,0,56.177492,14.844447,false,false
 15645,Mörrum (ÅVC),Blekinge län,Karlshamn,Perstorpsvägen 101-20,Karlshamn,2,0,0,0,0,0,56.18778,14.73000,false,false
 15646,Hultet (ÅVC),Västra Götalands län,Lerum,Olofstorpsvägen,Lerum,6,2,1,2,2,0,57.794605,12.231475,true,false
