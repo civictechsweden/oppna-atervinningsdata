@@ -793,7 +793,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 6138,Ica Supermarket Cityhallen/Tennisparken,Södermanlands län,Vingåker,Bondegatan 9,Vingåker,2,0,0,0,0,0,59.04361,15.87305,false,false
 6142,Lastbilscentralen (LBC) (Söder),Södermanlands län,Vingåker,Idrottsvägen,Vingåker,4,3,1,2,1,0,59.038598,15.864998,false,false
 6143,"Gamla brandstationen, Lindberga",Södermanlands län,Vingåker, Rosavillavägen,Österåker,2,2,1,2,1,0,59.124495,15.98652,false,false
-6467,Fengerfors Fröskogs Handel,Västra Götalands län,Åmål,Hensbyvägen 16,Fengersfors,3,2,1,2,1,0,58.994482,12.46905,false,false
+6467,Fengerfors Fröskogs Handel,Västra Götalands län,Åmål,Hensbyvägen 16,Fengersfors,2,2,1,2,1,0,58.994482,12.46905,false,false
 6469,Stationen,Västra Götalands län,Åmål,Tösse,Tösse,2,2,1,2,1,0,58.972097,12.643607,true,false
 6471,Norra Hamnplan,Västra Götalands län,Åmål,Måkebergsvägen,Åmål,4,7,1,3,1,0,59.055578,12.7075,true,false
 6475,Årjängsgatan,Västra Götalands län,Åmål,,Åmål,2,4,1,2,1,0,59.045702,12.700315,true,false
@@ -1855,7 +1855,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9305,Lindöhallen Lindömatmarknad,Östergötlands län,Norrköping,Aktergatan,Lindö,4,2,1,1,1,0,58.601493,16.24652,true,false
 9325,Ica Brasken,Östergötlands län,Norrköping,Tallidsvägen/Norsholmsvägen ,Norsholm,2,1,1,1,1,0,58.506532,15.971885,true,false
 9334,Idrottsplats,Östergötlands län,Norrköping,Stationsvägen,Skärblacka,2,2,1,1,1,0,58.57864,15.91542,true,false
-9338,ICA Smedby,Östergötlands län,Norrköping,Bigatan 101,Smedby,2,0,0,0,0,0,58.570913,16.229503,false,false
 9353,Vilbergens Centrum,Östergötlands län,Norrköping,Urbergsgatan 90,Vilbergen,2,2,1,1,1,0,58.570722,16.17106,true,false
 9371,Åby centrum,Östergötlands län,Norrköping,Åbymovägen 1,Åby,4,2,1,1,1,0,58.664535,16.18043,true,false
 9378,ICA Nära Bergshamra,Stockholms län,Norrtälje,Virkesvägen 1-3,Bergshamra,3,2,1,2,1,0,59.636698,18.654258,true,false
@@ -2900,7 +2899,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11807,Körfältets Centrum,Jämtlands län,Östersund,Körfältsvägen,Östersund,2,1,1,1,1,0,63.17731,14.672975,false,false
 11811,"Torvalla, Vattentornet",Jämtlands län,Östersund,Basvägen,Östersund,2,1,2,1,1,0,63.158363,14.751483,false,false
 11813,"Odensala, Lillsjövägen/Svanvägen",Jämtlands län,Östersund,,Östersund,2,1,1,1,1,0,63.157,14.711587,false,false
-11819,"Margretelunds Centrum, Favan",Stockholms län,Österåker,Söralidsvägen/Muskötvägen,Margretelund,4,4,1,2,1,0,59.472388,18.331588,true,false
+11819,"Margretelunds Centrum, Favan",Stockholms län,Österåker,Söralidsvägen/Muskötvägen,Margretelund,4,5,1,2,1,0,59.472388,18.331588,true,false
 11820,Rydbo Station,Stockholms län,Österåker,Brovallsvägen/Björkvägen,Rydbo,2,2,1,2,1,0,59.46500,18.18444,false,false
 11821,Åkersberga IP (Kungsängen),Stockholms län,Österåker,Österskärsvägen/Generalsvägen,Tuna,4,6,1,5,1,0,59.473105,18.296302,true,false
 11822,Flaggfabriken/Stationsvägen 24,Stockholms län,Österåker,Stationsvägen 24,Åkersberga,4,7,1,4,2,0,59.475293,18.308452,true,false
