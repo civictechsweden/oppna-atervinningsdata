@@ -2343,7 +2343,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10573,Botilsäters Lanthandel,Värmlands län,Säffle,,Botilsäter,3,2,1,2,1,0,59.047465,13.076055,true,false
 10576,Långserud Lanthandeln,Värmlands län,Säffle,,Långserud,2,2,1,2,1,0,59.273408,12.660093,true,false
 10577,Idrottsplatsen,Värmlands län,Säffle,,Nysäter,2,3,1,2,1,0,59.286677,12.772142,true,false
-10578,Svankogs bruk,Värmlands län,Säffle,,Svanskog,2,3,1,2,1,0,59.179353,12.552882,true,false
+10578,Svankogs bruk,Värmlands län,Säffle,,Svanskog,2,2,1,2,1,0,59.179353,12.552882,true,false
 10582,Annelundstorget,Värmlands län,Säffle,,Säffle,4,4,2,2,1,0,59.139113,12.908805,true,false
 10588,Gamla järnvägsstationen,Värmlands län,Säffle,,Värmlandsbro,2,2,1,2,1,0,59.186153,13.015142,true,false
 10590,Samhall,Dalarnas län,Säter,Carusovägen,Bisberg,2,1,1,1,1,0,60.341325,15.784327,true,false
@@ -3223,7 +3223,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12852,"Högsbotorp, p-plats",Västra Götalands län,Göteborg,Marklandsgatan 25,Högsbotorp,2,3,1,1,1,0,57.672678,11.93596,true,false
 12854,Bagartorpsringen/Tunvägen,Stockholms län,Solna,Bagartorpsringen,Bagartorp,2,2,1,1,1,0,59.380395,17.996565,true,true
 12864,"Brynäs, Väpnargatan",Gävleborgs län,Gävle,Väpnargatan 37,Gävle,2,1,1,1,1,0,60.668985,17.170592,true,false
-12873,"Åkullsjön, Vindelnvägen",Västerbottens län,Robertsfors,Vindelnvägen,Robertsfors,2,1,1,2,1,0,64.26607,20.488817,false,false
+12873,"Åkullsjön, Vindelnvägen",Västerbottens län,Robertsfors,Vindelnvägen,Robertsfors,4,1,1,2,1,0,64.26607,20.488817,false,false
 12874,"Ånäset, Industriområdet",Västerbottens län,Robertsfors,Snickarvägen,Ånäset,2,6,2,4,1,0,64.27965,21.058355,false,false
 12876,"Majorna, Godhemsgatan 3",Västra Götalands län,Göteborg,Godhemsgatan 3,Majorna,2,1,1,1,1,0,57.688192,11.928363,true,false
 12877,"Majorna, Såggatan 51",Västra Götalands län,Göteborg,Såggatan 51,Majorna,2,3,1,1,1,0,57.69188,11.92822,true,false
