@@ -2540,7 +2540,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10953,"Gamla grusgropen, norr om väg 182 mot Timmele",Västra Götalands län,Ulricehamn,,Älmestad,2,2,1,2,1,0,57.89722,13.35444,true,false
 10954,"Ålidhem, Biologigränd 18",Västerbottens län,Umeå,Biologigränd 18,Umeå,2,1,1,1,1,0,63.808318,20.310433,true,false
 10962,"Sofiehem, Tallvägen/Sofiehemsvägen",Västerbottens län,Umeå,Tallvägen 8,Umeå,2,2,1,1,1,0,63.812503,20.2982,false,false
-10963,"Ålidhem, Kuratorvägen",Västerbottens län,Umeå,Kuratorvägen,Umeå,2,3,1,1,1,0,63.817002,20.321343,true,false
+10963,"Ålidhem, Kuratorvägen",Västerbottens län,Umeå,Kuratorvägen,Umeå,2,2,1,1,1,0,63.817002,20.321343,true,false
 10967,"Berghem, Nydalavägen 43",Västerbottens län,Umeå,Nydalavägen 43,Umeå,2,1,1,1,1,0,63.8292,20.304168,true,false
 10968,"Brännland, Konsum",Västerbottens län,Umeå,Brännland,Umeå,2,2,1,2,1,0,63.87529,20.061168,true,false
 10969,"Ersboda, Konsum",Västerbottens län,Umeå,Byttgränd 3-5,Umeå,2,1,1,1,1,0,63.857132,20.333278,false,false
@@ -4137,7 +4137,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16092,Södra Järnvägsgatan,Västerbottens län,Skellefteå,Södra Järnvägsgatan 31-33,Skellefteå,2,1,1,1,0,0,64.753375,20.953608,true,false
 16093,Major Nilssonsgatan,Skåne län,Malmö,Major Nilssonsgatan/Köpenhamnsvägen,Malmö Innerstaden,2,2,1,2,1,0,55.59417,12.972418,false,false
 16094,Textilvägen ,Dalarnas län,Falun,Textilvägen Sågmyra,Sågmyra,2,1,1,1,1,0,60.71463,15.294635,false,false
-16095,Tärnaby,Västerbottens län,Storuman,Industrivägen,Tärnaby,3,4,1,2,0,0,65.70972,15.24805,false,false
+16095,Tärnaby,Västerbottens län,Storuman,Industrivägen,Tärnaby,4,4,1,2,0,0,65.70972,15.24805,false,false
 16096,Ödeshög ÅVC,Östergötlands län,Ödeshög,"Bakom Folkets Park , Orrnäs",Ödeshög,2,2,0,4,1,0,58.23344,14.622847,false,false
 16098,Västra Ingelstad,Skåne län,Vellinge,Stationsvägen,Västra Ingelstad,2,2,1,2,1,0,55.491177,13.10747,true,false
 16100,Åmänningevägen; vid tvärbanans station,Stockholms län,Stockholm,Åmänningevägen 65,Enskede-Årsta-Vantör,2,3,2,2,2,0,59.296483,18.041692,true,false
