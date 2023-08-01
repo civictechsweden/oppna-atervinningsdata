@@ -97,7 +97,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 588,P-plats Folkets Park,Örebro län,Degerfors,Gamla Björneborgsvägen,Degerfors,2,2,1,1,1,0,59.239975,14.420267,false,false
 590,Industrivägen ,Örebro län,Degerfors,Industrivägen,Svartå,2,2,1,1,1,0,59.127407,14.521885,true,false
 600,Idrottsvägen,Värmlands län,Eda,,Charlottenberg,4,2,1,3,1,0,59.884642,12.310253,true,false
-601,Källgatan,Värmlands län,Eda,,Charlottenberg,6,3,1,3,1,0,59.876825,12.284835,true,false
+601,Källgatan,Värmlands län,Eda,,Charlottenberg,4,3,1,3,1,0,59.876825,12.284835,true,false
 605,Bruksgatan,Värmlands län,Eda,,Koppom,2,1,1,2,1,0,59.707647,12.150232,true,false
 608,Centrum,Värmlands län,Eda,,Skillingsfors,2,1,1,2,1,0,59.81806,12.00917,true,false
 610,Fridensgatan,Värmlands län,Eda,,Åmotfors,2,2,1,2,1,0,59.764933,12.353232,true,false
@@ -4125,7 +4125,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16072,Vidåsvägen 3,Dalarnas län,Falun,Vidåsvägen 3,Sågmyra,2,1,1,1,1,0,60.715713,15.296147,true,false
 16073,Lottefors,Gävleborgs län,Bollnäs,Riksvägen /Bruksvägen 1,Bollnäs,2,2,1,1,1,0,61.42111,16.40861,true,false
 16078,Granbergshöjden,Gävleborgs län,Bollnäs,Granbergsvägen 6,Bollnäs,2,2,1,1,1,0,61.330507,16.387045,true,false
-16079,Försäkringskassan,Gävleborgs län,Bollnäs,Järnvägsgatan 19,Bollnäs,2,1,1,1,1,0,61.35222,16.39417,true,false
+16079,Försäkringskassan,Gävleborgs län,Bollnäs,Järnvägsgatan 19,Bollnäs,2,2,1,1,1,0,61.35222,16.39417,true,false
 16080,Sorsele ÅVC,Västerbottens län,Sorsele,Svartliden,sorsele,2,0,0,1,0,0,65.53000,17.60667,false,false
 16084,Virebergsvägen (vid Hagbyvägen),Stockholms län,Solna,Virebergsvägen  16D,Solna,2,2,1,1,1,0,59.36004,17.986325,true,true
 16085,"Åkrahällsskolan, p-plats",Kalmar län,Nybro,Mossvägen,Nybro,2,1,1,2,1,0,56.743725,15.931675,false,false
