@@ -3953,7 +3953,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15795,Grönklitt,Dalarnas län,Orsa,Skidanläggningen,Orsa,2,2,1,1,1,0,61.20732,14.540172,true,false
 15796,Lidl,Stockholms län,Täby,Enhagsvägen 24,Täby,4,6,2,3,1,0,59.439793,18.035167,false,true
 15797,ICA Supermarket,Jönköpings län,Eksjö,Prästgatan 4,Eksjö,2,2,1,1,1,0,57.665962,14.97631,true,false
-15800,ÅVC Strömsund,Jämtlands län,Strömsund,Lia,Strömsund,2,1,1,0,1,0,63.88861,15.66306,false,false
+15800,ÅVC Strömsund,Jämtlands län,Strömsund,Lia,Strömsund,3,1,1,0,1,0,63.88861,15.66306,false,false
 15801,Järvastaden/ Fridensborgsvägen,Stockholms län,Solna,Järva Skjutbaneväg 4A,Solna,2,3,1,2,1,0,59.382848,17.989997,true,true
 15804,Veddige ÅVC (utanför),Hallands län,Varberg,Disseflat,Veddige,4,3,1,2,2,0,57.25806,12.31417,false,false
 15805,"Saittarova,Saaittaboden",Norrbottens län,Pajala,,Saittarova,2,1,1,1,1,0,67.333597,22.235082,true,false
@@ -4251,7 +4251,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16318,Islingby ,Dalarnas län,Borlänge,Grindesgatan/Islingbyvägen,Borlänge,2,1,1,1,1,0,60.488338,15.459858,true,false
 16320,Kommunförrådet,Hallands län,Laholm,Repslagaregatan,Laholm,4,3,1,2,0,0,56.509537,13.056347,false,false
 16322,ÅVC Hammerdal,Jämtlands län,Strömsund,Sikåsvägen 8,Strömsund,2,2,1,1,1,0,63.59458,15.344975,false,false
-16323,ÅVC Junsternäset,Jämtlands län,Strömsund,vid väg 822,Gäddede,2,1,1,1,1,0,64.55833,14.12361,false,false
+16323,ÅVC Junsternäset,Jämtlands län,Strömsund,vid väg 822,Gäddede,3,1,1,1,1,0,64.55833,14.12361,false,false
 16325,Kålgårdsgatan 4,Västmanlands län,Sala,Kålgårdsgatan 4,Sala,2,0,0,0,0,0,59.92000,16.61250,false,false
 16326,Brunnsgatan,Västmanlands län,Sala,Brunnsgatan 1A,Sala,2,0,0,0,0,0,59.92139,16.61028,false,false
 16330,Tulleråsen,Jämtlands län,Krokom,Macken,Offerdal,2,2,1,1,1,0,63.454917,14.189672,false,false
@@ -4968,7 +4968,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 99150,Varggatan,Västerbottens län,Sorsele,Varggatan 3 / Giltjaurvägen,Sorsele,2,4,1,2,0,0,65.528222,17.538217,false,false
 99151,Kronoparken,Värmlands län,Karlstad,Gustaf Frödings gata 8,Karlstad,2,2,1,1,1,0,59.400368,13.591085,false,false
 99152,Färjestad; vid travbanan,Värmlands län,Karlstad,Annebergsvägen,Karlstad,2,2,1,1,1,0,59.407015,13.507125,false,false
-99153,"Vindeln, Ordenhusvägen",Västerbottens län,Vindeln,"Ordenhusvägen, söderut (bakom OKQ8)",Vindeln,4,5,2,4,1,0,64.19722,19.72305,false,false
+99153,"Vindeln, Ordenhusvägen",Västerbottens län,Vindeln,"Ordenhusvägen, söderut (bakom OKQ8)",Vindeln,3,5,2,4,1,0,64.19722,19.72305,false,false
 99157,Ekebyvägen (infarten 157-199),Stockholms län,Vallentuna,Ekebyvägen 157-199,Vallentuna,2,3,1,2,1,0,59.5478,18.066248,true,true
 99159,"Härlanda, Balsamingatan",Västra Götalands län,Göteborg,Balsamingatan 8,Härlanda,2,3,1,1,1,0,57.718127,12.02203,true,false
 99163,Hakarp ,Jönköpings län,Jönköping,Stenholmsvägen,Huskvarna,2,2,1,1,1,0,57.776877,14.304297,true,false
