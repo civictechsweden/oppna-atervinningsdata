@@ -3363,7 +3363,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14168,"Vrena, vid kyrkan",Södermanlands län,Nyköping,"Herrgårdsv 10, vid kyrkan",Vrena,2,2,1,2,1,0,58.859632,16.702517,true,false
 14174,Gränsgatans vändplan,Jönköpings län,Värnamo,Gränsgatan 57,Värnamo,2,1,1,1,1,0,57.177565,14.023948,true,false
 14177,Stomsjö Avfallsanläggning (ÅVC),Jönköpings län,Värnamo,,Värnamo,4,1,1,2,2,0,57.17953,13.97785,false,false
-14306,"Fredrika,Umevägen",Västerbottens län,Åsele,Umevägen / Krokvägen,Fredrika,2,2,1,1,1,0,64.070897,18.394502,true,false
+14306,"Fredrika,Umevägen",Västerbottens län,Åsele,Umevägen / Krokvägen,Fredrika,2,2,1,1,1,0,64.070897,18.394502,false,false
 14342,Blomängen,Jämtlands län,Östersund,S. Torlandsgatan 26,Östersund,2,1,1,1,1,0,63.16827,14.665323,false,false
 14359,Adolfsbergsvägen 13,Stockholms län,Stockholm,,Bromma,2,2,1,1,1,0,59.358237,17.955955,true,false
 14361,Spångavägen/Vinbärsvägen Eneby,Stockholms län,Stockholm, ,Bromma,2,3,1,2,1,0,59.361393,17.905478,true,false
