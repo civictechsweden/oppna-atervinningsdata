@@ -3548,7 +3548,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14893,Varekil,Västra Götalands län,Orust,Industrivägen 1,Varekil,3,2,1,1,1,0,58.125203,11.725868,false,false
 14894,Dyarne,Uppsala län,Håbo,Sjövägen,Bålsta,3,2,1,1,1,0,59.5585,17.534548,true,false
 14895,Hamnvägen,Jönköpings län,Tranås,,Tranås,2,0,0,0,0,0,58.040772,14.989745,false,false
-14906,Usterstavägen,Västmanlands län,Hallstahammar,,Hallstahammar,2,3,1,2,1,0,59.605903,16.212845,true,false
+14906,Usterstavägen,Västmanlands län,Hallstahammar,,Hallstahammar,2,4,1,2,1,0,59.605903,16.212845,true,false
 14908,Österstad - Grusparkeringen,Östergötlands län,Motala,Allévägen/Fornåsavägen,Österstad,2,1,1,1,1,0,58.51758,15.177238,false,false
 14910,Gamla Trollhättevägen,Västra Götalands län,Kungälv,Gamla Trollhättevägen,Kungälv,2,3,1,2,1,0,57.88111,11.98722,true,false
 14932,"Bygdegården, Parkeringen",Hallands län,Laholm,Karupsvägen 2,Hasslöv,2,1,1,1,0,0,56.413825,13.004072,false,false
@@ -3640,7 +3640,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15300,Espehallen,Blekinge län,Ronneby,Götgatan/Lindblomsvägen,Ronneby,2,1,1,1,0,0,56.208262,15.267477,false,false
 15301,Parkering,Skåne län,Landskrona,Kolgatan,Landskrona,2,2,1,1,1,0,55.86515,12.826983,false,false
 15302,Borstahusen,Skåne län,Landskrona,Skepparvägen,Landskrona,2,2,1,1,1,0,55.896758,12.813348,false,false
-15303,Verktygsvägen,Skåne län,Landskrona,,Asmundtorp,2,2,1,1,1,0,55.88497,12.94909,false,false
 15304,Silos,Skåne län,Svalöv,,Tågarp,2,1,1,1,1,0,55.926362,12.956428,false,false
 15305,Järnvägsgatan,Skåne län,Svalöv,,Röstånga,2,2,1,1,1,0,56.002918,13.292085,false,false
 15307,Sjukhuskvarteret 15,Skåne län,Landskrona,Skiftesvägen,Landskrona,2,2,1,1,1,0,55.881492,12.841728,false,false
