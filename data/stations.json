@@ -13770,24 +13770,6 @@
         "rp_extra": "false"
     },
     {
-        "id": 5737,
-        "avs": "Hogstorp",
-        "lan": "Västra Götalands län",
-        "kommun": "Uddevalla",
-        "adress": "Bergavägen",
-        "ort": "Hogstorp",
-        "glas": "2",
-        "kartong": "2",
-        "metall": "1",
-        "blandplast": "1",
-        "tidningar": "1",
-        "ejaretrunt": "0",
-        "latitude": "58.395382",
-        "longitude": "11.75963",
-        "batterier": "true",
-        "rp_extra": "false"
-    },
-    {
         "id": 5738,
         "avs": "Kissleberg vid busshållplatsen",
         "lan": "Västra Götalands län",
@@ -53073,7 +53055,7 @@
         "glas": "2",
         "kartong": "3",
         "metall": "1",
-        "blandplast": "2",
+        "blandplast": "3",
         "tidningar": "1",
         "ejaretrunt": "0",
         "latitude": "57.94250",
@@ -84744,24 +84726,6 @@
         "rp_extra": "false"
     },
     {
-        "id": 17382,
-        "avs": "Mårdaklev",
-        "lan": "Västra Götalands län",
-        "kommun": "Svenljunga",
-        "adress": "Bäckavägen 1",
-        "ort": "Mårdaklev",
-        "glas": "2",
-        "kartong": "3",
-        "metall": "1",
-        "blandplast": "2",
-        "tidningar": "1",
-        "ejaretrunt": "0",
-        "latitude": "57.24611",
-        "longitude": "12.97638",
-        "batterier": "false",
-        "rp_extra": "false"
-    },
-    {
         "id": 17383,
         "avs": "Hamrafjället",
         "lan": "Jämtlands län",
@@ -85159,7 +85123,7 @@
     },
     {
         "id": 17415,
-        "avs": "Handlar´n, Kangos",
+        "avs": "Handlarn, Kangos",
         "lan": "Norrbottens län",
         "kommun": "Pajala",
         "adress": "Norra Byavägen 1",
@@ -86472,6 +86436,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 17540,
+        "avs": "Storgatan/Smedgatan Arbrå",
+        "lan": "Gävleborgs län",
+        "kommun": "Bollnäs",
+        "adress": "Korsning Storgatan/Smedgatan",
+        "ort": "Arbrå",
+        "glas": "4",
+        "kartong": "4",
+        "metall": "1",
+        "blandplast": "2",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "61.46777",
+        "longitude": "16.37861",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 17541,
         "avs": "ÅVC Risslan",
         "lan": "Norrbottens län",
@@ -86505,6 +86487,24 @@
         "latitude": "59.301818",
         "longitude": "18.005327",
         "batterier": "true",
+        "rp_extra": "false"
+    },
+    {
+        "id": 17543,
+        "avs": "Hogstorp",
+        "lan": "Västra Götalands län",
+        "kommun": "Uddevalla",
+        "adress": "Hogstorp 300",
+        "ort": "Uddevalla",
+        "glas": "2",
+        "kartong": "2",
+        "metall": "1",
+        "blandplast": "1",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "58.39416",
+        "longitude": "11.75861",
+        "batterier": "false",
         "rp_extra": "false"
     },
     {
