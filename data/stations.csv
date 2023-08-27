@@ -611,7 +611,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3637,Mörbylånga Gamla sockerbruket ,Kalmar län,Mörbylånga,Gamla sockerbruket,Mörbylånga,6,3,1,3,1,0,56.527037,16.387482,true,false
 3638,Bakom Överskottsbolaget,Kalmar län,Mörbylånga,,Ölands skogsby,2,2,1,2,1,0,56.629458,16.515148,true,false
 3698,Bergsjö G:a idrottsplatsen,Gävleborgs län,Nordanstig,Skolvägen,Bergsjö,4,4,1,2,1,0,61.983803,17.057818,false,false
-3699,Gnarps Skola,Gävleborgs län,Nordanstig,Södra Vägen/Bergevägen,Gnarp,2,4,1,1,1,0,62.053068,17.2432,false,false
+3699,Gnarps Skola,Gävleborgs län,Nordanstig,Södra Vägen/Bergevägen,Gnarp,2,3,1,1,1,0,62.053068,17.2432,false,false
 3700,Harmånger Centrum,Gävleborgs län,Nordanstig,Centrum,Harmånger,2,3,1,1,1,0,61.928848,17.21881,false,false
 3701,Hassela Centrum,Gävleborgs län,Nordanstig,Korsning Fribergsvägen/Ringvägen,Hassela,2,2,1,1,1,0,62.108505,16.712815,false,false
 3702,Ilsbo ICA,Gävleborgs län,Nordanstig,Kyrkvägen,Ilsbo,2,2,1,1,1,0,61.856467,17.049842,false,false
@@ -1442,7 +1442,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8151,ICA Träffpunkten,Gävleborgs län,Hudiksvall,Djupegatan 47,Hudiksvall,2,2,1,1,1,0,61.72556,17.14111,false,false
 8153,"Albert & Herbert, Hudiksvall",Gävleborgs län,Hudiksvall,Östanbräcksvägen 72,Hudiksvall,2,2,1,1,1,0,61.75167,17.12417,true,false
 8154,Borgarparken,Gävleborgs län,Hudiksvall,Borgarparken,Hudiksvall,2,3,1,1,1,0,61.73139,17.11472,true,false
-8156,ICA Maxi Stormarknad,Gävleborgs län,Hudiksvall,Blockvägen 1 ,Hudiksvall,4,5,1,2,1,0,61.74194,17.11444,true,false
+8156,ICA Maxi Stormarknad,Gävleborgs län,Hudiksvall,Blockvägen 1 ,Hudiksvall,4,4,1,2,1,0,61.74194,17.11444,true,false
 8157,Tippvägen,Gävleborgs län,Hudiksvall, Korsningen Gammelbansvägen/Saltviksvägen,Hudiksvall,4,5,2,2,1,0,61.71472,17.09111,false,false
 8159,Ica Supermarket Håsta (gamla Rimi),Gävleborgs län,Hudiksvall,Västra vägen 9,Hudiksvall,2,2,1,2,1,0,61.71917,17.08889,false,false
 8160,Q Star,Gävleborgs län,Hudiksvall,Åsak 33,Hög,2,1,1,2,1,0,61.76722,16.99861,true,false
@@ -2772,7 +2772,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11517,"Samarkand, västra Växjö",Kronobergs län,Växjö,Hejaregatan,Växjö,2,2,1,1,1,0,56.88306,14.76333,true,false
 11523,Torparvägen,Kronobergs län,Växjö,Torparvägen/Skeppsvägen,Växjö,2,1,1,1,1,0,56.839905,14.811787,true,false
 11524,Stallvägen,Kronobergs län,Växjö,Stallvägen,Växjö,2,1,1,1,1,0,56.850592,14.82441,true,false
-11527,Raskens väg,Kronobergs län,Växjö,Raskens väg,Växjö,2,1,1,1,1,0,56.847445,14.823197,true,false
+11527,Raskens väg,Kronobergs län,Växjö,Raskens väg,Växjö,2,0,2,1,1,0,56.847445,14.823197,true,false
 11528,Plogvägen,Kronobergs län,Växjö,Plogvägen,Växjö,2,1,1,1,1,0,56.842757,14.799468,true,false
 11530,Circle K Teleborg,Kronobergs län,Växjö,Södra Vallviksvägen 2,Växjö,2,1,1,1,1,0,56.85528,14.82111,false,false
 11532,Bergundavägen,Kronobergs län,Växjö,Bergundavägen/Friggagatan,Växjö,2,1,1,1,1,0,56.872493,14.79714,true,false
