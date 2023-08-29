@@ -2278,7 +2278,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10361,Hammerdal Gamla Konsum,Jämtlands län,Strömsund,Storgatan,Hammerdal,4,3,1,2,1,0,63.579862,15.352317,false,false
 10362,Hoting Fokets Hus,Jämtlands län,Strömsund,Parkgatan 1,Hoting,3,2,1,2,1,0,64.117688,16.20509,true,false
 10363,"Gubbhögen, Flåsjö Bua",Jämtlands län,Strömsund,Gubbhögen 600,Gubbhögen,2,1,1,1,1,0,64.217068,15.566533,true,false
-10364,Jormvattnet ICA Jormboden,Jämtlands län,Strömsund,Jormvattnet,Jormvattnet,2,0,0,0,0,0,64.72250,14.03722,false,false
+10364,Jormvattnet ICA Jormboden,Jämtlands län,Strömsund,Jormvattnet,Jormvattnet,2,1,1,1,0,0,64.72250,14.03722,false,false
 10366,"Lidsjöberg, Lidsjöbergs Handel",Jämtlands län,Strömsund,Lidsjöberg 105,Lidsjöberg,2,2,1,1,1,0,64.307853,15.237493,false,false
 10367,Norråker Preem,Jämtlands län,Strömsund,Borgavägen 9,Norråker,2,2,1,2,1,0,64.436163,15.592613,false,false
 10368,Rossön Flottningsverkstaden,Jämtlands län,Strömsund,Bodumsvägen,Rossön,2,2,1,2,1,0,63.923238,16.335912,true,false
@@ -3930,7 +3930,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15769,Stenkilsgatan,Stockholms län,Stockholm,Stenkilsgatan/ Vidfamnes gata,Hägersten-Liljeholmen,2,3,1,1,1,0,59.307927,17.989422,true,false
 15771,Hovgården (ÅVC),Uppsala län,Uppsala,Östhammarsvägen,Uppsala,2,1,1,1,1,0,59.928745,17.775018,false,false
 15772,Nolängens ÅVC,Västra Götalands län,Bengtsfors,Nolängens ÅVC Steneby			,Steneby,2,1,1,4,1,0,58.96345,12.205792,true,false
-15774,Kavahedens ÅVC/Gällivare,Norrbottens län,Gällivare,Kavaheden,Gällivare,2,1,1,1,1,0,67.154033,20.737017,false,false
+15774,Kavahedens ÅVC/Gällivare,Norrbottens län,Gällivare,Kavaheden,Gällivare,2,4,1,2,1,0,67.154033,20.737017,false,false
 15775,Harads ÅVC,Norrbottens län,Boden,,Boden,2,0,0,0,1,0,66.09778,20.94417,false,false
 15776,Gränna,Jönköpings län,Jönköping,Lars Hillings Gränd,Gränna,4,2,1,1,1,0,58.016393,14.45458,false,false
 15777,Hovslätt / Grästorpsvägen,Jönköpings län,Jönköping,Hovslätt / Grästorpsvägen,Hovslätt,2,1,1,1,1,0,57.736633,14.126453,true,false
@@ -4060,7 +4060,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15980,Vallda Heberg,Hallands län,Kungsbacka,Valldavägen - Lunnavägen,Vallda,3,2,1,1,1,0,57.46583,11.99417,true,false
 15982,Gällstad,Västra Götalands län,Ulricehamn,Trikågatan - mot Rånnaväg,Gällstad,4,4,1,2,1,0,57.66944,13.43694,true,false
 15983,Solavägen,Jönköpings län,Nässjö,Solavägen (utfart mot Anneberg),Ormaryd,2,1,1,1,1,0,57.670492,14.833928,true,false
-15985,Stora Sjöfallets Fjällanläggning,Norrbottens län,Gällivare,,Stora Sjöfallet,4,3,1,1,1,0,67.48265,18.353222,false,false
+15985,Stora Sjöfallets Fjällanläggning,Norrbottens län,Gällivare,,Stora Sjöfallet,4,0,1,0,1,0,67.48265,18.353222,false,false
 15986,Steningehöjden,Stockholms län,Sigtuna,Steningehöjdsvägen,Märsta,2,2,1,1,1,0,59.624238,17.796988,true,false
 15987,Sollentunavallen,Stockholms län,Sollentuna,Arenavägen 1,Sollentuna,2,2,1,2,1,0,59.435385,17.950933,true,true
 15989,Mattmar,Jämtlands län,Åre,Kvitslevägen 235 Mattmar,Mattmar,2,2,1,1,1,0,63.299295,13.8376,true,false
