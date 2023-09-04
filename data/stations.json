@@ -87552,6 +87552,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 17675,
+        "avs": "Industrivägen, Strömsbruk",
+        "lan": "Gävleborgs län",
+        "kommun": "Nordanstig",
+        "adress": "Industrivägen",
+        "ort": "Strömsbruk",
+        "glas": "2",
+        "kartong": "4",
+        "metall": "1",
+        "blandplast": "2",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "61.87361",
+        "longitude": "17.31472",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 17676,
         "avs": "Tallvägen",
         "lan": "Gävleborgs län",
