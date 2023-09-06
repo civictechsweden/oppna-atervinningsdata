@@ -2,14 +2,14 @@
     {
         "material": "Städning",
         "materialid": "0",
-        "senaktivitet": "2023-08-31T08:43:26",
-        "nastaaktivitet": "2023-09-05T00:00:00"
+        "senaktivitet": "2023-09-05T09:46:05",
+        "nastaaktivitet": "2023-09-07T00:00:00"
     },
     {
         "material": "Metallförpackningar",
         "materialid": "3",
         "senaktivitet": "2023-08-31T06:46:41",
-        "nastaaktivitet": "2023-09-05T00:00:00"
+        "nastaaktivitet": "2023-09-12T00:00:00"
     },
     {
         "material": "Pappersförpackningar",
@@ -27,7 +27,7 @@
         "material": "Plastförpackningar",
         "materialid": "16",
         "senaktivitet": "2023-09-04T10:27:51",
-        "nastaaktivitet": "2023-09-05T00:00:00"
+        "nastaaktivitet": "2023-09-09T00:00:00"
     },
     {
         "material": "Ofärgade glasförpackningar",

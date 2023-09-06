@@ -4107,7 +4107,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16057,Storsjö Centrum,Jämtlands län,Berg,Storsjö,Storsjö,2,1,1,1,1,0,62.803205,13.059145,true,false
 16059,"Vasavägen, vid Lidl Stocksund",Stockholms län,Danderyd,Vasavägen/Bengt Färgares väg,Stocksund,2,3,1,2,1,0,59.386148,18.044547,true,true
 16060,Handlarn Möllebackens Livs,Skåne län,Landskrona,Landsvägen 224,"St Ibb, Ven",4,1,1,1,1,0,55.91083,12.69194,false,false
-16061,ICA Kvantum,Västernorrlands län,Sollefteå,Hågesta 227,Sollefteå,6,3,1,1,0,0,63.16154,17.288413,false,false
+16061,ICA Kvantum,Västernorrlands län,Sollefteå,Hågesta 227,Sollefteå,6,3,1,2,0,0,63.16154,17.288413,false,false
 16062,Liljefors Torg/Lidl,Uppsala län,Uppsala,Liljefors Torg 2,Uppsala,2,2,1,1,1,0,59.870957,17.656707,true,false
 16063,Almåsa Fritidsby,Skåne län,Malmö,Almåsa,Malmö Söder,2,1,1,1,1,0,55.564048,13.135852,true,false
 16064,Vändplats vid kiosk,Skåne län,Malmö,Arkitektgatan 1,Malmö Väster,2,2,1,1,1,0,55.580078,12.995567,true,false
@@ -4963,7 +4963,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 99136,"Kungsängen, Willys",Uppsala län,Uppsala,Kungsgatan/Kungsängsleden,Uppsala,2,1,1,1,1,0,59.849217,17.659258,true,false
 99137,"Norrmalmvägen/Villavägen, Östermalm",Östergötlands län,Finspång,Norrmalmvägen/Villavägen,Finspång,2,1,1,1,1,0,58.711397,15.785325,true,false
 99140,"Rotebro, KOM-C",Stockholms län,Sollentuna,Bollstanäsvägen/Norrviksleden,Rotebro,2,1,1,1,1,0,59.483508,17.917373,false,true
-99141,"Utanför ÅVC  ängarna, Israelssons möbler",Örebro län,Nora,Älvtorpsvägen,Nora,4,4,2,4,3,0,59.512902,15.03242,false,false
+99141,"Utanför ÅVC  ängarna, Israelssons möbler",Örebro län,Nora,Älvtorpsvägen,Nora,4,5,2,3,3,0,59.512902,15.03242,false,false
 99145,"Alviksvägen 1, vid Circle-K",Stockholms län,Stockholm,Alviksvägen,Bromma,3,6,1,2,1,0,59.332553,17.97538,true,false
 99148,Coop Extra området,Gävleborgs län,Bollnäs,Står bredvid Jysk,Bollnäs,2,1,1,1,1,0,61.37000,16.39000,true,false
 99150,Varggatan,Västerbottens län,Sorsele,Varggatan 3 / Giltjaurvägen,Sorsele,2,4,1,2,0,0,65.528222,17.538217,false,false
