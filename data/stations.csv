@@ -134,7 +134,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 711,ICA Stenby centrum,Södermanlands län,Eskilstuna,Stenbygatan/Bärnstensgången,Eskilstuna,2,3,1,1,1,0,59.356875,16.47628,true,false
 712,Bakom affären,Södermanlands län,Eskilstuna,Centrumvägen,Stora Sundby,2,1,1,2,1,0,59.27863,16.11659,false,false
 714,Ringvägen,Södermanlands län,Eskilstuna,Ringvägen/Riktarvägen,Torshälla,2,1,1,1,1,0,59.42679,16.478115,true,false
-716,Väsbyholm Mälarbaden,Södermanlands län,Eskilstuna,Toftes v 1,Torshälla,2,1,1,1,1,0,59.443145,16.451518,true,false
 717,"Konsum, Ärla",Södermanlands län,Eskilstuna,Stationsvägen 10,Ärla,2,2,1,1,1,0,59.282607,16.676123,true,false
 719,Ärsta,Södermanlands län,Eskilstuna,Ärstavägen,Eskilstuna,4,2,1,2,1,0,59.396317,16.542425,false,false
 720,"Vattenverksvägen, Billinge",Skåne län,Eslöv,,Billinge,2,1,0,1,0,0,55.962975,13.33079,true,false
@@ -155,7 +154,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 759,Paby´s verkstad,Västmanlands län,Fagersta,Gamla Banan 1,Ängelsberg,2,1,1,2,1,0,59.96591,16.00568,true,false
 873,Bergslagshallen (Coop),Östergötlands län,Finspång,Bergslagsvägen 20,Finspång,2,1,1,1,1,0,58.706652,15.766328,false,false
 874,Bussvändplats Panncentral,Östergötlands län,Finspång,Dunderbacksv 41,Finspång,2,1,1,1,1,0,58.70968,15.811728,true,false
-877,Norrmalm,Östergötlands län,Finspång,Kanalgatan,Finspång,2,1,1,1,1,0,58.712913,15.773888,false,false
+877,Norrmalm,Östergötlands län,Finspång,Kanalgatan,Finspång,2,2,1,0,1,0,58.712913,15.773888,false,false
 878,Nyhem,Östergötlands län,Finspång,Oxhagsv 1,Finspång,2,1,1,1,1,0,58.701465,15.776748,false,false
 883,Ängslyckan,Östergötlands län,Finspång,Södra Storängsv 48,Finspång,2,1,1,1,1,0,58.706822,15.80178,true,false
 884,Viberga Storlager,Östergötlands län,Finspång,Skäggebyvägen 27,Finspång,4,4,1,3,1,0,58.700732,15.819522,false,false
@@ -2121,7 +2120,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9981,Smögen ICA Nära,Västra Götalands län,Sotenäs,ICA Nära f.d. Ankaret,Smögen,4,2,1,1,1,0,58.362812,11.233782,true,false
 9982,Todderöd Bygdegården vid Todderödskola,Västra Götalands län,Sotenäs,Bygdegården vid Todderödskola,Todderöd,2,1,1,1,1,0,58.409848,11.335168,true,false
 9983,Väjern Parkeringen,Västra Götalands län,Sotenäs,Parkeringen,Väjern,2,1,1,1,1,0,58.379678,11.263158,true,false
-9990,"Staffanstorp, P-plats Färgboden",Skåne län,Staffanstorp,Lagv/Domsagovägen 1,Staffanstorp,2,2,1,1,1,0,55.640293,13.194097,true,false
+9990,"Staffanstorp, P-plats Färgboden",Skåne län,Staffanstorp,Lagv/Domsagovägen 1,Staffanstorp,2,3,1,1,1,0,55.640293,13.194097,true,false
 9993,Jörlandaboden,Västra Götalands län,Stenungsund,Kyrkebyvägen,Jörlanda,3,2,1,1,1,0,57.98653,11.828338,true,false
 9995,P-plats,Västra Götalands län,Stenungsund,Södra vägen,Stenungsund,3,1,1,1,1,0,58.068788,11.821597,true,false
 9997,Kristinedals Förskola,Västra Götalands län,Stenungsund,Uppegårdsvägen 4,Stenungsund,2,1,1,1,1,0,58.064473,11.833495,false,false
@@ -2473,7 +2472,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10820,Tranås Beckhemsvägen,Jönköpings län,Tranås,Beckhemsvägen,Tranås,2,2,1,1,1,0,58.047083,14.970717,true,false
 10821,Coop,Jönköpings län,Tranås,Ängarydsgatan 6,Tranås,4,2,1,1,1,0,58.03128,14.969433,false,false
 10822,Tranås Toståsvägen vid Sveagatan,Jönköpings län,Tranås,"Toståsvägen, vid Sveagatan",Tranås,4,3,1,1,1,0,58.018343,14.962113,true,false
-10823,Tranås Östra Järnvägsgatan,Jönköpings län,Tranås,Östra Järnvägsgatan,Tranås,4,2,1,1,1,0,58.03666,14.975042,false,false
+10823,Tranås Östra Järnvägsgatan,Jönköpings län,Tranås,Östra Järnvägsgatan,Tranås,3,2,1,1,1,0,58.03666,14.975042,false,false
 10824,Vid Lantmännen,Skåne län,Trelleborg,Landsvägen/Alstads Stationsv,Alstad,2,2,1,1,0,0,55.45346,13.209262,false,false
 10825,Anderslöv Tippen (ÅVC),Skåne län,Trelleborg,"Tippen, ÅVC",Anderslöv,2,1,1,1,0,0,55.43307,13.31192,false,false
 10826,Mot ÅVC fr Beddinge Strandväg,Skåne län,Trelleborg,Lilla Beddinge,Smygehamn,2,3,1,1,0,0,55.352695,13.392018,false,false
