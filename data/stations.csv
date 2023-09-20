@@ -3076,7 +3076,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12416,Vid Din-X mack,Kronobergs län,Uppvidinge,,Åseda,0,1,0,1,1,0,57.166013,15.343663,false,false
 12419,Hallonvägen; vid parkering,Stockholms län,Upplands-Bro,Hallonvägen 26-48,Upplands Bro,2,1,1,1,1,0,59.489317,17.730865,false,false
 12420,Grusplan ridhuset Prästtorp,Stockholms län,Upplands-Bro,Enköpingsvägen,Upplands Bro,2,1,1,1,1,0,59.493877,17.684233,true,false
-12429,"Sandahöjd, Himlastigen 5",Västerbottens län,Umeå,Himlastigen 5,Umeå,2,1,1,1,1,0,63.846613,20.296943,true,false
+12429,"Sandahöjd, Himlastigen 5",Västerbottens län,Umeå,Himlastigen 5,Umeå,2,0,0,0,1,0,63.846613,20.296943,true,false
 12437,"Bodbyn, ICA Börsen i Bodbyn",Västerbottens län,Umeå,Bodbyn,Umeå,2,2,1,1,1,0,64.004287,20.3929,true,false
 12438,"Bullmark, Edmans handel",Västerbottens län,Umeå,Robertforsvägen 37,Bullmark,2,2,1,1,1,0,64.033705,20.482235,true,false
 12439,Tavelsjö utanför ÅVC,Västerbottens län,Umeå,,Tavelsjö,2,2,1,1,1,0,64.03439,20.048653,true,false
@@ -3622,7 +3622,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15227,Bergshamra Bockholmsvägen 1 kv Sfären,Stockholms län,Solna,Bockholmsvägen 1,Solna,2,0,0,0,0,0,59.376552,18.04671,false,true
 15229,Ripstigen/Gamla vägen,Stockholms län,Solna,,Solna,2,0,0,0,0,0,59.37833,18.04129,false,true
 15232,Grönområde,Stockholms län,Södertälje,Granövägen 67,Hovsjö,2,1,2,2,1,0,59.173313,17.604073,false,false
-15233,Parkering Rödbloms gränd,Stockholms län,Södertälje,Rödbloms gränd 42,Hovsjö,2,0,0,0,1,0,59.17744,17.600343,true,false
 15234,"Coop Forum, Värmdö marknad",Stockholms län,Värmdö,Gustavsbergsvägen,Gustavsberg,4,6,1,3,1,0,59.308838,18.383525,true,false
 15243,Molkom; grusplanen,Värmlands län,Karlstad,Stationsgatan/Muffgatan,Molkom,4,4,1,3,1,0,59.606222,13.736067,false,false
 15253,Hagaparkeringen,Dalarnas län,Malung-Sälen,,Malung,2,1,1,1,1,0,60.682498,13.715957,true,false
@@ -4838,7 +4837,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17623,Svedjan,Dalarnas län,Hedemora,Korsning Brunnavägen/Bärstigen,Hedemora,2,1,1,1,1,0,60.26666,15.97000,false,false
 17624,Thorolfsvägen/Myckelbyvägen,Dalarnas län,Malung-Sälen,Thorolfsvägen,Malung,4,1,1,1,1,0,60.67611,13.72833,false,false
 17626,Skärgårdens kanotcenter,Stockholms län,Vaxholm,Resrövägen 10,Vaxholm,2,0,0,0,0,0,59.41722,18.31250,false,false
-17634,Klockarvägen mot Scaniarinken,Stockholms län,Södertälje,Klockarvägen mot Scaniarinken,Södertälje,4,4,2,2,2,0,59.19194,17.57222,false,false
 17635,"Sellnäs, Gamla idrottsplatsen",Dalarnas län,Borlänge,Sör Sellnäs ,Sör Sellnäs,2,3,1,2,1,0,60.41333,15.38277,false,false
 17636,Styrmansgatan,Gävleborgs län,Gävle,Styrmansgatan/Femte Tvärgatan,Gävle,2,1,1,1,1,0,60.67527,17.17027,false,false
 17637,Östra vägen,Kronobergs län,Uppvidinge,Östra vägen,Åseda,4,3,1,3,1,0,57.17194,15.36027,false,false
