@@ -610,7 +610,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3637,Mörbylånga Gamla sockerbruket ,Kalmar län,Mörbylånga,Gamla sockerbruket,Mörbylånga,6,3,1,3,1,0,56.527037,16.387482,true,false
 3638,Bakom Överskottsbolaget,Kalmar län,Mörbylånga,,Ölands skogsby,2,2,1,2,1,0,56.629458,16.515148,true,false
 3698,Bergsjö G:a idrottsplatsen,Gävleborgs län,Nordanstig,Skolvägen,Bergsjö,4,4,1,2,1,0,61.983803,17.057818,false,false
-3699,Gnarps Skola,Gävleborgs län,Nordanstig,Södra Vägen/Bergevägen,Gnarp,2,3,1,1,1,0,62.053068,17.2432,false,false
+3699,Gnarps Skola,Gävleborgs län,Nordanstig,Södra Vägen/Bergevägen,Gnarp,2,3,1,2,1,0,62.053068,17.2432,false,false
 3700,Harmånger Centrum,Gävleborgs län,Nordanstig,Centrum,Harmånger,2,3,1,1,1,0,61.928848,17.21881,false,false
 3701,Hassela Centrum,Gävleborgs län,Nordanstig,Korsning Fribergsvägen/Ringvägen,Hassela,2,2,1,1,1,0,62.108505,16.712815,false,false
 3702,Ilsbo ICA,Gävleborgs län,Nordanstig,Kyrkvägen,Ilsbo,2,2,1,1,1,0,61.856467,17.049842,false,false
@@ -2242,7 +2242,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10266,Strandvägen,Stockholms län,Stockholm,Strandvägen,Östermalm,2,2,1,1,1,0,59.33138,18.089225,true,false
 10268,Runebergsgatan 1,Stockholms län,Stockholm, Birger Jarlsgatan 52,Östermalm,2,3,1,1,1,0,59.340907,18.06617,false,false
 10273,Korsning Kampementsgatan/Värtavägen,Stockholms län,Stockholm, Kampementsgatan 2,Östermalm,2,3,1,1,1,0,59.346435,18.102548,true,false
-10278,Erik Dahlbergsgatan 43,Stockholms län,Stockholm, ,Östermalm,2,0,0,0,1,0,59.344957,18.09305,false,false
+10278,Erik Dahlbergsgatan 43,Stockholms län,Stockholm, ,Östermalm,2,4,1,1,1,0,59.344957,18.09305,false,false
 10285,"Gunnarn, Konsum",Västerbottens län,Storuman,Gubbträskvägen 2,Gunnarn,2,3,1,1,1,0,65.006313,17.678328,false,false
 10286,"Hemavan, Avloppsreningsverket",Västerbottens län,Storuman,Älvstigen,Hemavan,6,4,1,2,1,0,65.814952,15.081113,false,false
 10287,"Slussfors, Slussfors Boa",Västerbottens län,Storuman,Skogsvägen 2,Slussfors,2,3,1,2,1,0,65.43083,16.24806,false,false
@@ -3890,7 +3890,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15719,Frejgatan,Stockholms län,Stockholm,Frejgatan  61-63,Norrmalm,2,4,1,1,1,0,59.34547,18.049795,true,false
 15721,Solleftegatan,Stockholms län,Stockholm,Solleftegatan  5-7,Hässelby-Vällingby,2,3,1,1,1,0,59.35811,17.888265,true,false
 15723,Vindeln ÅVC,Västerbottens län,Vindeln,Lidbacken,Vindeln,2,4,1,4,2,0,64.176378,19.724347,false,false
-15724,Vännäs utanför ÅVC,Västerbottens län,Vännäs,Starrberget,Vännäs,2,4,1,4,2,0,63.935022,19.773357,false,false
+15724,Vännäs utanför ÅVC,Västerbottens län,Vännäs,Starrberget,Vännäs,2,5,1,4,2,0,63.935022,19.773357,false,false
 15726,Boliden ÅVC,Västerbottens län,Skellefteå,Finnforsvägen,Boliden ,2,3,1,1,0,0,64.861462,20.388315,false,false
 15727,Burträsk ÅVC,Västerbottens län,Skellefteå,Svarvargatan,Burträsk,2,2,1,1,0,0,64.51313,20.624787,true,false
 15728,Byske ÅVC,Västerbottens län,Skellefteå,Maskingatan 14,Byske,2,2,1,1,0,0,64.947213,21.18632,false,false
@@ -4548,7 +4548,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17110,Norrsätra verksamhetsområde,Stockholms län,Sollentuna,Bergväggenvägen 1,Norrsätra,2,2,1,2,1,0,59.463958,17.977455,false,true
 17113,"Svalsta, Iduns väg",Södermanlands län,Nyköping,Iduns väg ,Nyköping,2,2,1,1,1,0,58.743153,16.863403,false,false
 17115,Gruvgärdets återvinningscentral,Dalarnas län,Avesta,Lastgatan 6,Krylbo,6,3,1,3,1,0,60.118278,16.208133,false,false
-17116,ÅVC Flygstaden,Kalmar län,Kalmar,Logistikvägen 11,Kalmar,5,4,0,4,1,0,56.673628,16.269865,false,false
+17116,ÅVC Flygstaden,Kalmar län,Kalmar,Logistikvägen 11,Kalmar,6,4,0,4,1,0,56.673628,16.269865,false,false
 17122,Ängsholmsgränd; vid vändplanen,Stockholms län,Stockholm,Ängsholmsgränd 63,Skärholmen,2,1,1,1,1,0,59.275453,17.882542,false,false
 17124,Forssåvägen 6 Näsviken,Gävleborgs län,Hudiksvall,Forssåvägen 6 Näsviken,Näsviken,2,2,1,1,1,0,61.75500,16.86806,false,false
 17126,Skonbergavägen (Hackefors),Östergötlands län,Linköping,Skonbergavägen ,Linköping,2,2,1,1,1,0,58.389772,15.69977,false,false
