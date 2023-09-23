@@ -610,7 +610,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3637,Mörbylånga Gamla sockerbruket ,Kalmar län,Mörbylånga,Gamla sockerbruket,Mörbylånga,6,3,1,3,1,0,56.527037,16.387482,true,false
 3638,Bakom Överskottsbolaget,Kalmar län,Mörbylånga,,Ölands skogsby,2,2,1,2,1,0,56.629458,16.515148,true,false
 3698,Bergsjö G:a idrottsplatsen,Gävleborgs län,Nordanstig,Skolvägen,Bergsjö,4,4,1,2,1,0,61.983803,17.057818,false,false
-3699,Gnarps Skola,Gävleborgs län,Nordanstig,Södra Vägen/Bergevägen,Gnarp,2,3,1,2,1,0,62.053068,17.2432,false,false
+3699,Gnarps Skola,Gävleborgs län,Nordanstig,Södra Vägen/Bergevägen,Gnarp,2,3,1,1,1,0,62.053068,17.2432,false,false
 3700,Harmånger Centrum,Gävleborgs län,Nordanstig,Centrum,Harmånger,2,3,1,1,1,0,61.928848,17.21881,false,false
 3701,Hassela Centrum,Gävleborgs län,Nordanstig,Korsning Fribergsvägen/Ringvägen,Hassela,2,2,1,1,1,0,62.108505,16.712815,false,false
 3702,Ilsbo ICA,Gävleborgs län,Nordanstig,Kyrkvägen,Ilsbo,2,2,1,1,1,0,61.856467,17.049842,false,false
@@ -1110,7 +1110,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7538,Torbjörntorp,Västra Götalands län,Falköping, ,Torbjörntorp,2,1,1,2,1,0,58.209703,13.607308,true,false
 7539,Korsningen,Västra Götalands län,Falköping, Gamla Falköpingsvägen,Valtorp,2,0,0,0,0,0,58.22750,13.64555,false,false
 7540,Samlingslokalen,Västra Götalands län,Falköping, ,Vartofta,2,2,1,2,1,0,58.099552,13.63171,false,false
-7541,Industrigatan,Västra Götalands län,Falköping,,Åsarp,2,2,1,2,1,0,58.024425,13.569133,true,false
+7541,Industrigatan,Västra Götalands län,Falköping,,Åsarp,3,2,1,2,1,0,58.024425,13.569133,true,false
 7542,Gudhem,Västra Götalands län,Falköping, Torbjörntorpsvägen,Gudhem,2,1,1,1,1,0,58.225728,13.567472,true,false
 7543,"Aspebodgårdens p-plats, sockenstugan",Dalarnas län,Falun, ,Aspeboda,2,1,1,1,1,0,60.55753,15.497997,true,false
 7544,"Bussterminalen, Bjursås",Dalarnas län,Falun,Bjursåsvägen,Bjursås,2,2,1,1,1,0,60.734637,15.438673,false,false
@@ -1845,7 +1845,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9272,p-plats,Östergötlands län,Norrköping,Skogvaktaregatan,Eneby,2,1,1,1,1,0,58.607003,16.144977,true,false
 9283,City Gross,Östergötlands län,Norrköping,Malmgatan 41,Ingelsta,2,2,1,1,1,0,58.617513,16.172838,false,false
 9284,ICA Maxi,Östergötlands län,Norrköping,Koppargatan,Ingelsta,4,2,1,1,1,0,58.620332,16.15647,true,false
-9285,Coop Forum,Östergötlands län,Norrköping,Blygatan,Ingelsta,2,2,1,1,1,0,58.61694,16.16222,false,false
+9285,Coop Forum,Östergötlands län,Norrköping,Blygatan,Ingelsta,2,0,0,0,1,0,58.61694,16.16222,false,false
 9286,P-plats f.d. affären,Östergötlands län,Norrköping,Jurslavägen,Jursla,2,2,1,1,1,0,58.654763,16.162125,true,false
 9289,Torsten Fogelqvist Gata,Östergötlands län,Norrköping,Torsten Fogelqvist Gata 120,Klockaretorpet,2,1,1,1,1,0,58.577083,16.13065,true,false
 9293,Resecentrum,Östergötlands län,Norrköping,Sjöviksvägen,Krokek,4,3,1,2,1,0,58.67265,16.363167,true,false
@@ -2592,7 +2592,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11100,Ekdungen,Östergötlands län,Vadstena,Sågarevägen,Borghamn,2,1,1,1,1,0,58.381932,14.697607,true,false
 11107,Cirkusplatsen,Östergötlands län,Vadstena,Pilgrimsvägen/Trastvägen,Vadstena,3,2,1,1,1,0,58.444597,14.90375,false,false
 11109,Utanför nya ÅVC Tegellöten,Östergötlands län,Vadstena,Tegellöten 107,Vadstena,4,2,1,1,1,0,58.457965,14.933858,false,false
-11111,"Busstorget, bakom affären",Östergötlands län,Valdemarsvik,Fyruddsvägen,Gryt,4,2,1,2,1,0,58.187235,16.802563,false,false
+11111,"Busstorget, bakom affären",Östergötlands län,Valdemarsvik,Fyruddsvägen,Gryt,4,1,1,2,1,0,58.187235,16.802563,false,false
 11118,Brottby Pendlarparkering,Stockholms län,Vallentuna,Lindvägen,Brottby,3,3,1,2,1,0,59.560508,18.228172,true,true
 11120,Centrumparkeringen,Stockholms län,Vallentuna,Vikingavägen / Banvägen ,Vallentuna,4,5,1,3,1,0,59.535597,18.08003,true,true
 11129,Bakom ICA,Västra Götalands län,Vara,Torggatan,Kvänum,2,2,1,1,1,0,58.300675,13.188253,true,false
@@ -3796,7 +3796,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15569,Kretsloppscentralen i Petterboda (ÅVC),Stockholms län,Tyresö,Strömfallsvägen 73,Tyresö,4,3,1,3,3,0,59.245412,18.250238,false,false
 15570,Brunna kretsloppscentral (ÅVC),Stockholms län,Upplands-Bro,Energivägen 10,Kungsängen,4,2,1,1,1,0,59.510125,17.744308,false,false
 15571,Skällsta kretsloppscentral (ÅVC),Stockholms län,Upplands-Bro,Ullevivägen 6,Bro,3,1,1,1,1,0,59.52417,17.62389,false,false
-15575,Återbruket Sänkmossen (ÅVC),Västmanlands län,Fagersta,Sänkmossevägen,Fagersta,4,1,1,2,2,0,59.993173,15.85586,false,false
 15576,Bjursås (ÅVC),Dalarnas län,Falun,Savoyväögen 5 (Bakom OK/Q8),Bjursås,2,1,1,1,1,0,60.725735,15.443355,false,false
 15577,Dala Floda (ÅVC),Dalarnas län,Gagnef,Stora vägen,Dala Floda,2,1,1,2,1,0,60.50444,14.78528,false,false
 15578,Hagalund (ÅVC),Gävleborgs län,Gävle,Norrsundsvägen,Hamrångefjärden,2,1,2,4,1,0,60.91278,17.06917,true,false
@@ -4616,7 +4615,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17238,Stora Coop Tomtebo,Västerbottens län,Umeå,Mineralvägen 7,Umeå,2,3,2,2,1,0,63.81111,20.33139,false,false
 17239,"Ernst Torulfsgatan,Vidkärr",Västra Götalands län,Göteborg,Ernst Torulfsgatan 2,Vidkärr,2,3,1,2,1,0,57.72222,12.02611,true,false
 17246,"Må ÅVC, utanför grindarna",Västernorrlands län,Örnsköldsvik,Returvägen 9,Örnsköldsvik,6,4,2,4,2,0,63.30222,18.76194,false,false
-17250,Parkeringen Idrottsplatsen,Stockholms län,Upplands-Bro,Västra Rydsvägen,Kungsängen,2,0,0,0,1,0,59.49296,17.742368,true,false
+17250,Parkeringen Idrottsplatsen,Stockholms län,Upplands-Bro,Västra Rydsvägen,Kungsängen,2,1,1,1,1,0,59.49296,17.742368,true,false
 17251,ICA MAXI Stormarknad,Hallands län,Halmstad,Pilefeldtsgatan 54,Halmstad,2,4,1,3,1,0,56.66250,12.87722,true,false
 17252,Handelsplats Storlien,Jämtlands län,Åre,Vintergatan 1,Storlien,2,2,1,1,1,0,63.311577,12.107482,true,false
 17254,Åkarp,Skåne län,Burlöv,Lervägen ,Åkarp,2,2,1,2,1,0,55.656783,13.100905,false,false
