@@ -1097,7 +1097,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7518,Vinbergs samhälle,Hallands län,Falkenberg,Idrottshallen,Vinberg,2,1,1,1,1,0,56.947453,12.545477,true,false
 7519,Årstad,Hallands län,Falkenberg,Skolan (mittemot),Årstad,2,1,1,1,1,0,56.914748,12.675332,false,false
 7521,Ätran,Hallands län,Falkenberg,"Timmervägen, SKAB:s grindar",Ätran,2,2,1,1,1,0,57.121672,12.9429,true,false
-7522,Borgunda,Västra Götalands län,Falköping, ,Borgunda,2,1,1,2,1,0,58.292248,13.799145,true,false
+7522,Borgunda,Västra Götalands län,Falköping, ,Borgunda,3,1,1,2,1,0,58.292248,13.799145,true,false
 7523,Tempo Tranan P-plats,Västra Götalands län,Falköping,Falköpingsvägen,Broddetorp,2,1,1,2,1,0,58.306013,13.605355,true,false
 7524,"Bergsliden, öster",Västra Götalands län,Falköping,Danska vägen,Falköping,2,2,1,2,1,0,58.184587,13.554522,true,false
 7527,Vid Willys,Västra Götalands län,Falköping,Marknadsgatan,Falköping,2,2,1,2,1,0,58.162692,13.559767,true,false
@@ -1110,7 +1110,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7538,Torbjörntorp,Västra Götalands län,Falköping, ,Torbjörntorp,2,1,1,2,1,0,58.209703,13.607308,true,false
 7539,Korsningen,Västra Götalands län,Falköping, Gamla Falköpingsvägen,Valtorp,2,0,0,0,0,0,58.22750,13.64555,false,false
 7540,Samlingslokalen,Västra Götalands län,Falköping, ,Vartofta,2,2,1,2,1,0,58.099552,13.63171,false,false
-7541,Industrigatan,Västra Götalands län,Falköping,,Åsarp,3,2,1,2,1,0,58.024425,13.569133,true,false
+7541,Industrigatan,Västra Götalands län,Falköping,,Åsarp,4,2,1,2,1,0,58.024425,13.569133,true,false
 7542,Gudhem,Västra Götalands län,Falköping, Torbjörntorpsvägen,Gudhem,2,1,1,1,1,0,58.225728,13.567472,true,false
 7543,"Aspebodgårdens p-plats, sockenstugan",Dalarnas län,Falun, ,Aspeboda,2,1,1,1,1,0,60.55753,15.497997,true,false
 7544,"Bussterminalen, Bjursås",Dalarnas län,Falun,Bjursåsvägen,Bjursås,2,2,1,1,1,0,60.734637,15.438673,false,false
@@ -2592,7 +2592,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11100,Ekdungen,Östergötlands län,Vadstena,Sågarevägen,Borghamn,2,1,1,1,1,0,58.381932,14.697607,true,false
 11107,Cirkusplatsen,Östergötlands län,Vadstena,Pilgrimsvägen/Trastvägen,Vadstena,3,2,1,1,1,0,58.444597,14.90375,false,false
 11109,Utanför nya ÅVC Tegellöten,Östergötlands län,Vadstena,Tegellöten 107,Vadstena,4,2,1,1,1,0,58.457965,14.933858,false,false
-11111,"Busstorget, bakom affären",Östergötlands län,Valdemarsvik,Fyruddsvägen,Gryt,4,1,1,2,1,0,58.187235,16.802563,false,false
+11111,"Busstorget, bakom affären",Östergötlands län,Valdemarsvik,Fyruddsvägen,Gryt,4,0,0,0,1,0,58.187235,16.802563,false,false
 11118,Brottby Pendlarparkering,Stockholms län,Vallentuna,Lindvägen,Brottby,3,3,1,2,1,0,59.560508,18.228172,true,true
 11120,Centrumparkeringen,Stockholms län,Vallentuna,Vikingavägen / Banvägen ,Vallentuna,4,5,1,3,1,0,59.535597,18.08003,true,true
 11129,Bakom ICA,Västra Götalands län,Vara,Torggatan,Kvänum,2,2,1,1,1,0,58.300675,13.188253,true,false
@@ -3523,7 +3523,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14855,Skörby Skog,Uppsala län,Håbo,Skörbyleden/Bergsleden,Bålsta,2,2,1,1,1,0,59.56998,17.487528,true,false
 14856,Östhammar  (ÅVC),Uppsala län,Östhammar,Energivägen 12,Östhammar,3,2,1,2,2,0,60.250095,18.355302,false,false
 14857,Södra Industriområdet  (ÅVC),Uppsala län,Östhammar,,Alunda,2,5,1,2,1,0,60.065113,18.06121,false,false
-14858,Väddika avfallsanläggning (ÅVC),Uppsala län,Östhammar,,Hökhuvud,3,1,1,1,1,0,60.201097,18.237017,false,false
+14858,Väddika avfallsanläggning (ÅVC),Uppsala län,Östhammar,"Väddika 310, Gimo",Hökhuvud,3,1,1,1,1,0,60.201097,18.237017,false,false
 14859,"Ersmark, Uno X",Västerbottens län,Umeå,Söndagsvägen 45,Umeå,2,3,1,1,1,0,63.892883,20.313412,false,false
 14866,Mc Donalds,Skåne län,Svedala,Företagsgatan,Svedala,2,1,1,1,1,0,55.516183,13.245212,true,false
 14867,"Ljungdalen, Brandstationen",Jämtlands län,Berg,Ljungdalen 133,Ljungdalen,2,3,1,2,1,0,62.851602,12.798907,true,false
