@@ -1673,7 +1673,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8783,Fd Konsum,Örebro län,Laxå,Skolgatan 20,Laxå,2,3,1,2,1,0,58.984422,14.617652,true,false
 8784,P-plats Linnéagatan,Örebro län,Laxå,Linnéagatan,Laxå,2,3,1,3,1,0,58.978107,14.624322,true,false
 8786,Vid infarten till Stugbyn,Örebro län,Laxå,,Tived,2,1,1,1,1,0,58.773417,14.532782,true,false
-8788,Utanför ÅVC,Örebro län,Lekeberg,Tegelslagaregatan,Fjugesta,4,3,2,4,3,0,59.171792,14.880048,true,false
+8788,Utanför ÅVC,Örebro län,Lekeberg,Tegelslagaregatan,Fjugesta,3,2,1,2,3,0,59.171792,14.880048,true,false
 8796,Floda Stationsvägen centrum,Västra Götalands län,Lerum,Stationsvägen,Floda,5,5,1,2,1,0,57.808183,12.359017,true,false
 8798,Gråbo Förboparkeringen Segerstadsvägen,Västra Götalands län,Lerum,Segerstadsvägen,Gråbo,2,1,1,1,1,0,57.839785,12.301087,false,false
 8802,Lerum Hallegårdsvägen Höjden,Västra Götalands län,Lerum,"Hallegårdsvägen, Höjden",Lerum,2,1,1,1,1,0,57.782768,12.285947,true,false
@@ -4520,7 +4520,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17068,Sköndalsvägen; mittemot nr 88,Stockholms län,Stockholm,Sköndalsvägen,Farsta,2,2,1,1,1,0,59.254473,18.11566,false,false
 17069,Vattravägen; planen vid järnvägen,Stockholms län,Botkyrka,Vattravägen/Segersjövägen,Uttran,2,4,1,2,1,0,59.197272,17.800427,true,false
 17070,Smörslottsgatan 4  parkering,Västra Götalands län,Göteborg,Smörslätten 14-16 ,Björkekärr,2,3,1,2,1,0,57.721015,12.059078,true,false
-17071,Vändplanen,Västra Götalands län,Vara,Sportgatan ,St Levene,4,2,1,1,1,0,58.32639,12.92639,false,false
+17071,Vändplanen,Västra Götalands län,Vara,Sportgatan ,St Levene,3,2,1,1,1,0,58.32639,12.92639,false,false
 17072,Kyrkogatan 28,Östergötlands län,Mjölby,Kyrkogatan 28,Mjölby,2,2,1,1,1,0,58.319615,15.128832,true,false
 17074,"Uppåkravallen, P-plats",Skåne län,Staffanstorp,Hökplanen,"Hjärup, Staffanstorp",2,3,1,2,1,0,55.667567,13.154175,false,false
 17075,"Skepptuna, vid bygdegården",Stockholms län,Sigtuna,Skepptunavägen (?),Skepptuna,2,1,1,1,1,0,59.70611,18.11000,false,false
@@ -4688,7 +4688,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17372,Kastmansgatan (Vågen),Kalmar län,Torsås,Kastmansgatan 100,Bergkvara,2,2,1,1,1,0,56.386198,16.081495,true,false
 17373,Skolhusvägen (Stora Herrestad),Skåne län,Ystad,Skolhusvägen,Ystad,2,1,1,1,1,0,55.472573,13.87382,true,false
 17377,Östberga Återvinningscentral,Stockholms län,Stockholm,Bussens väg,Enskede,4,0,0,2,1,0,59.285977,18.046305,false,false
-17378,Vantörs återvinningcentral (Utanför),Stockholms län,Stockholm,Kvicksundsvägen,Bandhagen,2,0,0,2,1,0,59.257768,18.058253,false,false
 17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,5,2,1,2,1,0,59.348148,17.94994,false,false
 17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,3,4,1,3,1,0,59.386962,17.792227,false,false
 17381,Överlida,Västra Götalands län,Svenljunga,Hallavägen 6,Överlida,2,1,1,2,0,0,57.35083,12.89583,false,false
