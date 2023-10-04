@@ -87948,6 +87948,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 70293,
+        "avs": "ÅVS inne på ÅVC Vantör",
+        "lan": "Stockholms län",
+        "kommun": "Stockholm",
+        "adress": "Kvicksunsvägen 14A",
+        "ort": "Bandhagen",
+        "glas": "2",
+        "kartong": "0",
+        "metall": "0",
+        "blandplast": "2",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "59.25722",
+        "longitude": "18.05722",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 99001,
         "avs": "Coop Forum",
         "lan": "Kalmar län",
