@@ -1845,7 +1845,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9272,p-plats,Östergötlands län,Norrköping,Skogvaktaregatan,Eneby,2,1,1,1,1,0,58.607003,16.144977,true,false
 9283,City Gross,Östergötlands län,Norrköping,Malmgatan 41,Ingelsta,2,2,1,1,1,0,58.617513,16.172838,false,false
 9284,ICA Maxi,Östergötlands län,Norrköping,Koppargatan,Ingelsta,4,2,1,1,1,0,58.620332,16.15647,true,false
-9285,Coop Forum,Östergötlands län,Norrköping,Blygatan,Ingelsta,2,0,0,0,1,0,58.61694,16.16222,false,false
 9286,P-plats f.d. affären,Östergötlands län,Norrköping,Jurslavägen,Jursla,2,2,1,1,1,0,58.654763,16.162125,true,false
 9289,Torsten Fogelqvist Gata,Östergötlands län,Norrköping,Torsten Fogelqvist Gata 120,Klockaretorpet,2,1,1,1,1,0,58.577083,16.13065,true,false
 9293,Resecentrum,Östergötlands län,Norrköping,Sjöviksvägen,Krokek,4,3,1,2,1,0,58.67265,16.363167,true,false
@@ -3350,7 +3349,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14101,"Tallnäs, Sjösvedan",Västernorrlands län,Timrå,Fagerviksvägen,Sörberge,2,1,1,1,1,0,62.499978,17.36354,false,false
 14113,"Östra Utfartsvägen, vid Brandstationen (ÅVC)",Skåne län,Tomelilla,Gladanleden,Tomelilla,4,2,0,2,1,0,55.54733,13.970172,false,false
 14114,"Torvalla, Storfjällsvägen/Tvärågränd",Jämtlands län,Östersund,,Östersund,2,1,1,1,1,0,63.148893,14.726592,false,false
-14115,Norraby (ÅVC),Jönköpings län,Tranås,Svampgatan 4,Tranås,2,2,1,2,1,0,58.054197,14.989035,false,false
+14115,Norraby (ÅVC),Jönköpings län,Tranås,Svampgatan 4,Tranås,4,2,1,2,1,0,58.054197,14.989035,false,false
 14133,"Stenhagen, ICA Maxi",Uppsala län,Uppsala,Herrhagsvägen,Uppsala,2,2,1,1,1,0,59.849862,17.559078,true,false
 14140,"Vårgårda, Kempegatan",Västra Götalands län,Vårgårda,Kempegatan,Vårgårda,2,1,1,2,1,0,58.02999,12.814143,false,false
 14163,Ovanheden,Dalarnas län,Vansbro,,Äppelbo,2,2,1,1,1,0,60.480437,14.00583,true,false
@@ -4869,6 +4868,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17697,Mörby Centrum P- Söder,Stockholms län,Danderyd,Mörby Centrum,Danderyd,2,3,1,2,1,0,59.39638,18.03777,false,false
 17702,Norrgrindsvägen/ Råbystigen,Stockholms län,Upplands-Bro,Norrgrindsvägen 2,Bro,3,3,1,2,1,0,59.51638,17.64083,false,false
 17707,Ekhammar IP,Stockholms län,Upplands-Bro,Bygdegårdsvägen 28,Kungsängen,3,3,1,2,1,0,59.47972,17.74138,false,false
+17711,Vretalundsvägen 2,Örebro län,Lekeberg,Vretalundsvägen 2,Vintrosa,2,2,1,2,1,0,59.23694,14.90166,false,false
 17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,2,2,1,2,1,0,59.30916,18.37972,false,false
 17719,ÅVC Fyrislund,Uppsala län,Uppsala,Arkgatan 14,Uppsala,4,4,1,6,0,0,59.85583,17.71833,false,false
 17720,FLOBY ÅVC Tillfällig,Västra Götalands län,Falköping,"Nygrannesgården, SörbyKorsgården 1",Floby,2,2,1,2,1,0,58.13527,13.36833,false,false
