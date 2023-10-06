@@ -914,7 +914,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7043,"Jäckvik, Vattenverket",Norrbottens län,Arjeplog,Silveruddsvägen,Jäckvik,2,3,1,2,1,0,66.391207,16.964265,false,false
 7044,"Laisvall, Br. Sundströms",Norrbottens län,Arjeplog,Gruvvägen 15,Laisvall,2,3,1,2,1,0,66.1354,17.172298,false,false
 7046,"Slagnäs, Fotbollsplan",Norrbottens län,Arjeplog,,Slagnäs,2,3,1,2,1,0,65.581755,18.165162,false,false
-7047,"Abborrträsk, Folkets Hus",Norrbottens län,Arvidsjaur,Vid Tjockuddsvägen.,Abborrträsk,2,2,1,1,1,0,65.447488,19.383833,false,false
+7047,"Abborrträsk, Folkets Hus",Norrbottens län,Arvidsjaur,Vid Tjockuddsvägen.,Abborrträsk,3,2,1,1,1,0,65.447488,19.383833,false,false
 7052,Glommersträsk Isladan,Norrbottens län,Arvidsjaur,Ängsvägen,Glommersträsk,2,3,1,1,2,0,65.260133,19.638545,true,false
 7053,Fd. Lauker Handel,Norrbottens län,Arvidsjaur,Lauker 43,Arvidsjaur,2,1,1,1,1,0,65.652467,19.804038,false,false
 7054,Moskosel Brandstationen,Norrbottens län,Arvidsjaur,Abmorvägen 45,Moskosel,2,5,1,3,1,0,65.8796,19.439872,true,false
@@ -1673,7 +1673,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8783,Fd Konsum,Örebro län,Laxå,Skolgatan 20,Laxå,2,3,1,2,1,0,58.984422,14.617652,true,false
 8784,P-plats Linnéagatan,Örebro län,Laxå,Linnéagatan,Laxå,2,3,1,3,1,0,58.978107,14.624322,true,false
 8786,Vid infarten till Stugbyn,Örebro län,Laxå,,Tived,2,1,1,1,1,0,58.773417,14.532782,true,false
-8788,Utanför ÅVC,Örebro län,Lekeberg,Tegelslagaregatan,Fjugesta,3,2,1,2,3,0,59.171792,14.880048,true,false
+8788,Utanför ÅVC,Örebro län,Lekeberg,Tegelslagaregatan,Fjugesta,2,2,1,2,3,0,59.171792,14.880048,true,false
 8796,Floda Stationsvägen centrum,Västra Götalands län,Lerum,Stationsvägen,Floda,5,5,1,2,1,0,57.808183,12.359017,true,false
 8798,Gråbo Förboparkeringen Segerstadsvägen,Västra Götalands län,Lerum,Segerstadsvägen,Gråbo,2,1,1,1,1,0,57.839785,12.301087,false,false
 8802,Lerum Hallegårdsvägen Höjden,Västra Götalands län,Lerum,"Hallegårdsvägen, Höjden",Lerum,2,1,1,1,1,0,57.782768,12.285947,true,false
@@ -2093,7 +2093,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9899,Parkeringen Båtsmansvägen,Stockholms län,Sollentuna,Båtsmansvägen/Gustavsbergsleden,Vaxmora,0,1,0,0,1,0,59.45923,17.94942,false,true
 9903,Flintlåsvägen/Lodvägen,Stockholms län,Sollentuna,,Edsberg,2,1,0,0,1,0,59.448297,17.964977,true,true
 9906,Bussvändplan,Stockholms län,Sollentuna,Porsvägen,Vaxmora,2,2,1,1,1,0,59.459715,17.942822,true,true
-9907,Rudbecks väg /Skoldagsväg,Stockholms län,Sollentuna,,Edsberg,2,1,1,1,1,0,59.441943,17.968825,true,true
+9907,Rudbecks väg /Skoldagsväg,Stockholms län,Sollentuna,,Edsberg,2,2,1,1,1,0,59.441943,17.968825,true,true
 9910,Skogstorpsvägen/Hedvigsdalsvägen,Stockholms län,Sollentuna,,Helenelund,5,3,1,1,1,0,59.40889,17.975143,true,true
 9912,Simhallsparkeringen Sollentunavallen,Stockholms län,Sollentuna,Stubbhagsvägen,Häggvik,2,2,1,1,1,0,59.441893,17.951153,true,true
 9914,Vid järnvägen Linnésvägs norra ände (Skälby),Stockholms län,Sollentuna,Linnésväg / Smedjevägen,Häggvik,2,1,1,1,1,0,59.441732,17.936305,false,true
@@ -2966,7 +2966,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12086,P-plats järnvägsbron (centrum),Södermanlands län,Vingåker,,Vingåker,2,2,1,2,1,0,59.042125,15.871143,true,false
 12090,"Vårgårda, Marknadsplatsen",Västra Götalands län,Vårgårda,Centrumgatan,Vårgårda,4,3,1,2,1,0,58.03672,12.809438,true,false
 12091,"Vårgårda, Centrumhuset",Västra Götalands län,Vårgårda,Lilla Torggatan,Vårgårda,2,2,1,2,1,0,58.032628,12.805897,true,false
-12092,Arvidsjaur Odlingsgatan,Norrbottens län,Arvidsjaur,Odlingsgatan,Arvidsjaur,2,3,1,1,1,0,65.597628,19.202702,true,false
+12092,Arvidsjaur Odlingsgatan,Norrbottens län,Arvidsjaur,Odlingsgatan,Arvidsjaur,3,3,1,1,1,0,65.597628,19.202702,true,false
 12100,Arvidsjaur Kommunhuset,Norrbottens län,Arvidsjaur,Domängatan 8,Arvidsjaur,2,3,1,1,2,0,65.59448,19.17517,true,false
 12101,"Älvsbyn, Brandstationen",Norrbottens län,Älvsbyn,Fluxenvägen 2,Älvsbyn,2,4,1,1,0,0,65.670617,21.008995,true,false
 12102,"Älvsbyn, Västermalmsvägen",Norrbottens län,Älvsbyn,Västermalmsleden,Älvsbyn,2,3,1,1,0,0,65.674837,20.98221,true,false
@@ -3913,7 +3913,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15758,Väpnargatan,Stockholms län,Stockholm,Väpnargatan 4,Östermalm,2,3,1,1,1,0,59.332923,18.078077,false,false
 15759,Sandviksvägen/Lövsta vägen,Stockholms län,Stockholm,Sandviksvägen 155,Hässelby-Vällingby,2,2,1,2,1,0,59.37843,17.81588,true,false
 15760,Björnsongatan  4,Stockholms län,Stockholm,Björnsongatan/ Blackebergsvägen,Bromma,2,3,1,1,1,0,59.343623,17.88898,true,false
-15761,Arvidsjaurs ÅVC,Norrbottens län,Arvidsjaur,Industrivägen,Arvidsjaur,2,1,2,1,1,0,65.60222,19.14583,false,false
+15761,Arvidsjaurs ÅVC,Norrbottens län,Arvidsjaur,Industrivägen,Arvidsjaur,4,1,2,1,1,0,65.60222,19.14583,false,false
 15762,Jokkmokk ÅVC,Norrbottens län,Jokkmokk,Forsnäsvägen 7,Jokkmokk,2,1,1,1,0,0,66.61076,19.850763,false,false
 15763,Porjus ÅVC ,Norrbottens län,Jokkmokk,Lillselet,Lillselet,0,1,0,0,0,0,66.953388,19.799018,false,false
 15767,Österviks ÅVC,Stockholms län,Nacka,"Saltsjöbadsvägen, inf vid Östervik",Saltsjöbaden,2,4,1,2,2,0,59.292232,18.234523,false,false
@@ -4886,6 +4886,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17745,Industrivägen,Norrbottens län,Pajala,Industrivägen 4,Korpilombolo,2,2,1,2,1,0,66.84750,23.06000,false,false
 70290,Verktygsvägen,Skåne län,Landskrona,Verktygsvägen,Asmundtorp,2,2,1,1,1,0,55.88444,12.94694,false,false
 70293,ÅVS inne på ÅVC Vantör,Stockholms län,Stockholm,Kvicksunsvägen 14A,Bandhagen,2,0,0,2,1,0,59.25722,18.05722,false,false
+70295,Ica Supermarket Örbyhus,Uppsala län,Tierp,Bruksvägen,Örbyhus,4,3,1,3,1,0,60.22555,17.70555,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,2,1,1,1,0,56.704957,16.32314,true,false
