@@ -914,7 +914,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7043,"Jäckvik, Vattenverket",Norrbottens län,Arjeplog,Silveruddsvägen,Jäckvik,2,3,1,2,1,0,66.391207,16.964265,false,false
 7044,"Laisvall, Br. Sundströms",Norrbottens län,Arjeplog,Gruvvägen 15,Laisvall,2,3,1,2,1,0,66.1354,17.172298,false,false
 7046,"Slagnäs, Fotbollsplan",Norrbottens län,Arjeplog,,Slagnäs,2,3,1,2,1,0,65.581755,18.165162,false,false
-7047,"Abborrträsk, Folkets Hus",Norrbottens län,Arvidsjaur,Vid Tjockuddsvägen.,Abborrträsk,3,2,1,1,1,0,65.447488,19.383833,false,false
+7047,"Abborrträsk, Folkets Hus",Norrbottens län,Arvidsjaur,Vid Tjockuddsvägen.,Abborrträsk,2,2,1,1,1,0,65.447488,19.383833,false,false
 7052,Glommersträsk Isladan,Norrbottens län,Arvidsjaur,Ängsvägen,Glommersträsk,2,3,1,1,2,0,65.260133,19.638545,true,false
 7053,Fd. Lauker Handel,Norrbottens län,Arvidsjaur,Lauker 43,Arvidsjaur,2,1,1,1,1,0,65.652467,19.804038,false,false
 7054,Moskosel Brandstationen,Norrbottens län,Arvidsjaur,Abmorvägen 45,Moskosel,2,5,1,3,1,0,65.8796,19.439872,true,false
@@ -1632,7 +1632,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8549,Hjälmkrysset,Hallands län,Kungsbacka,Iglakärrsvägen,Hjälm,2,1,1,1,1,0,57.49833,12.16250,true,false
 8550,Älvsåkersgården,Hallands län,Kungsbacka,Älvsåkersgårdsvägen 10,Hjälmared,2,2,1,1,1,0,57.54194,12.14917,true,false
 8552,Kullaviks centrum,Hallands län,Kungsbacka, ,Kullavik,4,3,1,2,1,0,57.54639,11.94583,true,false
-8557,Sjöallén,Hallands län,Kungsbacka,Sjöallén,Kungsbacka,2,1,1,1,1,0,57.48833,12.07306,true,false
+8557,Sjöallén,Hallands län,Kungsbacka,Sjöallén,Kungsbacka,2,2,1,1,1,0,57.48833,12.07306,true,false
 8558,Willys,Hallands län,Kungsbacka,Göteborgsvägen,Kungsbacka,2,3,1,2,1,0,57.51028,12.08222,true,false
 8561,Iseråsskolan,Hallands län,Kungsbacka,Smedvägen,Onsala,3,2,1,1,1,0,57.40667,11.98694,true,false
 8563,Vickans ÅVS,Hallands län,Kungsbacka,"Vickavägen, Pizza Ponde",Onsala,3,2,1,2,1,0,57.42722,12.02889,true,false
@@ -1708,7 +1708,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8854,Lunnarpsv. vid brofästet,Kronobergs län,Ljungby,Lunnarpsvägen,Kånna,2,1,1,1,1,0,56.781882,13.898912,true,false
 8855,"P-plats Torg 13:1, Lagan",Kronobergs län,Ljungby,Parkgatan/Föreningsgatan,Lagan,2,2,1,1,1,0,56.91566,13.986247,false,false
 8856,P-plats vid bensinmacken,Kronobergs län,Ljungby,Unnarydsvägen,Lidhult,4,2,1,1,1,0,56.82741,13.439322,true,false
-8857,ICA Maxi,Kronobergs län,Ljungby,Drottninggatan 36,Ljungby,4,3,1,2,1,0,56.83495,13.945482,true,false
+8857,ICA Maxi,Kronobergs län,Ljungby,Drottninggatan 36,Ljungby,4,2,1,2,1,0,56.83495,13.945482,true,false
 8860,Bredemad avfallsanläggning (ÅVC),Kronobergs län,Ljungby, ,Ljungby,6,4,1,4,1,0,56.862487,13.925273,false,false
 8861,Bensinmacken Ingo,Kronobergs län,Ljungby,Harabergsgatan,Ljungby,2,2,1,1,1,0,56.841327,13.946625,true,false
 8862,Brandstationen/Pingstkyrkan,Kronobergs län,Ljungby,,Tannåker,2,1,1,1,1,0,56.957643,13.775442,true,false
@@ -2083,7 +2083,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9882,Näsåker Bilisten BS,Västernorrlands län,Sollefteå,Storgatan 47,Näsåker,2,2,1,1,0,0,63.44074,16.910255,false,false
 9883,Ramsele ,Västernorrlands län,Sollefteå,Busstationen,Ramsele,4,2,1,1,0,0,63.537265,16.46934,false,false
 9884,Resele Myre IP,Västernorrlands län,Sollefteå,Myre,Resele,2,1,1,1,0,0,63.332957,17.070145,false,false
-9886,Stora Coop,Västernorrlands län,Sollefteå,Storgatan 80,Sollefteå,4,2,1,1,0,0,63.164752,17.27878,false,false
+9886,Stora Coop,Västernorrlands län,Sollefteå,Storgatan 80,Sollefteå,3,2,1,1,0,0,63.164752,17.27878,false,false
 9888,Sollefteå Gärdesgatan,Västernorrlands län,Sollefteå,Gärdesgatan 48,Sollefteå,2,1,1,1,0,0,63.16278,17.26111,false,false
 9891,Sollefteå Nipvallen P,Västernorrlands län,Sollefteå,Nipvallsvägen 2,Sollefteå,2,1,1,1,0,0,63.16569,17.29486,false,false
 9892,Sollefteå Cirkle K,Västernorrlands län,Sollefteå,Långselevägen/Långgatan,Sollefteå,2,2,1,1,0,0,63.171772,17.249168,false,false
@@ -4885,7 +4885,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17743,Kälarne ÅVC,Jämtlands län,Bräcke,Västanedevägen 1,Kälarne,2,1,1,1,1,0,62.98500,16.08583,false,false
 17745,Industrivägen,Norrbottens län,Pajala,Industrivägen 4,Korpilombolo,2,2,1,2,1,0,66.84750,23.06000,false,false
 70290,Verktygsvägen,Skåne län,Landskrona,Verktygsvägen,Asmundtorp,2,2,1,1,1,0,55.88444,12.94694,false,false
-70293,ÅVS inne på ÅVC Vantör,Stockholms län,Stockholm,Kvicksunsvägen 14A,Bandhagen,2,0,0,2,1,0,59.25722,18.05722,false,false
+70293,ÅVS inne på ÅVC Vantör,Stockholms län,Stockholm,Kvicksunsvägen 14A,Bandhagen,2,2,1,2,1,0,59.25722,18.05722,false,false
 70295,Ica Supermarket Örbyhus,Uppsala län,Tierp,Bruksvägen,Örbyhus,4,3,1,3,1,0,60.22555,17.70555,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
