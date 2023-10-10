@@ -264,7 +264,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1470,"Harplinge, Källvägen",Hallands län,Halmstad,Källvägen,Harplinge,2,2,1,1,1,0,56.74449,12.735893,true,false
 1471,"Harplinge, Kvarnliden",Hallands län,Halmstad,Kvarnliden,Harplinge,2,2,1,1,1,0,56.744612,12.725005,true,false
 1472,"Haverdal, Jägarevägen",Hallands län,Halmstad,Jägarevägen,Haverdal,2,2,1,1,1,0,56.72118,12.691248,true,false
-1473,"Haverdal, Klövervägen",Hallands län,Halmstad,Klövervägen,Haverdal,4,6,2,3,2,0,56.729155,12.670737,true,false
+1473,"Haverdal, Klövervägen",Hallands län,Halmstad,Klövervägen,Haverdal,3,6,2,3,2,0,56.729155,12.670737,true,false
 1474,"Haverdal, Sommarvägen",Hallands län,Halmstad,Sommarvägen,Haverdal,2,2,1,1,1,0,56.72108,12.670917,true,false
 1475,"Holm, Gamla Göteborgsvägen",Hallands län,Halmstad,Gamla Göteborgsvägen,Holm,2,3,1,2,1,0,56.733355,12.859832,true,false
 1476,"Johansfors, Draredsvägen",Hallands län,Halmstad,Draredsvägen,Johansfors,2,2,1,1,1,0,56.839308,12.982207,true,false
@@ -2964,7 +2964,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 12084,Riksbyggevägen 13/Björkhagsvägen,Örebro län,Karlskoga,Riksbyggevägen 13,Karlskoga,2,1,1,1,1,0,59.311093,14.505845,false,false
 12085,Hackstavägen 17 (norr),Södermanlands län,Vingåker,,Vingåker,3,2,1,2,1,0,59.056572,15.875522,true,false
 12086,P-plats järnvägsbron (centrum),Södermanlands län,Vingåker,,Vingåker,2,2,1,2,1,0,59.042125,15.871143,true,false
-12090,"Vårgårda, Marknadsplatsen",Västra Götalands län,Vårgårda,Centrumgatan,Vårgårda,4,3,1,2,1,0,58.03672,12.809438,true,false
+12090,"Vårgårda, Marknadsplatsen",Västra Götalands län,Vårgårda,Centrumgatan,Vårgårda,6,3,1,2,1,0,58.03672,12.809438,true,false
 12091,"Vårgårda, Centrumhuset",Västra Götalands län,Vårgårda,Lilla Torggatan,Vårgårda,2,2,1,2,1,0,58.032628,12.805897,true,false
 12092,Arvidsjaur Odlingsgatan,Norrbottens län,Arvidsjaur,Odlingsgatan,Arvidsjaur,3,3,1,1,1,0,65.597628,19.202702,true,false
 12100,Arvidsjaur Kommunhuset,Norrbottens län,Arvidsjaur,Domängatan 8,Arvidsjaur,2,3,1,1,2,0,65.59448,19.17517,true,false
@@ -4387,7 +4387,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16774,Origohuset Hovås centrum,Västra Götalands län,Göteborg,"Billdalsvägen, Brottkärrsmotet",Hovås,3,6,2,3,1,0,57.599392,11.953987,true,false
 16776,Sifferbo Idrottsplan,Dalarnas län,Gagnef,Loksvedsvägen,Sifferbo,2,2,1,1,1,0,60.554872,15.222168,true,false
 16777,Medle Idrottsplats,Västerbottens län,Skellefteå,Medlevägen 167,Medle,2,2,1,2,0,0,64.739122,20.733707,true,false
-16779,Hedeviken ÅVS på ÅVC,Jämtlands län,Härjedalen,,Härjedalen,2,3,1,3,1,0,62.412692,13.611963,false,false
+16779,Hedeviken ÅVS på ÅVC,Jämtlands län,Härjedalen,,Härjedalen,2,2,1,3,1,0,62.412692,13.611963,false,false
 16780,Ica Nära,Östergötlands län,Motala,Industrivägen 2,Fornåsa,2,2,1,1,1,0,58.47750,15.22583,false,false
 16781,Nära Rönninge C/Busstorget,Stockholms län,Salem,Stationsvägen 4A,Rönninge,2,4,1,2,1,0,59.193945,17.751508,true,false
 16782,Vårbergsvägen; nära förskolan Båtholmen,Stockholms län,Stockholm,Vårbergsvägen 64,Skärholmen,2,2,1,2,1,0,59.273573,17.880798,false,false
@@ -4687,6 +4687,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17372,Kastmansgatan (Vågen),Kalmar län,Torsås,Kastmansgatan 100,Bergkvara,2,2,1,1,1,0,56.386198,16.081495,true,false
 17373,Skolhusvägen (Stora Herrestad),Skåne län,Ystad,Skolhusvägen,Ystad,2,1,1,1,1,0,55.472573,13.87382,true,false
 17377,Östberga Återvinningscentral,Stockholms län,Stockholm,Bussens väg,Enskede,4,0,0,2,1,0,59.285977,18.046305,false,false
+17378,Vantörs återvinningcentral (Utanför),Stockholms län,Stockholm,Kvicksundsvägen,Bandhagen,2,2,1,2,1,0,59.257768,18.058253,false,false
 17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,5,2,1,2,1,0,59.348148,17.94994,false,false
 17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,3,4,1,3,1,0,59.386962,17.792227,false,false
 17381,Överlida,Västra Götalands län,Svenljunga,Hallavägen 6,Överlida,2,1,1,2,0,0,57.35083,12.89583,false,false
