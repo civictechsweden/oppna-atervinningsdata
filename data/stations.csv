@@ -477,11 +477,11 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2860,Filsbäck,Västra Götalands län,Lidköping,Uddeholmsvägen,Filsbäck,2,1,1,1,1,0,58.491803,13.250423,true,false
 2861,Framnäs,Västra Götalands län,Lidköping,Framnäs Parkering,Lidköping,3,2,1,1,1,0,58.51159,13.142048,false,false
 2863,Järpås,Västra Götalands län,Lidköping,Fotbollsplanen,Järpås,2,2,1,1,1,0,58.382508,12.976913,false,false
-2866,Lidköping Månsköldsskolan,Västra Götalands län,Lidköping,Linjevägen,Lidköping,2,1,1,1,1,0,58.501893,13.139838,true,false
+2866,Lidköping Månsköldsskolan,Västra Götalands län,Lidköping,Linjevägen,Lidköping,3,1,1,1,1,0,58.501893,13.139838,true,false
 2869,Lidköping Stenhammar,Västra Götalands län,Lidköping,Stenhammars Park,Lidköping,2,2,1,1,1,0,58.534403,13.114888,true,false
 2873,Lidköping Margretelund,Västra Götalands län,Lidköping,,Lidköping,2,2,1,1,1,0,58.488297,13.172307,false,false
 2875,Otterstad,Västra Götalands län,Lidköping,"Granviksvägen, vid skolan",Otterstad,2,1,1,1,1,0,58.65515,13.163355,true,false
-2876,Råda,Västra Götalands län,Lidköping,Karlstorpsvägen ,Råda,2,2,1,1,1,0,58.501998,13.123762,false,false
+2876,Råda,Västra Götalands län,Lidköping,Karlstorpsvägen ,Råda,3,2,1,1,1,0,58.501998,13.123762,false,false
 2878,Tun,Västra Götalands län,Lidköping,Kvarnvägen 8,Tun,2,1,1,1,1,0,58.428847,12.738943,false,false
 2879,"Lidköping, Ulriksdal",Västra Götalands län,Lidköping,Ulriksdalsvägen,Lidköping,2,2,1,1,1,0,58.52369,13.113708,true,false
 2880,Vinninga,Västra Götalands län,Lidköping,,Vinninga,2,1,1,1,1,0,58.452593,13.260457,true,false
@@ -2577,7 +2577,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11069,"Handlarn , Oxsätra",Uppsala län,Uppsala,Oxsätra 29,Oxsätra,2,1,1,1,1,0,60.001825,17.361578,true,false
 11071,"Ramstalund, Reningsverket",Uppsala län,Uppsala,Kyrkängsvägen 4,Uppsala,2,1,1,1,1,0,59.796033,17.442472,true,false
 11072,Räddningstjänsten Skyttorp,Uppsala län,Uppsala,Flisvägen 2,Skyttorp,2,2,1,1,1,0,60.07774,17.739227,true,false
-11078,COOP Forum,Uppsala län,Uppsala,Rapsgatan,Uppsala,2,1,1,1,1,0,59.84604,17.69305,true,false
+11078,COOP Forum,Uppsala län,Uppsala,Rapsgatan,Uppsala,2,2,1,1,1,0,59.84604,17.69305,true,false
 11083,"Flogsta, ICA Supermarket",Uppsala län,Uppsala,Flogstavägen,Uppsala,2,1,1,1,1,0,59.851327,17.587408,true,false
 11086,"Fålhagen, Willys",Uppsala län,Uppsala,Björkgatan 4,Uppsala,2,1,1,1,1,0,59.865138,17.662383,true,false
 11088,"Svamptorget, ICA Norby",Uppsala län,Uppsala,Svamptorgsvägen,Uppsala,2,1,1,1,1,0,59.825468,17.618897,true,false
@@ -3480,7 +3480,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 14768,"Linnarhult, Linnarhultsvägen",Västra Götalands län,Göteborg,Linnarhultsvägen ,Linnarhult,2,3,1,1,1,0,57.776887,12.062378,true,false
 14769,"Västra Palmgrensgatan, Påvelund",Västra Götalands län,Göteborg,Västra Palmgrensgatan 97,Fiskebäck,2,3,1,1,1,0,57.668353,11.87268,true,false
 14770,Yngsjö,Skåne län,Kristianstad,Gamla Byavägen,Yngsjö,2,1,1,1,1,0,55.883762,14.230212,true,false
-14771,P-plats,Skåne län,Kristianstad,Hedentorpsvägen /Alevägen,Kristianstad,2,2,1,1,1,0,56.013425,14.155577,true,false
 14781,"Rudboda, Rudboda Torg vid ICA Nära",Stockholms län,Lidingö,Rudboda Torg,Rudboda,2,2,1,2,1,0,59.375347,18.177858,true,true
 14783,"Östra Rudboda, Elfviksvägen",Stockholms län,Lidingö,Elfviksvägen strax efter Södergarnsvägen,Rudboda,2,2,1,2,1,0,59.37226,18.199262,true,true
 14784,Långedrag p-plats mitt för Talattagatan,Västra Götalands län,Göteborg,Saltholmsgatan,Långedrag,2,4,1,1,1,0,57.667915,11.853908,true,false
@@ -3716,7 +3715,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15445,Braås Mästreda (ÅVC),Kronobergs län,Växjö,ÅVC,Braås,2,1,1,1,1,0,57.0591,15.10559,true,false
 15446,Rottne (ÅVC),Kronobergs län,Växjö,Växjövägen,Rottne,2,1,1,1,1,0,57.04077,14.919827,true,false
 15447,Lammhult (ÅVC),Kronobergs län,Växjö,Asavägen,Lammhult,2,1,1,2,1,0,57.17163,14.628237,true,false
-15448,Ingelstad (ÅVC),Kronobergs län,Växjö,Karlshamnsvägen,Ingelstad,2,2,1,2,1,0,56.73083,14.94583,true,false
+15448,Ingelstad (ÅVC),Kronobergs län,Växjö,Karlshamnsvägen,Ingelstad,2,3,1,4,1,0,56.73083,14.94583,true,false
 15449,Åby (ÅVC),Kronobergs län,Växjö,Västragårdsvägen,Åby,2,1,1,1,1,0,57.024493,14.762722,true,false
 15450,Furuby (ÅVC),Kronobergs län,Växjö,Kalmarvägen,Furuby,2,1,1,1,1,0,56.859008,15.041767,true,false
 15451,Återbruket (ÅVC),Uppsala län,Enköping,Kaptensgatan 21,Enköping,7,5,1,4,1,0,59.628472,17.080493,false,false
@@ -4687,7 +4686,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17377,Östberga Återvinningscentral,Stockholms län,Stockholm,Bussens väg,Enskede,4,0,0,2,1,0,59.285977,18.046305,false,false
 17378,Vantörs återvinningcentral (Utanför),Stockholms län,Stockholm,Kvicksundsvägen,Bandhagen,2,2,1,2,1,0,59.257768,18.058253,false,false
 17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,5,2,1,2,1,0,59.348148,17.94994,false,false
-17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,5,5,2,4,1,0,59.386962,17.792227,false,false
+17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,3,4,2,3,1,0,59.386962,17.792227,false,false
 17381,Överlida,Västra Götalands län,Svenljunga,Hallavägen 6,Överlida,2,1,1,2,0,0,57.35083,12.89583,false,false
 17383,Hamrafjället,Jämtlands län,Härjedalen,Fäbodvägen,Tänndalen,3,3,1,2,1,0,62.57388,12.22416,false,false
 17384,Junsele ÅVC,Västernorrlands län,Sollefteå,Edsbacken 125,Junsele,2,1,1,1,1,0,63.70694,16.79083,false,false
