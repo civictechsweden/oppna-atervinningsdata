@@ -1290,7 +1290,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7837,"Torpa, Helleforsgatan 4",Västra Götalands län,Göteborg,Helleforsgatan 4,Torpa,2,2,1,1,1,0,57.722258,12.036863,true,false
 7838,"Torpa, Torpagatan 20",Västra Götalands län,Göteborg,Torpagatan 20,Torpa,2,3,1,1,1,0,57.717925,12.035927,true,false
 7840,"Torpa, Fräntorpsgatan 8",Västra Götalands län,Göteborg,Fräntorpsgatan 8,Torpa,2,3,1,1,1,0,57.728242,12.051387,true,false
-7841,"Torpa, Hagforsgatan 41",Västra Götalands län,Göteborg,Hagforsgatan 41,Torpa,2,3,1,2,1,0,57.722177,12.042672,true,false
+7841,"Torpa, Hagforsgatan 41",Västra Götalands län,Göteborg,Hagforsgatan 41,Torpa,2,2,1,2,1,0,57.722177,12.042672,true,false
 7842,"Torpa, Uddeholmsgatan 7",Västra Götalands län,Göteborg,Uddeholmsgatan 7,Torpa,2,3,1,1,1,0,57.724957,12.037575,true,false
 7843,"Hjuvik, pumpstation",Västra Götalands län,Göteborg,Hällsviksvägen,Hjuvik,2,3,1,1,1,0,57.706405,11.753003,true,false
 7844,"Nolered, Bildstensgatan 27",Västra Götalands län,Göteborg,Bildstensgatan 27,Nolered,2,3,1,1,1,0,57.72819,11.776082,true,false
@@ -1341,7 +1341,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7920,Tvillingarnas gata 330,Stockholms län,Haninge,Tvillingarnas gata,Brandbergen,2,2,1,1,1,0,59.170632,18.162277,true,false
 7924,Kanalbron,Stockholms län,Haninge, Smådalarövägen,Dalarö,4,9,2,4,2,0,59.137813,18.416523,true,false
 7925,Affären,Stockholms län,Haninge,Tutviksvägen/Gudöbroleden,Gudö,2,5,1,3,1,0,59.210432,18.209228,true,false
-7926,Grindstuvägen/Apelvretsvägen,Stockholms län,Haninge,,Gudö,2,7,1,2,2,0,59.204035,18.201952,true,false
+7926,Grindstuvägen/Apelvretsvägen,Stockholms län,Haninge,,Gudö,2,6,1,3,2,0,59.204035,18.201952,true,false
 7927,P-plats,Stockholms län,Haninge,Örnens väg 58,Handen,2,2,1,2,1,0,59.161237,18.133068,true,false
 7931,ICA Kastanjen,Stockholms län,Haninge,Sleipnervägen 109,Handen,2,4,1,2,1,0,59.163692,18.140595,true,false
 7932,Vändplan,Stockholms län,Haninge,Parkvägen 26,Handen,0,3,1,2,1,0,59.169538,18.146987,true,false
