@@ -592,8 +592,8 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3537,Tuvan,Dalarnas län,Mora,Vasalidsvägen,Mora,2,2,1,1,1,0,61.015478,14.542167,true,false
 3538,"Östensson, Borensberg",Östergötlands län,Motala,Hamnvägen,Borensberg,2,2,1,1,1,0,58.561423,15.277077,false,false
 3539,"Vid ÅVC:n, Borensberg",Östergötlands län,Motala,Tjällmovägen 1,Borensberg,2,2,1,1,3,0,58.568663,15.270542,false,false
-3543,"Norra Hökarvägen, Godegård",Östergötlands län,Motala,,Godegård,2,1,1,1,1,0,58.749152,15.164887,false,false
-3545,"Hockeyrinken, Klockrike",Östergötlands län,Motala,Helge Björns väg,Klockrike,2,1,1,1,1,0,58.498265,15.334568,false,false
+3543,"Norra Hökarvägen, Godegård",Östergötlands län,Motala,,Godegård,2,2,1,1,1,0,58.749152,15.164887,false,false
+3545,"Hockeyrinken, Klockrike",Östergötlands län,Motala,Helge Björns väg,Klockrike,3,1,1,1,1,0,58.498265,15.334568,false,false
 3550,Södergården,Östergötlands län,Motala,Holmsv 6/Furulidsg,Motala,2,2,1,1,1,0,58.529698,15.052005,false,false
 3552,Motala verkstad,Östergötlands län,Motala,Linjegatan,Motala,4,2,1,1,1,0,58.557075,15.072293,false,false
 3560,Pumpstationen,Östergötlands län,Motala,G:a Godegårdsvägen,Nykyrka,2,1,1,1,1,0,58.619508,14.977568,true,false
@@ -602,7 +602,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3574,"Munkerud,LM Bil",Värmlands län,Munkfors,Munkerudsvägen 30,Munkfors,2,2,1,2,1,0,59.83068,13.52088,true,false
 3630,Edward Orms väg,Kalmar län,Mörbylånga,,Algutsrum,2,2,1,1,1,0,56.684852,16.526998,true,false
 3631,Degerhamnsbacken,Kalmar län,Mörbylånga,.,Degerhamn,4,1,1,2,1,0,56.355673,16.413462,true,false
-3632,Färjestaden Öster om Trädgårdsprodukter,Kalmar län,Mörbylånga,Björkvägen,Färjestaden,4,4,2,3,1,0,56.652148,16.474997,false,false
+3632,Färjestaden Öster om Trädgårdsprodukter,Kalmar län,Mörbylånga,Björkvägen,Färjestaden,4,4,2,4,1,0,56.652148,16.474997,false,false
 3633,Färjestaden Öster om Vitsippans förskola,Kalmar län,Mörbylånga,Södra Sandåsgatan/Skogsgatan,Färjestaden,2,2,1,2,1,0,56.641915,16.485758,true,false
 3635,Grönhögen Strax innan hamnen,Kalmar län,Mörbylånga,Strax innan hamnen,Grönhögen,4,1,1,1,1,0,56.267498,16.397293,true,false
 3636,Gårdby Sporthallen,Kalmar län,Mörbylånga,Sporthallen,Gårdby,2,1,1,2,1,0,56.59523,16.634993,true,false
@@ -4883,6 +4883,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17743,Kälarne ÅVC,Jämtlands län,Bräcke,Västanedevägen 1,Kälarne,2,1,1,1,1,0,62.98500,16.08583,false,false
 17745,Industrivägen,Norrbottens län,Pajala,Industrivägen 4,Korpilombolo,2,2,1,2,1,0,66.84750,23.06000,false,false
 70290,Verktygsvägen,Skåne län,Landskrona,Verktygsvägen,Asmundtorp,2,2,1,1,1,0,55.88444,12.94694,false,false
+70291,Kanntorpsgatan,Södermanlands län,Katrineholm,Kanntorpsgatan,Sköldinge,2,2,1,1,1,0,59.02611,16.44944,false,false
 70293,ÅVS inne på ÅVC Vantör,Stockholms län,Stockholm,Kvicksunsvägen 14A,Bandhagen,2,2,1,2,1,0,59.25722,18.05722,false,false
 70295,Ica Supermarket Örbyhus,Uppsala län,Tierp,Bruksvägen,Örbyhus,4,3,1,3,1,0,60.22555,17.70555,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
