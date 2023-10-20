@@ -10170,24 +10170,6 @@
         "rp_extra": "false"
     },
     {
-        "id": 3376,
-        "avs": "Sälens by-Ica",
-        "lan": "Dalarnas län",
-        "kommun": "Malung-Sälen",
-        "adress": "",
-        "ort": "Sälen",
-        "glas": "4",
-        "kartong": "3",
-        "metall": "1",
-        "blandplast": "2",
-        "tidningar": "2",
-        "ejaretrunt": "0",
-        "latitude": "61.15416",
-        "longitude": "13.26833",
-        "batterier": "false",
-        "rp_extra": "false"
-    },
-    {
         "id": 3379,
         "avs": "Norr-kiosken, Sörsjön",
         "lan": "Dalarnas län",
@@ -43340,24 +43322,6 @@
         "ejaretrunt": "0",
         "latitude": "60.259122",
         "longitude": "17.651163",
-        "batterier": "true",
-        "rp_extra": "false"
-    },
-    {
-        "id": 10716,
-        "avs": "Affärscentrum",
-        "lan": "Uppsala län",
-        "kommun": "Tierp",
-        "adress": "Borggårdsvägen",
-        "ort": "Örbyhus",
-        "glas": "4",
-        "kartong": "3",
-        "metall": "1",
-        "blandplast": "3",
-        "tidningar": "1",
-        "ejaretrunt": "0",
-        "latitude": "60.225215",
-        "longitude": "17.705693",
         "batterier": "true",
         "rp_extra": "false"
     },
@@ -87642,6 +87606,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 17714,
+        "avs": "Coop Sälen By",
+        "lan": "Dalarnas län",
+        "kommun": "Malung-Sälen",
+        "adress": "Sälenvägen 15",
+        "ort": "Sälen",
+        "glas": "4",
+        "kartong": "3",
+        "metall": "1",
+        "blandplast": "2",
+        "tidningar": "2",
+        "ejaretrunt": "0",
+        "latitude": "61.15500",
+        "longitude": "13.26583",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 17715,
         "avs": "Ekobacken ÅVC",
         "lan": "Stockholms län",
@@ -87980,7 +87962,7 @@
         "ejaretrunt": "0",
         "latitude": "60.22555",
         "longitude": "17.70555",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {

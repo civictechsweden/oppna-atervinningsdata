@@ -564,7 +564,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 3368,Gamla Brandstations parkeringen,Dalarnas län,Malung-Sälen,,Malung,4,2,1,3,1,0,60.68500,13.71028,true,false
 3373,fd. Stationsplan,Dalarnas län,Malung-Sälen,Stationsvägen,Malungsfors,2,2,1,2,1,0,60.737105,13.560082,false,false
 3374,ICA Nära Rörbäcksnäs,Dalarnas län,Malung-Sälen,,Rörbäcksnäs/Lima,2,2,1,1,1,0,61.13222,12.81222,true,false
-3376,Sälens by-Ica,Dalarnas län,Malung-Sälen,,Sälen,4,3,1,2,2,0,61.15416,13.26833,false,false
 3379,"Norr-kiosken, Sörsjön",Dalarnas län,Malung-Sälen,Dalenvägen,Sörsjön,2,2,1,2,1,0,61.41083,13.084728,true,false
 3384,Fiskarheden,Dalarnas län,Malung-Sälen,gamla järnvägshållplatsen ,Fiskarheden,2,1,1,1,1,0,61.070073,13.33033,true,false
 3385,"Fotbollsplan, Yttermalung",Dalarnas län,Malung-Sälen,,Yttermalung,2,1,1,1,1,0,60.57986,13.823617,true,false
@@ -2407,7 +2406,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10705,ICA Torget,Uppsala län,Tierp,Gävlev/Ol.Anders väg,Skärplinge,4,2,1,1,1,0,60.471225,17.76032,true,false
 10706,ICA-hallen Centrum,Uppsala län,Tierp,Nygatan,Söderfors,2,4,1,2,1,0,60.388817,17.242965,true,false
 10712,Tobo,Uppsala län,Tierp,Limexvägen/Skolvägen,Tobo,2,1,1,1,1,0,60.259122,17.651163,true,false
-10716,Affärscentrum,Uppsala län,Tierp,Borggårdsvägen,Örbyhus,4,3,1,3,1,0,60.225215,17.705693,true,false
 10717,"Bergeforsen, ICA Forsen",Västernorrlands län,Timrå,Krutgränd 3,Bergeforsen,2,2,1,1,1,0,62.52639,17.37806,true,false
 10718,"Fagervik, Båthamn",Västernorrlands län,Timrå,Golfbanevägen,Fagervik,2,2,1,1,1,0,62.501335,17.409507,true,false
 10719,"Bergeforsen, Bergeforsens IP",Västernorrlands län,Timrå,Väg 330,Bergeforsen,2,2,1,1,1,0,62.53151,17.378492,true,false
@@ -4868,6 +4866,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17702,Norrgrindsvägen/ Råbystigen,Stockholms län,Upplands-Bro,Norrgrindsvägen 2,Bro,3,3,1,2,1,0,59.51638,17.64083,false,false
 17707,Ekhammar IP,Stockholms län,Upplands-Bro,Bygdegårdsvägen 28,Kungsängen,3,3,1,2,1,0,59.47972,17.74138,false,false
 17711,Vretalundsvägen 2,Örebro län,Lekeberg,Vretalundsvägen 2,Vintrosa,2,2,1,2,1,0,59.23694,14.90166,false,false
+17714,Coop Sälen By,Dalarnas län,Malung-Sälen,Sälenvägen 15,Sälen,4,3,1,2,2,0,61.15500,13.26583,false,false
 17715,Ekobacken ÅVC,Stockholms län,Värmdö,Leveransvägen 29,Gustafsberg,2,2,1,2,1,0,59.30916,18.37972,false,false
 17719,ÅVC Fyrislund,Uppsala län,Uppsala,Arkgatan 14,Uppsala,4,4,1,6,0,0,59.85583,17.71833,false,false
 17720,FLOBY ÅVC Tillfällig,Västra Götalands län,Falköping,"Nygrannesgården, SörbyKorsgården 1",Floby,2,2,1,2,1,0,58.13527,13.36833,false,false
@@ -4886,7 +4885,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 70290,Verktygsvägen,Skåne län,Landskrona,Verktygsvägen,Asmundtorp,2,2,1,1,1,0,55.88444,12.94694,false,false
 70291,Kanntorpsgatan,Södermanlands län,Katrineholm,Kanntorpsgatan,Sköldinge,2,2,1,1,1,0,59.02611,16.44944,false,false
 70293,ÅVS inne på ÅVC Vantör,Stockholms län,Stockholm,Kvicksunsvägen 14A,Bandhagen,2,2,1,2,1,0,59.25722,18.05722,false,false
-70295,Ica Supermarket Örbyhus,Uppsala län,Tierp,Bruksvägen,Örbyhus,4,3,1,3,1,0,60.22555,17.70555,false,false
+70295,Ica Supermarket Örbyhus,Uppsala län,Tierp,Bruksvägen,Örbyhus,4,3,1,3,1,0,60.22555,17.70555,true,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,2,1,1,1,0,56.704957,16.32314,true,false
