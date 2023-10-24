@@ -1210,7 +1210,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7714,"Hammarkullen, Hammarkroken 2",Västra Götalands län,Göteborg,Hammarkroken 2,Hammarkullen,2,2,1,2,1,0,57.778363,12.041227,true,false
 7715,"Hammarkullen, Hammarkulletorget 35-36",Västra Götalands län,Göteborg,Hammarkulletorget 35-36,Hammarkullen,2,1,1,1,1,0,57.778402,12.039232,true,false
 7720,"Heden, Engelbrektsgatan/Sten Sturegatan",Västra Götalands län,Göteborg,Engelbrektsgatan/Sten Sturegatan,Heden,2,3,1,1,1,0,57.700997,11.982478,true,false
-7721,"Hjällbo, p-plats",Västra Götalands län,Göteborg,Skolspåret 7,Hjällbo,2,3,1,1,1,0,57.769063,12.012933,true,false
 7722,"Hjällbo, p-plats",Västra Götalands län,Göteborg,Sandspåret 39,Hjällbo,2,3,1,1,1,0,57.767205,12.015308,true,false
 7723,"Hjällbo, Bergsgårdsgärdet 16",Västra Götalands län,Göteborg,Bergsgårdsgärdet 16,Hjällbo,2,1,1,1,1,0,57.77228,12.022427,true,false
 7730,"Högsbotorp, Skiljemyntsgatan 2",Västra Götalands län,Göteborg,Skiljemyntsgatan 2,Högsbotorp,2,3,1,1,1,0,57.670438,11.927545,true,false
@@ -3892,7 +3891,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15733,Clemensnäs/Ursviken ÅVC,Västerbottens län,Skellefteå,Mekanvägen,Clemensnäs,2,4,1,1,0,0,64.710095,21.159182,false,false
 15734,Lilla Hammar ÅVC,Skåne län,Vellinge,Lilla Hammar,Höllviken,3,2,0,0,0,0,55.428108,12.952407,false,false
 15736,Bankeryd (ÅVC),Jönköpings län,Jönköping,Tallvägen,Bankeryd,2,1,1,1,2,0,57.87000,14.10861,true,false
-15739,Villmanstrand ÅVC,Hallands län,Halmstad,Villmanstrand,Nilstorp,4,4,4,4,1,0,56.637792,12.924187,true,false
+15739,Villmanstrand ÅVC,Hallands län,Halmstad,Villmanstrand,Nilstorp,3,4,4,4,1,0,56.637792,12.924187,true,false
 15740,Åskilje,Västerbottens län,Storuman,Korsväg E12,Åskilje,2,2,1,2,1,0,64.907648,17.863467,false,false
 15741,Vemdalsskalet,Jämtlands län,Härjedalen,Parkeringsficka mitt emot Affären,Vemdalen,3,4,1,2,1,0,62.48417,13.97111,false,false
 15742,Antnäs (ÅVC),Norrbottens län,Luleå,,Antnäs,2,2,1,2,1,0,65.54727,21.860062,false,false
