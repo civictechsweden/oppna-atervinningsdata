@@ -1862,7 +1862,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9404,Drottningdals skola,Stockholms län,Norrtälje, ,Roslagsbro,3,2,1,1,1,0,59.836813,18.740627,false,false
 9407,Södersvik/Rådmansö bageributik,Stockholms län,Norrtälje, Lågarövägen 1,Södersvik,2,2,1,2,1,0,59.750532,18.911178,true,false
 9416,Singö Handel,Stockholms län,Norrtälje, ,Väddö,2,0,0,0,0,0,60.15861,18.73833,true,false
-9423,"Bastuträsk, Centrum",Västerbottens län,Norsjö,Torget,Bastuträsk,2,3,1,2,0,0,64.788317,20.051953,false,false
+9423,"Bastuträsk, Centrum",Västerbottens län,Norsjö,Torget,Bastuträsk,3,3,1,2,0,0,64.788317,20.051953,false,false
 9424,"Bjurträsk, Affären f.d.",Västerbottens län,Norsjö,,Norsjö,2,2,1,2,0,0,64.970883,19.715243,false,false
 9425,"Kusfors, Björks Lanthandel",Västerbottens län,Norsjö,Kusfors 33,Boliden,2,2,1,2,0,0,64.940342,19.995502,false,false
 9426,"Kvarnåsen, Erikssons Div.handel",Västerbottens län,Norsjö,Kvarnåsen 107,Norsjö,2,2,1,1,0,0,64.94348,19.064758,false,false
@@ -1949,8 +1949,8 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9567,Vilbokshallen,Blekinge län,Olofström,Västra storgatan,Olofström,2,1,1,1,0,0,56.285248,14.507637,true,false
 9574,Parkering,Blekinge län,Olofström,Stansvägen,Vilshult,2,1,1,1,0,0,56.356958,14.482138,true,false
 9578,Orsa Heden (ÅVC),Dalarnas län,Orsa,R-väg 45,Orsa,2,2,1,3,1,0,61.153637,14.655077,false,false
-9579,ICA Supermarket,Dalarnas län,Orsa,Blästgatan,Orsa,4,4,1,2,1,0,61.117467,14.627903,false,false
-9580,Orsa Coop (bakom),Dalarnas län,Orsa,Coop (bakom) Dalagatan,Orsa,2,2,1,1,1,0,61.11861,14.61944,false,false
+9579,ICA Supermarket,Dalarnas län,Orsa,Blästgatan,Orsa,4,2,1,2,1,0,61.117467,14.627903,false,false
+9580,Orsa Coop (bakom),Dalarnas län,Orsa,Coop (bakom) Dalagatan,Orsa,2,3,1,1,1,0,61.11861,14.61944,false,false
 9583,Skattungbyn Affären,Dalarnas län,Orsa,,Skattungbyn,2,1,1,1,1,0,61.186273,14.858488,false,false
 9589,"Hälleviksstrand, ARV",Västra Götalands län,Orust,Hamnplan 1,Hälleviksstrand,2,1,0,0,1,0,58.12155,11.443572,false,false
 9591,"Mollösund, Lervik",Västra Götalands län,Orust,Gamla vägen 1,Mollösund,3,2,1,1,1,0,58.074922,11.48074,false,false
@@ -4451,7 +4451,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16918,"Järvgatan, infartsparkering",Skåne län,Landskrona,,Landskrona,2,2,1,1,1,0,55.881433,12.855197,false,false
 16920,Stavangergatan; vändplanen,Stockholms län,Stockholm,"Stavangergatan , vid nr 68",Rinkeby-Kista,2,2,1,2,1,0,59.412665,17.929493,true,false
 16921,Tolenvägen,Södermanlands län,Katrineholm,vid IP,Strångsjö,2,1,1,1,1,0,58.901193,16.188662,false,false
-16922,Bredvid området Porslinsfabriken,Stockholms län,Värmdö,VIllagatan/Kvarntorpsgatan,Gustavsberg,3,3,1,2,1,0,59.321687,18.387745,true,false
+16922,Bredvid området Porslinsfabriken,Stockholms län,Värmdö,VIllagatan/Kvarntorpsgatan,Gustavsberg,2,3,1,2,1,0,59.321687,18.387745,true,false
 16923,Skår,Västra Götalands län,Göteborg,Sankt Sigfridsgatan 89,Skår,2,4,1,3,1,0,57.690357,12.00429,true,false
 16924,Svinninge; etableringsytan nära handeln,Stockholms län,Österåker,Svinningevägen,Svinninge,2,4,1,2,1,0,59.449002,18.266762,false,false
 16926,Basilikagränd/Kryddvägen,Stockholms län,Tyresö,Basilikagränd 1,Tyresö,2,2,1,2,1,0,59.231875,18.23147,true,false
@@ -4880,6 +4880,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17741,P-plats mitt emot Reningsverket,Skåne län,Staffanstorp,Sliparevägen,Staffanstorp,2,2,1,1,1,0,55.65416,13.21277,false,false
 17742,Näsuddsvägen ,Södermanlands län,Oxelösund,Näsuddsvägen,Oxelösund,3,2,1,2,1,0,58.68055,17.04527,false,false
 17743,Kälarne ÅVC,Jämtlands län,Bräcke,Västanedevägen 1,Kälarne,2,1,1,1,1,0,62.98500,16.08583,false,false
+17744,Gällö ÅVC,Jämtlands län,Bräcke,Industriområdet 113,Gällö,2,1,1,1,1,0,62.90972,15.26861,false,false
 17745,Industrivägen,Norrbottens län,Pajala,Industrivägen 4,Korpilombolo,2,2,1,2,1,0,66.84750,23.06000,false,false
 70290,Verktygsvägen,Skåne län,Landskrona,Verktygsvägen,Asmundtorp,2,2,1,1,1,0,55.88444,12.94694,false,false
 70291,Kanntorpsgatan,Södermanlands län,Katrineholm,Kanntorpsgatan,Sköldinge,2,2,1,1,1,0,59.02611,16.44944,false,false
