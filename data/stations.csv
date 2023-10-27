@@ -1008,7 +1008,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7249,Vändplan,Stockholms län,Botkyrka,Trädesvägen,Botkyrka,2,3,1,2,1,0,59.245633,17.822048,true,false
 7252,Vändplan,Stockholms län,Botkyrka,Tomtbergavägen 66,Botkyrka,0,3,1,2,1,0,59.248935,17.832147,true,false
 7255,Said Livs,Stockholms län,Botkyrka,St Albans väg,Botkyrka,2,4,1,2,1,0,59.243033,17.81367,true,false
-7259,OK/Q8,Stockholms län,Botkyrka,Rosenhill,Grödinge,2,2,1,2,1,0,59.140235,17.832417,true,false
 7263,P-plats vid vändplan,Stockholms län,Botkyrka,Nämndemannavägen,Botkyrka,2,3,1,2,1,0,59.242557,17.857725,true,false
 7267,Vändplan,Stockholms län,Botkyrka,Linvägen,Botkyrka,0,2,1,2,1,0,59.247545,17.831673,true,false
 7268,Bussvändslinga,Stockholms län,Botkyrka,Kvarnhagsvägen/Enskiftesvägen,Botkyrka,2,3,1,2,1,0,59.232232,17.86474,true,false
@@ -1438,7 +1437,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8154,Borgarparken,Gävleborgs län,Hudiksvall,Borgarparken,Hudiksvall,2,3,1,1,1,0,61.73139,17.11472,true,false
 8156,ICA Maxi Stormarknad,Gävleborgs län,Hudiksvall,Blockvägen 1 ,Hudiksvall,4,5,1,2,1,0,61.74194,17.11444,true,false
 8157,Tippvägen,Gävleborgs län,Hudiksvall, Korsningen Gammelbansvägen/Saltviksvägen,Hudiksvall,4,5,2,2,1,0,61.71472,17.09111,false,false
-8159,Ica Supermarket Håsta (gamla Rimi),Gävleborgs län,Hudiksvall,Västra vägen 9,Hudiksvall,2,2,1,2,1,0,61.71917,17.08889,false,false
+8159,Ica Supermarket Håsta (gamla Rimi),Gävleborgs län,Hudiksvall,Västra vägen 9,Hudiksvall,2,2,1,3,1,0,61.71917,17.08889,false,false
 8160,Q Star,Gävleborgs län,Hudiksvall,Åsak 33,Hög,2,1,1,2,1,0,61.76722,16.99861,true,false
 8161,COOP Konsum,Gävleborgs län,Hudiksvall,Stora vägen 9,Iggesund,2,3,1,2,1,0,61.64306,17.07917,false,false
 8162,Preem,Gävleborgs län,Hudiksvall,Stora vägen 54,Iggesund,2,2,1,1,1,0,61.65278,17.08222,true,false
@@ -1981,7 +1980,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9652,"Öjebyn, ICA/Konsum",Norrbottens län,Piteå,Öjagatan 35,Öjebyn,2,3,1,2,2,0,65.341412,21.395142,true,false
 9653,Kullen,Norrbottens län,Piteå,Taktvägen,Piteå,2,2,1,1,1,0,65.3197,21.413365,true,false
 9656,"Hammarstrand, Hammarverket",Jämtlands län,Ragunda,Centralgatan 45,Hammarstrand,5,4,1,3,0,0,63.104327,16.358253,true,false
-9658,"Höglunda, Höggården",Jämtlands län,Ragunda,,Stugun,3,2,1,1,0,0,63.14957,15.859667,true,false
+9658,"Höglunda, Höggården",Jämtlands län,Ragunda,,Stugun,2,2,1,1,0,0,63.14957,15.859667,true,false
 9660,"Krångede, Gamla vägen",Jämtlands län,Ragunda,,Hammarstrand,2,1,1,1,0,0,63.147782,16.137583,true,false
 9662,"Mårdsjön, Änge Gård",Jämtlands län,Ragunda,,Stugun,2,2,1,1,0,0,63.302177,15.573883,true,false
 9664,Återvinningsgården,Jämtlands län,Ragunda,Stuguvägen,Stugun,2,3,1,1,0,0,63.16827,15.606663,false,false
