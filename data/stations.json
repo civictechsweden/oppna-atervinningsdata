@@ -31146,7 +31146,7 @@
         "kommun": "Lycksele",
         "adress": "Vindelälvsvägen 37",
         "ort": "Rusksele",
-        "glas": "2",
+        "glas": "3",
         "kartong": "3",
         "metall": "1",
         "blandplast": "1",
@@ -77000,7 +77000,7 @@
         "ejaretrunt": "0",
         "latitude": "59.366882",
         "longitude": "17.973492",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "true"
     },
     {
@@ -79278,7 +79278,7 @@
         "kommun": "Strängnäs",
         "adress": "Kvartsgatan, infartsparkering ",
         "ort": "Strängnäs",
-        "glas": "2",
+        "glas": "3",
         "kartong": "2",
         "metall": "1",
         "blandplast": "2",

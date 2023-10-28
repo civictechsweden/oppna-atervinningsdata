@@ -1729,7 +1729,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8943,"Södermalm, Prästbolsvägen",Västerbottens län,Lycksele,Prästbolsvägen,Lycksele,2,1,1,1,0,0,64.595208,18.665878,true,false
 8946,Lycksele (ÅVC),Västerbottens län,Lycksele,Asptjärnsvägen,Lycksele,4,1,1,1,0,0,64.5981,18.780888,false,false
 8948,Villaryd,Västerbottens län,Lycksele,Villarydsvägen 20,Lycksele,2,1,1,1,0,0,64.5892,18.679495,false,false
-8949,"Rusksele, Ica Rusksele",Västerbottens län,Lycksele,Vindelälvsvägen 37,Rusksele,2,3,1,1,0,0,64.814595,18.897223,true,false
+8949,"Rusksele, Ica Rusksele",Västerbottens län,Lycksele,Vindelälvsvägen 37,Rusksele,3,3,1,1,0,0,64.814595,18.897223,true,false
 8951,"V. Örträsk, Örträsk Bensin & H.",Västerbottens län,Lycksele,,Örträsk,2,1,1,1,0,0,64.132903,18.9392,false,false
 8955,"Ö. Örträsk, Industrihuset",Västerbottens län,Lycksele,,Örträsk,2,1,1,1,0,0,64.13739,18.986045,true,false
 8956,Brastad Bussterminalen,Västra Götalands län,Lysekil,Bussterminalen,Brastad,2,1,1,1,1,0,58.382697,11.484148,true,false
@@ -4276,7 +4276,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16459,ICA Maxi Häggvik,Stockholms län,Sollentuna,Mossvägen 1,Häggvik,4,4,1,2,2,0,59.438102,17.933757,false,true
 16460,Brandinvägen,Örebro län,Hällefors,Brandinvägen,Hällefors,2,2,1,1,1,0,59.78083,14.52056,false,false
 16461,Brandstation Järlåsa,Uppsala län,Uppsala,Salavägen 22,Järlåsa,2,2,1,1,1,0,59.887233,17.192943,true,false
-16462,Vackra vägen/Rensgatan,Stockholms län,Sundbyberg,MIttemot Vackra vägen 6,Sundbyberg,2,2,1,1,1,0,59.366882,17.973492,false,true
+16462,Vackra vägen/Rensgatan,Stockholms län,Sundbyberg,MIttemot Vackra vägen 6,Sundbyberg,2,2,1,1,1,0,59.366882,17.973492,true,true
 16463,Gesällvägen 2-4,Gävleborgs län,Sandviken,Gesällvägen 2-4,Sandviken,2,1,1,1,1,0,60.60444,16.774623,true,false
 16465,Molnbackavägen,Stockholms län,Järfälla,Molnbackavägen 2,Polhem/Berghem,2,2,1,1,1,0,59.444975,17.840095,false,true
 16468,Hornsgatan 182,Stockholms län,Stockholm,Hornsgatan 182,Södermalm,2,2,1,1,1,0,59.315093,18.032218,true,false
@@ -4403,7 +4403,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16824,Gevaldigergatan vid fängelset,Skåne län,Malmö,Gevaldigergatan,Malmö,2,2,1,2,1,0,55.611253,13.041342,true,false
 16825,Pendlarparkering Knutby,Uppsala län,Uppsala,Videväg 1,Knutby,2,2,1,1,0,0,59.911418,18.265995,false,false
 16826,Kirsebergs Ishall,Skåne län,Malmö,"Österhagsgatan, P-plats",Malmö,2,2,1,2,1,0,55.60653,13.037475,false,false
-16829,Trafikplats Gorsinge,Södermanlands län,Strängnäs,"Kvartsgatan, infartsparkering ",Strängnäs,2,2,1,2,1,0,59.32936,17.01799,false,false
+16829,Trafikplats Gorsinge,Södermanlands län,Strängnäs,"Kvartsgatan, infartsparkering ",Strängnäs,3,2,1,2,1,0,59.32936,17.01799,false,false
 16832,Midgårdsvägen; parkering,Stockholms län,Sigtuna,MIdgårdsvägen 14,Märsta,2,3,1,2,1,0,59.618233,17.820967,true,false
 16834,Bondevägen,Värmlands län,Säffle,Bondevägen,Säffle,4,4,1,3,1,0,59.125163,12.937542,false,false
 16835,Långtidsparkeringen,Västra Götalands län,Tanum,Repslagaregatan ,Grebbestad,5,4,1,2,1,0,58.686575,11.26477,true,false
