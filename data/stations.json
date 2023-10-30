@@ -28440,6 +28440,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 8455,
+        "avs": "Kiruna, Konsum",
+        "lan": "Norrbottens län",
+        "kommun": "Kiruna",
+        "adress": "Föraregatan 45",
+        "ort": "Kiruna",
+        "glas": "2",
+        "kartong": "0",
+        "metall": "0",
+        "blandplast": "0",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "67.865308",
+        "longitude": "20.225268",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 8456,
         "avs": "Kiruna, Ullspiran",
         "lan": "Norrbottens län",
