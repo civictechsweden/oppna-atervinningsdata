@@ -31164,7 +31164,7 @@
         "kommun": "Lycksele",
         "adress": "Vindelälvsvägen 37",
         "ort": "Rusksele",
-        "glas": "3",
+        "glas": "2",
         "kartong": "3",
         "metall": "1",
         "blandplast": "1",
@@ -33522,7 +33522,7 @@
         "kommun": "Norsjö",
         "adress": "Torget",
         "ort": "Bastuträsk",
-        "glas": "3",
+        "glas": "2",
         "kartong": "3",
         "metall": "1",
         "blandplast": "2",
@@ -47246,7 +47246,7 @@
         "ejaretrunt": "0",
         "latitude": "55.41519",
         "longitude": "12.946923",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -47264,7 +47264,7 @@
         "ejaretrunt": "0",
         "latitude": "55.414593",
         "longitude": "12.975277",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -79296,7 +79296,7 @@
         "kommun": "Strängnäs",
         "adress": "Kvartsgatan, infartsparkering ",
         "ort": "Strängnäs",
-        "glas": "3",
+        "glas": "2",
         "kartong": "2",
         "metall": "1",
         "blandplast": "2",
@@ -86360,7 +86360,7 @@
         "ejaretrunt": "0",
         "latitude": "55.47333",
         "longitude": "13.02000",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
