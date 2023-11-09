@@ -382,7 +382,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 2120,Nils Holgerssons väg/Önnemovägen,Kalmar län,Kalmar,Nils Holgerssons väg/Önnemovägen,Lindsdal,2,1,1,1,1,0,56.733195,16.310342,true,false
 2122,"Läckeby, Stråkvägen",Kalmar län,Kalmar,Stråkvägen,Läckeby,2,1,2,1,1,0,56.783997,16.296952,true,false
 2123,"Påryd, Klumpaplan",Kalmar län,Kalmar,Industrigatan,Påryd,2,2,1,1,1,0,56.567573,15.921575,true,false
-2124,Dörbylundsvägen,Kalmar län,Kalmar,Dörbylundsvägen,Rinkabyholm,3,2,1,1,1,0,56.661078,16.272822,true,false
+2124,Dörbylundsvägen,Kalmar län,Kalmar,Dörbylundsvägen,Rinkabyholm,3,1,1,1,1,0,56.661078,16.272822,true,false
 2126,Affären,Kalmar län,Kalmar,Ryssbyvägen,Rockneby,2,1,0,1,1,0,56.80391,16.347905,true,false
 2127,Krooks väg,Kalmar län,Kalmar,Krooks väg,Smedby,2,2,1,1,1,0,56.675605,16.247738,false,false
 2129,Tingby Skans,Kalmar län,Kalmar,Smedbyvägen,Smedby,2,1,1,1,1,0,56.680085,16.232398,true,false
@@ -1948,8 +1948,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9567,Vilbokshallen,Blekinge län,Olofström,Västra storgatan,Olofström,2,1,1,1,0,0,56.285248,14.507637,true,false
 9574,Parkering,Blekinge län,Olofström,Stansvägen,Vilshult,2,1,1,1,0,0,56.356958,14.482138,true,false
 9578,Orsa Heden (ÅVC),Dalarnas län,Orsa,R-väg 45,Orsa,2,2,1,3,1,0,61.153637,14.655077,false,false
-9579,ICA Supermarket,Dalarnas län,Orsa,Blästgatan,Orsa,4,2,1,2,1,0,61.117467,14.627903,false,false
-9580,Orsa Coop (bakom),Dalarnas län,Orsa,Coop (bakom) Dalagatan,Orsa,2,3,1,1,1,0,61.11861,14.61944,false,false
+9580,Orsa Coop (bakom),Dalarnas län,Orsa,Coop (bakom) Dalagatan,Orsa,2,5,1,1,1,0,61.11861,14.61944,false,false
 9583,Skattungbyn Affären,Dalarnas län,Orsa,,Skattungbyn,2,1,1,1,1,0,61.186273,14.858488,false,false
 9589,"Hälleviksstrand, ARV",Västra Götalands län,Orust,Hamnplan 1,Hälleviksstrand,2,1,0,0,1,0,58.12155,11.443572,false,false
 9591,"Mollösund, Lervik",Västra Götalands län,Orust,Gamla vägen 1,Mollösund,3,2,1,1,1,0,58.074922,11.48074,false,false
@@ -2343,7 +2342,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10597,Brandstationen Säter,Dalarnas län,Säter,Sturegatan/Linnégatan,Säter,2,1,1,1,1,0,60.345325,15.755542,true,false
 10598,Säterdalen,Dalarnas län,Säter,Kungsvägen,Säter,2,1,1,1,1,0,60.347967,15.755807,true,false
 10601,Burhagsgatan/Bergtäktsvägen,Dalarnas län,Säter,,Säter,2,1,1,1,1,0,60.347117,15.729458,true,false
-10602,Hagavägen,Dalarnas län,Säter,,Säter,2,2,1,2,1,0,60.348462,15.737733,false,false
 10603,"Bakom Willys, Gustaf Adolfs vägen",Dalarnas län,Säter,Gustaf Adolfs vägen,Säter,2,3,1,1,1,0,60.34916,15.74638,false,false
 10608,Industrigatan,Jönköpings län,Sävsjö,Industrigatan (13),Rörvik,2,1,1,1,1,0,57.236888,14.575142,true,false
 10610,X:tra,Jönköpings län,Sävsjö,Mejselgatan/Hantverkaregatan,Sävsjö,2,1,1,1,1,0,57.397713,14.658247,true,false
