@@ -1639,7 +1639,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8586,P-plats kyrkan,Skåne län,Kävlinge, ,Barsebäck,2,1,1,1,1,0,55.771297,12.956118,true,false
 8587,P-plats Barsebäckshamn,Skåne län,Kävlinge, ,Barsebäck,2,1,1,1,1,0,55.756702,12.910328,true,false
 8588,Järnvägsstationen,Skåne län,Kävlinge,Centralvägen,Dösjebro,2,1,1,1,1,0,55.82379,13.031558,true,false
-8591,Konferenscenter,Skåne län,Kävlinge, ,Järavallen,2,0,0,0,0,0,55.792418,12.95332,false,false
 8594,Coop Extra,Skåne län,Kävlinge,Bruksgatan/Nygatan,Kävlinge,2,1,1,1,1,0,55.79067,13.106962,true,false
 8596,Träningsvägen,Skåne län,Kävlinge,,Kävlinge,2,1,1,1,1,0,55.799223,13.108947,true,false
 8598,Fäladsvägen,Skåne län,Kävlinge,,Löddeköpinge,4,4,1,2,1,0,55.759937,12.994677,true,false
@@ -3603,7 +3602,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15187,Örsgatan,Västra Götalands län,Svenljunga,Örsgatan,Svenljunga,2,1,1,2,0,0,57.49111,13.10750,false,false
 15199,Odenvägen/Friggavägen Vasaplatsen,Stockholms län,Lidingö,"Lidingö C,  Odenvägen / Friggavägen",Lidingö,2,0,0,0,0,0,59.367088,18.13378,true,true
 15200,Jupitervägen/Herkulesvägen,Stockholms län,Lidingö,Jupitervägen,Lidingö,2,0,0,0,0,0,59.351297,18.21952,true,true
-15212,Börringe,Skåne län,Svedala,Börringe Kyrkoväg,Börringe,2,0,0,0,0,0,55.50476,13.359553,false,false
 15214,ÅVC Returpunkten (ÅVC),Östergötlands län,Norrköping,Hydraulvägen,Åby,4,2,1,2,2,0,58.653822,16.172215,false,false
 15217,Koler,Norrbottens län,Piteå,,Koler,2,1,1,1,0,0,65.502213,20.489542,false,false
 15227,Bergshamra Bockholmsvägen 1 kv Sfären,Stockholms län,Solna,Bockholmsvägen 1,Solna,2,0,0,0,0,0,59.376552,18.04671,false,true
@@ -4875,7 +4873,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17741,P-plats mitt emot Reningsverket,Skåne län,Staffanstorp,Sliparevägen,Staffanstorp,2,2,1,1,1,0,55.65416,13.21277,false,false
 17742,Näsuddsvägen ,Södermanlands län,Oxelösund,Näsuddsvägen,Oxelösund,3,2,1,2,1,0,58.68055,17.04527,false,false
 17743,Kälarne ÅVC,Jämtlands län,Bräcke,Västanedevägen 1,Kälarne,2,1,1,1,1,0,62.98500,16.08583,false,false
-17744,Gällö ÅVC,Jämtlands län,Bräcke,Industriområdet 113,Gällö,2,1,1,1,1,0,62.90972,15.26861,false,false
+17744,Gällö ÅVC,Jämtlands län,Bräcke,Industriområdet 113,Gällö,2,1,1,1,1,0,62.90972,15.26861,true,false
 17745,Industrivägen,Norrbottens län,Pajala,Industrivägen 4,Korpilombolo,2,2,1,2,1,0,66.84750,23.06000,false,false
 70290,Verktygsvägen,Skåne län,Landskrona,Verktygsvägen,Asmundtorp,2,2,1,1,1,0,55.88444,12.94694,false,false
 70291,Kanntorpsgatan,Södermanlands län,Katrineholm,Kanntorpsgatan,Sköldinge,2,2,1,1,1,0,59.02611,16.44944,false,false
@@ -4939,7 +4937,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 99111,Kärra Stora Tolsereds Väg,Västra Götalands län,Göteborg,Stora Tolsereds Väg,Kärra,2,4,1,1,1,0,57.804033,11.972817,true,false
 99112,"Kärrdalen, Sankt Olofsgatan",Västra Götalands län,Göteborg,Sankt Olofsgatan 37,Kärradalen,2,3,1,1,1,0,57.73138,11.911587,true,false
 99116,"Skälltorp, Plockerotegatan",Västra Götalands län,Göteborg,Plockerotegatan 363,Skälltorp,2,3,1,1,1,0,57.762683,11.974972,true,false
-99126,"Löderup, Sandhammaren ",Skåne län,Ystad,P-plats,Löderup,2,0,0,0,0,0,55.38632,14.19571,false,false
 99128,"Saxnäs, Kommunförråd",Västerbottens län,Vilhelmina,,Saxnäs,3,4,1,2,1,0,64.970247,15.34858,true,false
 99130,Hyltebruk Parkeringen,Hallands län,Hylte,Bäckgatan Kråkberget,Hyltebruk,2,2,1,2,1,0,57.005347,13.23723,true,false
 99131,Hyltebruk Södra Industrigatan,Hallands län,Hylte,Verkstadsgatan,Hyltebruk,4,3,1,1,1,0,56.988195,13.230602,true,false

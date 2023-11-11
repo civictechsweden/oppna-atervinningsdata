@@ -29520,24 +29520,6 @@
         "rp_extra": "false"
     },
     {
-        "id": 8591,
-        "avs": "Konferenscenter",
-        "lan": "Skåne län",
-        "kommun": "Kävlinge",
-        "adress": " ",
-        "ort": "Järavallen",
-        "glas": "2",
-        "kartong": "0",
-        "metall": "0",
-        "blandplast": "0",
-        "tidningar": "0",
-        "ejaretrunt": "0",
-        "latitude": "55.792418",
-        "longitude": "12.95332",
-        "batterier": "false",
-        "rp_extra": "false"
-    },
-    {
         "id": 8594,
         "avs": "Coop Extra",
         "lan": "Skåne län",
@@ -64872,24 +64854,6 @@
         "rp_extra": "true"
     },
     {
-        "id": 15212,
-        "avs": "Börringe",
-        "lan": "Skåne län",
-        "kommun": "Svedala",
-        "adress": "Börringe Kyrkoväg",
-        "ort": "Börringe",
-        "glas": "2",
-        "kartong": "0",
-        "metall": "0",
-        "blandplast": "0",
-        "tidningar": "0",
-        "ejaretrunt": "0",
-        "latitude": "55.50476",
-        "longitude": "13.359553",
-        "batterier": "false",
-        "rp_extra": "false"
-    },
-    {
         "id": 15214,
         "avs": "ÅVC Returpunkten (ÅVC)",
         "lan": "Östergötlands län",
@@ -87782,7 +87746,7 @@
         "ejaretrunt": "0",
         "latitude": "62.90972",
         "longitude": "15.26861",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
@@ -88917,24 +88881,6 @@
         "latitude": "57.762683",
         "longitude": "11.974972",
         "batterier": "true",
-        "rp_extra": "false"
-    },
-    {
-        "id": 99126,
-        "avs": "Löderup, Sandhammaren ",
-        "lan": "Skåne län",
-        "kommun": "Ystad",
-        "adress": "P-plats",
-        "ort": "Löderup",
-        "glas": "2",
-        "kartong": "0",
-        "metall": "0",
-        "blandplast": "0",
-        "tidningar": "0",
-        "ejaretrunt": "0",
-        "latitude": "55.38632",
-        "longitude": "14.19571",
-        "batterier": "false",
         "rp_extra": "false"
     },
     {
