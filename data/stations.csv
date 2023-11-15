@@ -816,7 +816,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 6594,Storbo-Flötingen,Dalarnas län,Älvdalen,,Storbo-Flötingen,2,3,1,1,1,0,61.855438,12.248028,false,false
 6597,Särnabyn brandstationen,Dalarnas län,Älvdalen,Särnavägen 113,Särna,2,4,1,2,1,0,61.692345,13.144993,false,false
 6624,"Visträsk, Fotbollsplanen",Norrbottens län,Älvsbyn,,Vistträsk,2,1,1,1,0,0,65.690308,20.643528,true,false
-6626,"Älvsbyn, Lomtjärnsgatan",Norrbottens län,Älvsbyn,Lomtjärnsgatan 37,Älvsbyn,3,2,1,1,0,0,65.678848,21.003608,true,false
+6626,"Älvsbyn, Lomtjärnsgatan",Norrbottens län,Älvsbyn,Lomtjärnsgatan 37,Älvsbyn,2,2,1,1,0,0,65.678848,21.003608,true,false
 6627,"Älvsbyn, Reningsverket",Norrbottens län,Älvsbyn,Gammelvägen,Älvsbyn,2,3,1,1,0,0,65.666505,21.030618,true,false
 6631,Björkhagen,Skåne län,Ängelholm,Kustroddarevägen,Skepparkroken,2,2,1,2,1,0,56.290605,12.81057,false,false
 6634,Grilleken,Skåne län,Ängelholm,Allmänna Gränd,Hjärnarp,3,5,1,2,1,0,56.315802,12.9175,false,false
@@ -1030,7 +1030,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7318,Tullingebergsvägen 2,Stockholms län,Botkyrka,,Tullinge,2,3,1,2,1,0,59.210227,17.900347,true,false
 7319,Tullingebergsvägen/Rundan,Stockholms län,Botkyrka,Tullingebergsvägen,Tullinge,2,3,1,2,1,0,59.212285,17.907738,true,false
 7324,Vändplan Tumba sjukhus,Stockholms län,Botkyrka,Samaritvägen,Tumba,2,3,1,2,1,0,59.203747,17.836417,true,false
-7325,"Rödstu hage, parkeringen",Stockholms län,Botkyrka,"Segersjövägen 59, mitt emot",Tumba,3,2,1,1,1,0,59.197582,17.804885,true,false
 7327,P-plats Tumbavägen,Stockholms län,Botkyrka,Nackdalavägen,Tumba,2,3,1,2,1,0,59.209632,17.82492,true,false
 7331,P-plats ICA Supermarket Solbo,Stockholms län,Botkyrka,Ekvägen (f.d ICA Kom),Tumba,2,3,1,1,1,0,59.188897,17.822432,false,false
 7348,Vändplan,Stockholms län,Botkyrka,Sedelvägen/Tumbavägen,Tumba,2,3,1,2,1,0,59.20224,17.826198,true,false
@@ -3781,7 +3780,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15570,Brunna kretsloppscentral (ÅVC),Stockholms län,Upplands-Bro,Energivägen 10,Kungsängen,4,2,1,1,1,0,59.510125,17.744308,false,false
 15571,Skällsta kretsloppscentral (ÅVC),Stockholms län,Upplands-Bro,Ullevivägen 6,Bro,3,1,1,1,1,0,59.52417,17.62389,false,false
 15576,Bjursås (ÅVC),Dalarnas län,Falun,Savoyväögen 5 (Bakom OK/Q8),Bjursås,2,1,1,1,1,0,60.725735,15.443355,false,false
-15577,Dala Floda (ÅVC),Dalarnas län,Gagnef,Stora vägen,Dala Floda,2,1,1,2,1,0,60.50444,14.78528,false,false
 15578,Hagalund (ÅVC),Gävleborgs län,Gävle,Norrsundsvägen,Hamrångefjärden,2,1,2,4,1,0,60.91278,17.06917,true,false
 15579,Återbruket Trångfors (ÅVC),Västmanlands län,Hallstahammar,Riksväg 252,Trångsfors,4,1,1,1,2,0,59.63132,16.199082,false,false
 15580,Återbruket Heby (ÅVC),Uppsala län,Heby,Industrivägen 11,Heby,4,2,2,2,1,0,59.93472,16.86056,false,false
