@@ -1496,7 +1496,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 8301,Alviksvägen/ Huskvarnavägen,Jönköpings län,Jönköping,Alviksvägen/Huskvarnav.,Huskvarna,2,3,1,1,1,0,57.792582,14.258692,false,false
 8302,"p-plats Österäng C, Willys",Jönköpings län,Jönköping,Birkagatan,Jönköping,2,2,1,1,1,0,57.787022,14.241627,false,false
 8306,Folkets Park Stationsgatan,Jönköpings län,Jönköping,Stationsgatan,Huskvarna,2,2,1,1,2,0,57.78331,14.262397,false,false
-8313,Per Rösius väg / Coop,Jönköpings län,Jönköping,Per Rösius väg,Jönköping,2,1,1,1,1,0,57.743995,14.136037,true,false
 8315,"Bredviken, Bredviksvägen",Norrbottens län,Kalix,Bredviksvägen,Kalix,2,1,1,1,1,0,65.83096,23.206962,false,false
 8316,"Båtskärsnäs, Norrkust Marina",Norrbottens län,Kalix,Industriområdet,Båtskärsnäs,2,3,1,1,1,0,65.784598,23.424565,false,false
 8317,Grytnäs,Norrbottens län,Kalix,Galgbacksvägen 1,Kalix,2,3,1,2,1,0,65.848807,23.12343,false,false
@@ -1899,7 +1898,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9476,Gamla stationen,Södermanlands län,Nyköping,Smaragdv 3,Sjösa,2,2,1,2,1,0,58.783195,17.099843,true,false
 9477,"Stavsjö Bruk, 200m ifrån",Södermanlands län,Nyköping,Gamla Stavsjövägen 1,Stavsjö,2,2,1,2,1,0,58.724682,16.426898,true,false
 9483,Vid busslingan ,Stockholms län,Nynäshamn,väg 542/Segerängsvägen Sorundavägen,Grödby,2,3,1,2,1,0,59.053752,17.869932,true,false
-9484,Skärlinge fritidsby,Stockholms län,Nynäshamn, ,Lisö,2,0,0,1,1,0,58.896862,17.797282,true,false
 9487,Vändplan,Stockholms län,Nynäshamn,Villagatan,Nynäshamn,2,4,1,2,1,0,58.919683,17.941352,true,false
 9488,Parkering Vikingavägen,Stockholms län,Nynäshamn,Vikingavägen/Centralgatan,Nynäshamn,2,3,1,2,1,0,58.91128,17.944282,true,false
 9489,Fd livsmedelsbutik,Stockholms län,Nynäshamn,Sandskogsvägen 15,Nynäshamn,2,3,1,2,1,0,58.887357,17.93475,true,false
@@ -3227,7 +3225,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 13196,Rosenbergsg,Jönköpings län,Jönköping,Rosenbergsgatan 10,Jönköping,2,1,1,1,1,0,57.779698,14.19425,true,false
 13197,Saturnusplan,Jönköpings län,Jönköping,Saturnusvägen/Gillesgatan,Jönköping,2,2,1,1,1,0,57.781622,14.20941,true,false
 13199,Älgstigen,Jönköpings län,Jönköping,Älgstigen 1,Jönköping,2,1,1,1,1,0,57.756215,14.152485,true,false
-13205,Örserum,Jönköpings län,Jönköping,Tranåsvägen 26,Örserum,2,1,1,1,1,0,58.007068,14.578368,true,false
 13206,Ölmstad,Jönköpings län,Jönköping,Grännavägen 19,Ölmstad,2,2,1,1,1,0,57.924402,14.394843,true,false
 13208,Kaxholmen (Ica),Jönköpings län,Jönköping,Tunnlandsvägen 1,Kaxholmen,2,1,1,1,1,0,57.851195,14.305547,true,false
 13209,Lekeryd,Jönköpings län,Jönköping,Anebyvägen 2,Lekeryd,2,1,1,1,1,0,57.773528,14.416943,true,false
@@ -3956,7 +3953,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15849,Danderyds Golfklubb,Stockholms län,Danderyd,Edsbergsvägen 2,Danderyd,2,5,1,2,2,0,59.414915,18.019603,true,true
 15850,"Parkering,  Slite centrum",Gotlands län,Gotland,Stationsgatan18,Slite,4,2,1,2,1,0,57.704337,18.801023,false,false
 15852,Hembyggsgården Flärke,Västernorrlands län,Örnsköldsvik,Flärkemon,Flärke-Gideå,2,1,1,1,1,0,63.575803,19.039433,true,false
-15853,Staffanstorps ÅVC,Skåne län,Staffanstorp,Flisvägen,Staffanstorp,4,2,1,2,1,0,55.650628,13.23481,false,false
 15854,Visingsö i anslutning till ÅVC,Jönköpings län,Jönköping,Vägen mot Näs,Visingsö,6,3,1,3,1,0,58.02389,14.31972,false,false
 15855,ÅVC Fårösund,Gotlands län,Gotland,Fortvägen 2,Fårösund,4,1,1,1,1,0,57.86056,19.03528,false,false
 15856,ÅVC Hemse,Gotlands län,Gotland,Hemse Frigges,Hemse,4,16,4,3,2,0,57.253968,18.404597,false,false
@@ -4878,6 +4874,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 70291,Kanntorpsgatan,Södermanlands län,Katrineholm,Kanntorpsgatan,Sköldinge,2,2,1,1,1,0,59.02611,16.44944,false,false
 70293,ÅVS inne på ÅVC Vantör,Stockholms län,Stockholm,Kvicksunsvägen 14A,Bandhagen,2,2,1,2,1,0,59.25722,18.05722,false,false
 70295,Ica Supermarket Örbyhus,Uppsala län,Tierp,Bruksvägen,Örbyhus,4,3,1,3,1,0,60.22555,17.70555,true,false
+70298,Staffanstorps ÅVC,Skåne län,Burlöv,Flisvägen,Staffanstorp,4,2,0,2,1,0,55.65055,13.23472,false,false
 99001,Coop Forum,Kalmar län,Kalmar,Verkstadsgatan,Kalmar,4,3,1,2,1,0,56.670378,16.333293,true,false
 99002,Kom snart igen,Kalmar län,Kalmar,Skeppsbrogatan,Kalmar,2,1,3,5,1,0,56.662198,16.367348,true,false
 99003,Vimpeltorpet,Kalmar län,Kalmar,Vimpeltorpsvägen,Kalmar,2,2,1,1,1,0,56.704957,16.32314,true,false
