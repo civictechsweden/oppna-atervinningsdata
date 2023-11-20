@@ -87498,6 +87498,24 @@
         "rp_extra": "false"
     },
     {
+        "id": 17738,
+        "avs": "Långgatan, parkeringen",
+        "lan": "Uppsala län",
+        "kommun": "Enköping",
+        "adress": "Långgatan ",
+        "ort": "Enköping",
+        "glas": "2",
+        "kartong": "2",
+        "metall": "1",
+        "blandplast": "2",
+        "tidningar": "1",
+        "ejaretrunt": "0",
+        "latitude": "59.63833",
+        "longitude": "17.07166",
+        "batterier": "false",
+        "rp_extra": "false"
+    },
+    {
         "id": 17739,
         "avs": "Parkallén",
         "lan": "Skåne län",
