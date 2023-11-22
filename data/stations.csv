@@ -263,7 +263,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1470,"Harplinge, Källvägen",Hallands län,Halmstad,Källvägen,Harplinge,2,2,1,1,1,0,56.74449,12.735893,true,false
 1471,"Harplinge, Kvarnliden",Hallands län,Halmstad,Kvarnliden,Harplinge,2,2,1,1,1,0,56.744612,12.725005,true,false
 1472,"Haverdal, Jägarevägen",Hallands län,Halmstad,Jägarevägen,Haverdal,2,2,1,1,1,0,56.72118,12.691248,true,false
-1473,"Haverdal, Klövervägen",Hallands län,Halmstad,Klövervägen,Haverdal,3,6,2,3,2,0,56.729155,12.670737,true,false
+1473,"Haverdal, Klövervägen",Hallands län,Halmstad,Klövervägen,Haverdal,4,6,2,3,2,0,56.729155,12.670737,true,false
 1474,"Haverdal, Sommarvägen",Hallands län,Halmstad,Sommarvägen,Haverdal,2,2,1,1,1,0,56.72108,12.670917,true,false
 1475,"Holm, Gamla Göteborgsvägen",Hallands län,Halmstad,Gamla Göteborgsvägen,Holm,2,3,1,2,1,0,56.733355,12.859832,true,false
 1476,"Johansfors, Draredsvägen",Hallands län,Halmstad,Draredsvägen,Johansfors,2,2,1,1,1,0,56.839308,12.982207,true,false
@@ -3900,7 +3900,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15771,Hovgården (ÅVC),Uppsala län,Uppsala,Östhammarsvägen,Uppsala,2,1,1,1,1,0,59.928745,17.775018,false,false
 15772,Nolängens ÅVC,Västra Götalands län,Bengtsfors,Nolängens ÅVC Steneby			,Steneby,2,1,1,4,1,0,58.96345,12.205792,true,false
 15774,Kavahedens ÅVC/Gällivare,Norrbottens län,Gällivare,Kavaheden,Gällivare,2,1,1,1,1,0,67.154033,20.737017,false,false
-15775,Harads ÅVC,Norrbottens län,Boden,,Boden,2,0,0,0,1,0,66.09778,20.94417,false,false
+15775,Harads ÅVC,Norrbottens län,Boden,,Boden,3,0,0,0,1,0,66.09778,20.94417,false,false
 15776,Gränna,Jönköpings län,Jönköping,Lars Hillings Gränd,Gränna,4,2,1,1,1,0,58.016393,14.45458,false,false
 15777,Hovslätt / Grästorpsvägen,Jönköpings län,Jönköping,Hovslätt / Grästorpsvägen,Hovslätt,2,1,1,1,1,0,57.736633,14.126453,true,false
 15778,Maden,Jönköpings län,Jönköping,Maden,Huskvarna,2,1,1,1,2,0,57.79750,14.27528,false,false

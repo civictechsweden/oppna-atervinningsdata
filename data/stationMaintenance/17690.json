@@ -26,19 +26,19 @@
     {
         "material": "Plastförpackningar",
         "materialid": "16",
-        "senaktivitet": "2023-11-17T06:02:01",
-        "nastaaktivitet": "2023-11-21T00:00:00"
+        "senaktivitet": "2023-11-21T06:01:17",
+        "nastaaktivitet": "2023-11-24T00:00:00"
     },
     {
         "material": "Ofärgade glasförpackningar",
         "materialid": "18",
-        "senaktivitet": "2023-11-07T11:36:26",
+        "senaktivitet": "2023-11-21T11:27:39",
         "nastaaktivitet": null
     },
     {
         "material": "Färgade glasförpackningar",
         "materialid": "19",
-        "senaktivitet": "2023-11-07T11:36:26",
+        "senaktivitet": "2023-11-21T11:27:39",
         "nastaaktivitet": null
     }
 ]
