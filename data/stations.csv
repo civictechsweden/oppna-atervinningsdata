@@ -58,8 +58,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 224,"Torpgärdan, G:a Lulevägen/Industrivägen",Norrbottens län,Boden,Industrivägen,Boden,2,2,1,1,1,0,65.81045,21.726143,true,false
 228,"Unbyn, Avloppsreningsverket",Norrbottens län,Boden,,Boden,4,2,1,2,1,0,65.713552,21.763047,true,false
 231,"Vittjärv, Skjutbanevägen",Norrbottens län,Boden,Skjutbanevägen,Boden,2,1,1,1,1,0,65.84913,21.598443,true,false
-241,ICA/Servus,Gävleborgs län,Bollnäs,Storgatan 26,Arbrå,2,1,1,1,1,0,61.47111,16.37806,true,false
-244,Forum,Gävleborgs län,Bollnäs,Storgatan  ,Arbrå,2,2,1,1,1,0,61.46806,16.37750,true,false
 253,Rektorgatan 10-12,Gävleborgs län,Bollnäs,Rektorgatan 10-12,Bollnäs,2,1,1,1,1,0,61.34722,16.39750,false,false
 254,Sävesta Hemköp,Gävleborgs län,Bollnäs,Aseavägen,Bollnäs,2,2,1,1,1,0,61.34250,16.38194,true,false
 257,Affären Konsum,Gävleborgs län,Bollnäs,"Affären, Konsum",Hällbo,2,1,1,1,1,0,61.221115,16.421567,true,false
@@ -1298,7 +1296,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7853,"Nolered, Gamla Tumlehedsvägen 7",Västra Götalands län,Göteborg,Gamla Tumlehedsvägen 7,Nolered,2,3,1,1,1,0,57.72304,11.760162,true,false
 7854,"Tuve, skolan",Västra Götalands län,Göteborg,Tångenvägen 11,Tuve,2,2,1,2,1,0,57.759538,11.934038,true,false
 7855,"Tuve, p-däck, infart Nolehultsvägen",Västra Götalands län,Göteborg,Norumshöjd,Tuve,2,4,1,1,1,0,57.757825,11.924472,true,false
-7856,"Tuve, p-plats infart Glöstorpsvägen",Västra Götalands län,Göteborg,Norumshöjd 1,Tuve,2,3,1,1,1,0,57.754645,11.923982,true,false
 7857,"Tuve, vändplan",Västra Götalands län,Göteborg,Brunnehagen 1,Tuve,2,3,1,1,1,0,57.75035,11.926363,true,false
 7858,"Tuve, Arvesgärde 13-14",Västra Götalands län,Göteborg,Arvesgärde 13-14,Tuve,2,3,1,1,1,0,57.751775,11.925105,true,false
 7860,"Tuve, Bäcktuvevägen/Bäckedalsvägen",Västra Götalands län,Göteborg,Bäcktuvevägen/Bäckedalsvägen,Tuve,2,3,1,1,1,0,57.734507,11.941418,true,false
@@ -1905,7 +1902,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9503,Fröjas väg/Idunvägen,Stockholms län,Nynäshamn,,Nynäshamn,3,4,1,2,1,0,58.900498,17.933852,true,false
 9504,Heimdalsvägen 11,Stockholms län,Nynäshamn,,Nynäshamn,2,0,0,0,0,0,58.904783,17.938287,false,false
 9506,Marstavägen 2A,Stockholms län,Nynäshamn,,Stora Vika,2,3,1,2,1,0,58.952872,17.789853,true,false
-9507,P-plats Sunnerby Livs,Stockholms län,Nynäshamn,Carl Bondes väg/Sunnerbyvägen,Sunnerby,2,3,1,3,1,0,59.020602,17.825628,true,false
+9507,P-plats Sunnerby Livs,Stockholms län,Nynäshamn,Carl Bondes väg/Sunnerbyvägen,Sunnerby,2,0,0,0,1,0,59.020602,17.825628,true,false
 9508,Vid Torö Livs,Stockholms län,Nynäshamn,Torövägen,Torö,3,6,1,2,1,0,58.826432,17.839892,true,false
 9509,P-plats Ica,Stockholms län,Nynäshamn,Ösmo centrum,Ösmo,2,6,2,4,2,0,58.982673,17.893553,true,false
 9510,Värmecentral,Stockholms län,Nynäshamn,Maria Barkmans väg/Skyttes väg,Ösmo,2,2,1,2,1,0,58.991662,17.889083,true,false
