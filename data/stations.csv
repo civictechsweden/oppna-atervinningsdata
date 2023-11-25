@@ -1897,12 +1897,10 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9494,Hamnviksvägen,Stockholms län,Nynäshamn,Hamnviksvägen/Sandskogsvägen,Nynäshamn,2,6,1,3,1,0,58.894605,17.93573,true,false
 9497,P-plats Furustigen,Stockholms län,Nynäshamn,Estövägen 7,Nynäshamn,2,3,1,3,1,0,58.895913,17.928433,true,false
 9499,P-plats,Stockholms län,Nynäshamn,Backluravägen 11 C,Nynäshamn,2,3,1,2,1,0,58.913948,17.939482,true,false
-9500,Vid Gatukök,Stockholms län,Nynäshamn,Alkärrsplan,Nynäshamn,2,6,1,3,1,0,58.904107,17.944765,true,false
 9501,Vändplan,Stockholms län,Nynäshamn,Backluravägen,Nynäshamn,2,2,1,2,1,0,58.910302,17.932433,true,false
 9503,Fröjas väg/Idunvägen,Stockholms län,Nynäshamn,,Nynäshamn,3,4,1,2,1,0,58.900498,17.933852,true,false
 9504,Heimdalsvägen 11,Stockholms län,Nynäshamn,,Nynäshamn,2,0,0,0,0,0,58.904783,17.938287,false,false
 9506,Marstavägen 2A,Stockholms län,Nynäshamn,,Stora Vika,2,3,1,2,1,0,58.952872,17.789853,true,false
-9507,P-plats Sunnerby Livs,Stockholms län,Nynäshamn,Carl Bondes väg/Sunnerbyvägen,Sunnerby,2,0,0,0,1,0,59.020602,17.825628,true,false
 9508,Vid Torö Livs,Stockholms län,Nynäshamn,Torövägen,Torö,3,6,1,2,1,0,58.826432,17.839892,true,false
 9509,P-plats Ica,Stockholms län,Nynäshamn,Ösmo centrum,Ösmo,2,6,2,4,2,0,58.982673,17.893553,true,false
 9510,Värmecentral,Stockholms län,Nynäshamn,Maria Barkmans väg/Skyttes väg,Ösmo,2,2,1,2,1,0,58.991662,17.889083,true,false
@@ -4445,7 +4443,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16943,Liljeholmsstranden,Stockholms län,Stockholm,Liljeholmsstranden 5,Hägersten-Liljeholmen,2,2,1,2,1,0,59.314098,18.027257,false,false
 16944,"Willys, Ekenhuset",Västra Götalands län,Mölndal,Ekenleden 3,Kållered,4,4,2,3,1,0,57.600373,12.046612,false,false
 16946,Idrottsvägen,Jönköpings län,Eksjö,Idrottsvägen 2,Bruzaholm,2,1,1,1,1,0,57.640595,15.272597,true,false
-16948,Gustafstorget ,Dalarnas län,Malung-Sälen,Kärnvägen,Sälen,2,2,1,1,1,0,61.160347,13.1927,false,false
 16949,ICA,Kalmar län,Mönsterås,Alsteråvägen,Ålem,2,2,1,2,1,0,56.955353,16.382178,false,false
 16950,"Trollbärsvägen, ny",Västra Götalands län,Göteborg,Trollbärsvägen 16-18,Västra Frölunda,2,3,1,2,1,0,57.65194,11.89139,false,false
 16951,"Ektorp Centrum, vid ICA",Stockholms län,Nacka,Gamla LAndsvägen 8,Ektorp,2,3,1,2,1,0,59.311757,18.202812,true,false
