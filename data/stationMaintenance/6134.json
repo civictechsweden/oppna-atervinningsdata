@@ -14,8 +14,8 @@
     {
         "material": "Pappersförpackningar",
         "materialid": "5",
-        "senaktivitet": "2023-12-02T08:56:25",
-        "nastaaktivitet": "2023-12-04T00:00:00"
+        "senaktivitet": "2023-12-04T07:49:05",
+        "nastaaktivitet": "2023-12-09T00:00:00"
     },
     {
         "material": "Tidningar",
@@ -32,13 +32,13 @@
     {
         "material": "Ofärgade glasförpackningar",
         "materialid": "18",
-        "senaktivitet": "2023-09-20T14:08:52",
+        "senaktivitet": "2023-12-04T07:13:50",
         "nastaaktivitet": null
     },
     {
         "material": "Färgade glasförpackningar",
         "materialid": "19",
-        "senaktivitet": "2023-09-20T14:08:52",
+        "senaktivitet": "2023-12-04T07:13:50",
         "nastaaktivitet": null
     }
 ]

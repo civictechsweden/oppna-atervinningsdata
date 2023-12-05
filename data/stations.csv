@@ -2095,7 +2095,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9981,Smögen ICA Nära,Västra Götalands län,Sotenäs,ICA Nära f.d. Ankaret,Smögen,4,2,1,1,1,0,58.362812,11.233782,true,false
 9982,Todderöd Bygdegården vid Todderödskola,Västra Götalands län,Sotenäs,Bygdegården vid Todderödskola,Todderöd,2,1,1,1,1,0,58.409848,11.335168,true,false
 9983,Väjern Parkeringen,Västra Götalands län,Sotenäs,Parkeringen,Väjern,2,1,1,1,1,0,58.379678,11.263158,true,false
-9990,"Staffanstorp, P-plats Färgboden",Skåne län,Staffanstorp,Lagv/Domsagovägen 1,Staffanstorp,2,3,1,1,1,0,55.640293,13.194097,true,false
+9990,"Staffanstorp, P-plats Färgboden",Skåne län,Staffanstorp,Lagv/Domsagovägen 1,Staffanstorp,2,0,0,0,1,0,55.640293,13.194097,true,false
 9993,Jörlandaboden,Västra Götalands län,Stenungsund,Kyrkebyvägen,Jörlanda,3,2,1,1,1,0,57.98653,11.828338,true,false
 9995,P-plats,Västra Götalands län,Stenungsund,Södra vägen,Stenungsund,3,1,1,1,1,0,58.068788,11.821597,true,false
 9997,Kristinedals Förskola,Västra Götalands län,Stenungsund,Uppegårdsvägen 4,Stenungsund,2,1,1,1,1,0,58.064473,11.833495,false,false
@@ -2127,7 +2127,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10040,Glanshammarsgatan 42,Stockholms län,Stockholm,,Enskede-Årsta-Vantör,2,1,1,1,1,0,59.264627,18.010117,true,false
 10042,Holmögaddsvägen 1,Stockholms län,Stockholm, ,Skarpnäck,2,3,1,2,2,0,59.282937,18.115207,true,false
 10043,Rusthållarvägen-Fogdevägen,Stockholms län,Stockholm,,Skarpnäck,2,2,1,1,2,0,59.27687,18.126987,true,false
-10044,Olaus Magnus väg 36,Stockholms län,Stockholm, ,Skarpnäck,2,2,1,1,1,0,59.297422,18.091333,true,false
+10044,Olaus Magnus väg 36,Stockholms län,Stockholm, ,Skarpnäck,2,3,1,1,1,0,59.297422,18.091333,true,false
 10048,Karlskronavägen 2,Stockholms län,Stockholm, ,Skarpnäck,2,3,1,1,1,0,59.293465,18.114863,true,false
 10050,Vid butiken Ekodirekt ,Stockholms län,Stockholm,Gamla Tyresövägen 374,Skarpnäck,2,3,1,1,1,0,59.279557,18.108717,true,false
 10053,Pastellvägen 1,Stockholms län,Stockholm,,Enskede-Årsta-Vantör,2,2,1,1,1,0,59.29412,18.08629,true,false
@@ -2165,7 +2165,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10117,Pontonjärgatan 19,Stockholms län,Stockholm, ,Kungsholmen,2,4,1,1,1,0,59.329067,18.032888,true,false
 10118,Stadshagsvägen 14,Stockholms län,Stockholm,Stadshagsvägen 14,Kungsholmen,2,2,1,1,1,0,59.336347,18.02141,true,false
 10122,Korsning Tegelbruksvägen/Nyborgsgränd,Stockholms län,Stockholm,Nyborgsgränd 1,Hägersten-Liljeholmen,2,3,1,1,1,0,59.30307,18.012158,true,false
-10124,"Aspuddens centrum, vid T-banan",Stockholms län,Stockholm,Schlytersvägen 60 / Erik Segersälls väg,Hägersten-Liljeholmen,2,3,1,2,1,0,59.306653,18.000558,false,false
+10124,"Aspuddens centrum, vid T-banan",Stockholms län,Stockholm,Schlytersvägen 60 / Erik Segersälls väg,Hägersten-Liljeholmen,2,4,1,2,1,0,59.306653,18.000558,false,false
 10125,Nitvägen 26,Stockholms län,Stockholm, ,Hägersten-Liljeholmen,2,2,1,1,1,0,59.291745,17.991282,true,false
 10126,Lusuddsvägen 4,Stockholms län,Stockholm, ,Hägersten-Liljeholmen,2,2,1,1,1,0,59.31612,18.015157,true,false
 10128,Fregattvägen 29,Stockholms län,Stockholm,,Hägersten-Liljeholmen,2,2,1,1,1,0,59.313887,18.005625,true,false
@@ -2205,7 +2205,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10223,Basgränd,Stockholms län,Stockholm,Bredvid Hemköp,Hässelby-Vällingby,2,3,1,2,1,0,59.383353,17.865367,true,false
 10224,Kirunagatan 29,Stockholms län,Stockholm, ,Hässelby-Vällingby,2,4,1,2,1,0,59.365445,17.861817,true,false
 10240,Valla Torg 63,Stockholms län,Stockholm,,Enskede-Årsta-Vantör,2,2,1,1,1,0,59.2937,18.050435,true,false
-10242,Sköntorpsvägen 18,Stockholms län,Stockholm, ,Enskede-Årsta-Vantör,2,3,1,2,1,0,59.298148,18.066843,true,false
+10242,Sköntorpsvägen 18,Stockholms län,Stockholm, ,Enskede-Årsta-Vantör,2,4,1,2,1,0,59.298148,18.066843,true,false
 10243,Skälderviksplan 3,Stockholms län,Stockholm, ,Enskede-Årsta-Vantör,2,2,1,1,1,0,59.298875,18.033593,true,false
 10244,Siljansvägen 75,Stockholms län,Stockholm, ,Enskede-Årsta-Vantör,2,2,1,1,1,0,59.29934,18.04138,false,false
 10248,Gullmarsvägen 7,Stockholms län,Stockholm, ,Enskede-Årsta-Vantör,2,3,1,2,1,0,59.298568,18.078205,true,false
@@ -2474,7 +2474,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10872,Sikvägen 27-29/Siklöjvägen,Stockholms län,Tyresö,,Bollmora,2,2,1,1,1,0,59.248777,18.235952,true,false
 10873,Fornuddsparken p-plats,Stockholms län,Tyresö,Fornuddsvägen/Fornuddsparken,Kumla,2,2,1,2,1,0,59.220017,18.19258,true,false
 10874,"Kumla Allé, p-plats",Stockholms län,Tyresö,Sofiebergsvägen/Kumla Allé,Kumla,2,2,1,2,1,0,59.218315,18.195743,true,false
-10875,Trollbäckens Centrum,Stockholms län,Tyresö,Alléplan,Kumla,2,2,1,2,1,0,59.224175,18.201808,true,false
+10875,Trollbäckens Centrum,Stockholms län,Tyresö,Alléplan,Kumla,2,3,1,2,1,0,59.224175,18.201808,true,false
 10877,Trollbäckens IP,Stockholms län,Tyresö,Skolvägen,Näsby,2,2,1,2,1,0,59.224845,18.220372,true,false
 10878,Parkering Granängsringen,Stockholms län,Tyresö,Granängsringen 25-20,Näsby,2,2,1,2,1,0,59.23498,18.232055,true,false
 10880,Mellanbergsvägen/Njupskärrsvägen,Stockholms län,Tyresö,,Näsby,2,3,1,1,1,0,59.238653,18.220878,true,false
@@ -3821,7 +3821,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15661,Kyrktjärns (ÅVC),Västerbottens län,Bjurholm,Kyrktjärn,Bjurholm,2,4,1,4,1,0,63.920375,19.286383,false,false
 15665,Hällaryd (ÅVC),Blekinge län,Karlshamn,,Karlshamn,2,2,1,1,0,0,56.197482,14.944595,false,false
 15670,Innanför Böda ÅVC,Kalmar län,Borgholm,Mellbödagatan 122,Mellböda,2,3,0,3,1,0,57.230827,17.064463,false,false
-15672,Vikingagatan,Stockholms län,Stockholm,Vid solvändan,Norrmalm,2,3,1,2,1,0,59.343278,18.033652,true,false
+15672,Vikingagatan,Stockholms län,Stockholm,Vid solvändan,Norrmalm,2,4,1,2,1,0,59.343278,18.033652,true,false
 15673,Mellringe (ÅVC),Örebro län,Örebro,Ekersvägen/Runnabyvägen,Örebro,4,4,1,9,2,0,59.302443,15.156138,false,false
 15675,Bjuv ÅVC,Skåne län,Bjuv,Verkstadsgatan ,Bjuv,4,4,1,2,1,0,56.076205,12.934313,false,false
 15676,Tomtebogatan,Stockholms län,Stockholm,Tomtebogatan  6   /  Birkagatan,Norrmalm,2,5,1,1,1,0,59.341397,18.036248,true,false
