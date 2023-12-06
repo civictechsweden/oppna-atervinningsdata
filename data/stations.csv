@@ -326,7 +326,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1831,"Rosenfors, Mittemot Medborgarhuset",Kalmar län,Hultsfred,Häradsvägen,Rosenfors,2,1,1,1,1,0,57.36652,15.837353,true,false
 1832,"Silverdalen, Idrottsplatsen/Idrottshall",Kalmar län,Hultsfred,Parkvägen,Silverdalen,2,2,1,2,1,0,57.541985,15.744245,false,false
 1833,"Vena, Langs Livs",Kalmar län,Hultsfred,Kristdalavägen,Vena,2,1,1,1,1,0,57.522012,15.967753,true,false
-1835,"Virserum, vid ICA Krysset",Kalmar län,Hultsfred,Södra Järnvägsgatan,Virserum,2,4,1,2,1,0,57.320368,15.574897,true,false
+1835,Krokvägen,Kalmar län,Hultsfred,Krokvägen,Virserum,2,4,1,2,1,0,57.320368,15.574897,false,false
 1838,Drängsered,Hallands län,Hylte,Tornåsvägen,Drängsered,2,1,1,1,1,0,57.017967,12.961068,true,false
 1842,Kinnared,Hallands län,Hylte,Fasanvägen/Åmotvägen,Kinnared,2,1,1,1,1,0,57.021977,13.108427,true,false
 1843,Landeryd,Hallands län,Hylte,Stationen,Landeryd,2,1,1,1,1,0,57.077863,13.268242,true,false
@@ -2095,7 +2095,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9981,Smögen ICA Nära,Västra Götalands län,Sotenäs,ICA Nära f.d. Ankaret,Smögen,4,2,1,1,1,0,58.362812,11.233782,true,false
 9982,Todderöd Bygdegården vid Todderödskola,Västra Götalands län,Sotenäs,Bygdegården vid Todderödskola,Todderöd,2,1,1,1,1,0,58.409848,11.335168,true,false
 9983,Väjern Parkeringen,Västra Götalands län,Sotenäs,Parkeringen,Väjern,2,1,1,1,1,0,58.379678,11.263158,true,false
-9990,"Staffanstorp, P-plats Färgboden",Skåne län,Staffanstorp,Lagv/Domsagovägen 1,Staffanstorp,2,0,0,0,1,0,55.640293,13.194097,true,false
 9993,Jörlandaboden,Västra Götalands län,Stenungsund,Kyrkebyvägen,Jörlanda,3,2,1,1,1,0,57.98653,11.828338,true,false
 9995,P-plats,Västra Götalands län,Stenungsund,Södra vägen,Stenungsund,3,1,1,1,1,0,58.068788,11.821597,true,false
 9997,Kristinedals Förskola,Västra Götalands län,Stenungsund,Uppegårdsvägen 4,Stenungsund,2,1,1,1,1,0,58.064473,11.833495,false,false
@@ -2263,7 +2262,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10375,Dragonplan Rissne Centrum,Stockholms län,Sundbyberg,,Rissne,2,5,1,2,1,0,59.376227,17.941365,true,true
 10377,"Simhallen Bergaliden, Sundbybergs IP",Stockholms län,Sundbyberg,Fredsgränd 2,Sundbyberg,3,3,1,1,1,0,59.368538,17.965545,true,true
 10387,Alnö Brandstationen,Västernorrlands län,Sundsvall,Slupvägen 1,Alnö,4,4,1,3,1,0,62.422582,17.429085,false,false
-10394,Bydalen Norra vägen,Västernorrlands län,Sundsvall,Norra vägen 10,Sundsvall,2,3,2,2,1,0,62.415488,17.341383,false,false
+10394,Bydalen Norra vägen,Västernorrlands län,Sundsvall,Norra vägen 10,Sundsvall,2,3,1,2,1,0,62.415488,17.341383,false,false
 10397,Granlo ,Västernorrlands län,Sundsvall,Vikingavägen 43,Sundsvall,2,1,1,1,1,0,62.404478,17.257057,false,false
 10399,Granlo Vikingavägen/Västra vägen,Västernorrlands län,Sundsvall,Vikingavägen 77,Sundsvall,2,2,1,1,1,0,62.405533,17.244505,false,false
 10400,Granloholm Granloholms kyrka,Västernorrlands län,Sundsvall,Varbergsvägen,Sundsvall,2,1,1,1,1,0,62.410352,17.270123,false,false
@@ -4859,7 +4858,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17744,Gällö ÅVC,Jämtlands län,Bräcke,Industriområdet 113,Gällö,2,1,1,1,1,0,62.90972,15.26861,true,false
 17745,Industrivägen,Norrbottens län,Pajala,Industrivägen 4,Korpilombolo,2,2,1,2,1,0,66.84750,23.06000,false,false
 20297,Nära Gulfmacken,Skåne län,Burlöv,Domsagovägen /Lagvägen,Staffanstorp,2,5,1,2,1,0,55.64000,13.19388,false,false
-20298,Staffanstorps ÅVC,Skåne län,Burlöv,Flisvägen,Staffanstorp,4,2,0,2,1,0,55.65055,13.23472,false,false
+20298,Staffanstorps ÅVC,Skåne län,Burlöv,Flisvägen,Staffanstorp,4,2,1,2,1,0,55.65055,13.23472,false,false
 20300,Stora Blåsjön - Campingen,Jämtlands län,Strömsund,,Stora Blåsjön,3,2,1,1,1,0,64.83666,14.08194,false,false
 70291,Kanntorpsgatan,Södermanlands län,Katrineholm,Kanntorpsgatan,Sköldinge,2,2,1,1,1,0,59.02611,16.44944,false,false
 70293,ÅVS inne på ÅVC Vantör,Stockholms län,Stockholm,Kvicksunsvägen 14A,Bandhagen,2,2,1,2,1,0,59.25722,18.05722,false,false
