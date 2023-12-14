@@ -2244,7 +2244,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 10355,Sydkoster Affären,Västra Götalands län,Strömstad,Torget 2,Syd-Koster,2,0,0,0,1,0,58.88500,11.02917,false,false
 10356,Ekenäs,Västra Götalands län,Strömstad,Ekenäs Brygga,Syd-Koster,2,0,0,0,0,0,58.89389,11.04083,false,false
 10358,Backe Hälsocentralen,Jämtlands län,Strömsund,Lasarettsvägen 18,Backe,2,3,1,3,1,0,63.80806,16.40667,true,false
-10359,Stora Blåsjön ICA Blåsjöfjäll,Jämtlands län,Strömsund,,Blåsjön,2,0,0,0,0,0,64.83056,14.11583,false,false
 10361,Hammerdal Gamla Konsum,Jämtlands län,Strömsund,Storgatan,Hammerdal,4,3,1,2,1,0,63.579862,15.352317,false,false
 10362,Hoting Fokets Hus,Jämtlands län,Strömsund,Parkgatan 1,Hoting,3,2,1,2,1,0,64.117688,16.20509,true,false
 10363,"Gubbhögen, Flåsjö Bua",Jämtlands län,Strömsund,Gubbhögen 600,Gubbhögen,2,1,1,1,1,0,64.217068,15.566533,true,false
@@ -2774,7 +2773,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11593,Fränsta ,Västernorrlands län,Ånge,Kyrkrèn 8,Fränsta,2,2,1,2,1,0,62.496048,16.171422,true,false
 11595,"Kölsillre, Kölsillre Handel",Västernorrlands län,Ånge,,Östavall,2,1,1,1,1,0,62.398202,15.209382,true,false
 11596,Ljungaverk,Västernorrlands län,Ånge,Fredriksgatan ,Ljungaverk,2,1,1,1,1,0,62.492508,16.04953,false,false
-11598,"Torpshammar, Konsum",Västernorrlands län,Ånge,Torpshammarsvägen 3,Torpshammar,2,3,1,1,1,0,62.474437,16.331518,true,false
+11598,"Torpshammar, Konsum",Västernorrlands län,Ånge,Torpshammarsvägen 3,Torpshammar,2,2,1,1,1,0,62.474437,16.331518,true,false
 11600,"Ånge, ICA Ånge",Västernorrlands län,Ånge,N. Borgsjövägen 24,Ånge,2,2,1,2,1,0,62.524337,15.675408,false,false
 11601,Östavall,Västernorrlands län,Ånge,Förrådsvägen,Östavall,2,1,1,1,1,0,62.427795,15.477627,false,false
 11602,"Överturingen, tankstationen",Västernorrlands län,Ånge,,Överturingen,2,1,1,1,1,0,62.450733,14.919022,false,false
@@ -4305,7 +4304,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 16591,ÅVC Högberget,Västernorrlands län,Kramfors,Högbergsvägen 10,Nyland,2,1,1,1,0,0,62.957793,17.724723,false,false
 16595,Stengatan,Kalmar län,Oskarshamn,Stengatan 19,Oskarshamn,2,2,1,1,1,0,57.25931,16.442015,true,false
 16630,Willy Brandts Park/Fotbollsplanen,Stockholms län,Stockholm,Finn Malmgrens väg ,Skarpnäck,2,2,1,1,1,0,59.295593,18.107423,true,false
-16636,Ånge Centrum,Västernorrlands län,Ånge,Kommunparkeringen Centralgatan,Ånge,2,1,1,1,1,0,62.525958,15.658395,true,false
+16636,Ånge Centrum,Västernorrlands län,Ånge,Kommunparkeringen Centralgatan,Ånge,2,2,1,1,1,0,62.525958,15.658395,true,false
 16637,Marsvägen 1,Örebro län,Kumla,Marsvägen 1,Kumla,2,2,1,2,1,0,59.130223,15.118323,true,false
 16638,Polhemsgatan/P O Hallmans gata,Stockholms län,Stockholm,Polhemsgatan 37,Kungsholmen,2,2,1,1,1,0,59.335228,18.039063,true,false
 16639,Ekhagsvägen/Åminnevägen,Stockholms län,Stockholm,Åminnevägen,Östermalm,2,1,1,1,1,0,59.370832,18.05409,true,false
@@ -4857,6 +4856,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 20297,Nära Gulfmacken,Skåne län,Burlöv,Domsagovägen /Lagvägen,Staffanstorp,2,5,1,2,1,0,55.64000,13.19388,false,false
 20298,Staffanstorps ÅVC,Skåne län,Burlöv,Flisvägen,Staffanstorp,4,2,1,2,1,0,55.65055,13.23472,false,false
 20300,Stora Blåsjön - Campingen,Jämtlands län,Strömsund,,Stora Blåsjön,3,2,1,1,1,0,64.83666,14.08194,false,false
+20301,Gammelgårdens parkering,Uppsala län,Tierp,Parkgatan,Tierp,4,3,1,2,1,0,60.34888,17.51055,false,false
 70291,Kanntorpsgatan,Södermanlands län,Katrineholm,Kanntorpsgatan,Sköldinge,2,2,1,1,1,0,59.02611,16.44944,false,false
 70293,ÅVS inne på ÅVC Vantör,Stockholms län,Stockholm,Kvicksunsvägen 14A,Bandhagen,2,2,1,2,1,0,59.25722,18.05722,false,false
 70295,Ica Supermarket Örbyhus,Uppsala län,Tierp,Bruksvägen,Örbyhus,4,3,1,3,1,0,60.22555,17.70555,true,false
