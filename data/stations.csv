@@ -3202,7 +3202,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 13188,Ringvägen Mällby,Västra Götalands län,Strömstad, Ringvägen,Strömstad,3,2,1,1,1,0,58.957072,11.178797,true,false
 13189,"Norsbro, Allmoge Snickeri",Dalarnas län,Leksand,Norsbro,Leksand,2,2,1,1,1,0,60.731245,15.013913,true,false
 13191,"Fornby, vid reningsverket",Dalarnas län,Leksand,,Siljansnäs,2,1,1,1,1,0,60.763605,14.931953,true,false
-13192,Ormsta järnvägsstation,Stockholms län,Vallentuna,Banvägen/Snapptunavägen,Vallentuna,2,3,1,2,1,0,59.54695,18.079258,true,true
+13192,Ormsta järnvägsstation,Stockholms län,Vallentuna,Banvägen/Snapptunavägen,Vallentuna,2,4,1,2,1,0,59.54695,18.079258,true,true
 13195,Anders Blomstrands väg (Netto),Jönköpings län,Jönköping,Anders Blomstrands väg,Jönköping,2,2,1,1,1,0,57.800963,14.149455,true,false
 13196,Rosenbergsg,Jönköpings län,Jönköping,Rosenbergsgatan 10,Jönköping,2,1,1,1,1,0,57.779698,14.19425,true,false
 13197,Saturnusplan,Jönköpings län,Jönköping,Saturnusvägen/Gillesgatan,Jönköping,2,2,1,1,1,0,57.781622,14.20941,true,false
@@ -4648,7 +4648,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17372,Kastmansgatan (Vågen),Kalmar län,Torsås,Kastmansgatan 100,Bergkvara,2,2,1,1,1,0,56.386198,16.081495,true,false
 17373,Skolhusvägen (Stora Herrestad),Skåne län,Ystad,Skolhusvägen,Ystad,2,1,1,1,1,0,55.472573,13.87382,true,false
 17377,Östberga Återvinningscentral,Stockholms län,Stockholm,Bussens väg,Enskede,4,0,0,2,1,0,59.285977,18.046305,false,false
-17378,Vantörs återvinningcentral (Utanför),Stockholms län,Stockholm,Kvicksundsvägen,Bandhagen,2,2,1,2,1,0,59.257768,18.058253,false,false
+17378,Vantörs återvinningcentral (Utanför),Stockholms län,Stockholm,Kvicksundsvägen,Bandhagen,2,0,0,0,1,0,59.257768,18.058253,false,false
 17379,Bromma Återvinningcentral,Stockholms län,Stockholm,Linta Gårdsväg16,Bromma,5,2,1,2,1,0,59.348148,17.94994,false,false
 17380,Lövsta Återvinningscentral,Stockholms län,Stockholm,Lövstavägen 493,Hässelby,3,5,2,4,1,0,59.386962,17.792227,false,false
 17381,Överlida,Västra Götalands län,Svenljunga,Hallavägen 6,Överlida,2,1,1,2,0,0,57.35083,12.89583,false,false
