@@ -190,7 +190,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 933,Djurås söder om Ica,Dalarnas län,Gagnef,Smed Ollesväg/S Industrivägen,Djurås,2,2,1,1,1,0,60.558387,15.140738,true,false
 934,Djurås Konsum,Dalarnas län,Gagnef,,Djurås,2,2,1,1,1,0,60.56097,15.130265,true,false
 935,Gagnefhallen ICA,Dalarnas län,Gagnef,Tyskens väg 2,Gagnef,4,2,1,2,1,0,60.59546,15.082608,true,false
-936,Mockfjärd IOGT,Dalarnas län,Gagnef,,Mockfjärd,2,2,1,1,1,0,60.499302,14.965115,true,false
+936,Mockfjärd IOGT,Dalarnas län,Gagnef,,Mockfjärd,3,2,1,1,1,0,60.499302,14.965115,true,false
 937,Mockfjärd -rest Jerusalem,Dalarnas län,Gagnef,,Mockfjärd,2,2,1,2,1,0,60.509178,14.962302,false,false
 938,Furuborgsvägen,Jönköpings län,Gislaved,Furuborgsvägen,Anderstorp,3,2,1,1,1,0,57.2823,13.628795,false,false
 940,Norravägen,Jönköpings län,Gislaved,Norravägen,Broaryd,4,2,1,1,1,0,57.121675,13.255577,true,false
@@ -348,7 +348,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1909,Härnösand Tempo Tullporten,Västernorrlands län,Härnösand,Tunnelplan,Härnösand,2,2,1,1,1,0,62.627712,17.922703,true,false
 1910,Härnösand Ångströmsgatan,Västernorrlands län,Härnösand,Ångströmsgatan 4,Härnösand,2,2,1,1,1,0,62.62525,17.965417,true,false
 1912,"Hindås, OK/Q8",Västra Götalands län,Härryda,Hindås Stationsväg,Hindås,2,2,1,2,1,0,57.70389,12.44250,true,false
-1913,"Hindås, Vid Järnvägsstationen",Västra Götalands län,Härryda,Hindås stationsväg,Hindås,2,3,1,2,1,0,57.704208,12.449858,true,false
+1913,"Hindås, Vid Järnvägsstationen",Västra Götalands län,Härryda,Hindås stationsväg,Hindås,2,2,1,2,1,0,57.704208,12.449858,true,false
 1917,"Landvetter, Pendelparkering",Västra Götalands län,Härryda,Brattåsvägen 32,Landvetter,3,3,2,3,2,0,57.68777,12.20785,true,false
 1919,"Landvetter, Tennishallen",Västra Götalands län,Härryda,Kyrkvägen,Landvetter,2,2,1,2,1,0,57.682757,12.207683,true,false
 1920,Pendelparkeringen,Västra Götalands län,Härryda,Salmeredsvägen,Landvetter,2,3,1,2,1,0,57.69333,12.21639,true,false
@@ -1823,7 +1823,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 9235,"Nordmaling, Värmeverket",Västerbottens län,Nordmaling,Hemvägen,Nordmaling,2,3,1,2,1,0,63.563882,19.502513,false,false
 9237,"Nyåker, Isbanan",Västerbottens län,Nordmaling,,Nyåker,2,2,1,1,1,0,63.760855,19.313388,true,false
 9239,Arkösunds Livs,Östergötlands län,Norrköping,Vikbolandet,Arkösund,6,3,1,2,1,0,58.49027,16.93583,false,false
-9272,p-plats,Östergötlands län,Norrköping,Skogvaktaregatan,Eneby,2,1,1,1,1,0,58.607003,16.144977,true,false
 9283,City Gross,Östergötlands län,Norrköping,Malmgatan 41,Ingelsta,2,2,1,1,1,0,58.617513,16.172838,false,false
 9284,ICA Maxi,Östergötlands län,Norrköping,Koppargatan,Ingelsta,4,2,1,1,1,0,58.620332,16.15647,true,false
 9286,P-plats f.d. affären,Östergötlands län,Norrköping,Jurslavägen,Jursla,2,2,1,1,1,0,58.654763,16.162125,true,false
@@ -3652,7 +3651,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15402,Turbinvägen,Dalarnas län,Ludvika,Ludvika,Ludvika,2,1,1,1,1,0,60.11918,15.183545,true,false
 15403,Äskya tippen (ÅVC),Kronobergs län,Älmhult,,Älmhult,2,2,1,4,1,0,56.560668,14.162548,true,false
 15404,Fågelmyra (ÅVC),Dalarnas län,Borlänge,,Borlänge,4,0,0,0,1,0,60.52833,15.50278,false,false
-15405,"Täktberget, Djurås (ÅVC)",Dalarnas län,Gagnef,Södra Industrivägen 21,Djurås,4,3,2,3,2,0,60.55694,15.14889,false,false
+15405,"Täktberget, Djurås (ÅVC)",Dalarnas län,Gagnef,Södra Industrivägen 21,Djurås,6,3,2,3,2,0,60.55694,15.14889,false,false
 15406,Limhagen (ÅVC),Dalarnas län,Leksand,,Leksand,7,3,3,7,4,0,60.74750,14.99278,true,false
 15407,Drafsån (ÅVC),Dalarnas län,Rättvik,Österängsvägen 55,Drafsån,4,2,3,4,2,0,60.883758,15.211203,true,false
 15408,Nortippen (ÅVC),Dalarnas län,Smedjebacken,,Smedjebacken,2,1,1,2,1,0,60.076533,15.588985,false,false
@@ -4519,7 +4518,6 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17138,Torparängsvägen,Kronobergs län,Växjö,Torparängsvägen,Växjö,2,2,1,2,1,0,56.85500,14.80556,false,false
 17140,Artillerigatan/Infanterigatan,Jönköpings län,Vaggeryd,Artillerigatan/Infanterigatan,Skillingaryd,4,2,1,1,1,0,57.42694,14.09639,true,false
 17142,Skiftinge Centrum,Södermanlands län,Eskilstuna,"Karl Hovbergsgatan, P-plats",Eskilstuna,2,1,1,1,1,0,59.390442,16.53725,false,false
-17143,Grevegatan 29 ,Uppsala län,Tierp,Grevegatan 29,Tierp,4,3,1,2,1,0,60.347965,17.509003,false,false
 17144,Sjökvarnsbackens vändplan,Stockholms län,Nacka,Sjökvarnsbacken,Kvarnholmen,2,2,1,2,1,0,59.313825,18.107277,true,false
 17145,Vändplan Nyfors,Stockholms län,Tyresö,Nyforsvägen/Myggdalsvägen,Nyfors,2,3,2,2,2,0,59.226555,18.260433,true,false
 17148,Ribergsborgsstigen,Skåne län,Malmö,Ribergsborgsstigen/Geijersgatan P-plats,Limhamn,2,2,1,2,1,0,55.591883,12.938545,false,false
