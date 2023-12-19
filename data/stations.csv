@@ -350,7 +350,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 1912,"Hindås, OK/Q8",Västra Götalands län,Härryda,Hindås Stationsväg,Hindås,2,2,1,2,1,0,57.70389,12.44250,true,false
 1913,"Hindås, Vid Järnvägsstationen",Västra Götalands län,Härryda,Hindås stationsväg,Hindås,2,2,1,2,1,0,57.704208,12.449858,true,false
 1917,"Landvetter, Pendelparkering",Västra Götalands län,Härryda,Brattåsvägen 32,Landvetter,3,3,2,3,2,0,57.68777,12.20785,true,false
-1919,"Landvetter, Tennishallen",Västra Götalands län,Härryda,Kyrkvägen,Landvetter,2,2,1,2,1,0,57.682757,12.207683,true,false
+1919,"Landvetter, Tennishallen",Västra Götalands län,Härryda,Kyrkvägen,Landvetter,2,1,1,2,1,0,57.682757,12.207683,true,false
 1920,Pendelparkeringen,Västra Götalands län,Härryda,Salmeredsvägen,Landvetter,2,3,1,2,1,0,57.69333,12.21639,true,false
 1921,Bråta ÅVC,Västra Götalands län,Härryda, ,Mölnlycke,4,2,2,2,1,0,57.67028,12.13250,true,false
 1923,"Mölnlycke, Parkeringshuset Mölnlycke Centrum",Västra Götalands län,Härryda,Biblioteksvägen,Mölnlycke,3,4,1,3,1,0,57.65722,12.11250,true,false
@@ -1196,7 +1196,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 7709,"Hagen, Koppargatan/Långedragsvägen",Västra Götalands län,Göteborg,Koppargatan/Långedragsvägen,Hagen,2,3,1,1,1,0,57.678898,11.89561,true,false
 7710,"Hagen, p-plats",Västra Götalands län,Göteborg,Långedragsvägen 134,Hagen,2,4,1,1,2,0,57.670615,11.87177,true,false
 7711,"Hagen, Toredammen 2",Västra Götalands län,Göteborg,Toredammen 2,Hagen,2,3,1,1,1,0,57.680298,11.881053,true,false
-7714,"Hammarkullen, Hammarkroken 2",Västra Götalands län,Göteborg,Hammarkroken 2,Hammarkullen,2,2,1,2,1,0,57.778363,12.041227,true,false
+7714,"Hammarkullen, Hammarkroken 2",Västra Götalands län,Göteborg,Hammarkroken 2,Hammarkullen,2,1,1,2,1,0,57.778363,12.041227,true,false
 7715,"Hammarkullen, Hammarkulletorget 35-36",Västra Götalands län,Göteborg,Hammarkulletorget 35-36,Hammarkullen,2,1,1,1,1,0,57.778402,12.039232,true,false
 7720,"Heden, Engelbrektsgatan/Sten Sturegatan",Västra Götalands län,Göteborg,Engelbrektsgatan/Sten Sturegatan,Heden,2,3,1,1,1,0,57.700997,11.982478,true,false
 7722,"Hjällbo, p-plats",Västra Götalands län,Göteborg,Sandspåret 39,Hjällbo,2,3,1,1,1,0,57.767205,12.015308,true,false
@@ -3757,7 +3757,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 15566,Görveln (ÅVC),Stockholms län,Järfälla,Snutenvägen,Järfälla,4,4,1,4,2,0,59.42876,17.802545,false,true
 15569,Kretsloppscentralen i Petterboda (ÅVC),Stockholms län,Tyresö,Strömfallsvägen 73,Tyresö,4,3,1,3,3,0,59.245412,18.250238,false,false
 15570,Brunna kretsloppscentral (ÅVC),Stockholms län,Upplands-Bro,Energivägen 10,Kungsängen,4,2,1,1,1,0,59.510125,17.744308,false,false
-15571,Skällsta kretsloppscentral (ÅVC),Stockholms län,Upplands-Bro,Ullevivägen 6,Bro,3,1,1,1,1,0,59.52417,17.62389,false,false
+15571,Skällsta kretsloppscentral (ÅVC),Stockholms län,Upplands-Bro,Ullevivägen 6,Bro,4,1,1,1,1,0,59.52417,17.62389,false,false
 15576,Bjursås (ÅVC),Dalarnas län,Falun,Savoyväögen 5 (Bakom OK/Q8),Bjursås,2,1,1,1,1,0,60.725735,15.443355,false,false
 15578,Hagalund (ÅVC),Gävleborgs län,Gävle,Norrsundsvägen,Hamrångefjärden,2,1,2,4,1,0,60.91278,17.06917,true,false
 15579,Återbruket Trångfors (ÅVC),Västmanlands län,Hallstahammar,Riksväg 252,Trångsfors,4,1,1,1,2,0,59.63132,16.199082,false,false
