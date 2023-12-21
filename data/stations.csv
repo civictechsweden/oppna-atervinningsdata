@@ -2664,7 +2664,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 11324,p-plats Grisslingebadet,Stockholms län,Värmdö,,Grisslinge,2,7,2,4,2,0,59.312918,18.45244,true,false
 11325,"Vändplan Skyttevägen, Munkmora",Stockholms län,Värmdö,Skyttevägen 25-27,Gustavsberg,2,2,1,1,1,0,59.333625,18.399095,true,false
 11326,Stora parkeringen,Stockholms län,Värmdö,Gustavsbergs Centrum,Gustavsberg,4,5,2,3,1,0,59.32842,18.39352,true,false
-11327,Hemmesta Centrum,Stockholms län,Värmdö,Skärgårdsvägen,Hemmesta,3,5,2,3,1,0,59.322797,18.48756,true,false
+11327,Hemmesta Centrum,Stockholms län,Värmdö,Skärgårdsvägen,Hemmesta,2,5,1,2,1,0,59.322797,18.48756,true,false
 11329,"Fyren Holmviksskogen, Gustavsberg",Stockholms län,Värmdö,Skärgårdsvägen,Gustavsberg,3,6,1,3,2,0,59.31824,18.408787,true,false
 11331,Långvik,Stockholms län,Värmdö,Långviksvägen,Ingarö,2,2,1,1,1,0,59.242923,18.508545,true,false
 11334,Bussvändplats,Stockholms län,Värmdö,Angöringsvägen,Södra Kopparmora,2,4,1,2,1,0,59.338708,18.582825,true,false
@@ -4741,7 +4741,7 @@ id,avs,lan,kommun,adress,ort,glas,kartong,metall,blandplast,tidningar,ejaretrunt
 17525,Gästhamnen,Södermanlands län,Nyköping,Gert Fredrikssons väg,Nyköping,2,0,0,0,0,0,58.74416,17.02138,false,false
 17526,Egnahemsgatan,Jönköpings län,Nässjö,Egnahemsgatan,Nässjö,2,2,1,1,1,0,57.66750,14.69805,false,false
 17527,Returpunkt Norrköping (ÅVC),Östergötlands län,Norrköping,Fridhemsvägen 7,Norrköping,4,4,1,2,1,0,58.59972,16.14555,false,false
-17529,Coop Gökegård,Västra Götalands län,Partille,Öjersjövägen 57,Öjersjö,2,3,1,2,1,0,57.70000,12.13194,false,false
+17529,Coop Gökegård,Västra Götalands län,Partille,Öjersjövägen 57,Öjersjö,2,3,1,2,1,0,57.70000,12.13194,true,false
 17530,Skurup ÅVC (innanför),Skåne län,Skurup,Elleholmsvägen,Skurup,4,2,1,2,1,0,55.486423,13.513993,false,false
 17531,Rosengård,Skåne län,Malmö,Cronmans väg,Malmö,2,4,1,3,1,0,55.58833,13.03500,false,false
 17532,Lindens torg  p-plats,Hallands län,Kungsbacka,Lindens torg,Kungsbacka,2,2,1,2,1,0,57.48305,12.07888,false,false

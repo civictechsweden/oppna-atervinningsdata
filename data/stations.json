@@ -47976,10 +47976,10 @@
         "kommun": "Värmdö",
         "adress": "Skärgårdsvägen",
         "ort": "Hemmesta",
-        "glas": "3",
+        "glas": "2",
         "kartong": "5",
-        "metall": "2",
-        "blandplast": "3",
+        "metall": "1",
+        "blandplast": "2",
         "tidningar": "1",
         "ejaretrunt": "0",
         "latitude": "59.322797",
@@ -85370,7 +85370,7 @@
         "ejaretrunt": "0",
         "latitude": "57.70000",
         "longitude": "12.13194",
-        "batterier": "false",
+        "batterier": "true",
         "rp_extra": "false"
     },
     {
