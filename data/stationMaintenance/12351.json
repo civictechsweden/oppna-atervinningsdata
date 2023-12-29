@@ -9,13 +9,13 @@
         "material": "Metallförpackningar",
         "materialid": "3",
         "senaktivitet": "2023-11-29T10:25:20",
-        "nastaaktivitet": "2023-12-28T00:00:00"
+        "nastaaktivitet": null
     },
     {
         "material": "Pappersförpackningar",
         "materialid": "5",
-        "senaktivitet": "2023-12-27T07:59:59",
-        "nastaaktivitet": "2023-12-28T00:00:00"
+        "senaktivitet": "2023-12-28T10:07:33",
+        "nastaaktivitet": "2023-12-29T00:00:00"
     },
     {
         "material": "Tidningar",
