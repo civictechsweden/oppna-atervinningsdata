@@ -64484,7 +64484,7 @@
         "ort": "Gustavsberg",
         "glas": "4",
         "kartong": "6",
-        "metall": "1",
+        "metall": "2",
         "blandplast": "3",
         "tidningar": "1",
         "ejaretrunt": "0",
@@ -65409,24 +65409,6 @@
         "latitude": "61.79722",
         "longitude": "16.56806",
         "batterier": "true",
-        "rp_extra": "false"
-    },
-    {
-        "id": 15380,
-        "avs": "Jet Nacksta",
-        "lan": "Västernorrlands län",
-        "kommun": "Sundsvall",
-        "adress": "Bultgatan",
-        "ort": "Sundsvall",
-        "glas": "2",
-        "kartong": "1",
-        "metall": "1",
-        "blandplast": "2",
-        "tidningar": "1",
-        "ejaretrunt": "0",
-        "latitude": "62.39288",
-        "longitude": "17.267228",
-        "batterier": "false",
         "rp_extra": "false"
     },
     {
