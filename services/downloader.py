@@ -39,7 +39,7 @@ class Downloader(object):
         self.s.headers = {'Content-Type': 'text/xml;charset=UTF-8'}
 
     def fetch_station_list(self):
-        print(f'Fetching all stations...')
+        print('Fetching all stations...')
 
         soap_query = 'GetAVS'
         data = soap_envelope(soap_query, '<sLan/><sKommun/><lAVSid>0</lAVSid>')

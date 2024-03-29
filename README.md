@@ -40,3 +40,4 @@ station_list = ftiab.get_station_list()
 
 # Getting maintenance info of a station, here station 1.
 maintenance_info = ftiab.get_station_maintenance_info('1')
+```
