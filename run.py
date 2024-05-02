@@ -1,5 +1,3 @@
-import datetime as dt
-import pandas as pd
 import copy
 
 from services.writer import Writer
@@ -42,24 +40,5 @@ for station_info in stations_info:
         category['maintenance'] = category['senaktivitet']
         del category['senaktivitet']
         del category['nastaaktivitet']
-
-    try:
-        maintenance_history = pd.read_csv(f'data/stationMaintenanceHistory/{id}.csv')
-    except (FileNotFoundError, pd.errors.EmptyDataError):
-        maintenance_history = pd.DataFrame.from_dict(categories)
-        maintenance_history.to_csv(f'data/stationMaintenanceHistory/{id}.csv', index=False)
-        continue
-
-    for category in categories:
-        latest_maintenance = maintenance_history.query(f"materialid == {category['materialid']}").tail(1)
-        new_maintenance = pd.DataFrame(category, index=[0])
-
-        def date_for(df):
-            date_string = df['maintenance'].iloc[0].partition('.')[0]
-            return dt.datetime.strptime(date_string, '%Y-%m-%dT%H:%M:%S')
-
-        if latest_maintenance.empty or date_for(new_maintenance) > date_for(latest_maintenance):
-            maintenance_history = pd.concat([maintenance_history, new_maintenance])
-            maintenance_history.to_csv(f'data/stationMaintenanceHistory/{id}.csv', index=False)
 
 Writer.write_json(stations, 'data/stations_with_maintenance.json')
