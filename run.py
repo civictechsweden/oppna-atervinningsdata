@@ -9,7 +9,7 @@ import ftiab
 stations = ftiab.get_station_list()
 #stations = ftiab.get_station_list_from_file()
 
-print(f'Writing station list...')
+print('Writing station list...')
 
 Writer.write_json(stations, 'data/stations.json')
 Writer.write_csv(stations, 'data/stations.csv')

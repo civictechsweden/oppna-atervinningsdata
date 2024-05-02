@@ -1,4 +1,5 @@
-import os, json
+import os
+import json
 
 from services.downloader import Downloader
 from services.parser import Parser
@@ -7,7 +8,7 @@ def get_station_list(downloader=Downloader()):
     return Parser.parse_station_list(downloader.fetch_station_list())
 
 def get_station_list_from_file():
-    with open(f'data/stations.json') as file_json:
+    with open('data/stations.json') as file_json:
         station_list = json.load(file_json)
     return station_list
 
