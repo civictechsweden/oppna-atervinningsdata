@@ -3,5 +3,4 @@ requests_futures==1.0.1
 urllib3==2.2.1
 beautifulsoup4==4.12.3
 lxml==5.1.1
-pandas==2.2.1
 cryptography==42.0.5
