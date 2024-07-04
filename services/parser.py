@@ -32,9 +32,21 @@ class Parser(object):
 
     @staticmethod
     def parse_station_info(response):
+
+        services = response["avs"]["services"]
+
+        clean_services = []
+        for service in services:
+            del service["id"]
+            del service["avsId"]
+            clean_services.append(service)
+
         return {
-            "id": response["avs"]["externalAvsId"],
-            "services": response["avs"]["services"],
+            "id_pair": (
+                response["avs"]["externalAvsId"],
+                response["avs"]["municipalityCode"],
+            ),
+            "services": clean_services,
         }
 
     @staticmethod

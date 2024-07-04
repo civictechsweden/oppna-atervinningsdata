@@ -5,6 +5,10 @@ from services.downloader import Downloader
 from services.parser import Parser
 
 
+def id_pair(station):
+    return (station["id"], station["municipalityCode"])
+
+
 def get_station_list(downloader=Downloader()):
     return Parser.parse_station_list(downloader.fetch_station_list())
 
@@ -29,4 +33,7 @@ def get_stations_info_from_files():
     with open("data/stations_with_services.json") as file_json:
         stations_with_services = json.load(file_json)
 
-    return [{"id": s["id"], "services": s["services"]} for s in stations_with_services]
+    return [
+        {"id_pair": id_pair(s), "services": s["services"]}
+        for s in stations_with_services
+    ]
