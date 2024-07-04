@@ -4,67 +4,36 @@ from requests_futures.sessions import FuturesSession
 from ssl import create_default_context, Purpose
 from urllib3.util import Retry
 
-FTIWS_URL = 'https://ftiws.ftiab.se/fti_ws/fti_ws.asmx?op={}'
-
-def soap_envelope(query, xml_parameters):
-    return f"""<?xml version="1.0" encoding="utf-8"?>
-              <soap12:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://www.w3.org/2003/05/soap-envelope">
-                  <soap12:Body>
-                      <{query} xmlns="http://tempuri.org/">
-                          {xml_parameters}
-                      </{query}>
-                  </soap12:Body>
-              </soap12:Envelope>"""
-
-
-class HttpAdapterWithLegacySsl(HTTPAdapter):
-
-    def __init__(self, **kwargs):
-        OP_LEGACY_SERVER_CONNECT = 4  # Available as ssl.OP_LEGACY_SERVER_CONNECT in Python 3.12
-        self.ssl_context = create_default_context(Purpose.SERVER_AUTH)
-        self.ssl_context.options |= OP_LEGACY_SERVER_CONNECT
-        super().__init__(**kwargs)
-
-    def init_poolmanager(self, *args, **kwargs):
-        HTTPAdapter.init_poolmanager(self, *args, ssl_context=self.ssl_context, **kwargs)
+SOPOR_URL = "https://avfallshubben.avfallsverige.se/umbraco/Api/SoporApi/"
 
 
 class Downloader(object):
 
     def __init__(self):
-        adapter = HttpAdapterWithLegacySsl(max_retries=Retry(total=10, backoff_factor=0.1))
-
         self.s = FuturesSession(max_workers=10)
-        self.s.mount('https://', adapter)
-        self.s.headers = {'Content-Type': 'text/xml;charset=UTF-8'}
 
     def fetch_station_list(self):
-        print('Fetching all stations...')
+        print("Fetching all stations...")
+        future = self.s.get(SOPOR_URL + "GetAllAVS")
 
-        soap_query = 'GetAVS'
-        data = soap_envelope(soap_query, '<sLan/><sKommun/><lAVSid>0</lAVSid>')
+        return future.result().json()
 
-        future = self.s.post(FTIWS_URL.format(soap_query), data=data)
+    def fetch_station_info(self, id_pair):
+        avs_id, municipality_code = id_pair
+        print(f"Fetching service data for station {avs_id}...")
 
-        return future.result().content
+        params = {"externalAvsId": avs_id, "municipalityCode": municipality_code}
+        future = self.s.get(SOPOR_URL + "GetAVS", params=params)
 
-    def fetch_station_maintenance_info(self, id):
-        print(f'Fetching maintenance data for station {id}...')
-
-        soap_query = 'GetAVSStatistik'
-        data = soap_envelope(soap_query, f'<lAvsId>{id}</lAvsId>')
-
-        future = self.s.post(FTIWS_URL.format(soap_query), data=data)
-
-        future.id = id
+        future.id = avs_id
         return future
 
-    def fetch_stations_maintenance_info(self, ids):
-        futures = [self.fetch_station_maintenance_info(id) for id in ids]
+    def fetch_stations_info(self, id_pairs):
+        futures = [self.fetch_station_info(id_pair) for id_pair in id_pairs]
 
         i = 0
         for future in as_completed(futures):
             i += 1
-            print(f'Fetched maintenance data for station {future.id} ({i}/{len(futures)})')
+            print(f"Fetched service data for station {future.id} ({i}/{len(futures)})")
 
-        return [future.result().content for future in futures]
+        return [future.result().json() for future in futures]
