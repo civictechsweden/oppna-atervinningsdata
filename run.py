@@ -29,3 +29,11 @@ for station_info in stations_info:
 
 print("Writing station list with services...")
 Writer.write_json(stations, "data/stations_with_services.json")
+
+services = []
+
+for station in stations:
+    services.extend(station["services"])
+
+print("Writing service list...")
+Writer.write_csv(services, "data/services.csv")
