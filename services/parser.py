@@ -1,7 +1,3 @@
-from bs4 import BeautifulSoup
-import json
-
-
 class Parser(object):
 
     @staticmethod
@@ -28,6 +24,7 @@ class Parser(object):
 
             stations.append(station)
 
+        stations = sorted(stations, key=lambda x: (x["municipalityCode"], x["id"]))
         return stations
 
     @staticmethod
@@ -40,6 +37,8 @@ class Parser(object):
             del service["id"]
             del service["avsId"]
             clean_services.append(service)
+
+        clean_services = sorted(clean_services, key=lambda x: x["serviceId"])
 
         return {
             "id_pair": (

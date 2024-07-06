@@ -1,4 +1,3 @@
-import os
 import json
 
 from services.downloader import Downloader
@@ -31,9 +30,6 @@ def get_stations_info(id_pairs, downloader=Downloader()):
 
 def get_stations_info_from_files():
     with open("data/stations_with_services.json") as file_json:
-        stations_with_services = json.load(file_json)
+        stations = json.load(file_json)
 
-    return [
-        {"id_pair": id_pair(s), "services": s["services"]}
-        for s in stations_with_services
-    ]
+    return [{"id_pair": id_pair(s), "services": s["services"]} for s in stations]

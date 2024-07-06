@@ -1,8 +1,5 @@
 from concurrent.futures import as_completed
-from requests.adapters import HTTPAdapter
 from requests_futures.sessions import FuturesSession
-from ssl import create_default_context, Purpose
-from urllib3.util import Retry
 
 SOPOR_URL = "https://avfallshubben.avfallsverige.se/umbraco/Api/SoporApi/"
 
