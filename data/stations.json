@@ -44671,17 +44671,6 @@
         "longitude": 13.536556
     },
     {
-        "id": "236117",
-        "name": "BJÖRNRIKE BJÖRNVÄGEN/RENSTIGEN",
-        "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 43:104",
-        "streetAddress": "BJÖRNRIKE BJÖRNVÄGEN/RENSTIGEN",
-        "municipalityCode": "2361",
-        "extraInfo": "",
-        "latitude": 62.417438,
-        "longitude": 13.945651
-    },
-    {
         "id": "236118",
         "name": "ÅVC MYRSTACKEN",
         "secondaryName": "",
@@ -44779,39 +44768,6 @@
         "extraInfo": "",
         "latitude": 62.573604,
         "longitude": 12.223682
-    },
-    {
-        "id": "236127",
-        "name": "BJÖRNRIKE BJÖRNVÄGEN/LOSTIGEN",
-        "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 43:11",
-        "streetAddress": "BJÖRNRIKE BJÖRNVÄGEN/LOSTIGEN",
-        "municipalityCode": "2361",
-        "extraInfo": "",
-        "latitude": 62.420803,
-        "longitude": 13.952973
-    },
-    {
-        "id": "236128",
-        "name": "BJÖRNRIKE SLALOMVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 43:105",
-        "streetAddress": "BJÖRNRIKE SLALOMVÄGEN",
-        "municipalityCode": "2361",
-        "extraInfo": "",
-        "latitude": 62.426292,
-        "longitude": 13.950058
-    },
-    {
-        "id": "236129",
-        "name": "BJÖRNRIKECENTRAT",
-        "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 43:11",
-        "streetAddress": "BJÖRNRIKE VESSELSTIGEN/BJÖRNVÄGEN",
-        "municipalityCode": "2361",
-        "extraInfo": "",
-        "latitude": 62.423452,
-        "longitude": 13.953118
     },
     {
         "id": "236130",
@@ -46597,10 +46553,10 @@
     },
     {
         "id": "4415964",
-        "name": "ÅVS Sandåkern Circle K",
+        "name": "ÅVS Sandåkern Circel K",
         "secondaryName": "10980",
         "propertyNumber": "UMEÅ 2:1",
-        "streetAddress": "Åvs Sandåkern Circle K ",
+        "streetAddress": "Åvs Sandåkern Circel K ",
         "municipalityCode": "2480",
         "extraInfo": "",
         "latitude": 63.83417,
