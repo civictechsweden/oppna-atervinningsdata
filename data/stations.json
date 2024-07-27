@@ -29172,6 +29172,116 @@
         "longitude": 12.01556
     },
     {
+        "id": "100008",
+        "name": "Lammevallsgatan",
+        "secondaryName": "",
+        "propertyNumber": "Kräftan 1",
+        "streetAddress": "Lammevallsgatan 42",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.65762965896775,
+        "longitude": 11.993623500121588
+    },
+    {
+        "id": "100009",
+        "name": "Kållereds IP",
+        "secondaryName": "",
+        "propertyNumber": "Stretered 1:191",
+        "streetAddress": "Sporredsvägen 3",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.60999618593688,
+        "longitude": 12.076115088879588
+    },
+    {
+        "id": "100104",
+        "name": "ICA Lyan",
+        "secondaryName": "",
+        "propertyNumber": "Videsvärmaren 1",
+        "streetAddress": "Fågelbergsgatan 2",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.64559695245695,
+        "longitude": 12.031833261685096
+    },
+    {
+        "id": "100253",
+        "name": "Lantbruksgatan",
+        "secondaryName": "",
+        "propertyNumber": "Pinnharven",
+        "streetAddress": "Pinnharvsgatan 1",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.66359784903522,
+        "longitude": 11.99527530516769
+    },
+    {
+        "id": "100354",
+        "name": "Greggered",
+        "secondaryName": "",
+        "propertyNumber": "Greggered 3:2",
+        "streetAddress": "Norra Hällesåkersvägen",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.60757384595976,
+        "longitude": 12.14998555157344
+    },
+    {
+        "id": "100358",
+        "name": "Kikås ÅVS",
+        "secondaryName": "",
+        "propertyNumber": "Kikås 1:31",
+        "streetAddress": "Kikåsleden 5",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.64942986996109,
+        "longitude": 12.050676986574922
+    },
+    {
+        "id": "116847",
+        "name": "Fågelstensvägen",
+        "secondaryName": "",
+        "propertyNumber": "Gastorp",
+        "streetAddress": "Fågelstensvägen 70",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.575057252121795,
+        "longitude": 12.062067445936302
+    },
+    {
+        "id": "116849",
+        "name": "Tullbomsvägen",
+        "secondaryName": "",
+        "propertyNumber": "Borås Gulmåran 7",
+        "streetAddress": "Rosendalsgatan 12",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.59119363891306,
+        "longitude": 12.06202742375232
+    },
+    {
+        "id": "116850",
+        "name": "Bäckstensgatan",
+        "secondaryName": "",
+        "propertyNumber": "Bastuban 1",
+        "streetAddress": "Bäckstensgatan 11",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.65331429713682,
+        "longitude": 11.959740813806814
+    },
+    {
+        "id": "118466",
+        "name": "Flyttfågelvägen",
+        "secondaryName": "",
+        "propertyNumber": "Fågelsten 1:17",
+        "streetAddress": "Stannfågelvägen 24",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.57277153058639,
+        "longitude": 12.071500370287335
+    },
+    {
         "id": "677014478",
         "name": "Diseröd",
         "secondaryName": null,
@@ -35858,6 +35968,17 @@
         "extraInfo": null,
         "latitude": 59.1177087857117,
         "longitude": 15.1896533222541
+    },
+    {
+        "id": "26565",
+        "name": "ÅVC KVARNTORP",
+        "secondaryName": null,
+        "propertyNumber": "KVARNTORP 1:5",
+        "streetAddress": "ÅVC KVARNTORP",
+        "municipalityCode": "1881",
+        "extraInfo": null,
+        "latitude": 59.1213972062741,
+        "longitude": 15.2746240351906
     },
     {
         "id": "ASK_107",
