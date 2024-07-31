@@ -42879,7 +42879,7 @@
     },
     {
         "id": "223204",
-        "name": "Edsele Livs ÅVS",
+        "name": "Edsele affären ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Ödsgårdsvägen 4",
@@ -42890,7 +42890,7 @@
     },
     {
         "id": "223205",
-        "name": "Stationsområdet ÅVS",
+        "name": "Helgum stationsområdet ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Centrumvägen 18",
@@ -42901,7 +42901,7 @@
     },
     {
         "id": "223206",
-        "name": "OK/Q8 ÅVS",
+        "name": "Junsele OK/Q8 ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Köpmangatan 4",
@@ -42923,7 +42923,7 @@
     },
     {
         "id": "223208",
-        "name": "Macken ÅVS",
+        "name": "Näsåker macken ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Storgatan 47",
@@ -42934,7 +42934,7 @@
     },
     {
         "id": "223209",
-        "name": "Busstationen ÅVS",
+        "name": "Ramsele busstation ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Nipvägen 4",
@@ -42945,7 +42945,7 @@
     },
     {
         "id": "223210",
-        "name": "Myre IP ÅVS",
+        "name": "Resele, Myre IP ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Myre 221",
@@ -42967,7 +42967,7 @@
     },
     {
         "id": "223212",
-        "name": "Stora Coop ÅVS",
+        "name": "Sollefteå stora Coop ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Storgatan 80",
@@ -46275,17 +46275,6 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
-    },
-    {
-        "id": "4415910",
-        "name": "ÅVS Ikea",
-        "secondaryName": "16449",
-        "propertyNumber": "MARKNADSPLATSEN S:1",
-        "streetAddress": "Åvs Ikea Marknadsgatan ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.80528,
-        "longitude": 20.25667
     },
     {
         "id": "4415911",
