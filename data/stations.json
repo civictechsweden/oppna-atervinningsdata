@@ -41427,14 +41427,14 @@
     },
     {
         "id": "10621",
-        "name": "Söderala fd. Vivo",
+        "name": "Söderala Åsvägen",
         "secondaryName": "",
-        "propertyNumber": "Orsta 1:4",
-        "streetAddress": "Sockenvägen/Stapelvägen",
+        "propertyNumber": "Orsta 6:1",
+        "streetAddress": "Sockenvägen/Åsvägen",
         "municipalityCode": "2182",
         "extraInfo": "",
-        "latitude": 61.27944,
-        "longitude": 16.96028
+        "latitude": 61.2791,
+        "longitude": 16.96568
     },
     {
         "id": "10622",
@@ -42956,7 +42956,7 @@
     },
     {
         "id": "223211",
-        "name": "Gärdesgatan ÅVS",
+        "name": "Sollefteå Gärdesgatan ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Gärdesgatan 48",
@@ -42978,7 +42978,7 @@
     },
     {
         "id": "223213",
-        "name": "Nipvallen ÅVS",
+        "name": "Sollefteå Nipvallen ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Nipvallavägen 2",
@@ -42989,7 +42989,7 @@
     },
     {
         "id": "223214",
-        "name": "Circle K ÅVS",
+        "name": "Sollefteå Circle K ÅVS",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Långgatan 21",
@@ -43000,7 +43000,7 @@
     },
     {
         "id": "223215",
-        "name": "Strömsborg 1",
+        "name": "Sollefteå Strömsborg",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Strömsborg 1",
@@ -43011,7 +43011,7 @@
     },
     {
         "id": "223216",
-        "name": "Söderleden",
+        "name": "Sollefteå Söderleden",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Söderleden 2",
@@ -46275,6 +46275,17 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
+    },
+    {
+        "id": "4415910",
+        "name": "ÅVS Ikea",
+        "secondaryName": "16449",
+        "propertyNumber": "MARKNADSPLATSEN S:1",
+        "streetAddress": "Åvs Ikea Marknadsgatan ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.80528,
+        "longitude": 20.25667
     },
     {
         "id": "4415911",
