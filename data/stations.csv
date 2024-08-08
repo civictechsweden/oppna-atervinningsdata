@@ -214,7 +214,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 97210,7319 Rundan,,TULLINGE 19:287,Tullingebergsvägen/ solskensvägen,0127,,59.2121957137169,17.9076793569736
 97211,7313  Banslätt Vändplan Tullinge,,TULLINGE 21:484,Nattvägen,0127,,59.2045887909991,17.9042815002607
 97299,7282,,ERIKSBERG 2:1,Hallundavägen 63-111,0127,,59.2444695379367,17.7997303491185
-2144221,17579 Parkering,,SALEM 5:3,Söderby Gårds Väg 71,0128,,59.2015530750869,17.7818325268256
+2144221,ÅVS 17579 Parkering,,SALEM 5:3,Söderby Gårds Väg 71,0128,,59.2015530750869,17.7818325268256
 6286,9691 ÅVC Salem,,MACKEN 4,Tvärvägen,0128,,59.1993855818971,17.7481466005516
 8258,15344 Panncentralen,,PANNCENTRALEN 3,Bergsvägen 49A,0128,,59.2008668124888,17.7617716210559
 95493,9693 Parkering vid Simhallen,,SALEM 5:20,Säbyhallsvägen 10,0128,,59.2027543384879,17.7668117672375
@@ -1548,7 +1548,7 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 17218,Vikhemsområdet,,HEMMESTORP 3:21 ,"Vikhemsvägen, P-plats",1230,,55.63127,13.197607
 17219,Borggårdsallén,,BORGGÅRD 1:4  ,"Borggårdsallén, vid P-plats",1230,,55.65064,13.205562
 17220,Staffansvallen P-plats,,STANSTORP 1:6 ,Kronoslättsvägen,1230,,55.6342,13.212012
-17259,"Banvallsvägen, Hjärup",,STANSTORP 1:109 ,Banvallsvägen,1230,,55.675273,13.13952
+17259,"Banvallsvägen, Hjärup",,STANSTORP 1:109 ,TILLFÄLLIGT STÄNGD,1230,,55.675273,13.13952
 17739,Parkallén,,STORA UPPÅKRA 5:10 ,Parkallén,1230,,55.67111,13.14638
 17740,P-plats Järnvägskrogen,,STANSTORP 5:1 ,Järnvägsgatan,1230,,55.64138,13.21666
 17741,P-plats mitt emot Reningsverket,,BORGGÅRD 1:4 ,Sliparevägen,1230,,55.65416,13.21277
@@ -4243,7 +4243,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415960,ÅVS Rödåsel,11002,RÖDÅ 4:11,Åvs Rödåsel ,2480,,64.08806,19.95306
 4415961,ÅVS Rödäng,11018,BACKEN 4:9,Åvs Rödäng Rödängsvägen/Cellovägen ,2480,,63.84028,20.22111
 4415963,ÅVS Sandbacka,12453,STADSLIDEN 2:1,Åvs Sandbacka Sandbackavägen 3,2480,,63.83917,20.275
-4415964,ÅVS Sandåkern Circel K,10980,UMEÅ 2:1,Åvs Sandåkern Circel K ,2480,,63.83417,20.23306
+4415964,ÅVS Sandåkern Circle K,10980,UMEÅ 2:1,Åvs Sandåkern Circle K ,2480,,63.83417,20.23306
 4415965,ÅVS Sofiehem,10962,SOFIEHEM 2:1,Åvs Sofiehem Tallvägen/Sofiehemsvägen ,2480,,63.8125,20.29806
 4415967,ÅVS Strömpilsplatsen,13245,STRÖMPILEN 1,Åvs Strömpilsplatsen Ica Maxi ,2480,,63.79639,20.30222
 4415968,ÅVS Stöcke,12444,STÖCKE 6:18,Åvs Stöcke ,2480,,63.73917,20.23
