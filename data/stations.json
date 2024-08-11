@@ -10149,8 +10149,8 @@
         "streetAddress": "Omlastarvägen 5",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.31278,
-        "longitude": 15.13389
+        "latitude": 58.34074543545173,
+        "longitude": 15.106850583486835
     },
     {
         "id": "16250",
@@ -10160,8 +10160,8 @@
         "streetAddress": "Vallsbergsvägen 8",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.38528,
-        "longitude": 15.08833
+        "latitude": 58.314268354392404,
+        "longitude": 14.923451513054511
     },
     {
         "id": "16251",
@@ -10170,9 +10170,9 @@
         "propertyNumber": "",
         "streetAddress": "Hogsta",
         "municipalityCode": "0586",
-        "extraInfo": "Saknar fastighetsbeteckning",
-        "latitude": 58.331139,
-        "longitude": 15.027917
+        "extraInfo": "",
+        "latitude": 58.33123580236989,
+        "longitude": 15.028055699255244
     },
     {
         "id": "16297",
@@ -10182,8 +10182,8 @@
         "streetAddress": "Vretavägen",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.34056,
-        "longitude": 15.10694
+        "latitude": 58.399388370607646,
+        "longitude": 15.083833082443844
     },
     {
         "id": "16977",
@@ -10193,8 +10193,8 @@
         "streetAddress": "Florettgatan/Vetagatan",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.31417,
-        "longitude": 14.92306
+        "latitude": 58.3366800348585,
+        "longitude": 15.1346354301969
     },
     {
         "id": "17072",
@@ -10204,8 +10204,8 @@
         "streetAddress": "Kyrkogatan 28",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.39944,
-        "longitude": 15.08361
+        "latitude": 58.31964117609906,
+        "longitude": 15.128612666839881
     },
     {
         "id": "17102",
@@ -10215,8 +10215,8 @@
         "streetAddress": "Pilkällevägen 1",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.31944,
-        "longitude": 15.12833
+        "latitude": 58.33495548111084,
+        "longitude": 15.227596395862612
     },
     {
         "id": "17339",
@@ -10226,8 +10226,8 @@
         "streetAddress": "Riddarängsvägen",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.33472,
-        "longitude": 15.2275
+        "latitude": 58.3540946186881,
+        "longitude": 15.301053641129597
     },
     {
         "id": "17342",
@@ -10237,8 +10237,8 @@
         "streetAddress": "Önnebo",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.231664,
-        "longitude": 15.282043
+        "latitude": 58.231499895297254,
+        "longitude": 15.281862872660682
     },
     {
         "id": "17462",
@@ -10248,8 +10248,8 @@
         "streetAddress": "Ramstadsgatan/Högliden",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.332001,
-        "longitude": 15.119093
+        "latitude": 58.33219319229743,
+        "longitude": 15.119139589864591
     },
     {
         "id": "9125",
@@ -10259,8 +10259,8 @@
         "streetAddress": "Hedvägen 1",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.35306,
-        "longitude": 15.29944
+        "latitude": 58.36575497134195,
+        "longitude": 15.296581246964623
     },
     {
         "id": "9127",
@@ -10270,8 +10270,8 @@
         "streetAddress": "Trumpetarevägen 1",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.36556,
-        "longitude": 15.29639
+        "latitude": 58.348114530652985,
+        "longitude": 15.276554189356814
     },
     {
         "id": "9130",
@@ -10281,8 +10281,8 @@
         "streetAddress": "Smålandsvägen 40",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.34778,
-        "longitude": 15.27667
+        "latitude": 58.321105031473294,
+        "longitude": 15.121551362277724
     },
     {
         "id": "9133",
@@ -10292,8 +10292,8 @@
         "streetAddress": "Ringvägen 11",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.32083,
-        "longitude": 15.12167
+        "latitude": 58.31882973654213,
+        "longitude": 15.134878487885143
     },
     {
         "id": "9136",
@@ -10303,8 +10303,8 @@
         "streetAddress": "Eldslösaleden/väg till Västra Eldslösa",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.31861,
-        "longitude": 15.13472
+        "latitude": 58.31301219423649,
+        "longitude": 15.134103909567337
     },
     {
         "id": "9139",
@@ -10314,8 +10314,8 @@
         "streetAddress": "Korsningen Marknadsg/Tivolig",
         "municipalityCode": "0586",
         "extraInfo": "",
-        "latitude": 58.33139,
-        "longitude": 15.11806
+        "latitude": 58.38546079627171,
+        "longitude": 15.088582168864082
     },
     {
         "id": "13273",
@@ -46674,10 +46674,10 @@
     },
     {
         "id": "4415964",
-        "name": "ÅVS Sandåkern Circle K",
+        "name": "ÅVS Sandåkern Circel K",
         "secondaryName": "10980",
         "propertyNumber": "UMEÅ 2:1",
-        "streetAddress": "Åvs Sandåkern Circle K ",
+        "streetAddress": "Åvs Sandåkern Circel K ",
         "municipalityCode": "2480",
         "extraInfo": "",
         "latitude": 63.83417,

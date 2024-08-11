@@ -922,22 +922,22 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 11109,Utanför nya ÅVC Tegellöten,,Tegellöten 1:1,Tegellöten 107,0584,,58.45796,14.934024
 16720,Kronängsgatan ,,Vadstena 3:3,Kronängsgatan 5,0584,,58.444237,14.880288
 99211,Gamla Vägverket,,Kalkbrottet 1,Hovsvägen,0584,,58.439074,14.895969
-15605,Hulje (ÅVC),,MJÖLBY OMLASTAREN 1,Omlastarvägen 5,0586,,58.31278,15.13389
-16250,Vallsbergsvägen 8,,VALLSBERG 7:65,Vallsbergsvägen 8,0586,,58.38528,15.08833
-16251,Hogstad,,,Hogsta,0586,Saknar fastighetsbeteckning,58.331139,15.027917
-16297,Vretavägen,,SKÄNNINGE 3:3,Vretavägen,0586,,58.34056,15.10694
-16977,Florettgatan,,MJÖLBY 40:1,Florettgatan/Vetagatan,0586,,58.31417,14.92306
-17072,Kyrkogatan 28,,MJÖLBY 40:13,Kyrkogatan 28,0586,,58.39944,15.08361
-17102,Pilkällevägen 1,,SYA 7:2,Pilkällevägen 1,0586,,58.31944,15.12833
-17339,Riddarängsvägen,,VIBY-OLOFSTORP 4:4,Riddarängsvägen,0586,,58.33472,15.2275
-17342,Önnebo,,FOLKEBO 1:13,Önnebo,0586,,58.231664,15.282043
-17462,Ramstadsgatan/Högliden,,RUNSTORP 8,Ramstadsgatan/Högliden,0586,,58.332001,15.119093
-9125,"Depot p-plats köpcentrum, Mantorp",,VIBY 12:22,Hedvägen 1,0586,,58.35306,15.29944
-9127,Korsningen Riksvägen/Trumpetarevägen,,FALL 1:1,Trumpetarevägen 1,0586,,58.36556,15.29639
-9130,P-plats mitt för Stjärngatan,,STORGÅRDEN 1,Smålandsvägen 40,0586,,58.34778,15.27667
-9133,Lagmansskolan,,VATTUMANNEN 2,Ringvägen 11,0586,,58.32083,15.12167
-9136,Pumpstationen Eldslösaleden,,MJÖLBY 40:7,Eldslösaleden/väg till Västra Eldslösa,0586,,58.31861,15.13472
-9139,Marknadsgatan/Tivoligatan,,SKÄNNINGE 3:2,Korsningen Marknadsg/Tivolig,0586,,58.33139,15.11806
+15605,Hulje (ÅVC),,MJÖLBY OMLASTAREN 1,Omlastarvägen 5,0586,,58.34074543545173,15.106850583486835
+16250,Vallsbergsvägen 8,,VALLSBERG 7:65,Vallsbergsvägen 8,0586,,58.314268354392404,14.923451513054511
+16251,Hogstad,,,Hogsta,0586,,58.33123580236989,15.028055699255244
+16297,Vretavägen,,SKÄNNINGE 3:3,Vretavägen,0586,,58.399388370607646,15.083833082443844
+16977,Florettgatan,,MJÖLBY 40:1,Florettgatan/Vetagatan,0586,,58.3366800348585,15.1346354301969
+17072,Kyrkogatan 28,,MJÖLBY 40:13,Kyrkogatan 28,0586,,58.31964117609906,15.128612666839881
+17102,Pilkällevägen 1,,SYA 7:2,Pilkällevägen 1,0586,,58.33495548111084,15.227596395862612
+17339,Riddarängsvägen,,VIBY-OLOFSTORP 4:4,Riddarängsvägen,0586,,58.3540946186881,15.301053641129597
+17342,Önnebo,,FOLKEBO 1:13,Önnebo,0586,,58.231499895297254,15.281862872660682
+17462,Ramstadsgatan/Högliden,,RUNSTORP 8,Ramstadsgatan/Högliden,0586,,58.33219319229743,15.119139589864591
+9125,"Depot p-plats köpcentrum, Mantorp",,VIBY 12:22,Hedvägen 1,0586,,58.36575497134195,15.296581246964623
+9127,Korsningen Riksvägen/Trumpetarevägen,,FALL 1:1,Trumpetarevägen 1,0586,,58.348114530652985,15.276554189356814
+9130,P-plats mitt för Stjärngatan,,STORGÅRDEN 1,Smålandsvägen 40,0586,,58.321105031473294,15.121551362277724
+9133,Lagmansskolan,,VATTUMANNEN 2,Ringvägen 11,0586,,58.31882973654213,15.134878487885143
+9136,Pumpstationen Eldslösaleden,,MJÖLBY 40:7,Eldslösaleden/väg till Västra Eldslösa,0586,,58.31301219423649,15.134103909567337
+9139,Marknadsgatan/Tivoligatan,,SKÄNNINGE 3:2,Korsningen Marknadsg/Tivolig,0586,,58.38546079627171,15.088582168864082
 13273,Kretsloppsgården (ÅVC),,13273,Skärsjö industriområde,0604,,57.82806,14.80139
 7015,Q Star,,7015,Storgatan 1,0604,,57.82972,14.81694
 7017,"Resecentrum, p-plats vid västra sidan av järnvägen",,7017,Industrigatan/Västra Torget,0604,,57.8375,14.81111
@@ -4243,7 +4243,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415960,ÅVS Rödåsel,11002,RÖDÅ 4:11,Åvs Rödåsel ,2480,,64.08806,19.95306
 4415961,ÅVS Rödäng,11018,BACKEN 4:9,Åvs Rödäng Rödängsvägen/Cellovägen ,2480,,63.84028,20.22111
 4415963,ÅVS Sandbacka,12453,STADSLIDEN 2:1,Åvs Sandbacka Sandbackavägen 3,2480,,63.83917,20.275
-4415964,ÅVS Sandåkern Circle K,10980,UMEÅ 2:1,Åvs Sandåkern Circle K ,2480,,63.83417,20.23306
+4415964,ÅVS Sandåkern Circel K,10980,UMEÅ 2:1,Åvs Sandåkern Circel K ,2480,,63.83417,20.23306
 4415965,ÅVS Sofiehem,10962,SOFIEHEM 2:1,Åvs Sofiehem Tallvägen/Sofiehemsvägen ,2480,,63.8125,20.29806
 4415967,ÅVS Strömpilsplatsen,13245,STRÖMPILEN 1,Åvs Strömpilsplatsen Ica Maxi ,2480,,63.79639,20.30222
 4415968,ÅVS Stöcke,12444,STÖCKE 6:18,Åvs Stöcke ,2480,,63.73917,20.23
