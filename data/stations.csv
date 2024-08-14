@@ -233,7 +233,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 2096521,16752 Mittemot nr 100,,ÅBY 1:27,Ringvägen,0136,,59.1281332453425,18.1091778936697
 2147037,17489 Parkeringen,,TÄCKERÅKER 1:192,Gaffelseglet 41,0136,,59.1865344593594,18.1399493325927
 6338,15565 ÅVC Jordbro,,HANINGE ÅBY 1:219,Rörvägen 23,0136,,59.1443590880088,18.1078518202611
-94957,7924 Dubbelstation,,DALARÖ 7:1,Dalarö kanalbro,0136,,59.1378077677842,18.4163418243812
+94957,ÅVS 7924 Dubbelstation,,DALARÖ 7:1,Dalarö kanalbro,0136,,59.1378077677842,18.4163418243812
 95666,ÅVS 7925  Vid Affären,,GUDÖ 3:296,Tutviksvägen / gudöbroleden vendelsö,0136,,59.2103676899808,18.209454778142
 95667,7926 Vendelsö,,VENDELSÖ 3:1714,Grindstuvägen/apelvretasvägen,0136,,59.2039683784708,18.2018272653032
 95668,7963 Vid Smedjan,,VENDELSÖ 3:1714,Sågenvägen 10,0136,,59.1997161450589,18.1923885022092
@@ -363,7 +363,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 9921,Rotebro Centrum,,NORRVIKEN 2:1,Ragnar Lundqvists väg,0163,,59.478683,17.911
 99214,Hedemoravägen,,VIBY 12:15,Hedemoravägen,0163,,59.460054,17.910425
 9926,Rösjöbadet,,SJÖBERG 7:3,Rösjöbadsvägen/Lomvägen,0163,,59.435065,17.992678
-13851,Bragevägen,,Bragevägen,Bragevägen,0181,,59.2119366134067,17.6303284519191
+13851,Bragevägen,,Bragevägen,Bragevägen,0181,,59.2119146231985,17.6303137389499
 13852,Balticvägen,,Balticvägen,Balticvägen,0181,,59.1761321698526,17.6517922082
 13853,Kolonigatan,,Kolonigatan,Kolonigatan,0181,,59.1894023559584,17.6197431650872
 13854,Väpnarevägen,,Väpnarevägen,Väpnarevägen,0181,,59.2011973961895,17.590799603977
@@ -1076,7 +1076,7 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 147884,Hantverkaregatan - Mejselgatan,,Sävsjö 12:2,Hantverkaregatan - Mejselgatan,0684,,57.3976751334426,14.6583231166562
 147885,ICA Klingan,,Sävsjö 12:2,Västra Järnvägsgatan,0684,,57.4002882605024,14.6640766691558
 147886,Östra Esplanaden - Sturegatan,,Eksjöhovgård 7:2,Östra Esplanaden - Sturegatan,0684,,57.3975330293937,14.6695829912735
-147887,,,Vrigstad 3:70,Njudungsvägen 1,0684,,57.3566094148951,14.4777364996883
+147887,Vid Erikshjälpen,,Vrigstad 3:70,Njudungsvägen 1,0684,,57.3566094148951,14.4777364996883
 147897,Gunnes väg,,Sävsjö 12:1,Gunnes väg,0684,,57.4044827782031,14.6527317263397
 147900,Industrigatan,,Stockaryd 4:227,Industrigatan,0684,,57.3202791053641,14.5884646612391
 147906,Bakom ICA,,Holsbyholm 15:1,Rudingatan 2,0685,,57.437480342956,15.2045105525189
@@ -4243,7 +4243,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415960,ÅVS Rödåsel,11002,RÖDÅ 4:11,Åvs Rödåsel ,2480,,64.08806,19.95306
 4415961,ÅVS Rödäng,11018,BACKEN 4:9,Åvs Rödäng Rödängsvägen/Cellovägen ,2480,,63.84028,20.22111
 4415963,ÅVS Sandbacka,12453,STADSLIDEN 2:1,Åvs Sandbacka Sandbackavägen 3,2480,,63.83917,20.275
-4415964,ÅVS Sandåkern Circle K,10980,UMEÅ 2:1,Åvs Sandåkern Circle K ,2480,,63.83417,20.23306
+4415964,ÅVS Sandåkern Circel K,10980,UMEÅ 2:1,Åvs Sandåkern Circel K ,2480,,63.83417,20.23306
 4415965,ÅVS Sofiehem,10962,SOFIEHEM 2:1,Åvs Sofiehem Tallvägen/Sofiehemsvägen ,2480,,63.8125,20.29806
 4415967,ÅVS Strömpilsplatsen,13245,STRÖMPILEN 1,Åvs Strömpilsplatsen Ica Maxi ,2480,,63.79639,20.30222
 4415968,ÅVS Stöcke,12444,STÖCKE 6:18,Åvs Stöcke ,2480,,63.73917,20.23

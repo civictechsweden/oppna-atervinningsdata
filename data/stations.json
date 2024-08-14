@@ -2575,7 +2575,7 @@
     },
     {
         "id": "94957",
-        "name": "7924 Dubbelstation",
+        "name": "ÅVS 7924 Dubbelstation",
         "secondaryName": null,
         "propertyNumber": "DALARÖ 7:1",
         "streetAddress": "Dalarö kanalbro",
@@ -4011,8 +4011,8 @@
         "streetAddress": "Bragevägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.2119366134067,
-        "longitude": 17.6303284519191
+        "latitude": 59.2119146231985,
+        "longitude": 17.6303137389499
     },
     {
         "id": "13852",
@@ -11837,7 +11837,7 @@
     },
     {
         "id": "147887",
-        "name": null,
+        "name": "Vid Erikshjälpen",
         "secondaryName": null,
         "propertyNumber": "Vrigstad 3:70",
         "streetAddress": "Njudungsvägen 1",
@@ -46674,10 +46674,10 @@
     },
     {
         "id": "4415964",
-        "name": "ÅVS Sandåkern Circle K",
+        "name": "ÅVS Sandåkern Circel K",
         "secondaryName": "10980",
         "propertyNumber": "UMEÅ 2:1",
-        "streetAddress": "Åvs Sandåkern Circle K ",
+        "streetAddress": "Åvs Sandåkern Circel K ",
         "municipalityCode": "2480",
         "extraInfo": "",
         "latitude": 63.83417,
