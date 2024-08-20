@@ -1147,7 +1147,6 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 148450,Östra vägen 42,,Åseda 12:1,Östra vägen 42,0760,,57.1719122699761,15.3603744323607
 95491,Bergsrådsgatan,LESSEBO,Smedjan 3,Bergsrådsgatan 5,0761,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.75000701,15.26973633
 95497,Ekevallsvägen,KOSTA,Kosta 36:7,Ekevalllsvägen,0761,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.84116369,15.3939264
-95506,Plåtslagarvägen,Lessebo,Lessebo 9:1,Plåtslagarvägen 3,0761,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.75985003,15.26993412
 95537,Träningsplan,SKRUV,Skruv 1:137,Gasmålavägen,0761,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.67584468,15.36997635
 95540,Järnvägsgatan,Hovmantorp,Stickan 1,Järnvägsgatan 2,0761,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.78406413,15.14920095
 95544,Lessebo ÅVC,Lessebo,Lessebo 9:1,Linnerydsvägen,0761,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.74864051,15.2681091
@@ -1205,7 +1204,6 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 95482,,Växjö,Växjö 12:10,Torparängsvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.85449119,14.80531435
 95483,Pinnmovägen (norremark),Växjö,Växjö 9:34,Pinnmovägen 9,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.90412748,14.84093295
 95484,Väg 122 (gamla bygdegården),VÄSTRA NÖBBELE,Värends-Nöbbele 1:4,Bygdegården 1,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.6926677,15.01727156
-95486,Evedalsvägen (Östra lugnets skola),,Växjö 7:8,Evedalsvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.91929692,14.81582971
 95487,Furuby ÅVS,Furuby,Furuby 5:3,Kalmarvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.85773842,15.042348
 95489,Åby ÅVC,Tjureda,Åbyfors 2:1,Västragårdsvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,57.0158835,14.77213402
 95492,Kårevägen/Byvägen,FURUBY,Furuby 11:10,Kårevägen/Byvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.8544778,15.03302497
@@ -4243,7 +4241,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415960,ÅVS Rödåsel,11002,RÖDÅ 4:11,Åvs Rödåsel ,2480,,64.08806,19.95306
 4415961,ÅVS Rödäng,11018,BACKEN 4:9,Åvs Rödäng Rödängsvägen/Cellovägen ,2480,,63.84028,20.22111
 4415963,ÅVS Sandbacka,12453,STADSLIDEN 2:1,Åvs Sandbacka Sandbackavägen 3,2480,,63.83917,20.275
-4415964,ÅVS Sandåkern Circel K,10980,UMEÅ 2:1,Åvs Sandåkern Circel K ,2480,,63.83417,20.23306
+4415964,ÅVS Sandåkern Circle K,10980,UMEÅ 2:1,Åvs Sandåkern Circle K ,2480,,63.83417,20.23306
 4415965,ÅVS Sofiehem,10962,SOFIEHEM 2:1,Åvs Sofiehem Tallvägen/Sofiehemsvägen ,2480,,63.8125,20.29806
 4415967,ÅVS Strömpilsplatsen,13245,STRÖMPILEN 1,Åvs Strömpilsplatsen Ica Maxi ,2480,,63.79639,20.30222
 4415968,ÅVS Stöcke,12444,STÖCKE 6:18,Åvs Stöcke ,2480,,63.73917,20.23
@@ -4282,6 +4280,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 865140,ÅVS Vänjaurbäck,,Vänjaurbäck 1:81,VÄNJAURBÄCK,2481,,64.3760912309906,18.5813040077631
 865141,ÅVS Västra Örträsk,,Örträsk 1:48,ÖRTRÄSK V,2481,,64.1327735158995,18.9380352914174
 865142,ÅVS Bocksliden ,,Bocken 1:1,BOCKSLIDEN vid rastplats,2481,,64.5211882891497,18.8248131900791
+865143,ÅVS Norrbyberg,,Norrbyberg 1:48,NORRBYBERG ÅVS  vid fd affären,2481,,64.9201934202025,18.2484428483668
 12507,"Anderstorp, Hemmansgatan",,Hedensbyn 13:89,Hemmansgatan 2,2482,,64.745199,20.989928
 14711,Skelleftehamn,,Taljan 3,Sjömansgatan 13,2482,,64.69261,21.233038
 14714,Degermyrans ÅVC,,Morö Backe 1:1,Lidvägen 4,2482,,64.770788,21.032733
