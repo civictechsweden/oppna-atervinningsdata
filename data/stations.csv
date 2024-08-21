@@ -682,6 +682,16 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 04286138,Ica Supermarket Cityhallen/Tennisparken,,.,Bondegatan 9,0428,,59.0436100034394,15.8730599995134
 04286142,Lastbilscentralen (LBC) (Söder),,.,Idrottsvägen,0428,,59.0383300017469,15.864719991369
 04286143,"Gamla brandstationen, Lindberga",,.,Rosavillavägen,0428,,59.1244399969171,15.9863899975829
+100001456,P-plats Konsum,,.,Bruksvägen,0428,,59.0277799989506,15.6697200066142
+100001457,P-plats Campingen,,.,Hjälmargårdsvägen,0428,,59.1302800030213,15.8061099987125
+100001458,"Folke Angers väg/Ekebergsvägen, Marmorbyn",,.,Ekebergsvägen,0428,,59.047220003837,16.0672199956927
+100001459,Ica Supermarket Cityhallen/Tennisparken,,.,Bondegatan 9,0428,,59.0436100034394,15.8730599995134
+100001460,Lastbilscentralen (LBC) (Söder),,.,Idrottsvägen,0428,,59.0383300017469,15.864719991369
+100001461,"Gamla brandstationen, Lindberga",,.,Rosavillavägen,0428,,59.1244399969171,15.9863899975829
+100004534,Hackstavägen 17 (norr),,.,Hackstavägen 17,0428,,59.0563900009306,15.8752800036845
+100004535,P-plats järnvägsbron (centrum),,.,Järnvägsgatan,0428,,59.0419400019364,15.8711099993281
+100004536,ÅVC Vik (ÅVS),,.,Viks Återvinningscentral 1 B,0428,,59.0872199985611,15.9174999995565
+100004537,Riksväg 52 nära Smedjevägen Baggetorp,,.,Smedjevägen,0428,,59.0094399974912,16.0555599945684
 16879,NIVÅGÅNGEN / PLATÅVÄGEN,,SIGTUNA 2:249,PLATÅVÄGEN,0461,,59.045326566918,17.2944628377268
 7596,BJÖRNLUNDA BUSSTORGET,,SKENDA 9:31,STATIONSVÄGEN 5,0461,,59.0640405755556,17.1598326786475
 7597,"ELEKTRON, BAKOM ICA",,GNESTA 4:1,VÄSTRA STORGATAN 18,0461,,59.0495391010038,17.3061499373704
@@ -740,6 +750,21 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 0482911,"Föreningsgården, Skebokvarn",,.,Sparreholmsvägen,0482,,59.0641699962648,16.7144400068746
 0482912,Tempo Sparreholm,,Sparreholm 8:3,Skarvnäsvägen 7,0482,,59.0708300034122,16.8258299972339
 048299218,Grusplan Variagatan,,.,Variagatan,0482,,59.055829998553,16.5763900006006
+100010996,Kungsbackavägen,,.,Kungsbackavägen/Valstavägen,0482,,58.9041700017449,16.6458299971
+100010997,Vasagatan,,.,Vasagatan 2,0482,,59.0552799976108,16.5866699912964
+100010998,Lötvägen,,.,Lötvägen 9,0482,,59.0547199993554,16.6030600014831
+100010999,ICA Kvantum,,.,Hantverkargatan(väg mot ICA),0482,,59.0597200000344,16.5930600070298
+100011000,Willys,,.,Tegelvägen 2 vid P-plats,0482,,59.0627800020562,16.5927800007852
+100011001,Torsbovägen,,.,Torsbovägen 2,0482,,59.1536100038121,16.4947199970836
+100011002,"Malmheden, Malmköping",,.,Förrådsgatan,0482,,59.1358299967028,16.7272199972123
+100011003,Trädgårdsgatan 29,,.,Trädgårdsgatan 29,0482,,59.1319400037694,16.7255600022149
+100011004,Domarvägen / Ljusnevägen,,.,Domarvägen,0482,,59.1016700030592,16.5638900086923
+100011005,"Föreningsgården, Skebokvarn",,.,Sparreholmsvägen,0482,,59.0641699962648,16.7144400068746
+100011006,Tempo Sparreholm,,Sparreholm 8:3,Skarvnäsvägen 7,0482,,59.0708300034122,16.8258299972339
+100012799,Brogetorp,,.,Januarivägen,0482,,59.0650000025898,16.5983300040535
+100012800,Grönviksvägen,,.,Grönviksvägen,0482,,59.1563899989572,16.5036099967037
+100012801,ÅVC Frutorp ÅVS,,Talja 1:5,Talja Frutorp,0482,,59.0699999987434,16.6347199957611
+100012802,Grusplan Variagatan,,.,Variagatan,0482,,59.055829998553,16.5763900006006
 048312006,Isrinken Backavallen,,.,Prins Bertils gata,0483,,58.9833299991949,16.2019400028315
 048315603,Vika Avfallsanläggning (ÅVC),,Lasstorp 4:1,Vikadeponin,0483,,59.01224025684,16.2190818787451
 048315967,Fotbollsplan,,.,Kanntorpsgatan,0483,,59.0277799984937,16.4486099993668
@@ -3993,7 +4018,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 49416,Tulleråsen ÅVS ,,Tulleråsen 2:77,Tulleråsen,2309,,63.4547844414057,14.1894800757573
 49417,Valsjöbyn ÅVS,,Valsjön 1:44,Valsjöbyn,2309,,64.0678254690661,14.1302095576591
 49418,Ytterån ÅVS ,,Ytterån 4:25,Ytterån,2309,,63.3192766919843,14.1757591071578
-49419,Åkersjön ÅVS ,,Åkersjön 1:6,Åkersjön,2309,,63.7652819096998,14.080642981201
+49419,Åkersjön ÅVS ,,Åkersjön 1:385,Åkersjön,2309,,63.7650231237946,14.0815032299882
 49420,Ås ÅVS (Tengens) ,,Hållskaven 1:24,Ås,2309,,63.2354543003251,14.578777963236
 49421,Änge ÅVS,,Offerdals-Berge 2:38,Änge,2309,,63.4542789304904,14.0752286566715
 115054,Backe Hälsocentralen,,BACKE 15:1,Lasarettsvägen,2313,,63.8082141931808,16.4067181603251
@@ -4229,7 +4254,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415948,ÅVS Holmsund Lärkvägen,10988,HOLMSUND 2:1,Åvs Holmsund Lärkvägen 1 ,2480,,63.71528,20.38417
 4415949,ÅVS Holmsund Trädgårdsgatan,10990,TÖRNROSEN 10,Åvs Holmsund Trädgårdsgatan ,2480,,63.70806,20.36667
 4415950,ÅVS Hörnefors ÅVC,12441,HÖRNEÅ 8:845,Åvs Hörnefors (Åvc) Skatvägen 35,2480,,63.61889,19.91889
-4415951,ÅVS Hörnefors Skogsvägen,12442,HÖRNEÅ 8:539,Åvs Hörnefors Skogsvägen ,2480,,63.625,19.91917
 4415952,ÅVS Hörnefors Österlånggatan,10992,HÖRNEÅ 8:459,Åvs Hörnefors Österlånggatan ,2480,,63.63111,19.9225
 4415953,ÅVS Klockarbäcken,15959,KÄLLAREN 1,Åvs Klockarbäcken (Åvc) Källarvägen 4,2480,,63.85139,20.14861
 4415954,ÅVS Mariehem,10996,STADSLIDEN 5:1,Åvs Mariehem Mariehemsvägen 9 ,2480,,63.83361,20.32972
