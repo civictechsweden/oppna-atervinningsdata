@@ -312,10 +312,10 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 17250,Parkeringen Idrottsplatsen,,,Västa Rydsvägen,0139,,59.49308323425825,17.74199280125936
 17702,Norrgrindsvägen Bro Centrum,,,Norrgrindsvägen,0139,,59.51628650181663,17.641045331365603
 17707,Parkeringen Bygdegårdsvägen,,,Bygdegårdsvägen 20,0139,,59.47968385993559,17.741238527906383
-38465,Lundavägen,,,Lundavägen,0140,,59.1753702467457,17.4364078114688
+38465,Lundavägen,,,Lundavägen,0140,,59.1753967084597,17.4361650595052
 38466,Norra Stationsvägen,,,Norra Stationsvägen,0140,,59.1765838203392,17.4401025491171
 38467,Maskinförarevägen,,,Maskinförarevägen,0140,,59.1848124237927,17.4033911542281
-38468,Turinge,,,Turinge,0140,,59.1976323426627,17.4368342772402
+38468,Turinge,,,Turinge,0140,,59.1976738913086,17.4367645400582
 38469,Taxinge,,,Taxinge,0140,,59.2247905912418,17.3068909778117
 10895,Glasbehållare Näsbypark,,,Fregattvägen 7,0160,,59.43306,18.0925
 10912,ÅVS Viggbygärdet,,,Södervägen 55 ,0160,,59.44667,18.09528
@@ -539,7 +539,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585327,Återvinningsstation 10210,,RUSTIKEN 2,Fågelstavägen 1,0180,,59.2695763472093,18.0487239495583
 585328,Återvinningsstation 10217,,NÄLSTA 5:1,Rättar Vigs Väg 2,0180,,59.3715784448361,17.8853470307818
 585329,Återvinningsstation 10220,,PAPPERSKLÄMMAN 2,Lyckselevägen 37,0180,,59.3683556549989,17.8636130924142
-585330,Återvinningsstation 10222,,ULLTISTELN 40,Sörgårsvägen 257,0180,,59.3841623934611,17.8479680747494
+585330,Återvinningsstation 10222,,ULLTISTELN 40,Sörgårdsvägen 257,0180,,59.3841623934611,17.8479680747494
 585331,Återvinningsstation 10223,,GLADA ÄNKAN 1,Basgränd 1,0180,,59.3833501929828,17.8653537319639
 585332,Återvinningsstation 10224,,VÄLLINGBY 3:9,Kirunagatan 29,0180,,59.3654392248002,17.8618005093214
 585333,Återvinningsstation 10240,,BJUREN 2,Valla Torg 63,0180,,59.2936917475717,18.0504257674079
@@ -4306,12 +4306,12 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 11614,Ottsjö,,,Ottsjövägen,2321,,63.21556,13.06111
 11616,Undersåker,,,Vålådalsvägen,2321,,63.31417,13.23417
 11618,"Åre,vid Coop",,,S:t Olavsvägen,2321,,63.39503,13.08745
-14557,Handöl,,,Hanriis Café,2321,,63.25278,12.45056
 14558,Månsåsen,,,Hembygdsgården,2321,,63.06611,14.32806
 15989,Mattmar,,,Kvitslevägen 235,2321,,63.29961,13.83681
 16797,Mörsil,,,Biogränd,2321,,63.306962,13.67088
 17252,"Storlien, Handelsplats",,,Vintergatan 1,2321,,63.31269,12.10692
 17257,Kallsedet,,,Utmed riksväg 336,2321,,63.70083,12.94611
+17407,ÅVC Staa,,,Staa 107,2321,,63.399533,12.8294
 17427,ÅVC Järpen,,,Lagervägen 21,2321,,63.360327,13.436335
 17437,ÅVC Brattåsen,,,Enkroken 105,2321,,63.27143,12.26435
 232601,HACKÅS,,HOV 1:117,TORGET 7,2326,,62.924794,14.517767
@@ -4809,7 +4809,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 8449,"Karesuando, Reningsverket",,Karesuando 23:2,Reningsverket,2584,,68.43944,22.46667
 8451,"Kiruna, Movägen",,Lombolo 12:1,Movägen,2584,,67.83806,20.26
 8452,"Kiruna, Mangigatan",,Jordschataren 15,Mangigatan 23,2584,,67.85472,20.23
-8456,"Kiruna, Ullspiran",,Ön 1:1,Bromsgatan 8D,2584,,67.84472,20.22861
+8456,"Kiruna, Schouggatan",,Bolaget 11:2,Schouggatan,2584,,67.845147,20.238259
 8457,"Kiruna, Stora Coop",,Krämaren S:1,Österleden 12,2584,,67.84444,20.25611
 8459,"Svappavaara, Coop",,Svappavaara 10:3,Kirunavägen 14,2584,,67.64778,21.04556
 8460,"Tuolluvaara, Borgen",,Tuolluvaara 1:1,Borgenvägen 1,2584,,67.84944,20.32944

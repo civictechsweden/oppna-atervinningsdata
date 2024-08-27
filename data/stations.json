@@ -3450,8 +3450,8 @@
         "streetAddress": "Lundavägen",
         "municipalityCode": "0140",
         "extraInfo": null,
-        "latitude": 59.1753702467457,
-        "longitude": 17.4364078114688
+        "latitude": 59.1753967084597,
+        "longitude": 17.4361650595052
     },
     {
         "id": "38466",
@@ -3483,8 +3483,8 @@
         "streetAddress": "Turinge",
         "municipalityCode": "0140",
         "extraInfo": null,
-        "latitude": 59.1976323426627,
-        "longitude": 17.4368342772402
+        "latitude": 59.1976738913086,
+        "longitude": 17.4367645400582
     },
     {
         "id": "38469",
@@ -5944,7 +5944,7 @@
         "name": "Återvinningsstation 10222",
         "secondaryName": null,
         "propertyNumber": "ULLTISTELN 40",
-        "streetAddress": "Sörgårsvägen 257",
+        "streetAddress": "Sörgårdsvägen 257",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3841623934611,
@@ -47366,17 +47366,6 @@
         "longitude": 13.08745
     },
     {
-        "id": "14557",
-        "name": "Handöl",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Hanriis Café",
-        "municipalityCode": "2321",
-        "extraInfo": "",
-        "latitude": 63.25278,
-        "longitude": 12.45056
-    },
-    {
         "id": "14558",
         "name": "Månsåsen",
         "secondaryName": "",
@@ -47430,6 +47419,17 @@
         "extraInfo": "",
         "latitude": 63.70083,
         "longitude": 12.94611
+    },
+    {
+        "id": "17407",
+        "name": "ÅVC Staa",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Staa 107",
+        "municipalityCode": "2321",
+        "extraInfo": "",
+        "latitude": 63.399533,
+        "longitude": 12.8294
     },
     {
         "id": "17427",
@@ -52900,14 +52900,14 @@
     },
     {
         "id": "8456",
-        "name": "Kiruna, Ullspiran",
+        "name": "Kiruna, Schouggatan",
         "secondaryName": "",
-        "propertyNumber": "Ön 1:1",
-        "streetAddress": "Bromsgatan 8D",
+        "propertyNumber": "Bolaget 11:2",
+        "streetAddress": "Schouggatan",
         "municipalityCode": "2584",
         "extraInfo": "",
-        "latitude": 67.84472,
-        "longitude": 20.22861
+        "latitude": 67.845147,
+        "longitude": 20.238259
     },
     {
         "id": "8457",
