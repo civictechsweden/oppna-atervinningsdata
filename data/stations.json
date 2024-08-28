@@ -1760,17 +1760,6 @@
         "longitude": 18.1651151700247
     },
     {
-        "id": "96698",
-        "name": "8120 Björkängshallen. Stängd från v.29",
-        "secondaryName": null,
-        "propertyNumber": "STUVSTA GÅRD 1:54",
-        "streetAddress": "Sjövägen/Västergårdsvägen",
-        "municipalityCode": "0126",
-        "extraInfo": null,
-        "latitude": 59.2416507708969,
-        "longitude": 18.006096419721
-    },
-    {
         "id": "96702",
         "name": "8133 Stortorpshallens Parkering",
         "secondaryName": null,
@@ -25091,6 +25080,17 @@
         "longitude": 12.1855559008578
     },
     {
+        "id": "202417482",
+        "name": "PARKERINGEN TILL SÄRÖ IDROTTSPLATS",
+        "secondaryName": null,
+        "propertyNumber": "NÖTEGÅNG 2:5",
+        "streetAddress": "IDROTTSGÅNGEN 5",
+        "municipalityCode": "1384",
+        "extraInfo": null,
+        "latitude": 57.5182141805639,
+        "longitude": 11.9697231561114
+    },
+    {
         "id": "202417532",
         "name": "LINDENS TORG VID PARKERINGSHUS",
         "secondaryName": null,
@@ -38812,7 +38812,7 @@
         "name": "Brevens Bruk ÅVS",
         "secondaryName": null,
         "propertyNumber": "Breven 1:33",
-        "streetAddress": "Smedvägen 3",
+        "streetAddress": "Smedvägen 1",
         "municipalityCode": "1880",
         "extraInfo": null,
         "latitude": 59.0163856210117,
@@ -46256,7 +46256,7 @@
     },
     {
         "id": "4430028",
-        "name": "Björnavägen",
+        "name": "Gullänget, Korsningen Björnavägen/Krokstavägen",
         "secondaryName": null,
         "propertyNumber": "KROKSTA 18:1",
         "streetAddress": "Björnavägen",
@@ -46311,7 +46311,7 @@
     },
     {
         "id": "4430033",
-        "name": "Granitvägen",
+        "name": "Överhörnäs, Granitvägen",
         "secondaryName": null,
         "propertyNumber": "ÖVERHÖRNÄS 2:8",
         "streetAddress": "Granitvägen",
@@ -46388,7 +46388,7 @@
     },
     {
         "id": "4430040",
-        "name": "Hörneborgsvägen",
+        "name": "Hörnett, Bredvid ST1",
         "secondaryName": null,
         "propertyNumber": "HÖRNETT 47:1",
         "streetAddress": "Hörneborgsvägen",
@@ -46399,7 +46399,7 @@
     },
     {
         "id": "4430041",
-        "name": "Karlslundsvägen",
+        "name": "Själevad, Coop P-plats",
         "secondaryName": null,
         "propertyNumber": "ÖVERSJÄLA 14:4",
         "streetAddress": "Karlslundsvägen",
@@ -46432,7 +46432,7 @@
     },
     {
         "id": "4430045",
-        "name": "Mycklingsvägen",
+        "name": "Myckling, Mittemot Mycklingskolan",
         "secondaryName": null,
         "propertyNumber": "SJÄLEVADS-MYCKLING 1:47",
         "streetAddress": "Mycklingsvägen",
