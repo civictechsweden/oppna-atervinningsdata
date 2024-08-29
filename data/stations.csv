@@ -2369,7 +2369,7 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 6210,,,Öckerö,Öckerö färjeläge,1407,,57.71028,11.65861
 6211,,,Hälsö,Hälsö hamn,1407,,57.73194,11.65583
 6212,,,Öckerö,"Kärrsvik ÅVC, Öckerö",1407,,57.71083,11.65361
-61963,Hantverkaregatan / Rödklövervägen,,Stenung 3:3,Hantverkaregatan / Rödklövervägen,1415,,58.067444,11.852453
+61963,Hantverkaregatan / Rödklövervägen,,,Hantverkaregatan / Rödklövervägen,1415,,58.067444,11.852453
 61964,Fotbollsplanen i Svenshögen,,,Fotbollsplanen i Svenshögen,1415,,58.13887,11.944162
 61965,Pressarevägen / Hallerna skola,,,Pressarevägen,1415,,58.049418,11.838377
 61966,Hantverkaregatan / vid OK,,,Hantverkaregatan vid OK,1415,,58.075338,11.839163
@@ -2378,12 +2378,13 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 61969,Kristinedals förskola,,,Kristinedalsvägen 4,1415,,58.064522,11.833315
 61970,Kyrkenorum,,,Kyrkenorum,1415,,58.056137,11.864949
 61971,"Södra vägen, P-plats",,,"Södra vägen, P-plats",1415,,58.06885,11.821728
-61972,Kläpp,,,Kläpp,1415,,58.0908,11.849326
+61972,Kläpp ÅVC,,,Kläpp,1415,Tillgänglig under öppettiderna för Kläpp ÅVC,58.0908,11.849326
 61973,Kvarnbergsvägen / Solgårdsdalen,,,Kvarnbergsvägen,1415,,58.059408,11.822687
 61974,Stora vägen,,,"Stora vägen, Stora Höga",1415,Belysningen kommer att ses över under 2024,58.010139,11.829998
 61975,Västerlandavägen,,,Västerlandavägen,1415,,58.078563,11.948316
 61976,Willys,,,Strandvägen 35,1415,,58.075279,11.820364
 61977,Uppfart Stripplekärr,,,Uppfart Stripplekärr,1415,,58.100157,11.846748
+62273,Stora Höga ÅVC,,,Brålandsvägen 18 A,1415,Tillgänglig under öppettiderna för Stora Höga ÅVC,58.015235,11.836853
 59122,Almö Livs,,.,Mällbyvägen 1,1419,,58.0627426196778,11.7499221575518
 59123,Ica Nära Höviksnäs,,.,Höviksnäsvägen 2,1419,,58.0376763953707,11.7326454460094
 59124,PK Konserv Klädesholmen,,.,Rytterholmen 1,1419,,57.9491968991253,11.5495437824214
@@ -4116,7 +4117,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 27,"Söråker, ICA - Folketshusvägen",,SÖRÅKER 22:10,Folketshusvägen (5),2262,,62.506649,17.509359
 28,Timrådalen,,FRÖLAND 6:1,Medborgargatan (3),2262,,62.476695,17.310009
 29,"Tynderö, Bygdegården",,STÅNGRID 3:13,Stångrid  (208),2262,,62.44835,17.622707
-32,"Vivsta, Varvsgatan",,VIVSTA 1:55,Varvsgatan (22),2262,,62.44835,17.622707
+32,"Vivsta, Varvsgatan",,VIVSTA 1:55,Varvsgatan (22),2262,,62.486027,17.328014
 34,"Västansjö, Järnvägen",,VÄSTANSJÖ 3:4,Västansjö  (402),2262,,62.531467,17.579319
 65,"Nyvivsta,",,VIVSTA 7:1,Nygatan (25),2262,,62.493115,17.335758
 71,Timrå (ÅVC),,Vivstamon 1:72,Svetsarvägen 9,2262,,62.502942,17.31448
@@ -4519,7 +4520,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415960,ÅVS Rödåsel,11002,RÖDÅ 4:11,Åvs Rödåsel ,2480,,64.08806,19.95306
 4415961,ÅVS Rödäng,11018,BACKEN 4:9,Åvs Rödäng Rödängsvägen/Cellovägen ,2480,,63.84028,20.22111
 4415963,ÅVS Sandbacka,12453,STADSLIDEN 2:1,Åvs Sandbacka Sandbackavägen 3,2480,,63.83917,20.275
-4415964,ÅVS Sandåkern Circle K,10980,UMEÅ 2:1,Åvs Sandåkern Circle K ,2480,,63.83417,20.23306
+4415964,ÅVS Sandåkern Circel K,10980,UMEÅ 2:1,Åvs Sandåkern Circel K ,2480,,63.83417,20.23306
 4415965,ÅVS Sofiehem,10962,SOFIEHEM 2:1,Åvs Sofiehem Tallvägen/Sofiehemsvägen ,2480,,63.8125,20.29806
 4415967,ÅVS Strömpilsplatsen,13245,STRÖMPILEN 1,Åvs Strömpilsplatsen Ica Maxi ,2480,,63.79639,20.30222
 4415968,ÅVS Stöcke,12444,STÖCKE 6:18,Åvs Stöcke ,2480,,63.73917,20.23

@@ -26062,7 +26062,7 @@
         "id": "61963",
         "name": "Hantverkaregatan / Rödklövervägen",
         "secondaryName": "",
-        "propertyNumber": "Stenung 3:3",
+        "propertyNumber": "",
         "streetAddress": "Hantverkaregatan / Rödklövervägen",
         "municipalityCode": "1415",
         "extraInfo": "",
@@ -26159,12 +26159,12 @@
     },
     {
         "id": "61972",
-        "name": "Kläpp",
+        "name": "Kläpp ÅVC",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Kläpp",
         "municipalityCode": "1415",
-        "extraInfo": "",
+        "extraInfo": "Tillgänglig under öppettiderna för Kläpp ÅVC",
         "latitude": 58.0908,
         "longitude": 11.849326
     },
@@ -26222,6 +26222,17 @@
         "extraInfo": "",
         "latitude": 58.100157,
         "longitude": 11.846748
+    },
+    {
+        "id": "62273",
+        "name": "Stora Höga ÅVC",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Brålandsvägen 18 A",
+        "municipalityCode": "1415",
+        "extraInfo": "Tillgänglig under öppettiderna för Stora Höga ÅVC",
+        "latitude": 58.015235,
+        "longitude": 11.836853
     },
     {
         "id": "59122",
@@ -45283,8 +45294,8 @@
         "streetAddress": "Varvsgatan (22)",
         "municipalityCode": "2262",
         "extraInfo": "",
-        "latitude": 62.44835,
-        "longitude": 17.622707
+        "latitude": 62.486027,
+        "longitude": 17.328014
     },
     {
         "id": "34",
@@ -49710,10 +49721,10 @@
     },
     {
         "id": "4415964",
-        "name": "ÅVS Sandåkern Circle K",
+        "name": "ÅVS Sandåkern Circel K",
         "secondaryName": "10980",
         "propertyNumber": "UMEÅ 2:1",
-        "streetAddress": "Åvs Sandåkern Circle K ",
+        "streetAddress": "Åvs Sandåkern Circel K ",
         "municipalityCode": "2480",
         "extraInfo": "",
         "latitude": 63.83417,
