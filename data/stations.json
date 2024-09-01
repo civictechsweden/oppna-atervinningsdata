@@ -22124,7 +22124,7 @@
         "id": "52090789",
         "name": "17316 (Rallaregatan 4)",
         "secondaryName": null,
-        "propertyNumber": "KATTARP 13:69",
+        "propertyNumber": "KATTARP 13:35",
         "streetAddress": "Rallaregatan 4",
         "municipalityCode": "1283",
         "extraInfo": null,
@@ -25103,7 +25103,7 @@
     },
     {
         "id": "20248542",
-        "name": "ANNEBERG KIOSKEN",
+        "name": "ANNEBERG-KIOSKEN",
         "secondaryName": null,
         "propertyNumber": "ALAFORS 2:42",
         "streetAddress": "ÄLVSÅKERSVÄGEN 4",
@@ -49247,6 +49247,17 @@
         "longitude": 18.414599
     },
     {
+        "id": "1111122",
+        "name": "Test",
+        "secondaryName": "",
+        "propertyNumber": "Test 1:2",
+        "streetAddress": "Testgatan 1",
+        "municipalityCode": "2480",
+        "extraInfo": "Detta är en teststation",
+        "latitude": 57.725313,
+        "longitude": 12.941921
+    },
+    {
         "id": "4415892",
         "name": "ÅVS Botsmark ",
         "secondaryName": "12451",
@@ -49588,17 +49599,6 @@
         "longitude": 19.91889
     },
     {
-        "id": "4415951",
-        "name": "ÅVS Hörnefors Skogsvägen",
-        "secondaryName": "12442",
-        "propertyNumber": "HÖRNEÅ 8:539",
-        "streetAddress": "Åvs Hörnefors Skogsvägen ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.625,
-        "longitude": 19.91917
-    },
-    {
         "id": "4415952",
         "name": "ÅVS Hörnefors Österlånggatan",
         "secondaryName": "10992",
@@ -49721,10 +49721,10 @@
     },
     {
         "id": "4415964",
-        "name": "ÅVS Sandåkern Circel K",
+        "name": "ÅVS Sandåkern Circle K",
         "secondaryName": "10980",
         "propertyNumber": "UMEÅ 2:1",
-        "streetAddress": "Åvs Sandåkern Circel K ",
+        "streetAddress": "Åvs Sandåkern Circle K ",
         "municipalityCode": "2480",
         "extraInfo": "",
         "latitude": 63.83417,
