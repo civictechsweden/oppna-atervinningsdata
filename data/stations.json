@@ -29546,17 +29546,6 @@
         "longitude": 11.99139
     },
     {
-        "id": "248683",
-        "name": "ÅVS 7763 Slottsskogsgatan 92  ",
-        "secondaryName": "",
-        "propertyNumber": "SLOTTSSKOGEN 719:4",
-        "streetAddress": "Slottsskogsgatan 92  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.68361,
-        "longitude": 11.93111
-    },
-    {
         "id": "248684",
         "name": "ÅVS 7764 Blåvalsgatan 10  ",
         "secondaryName": "",
@@ -29953,17 +29942,6 @@
         "longitude": 11.88833
     },
     {
-        "id": "248727",
-        "name": "ÅVS 7823 Sommarvädersgatan 2  ",
-        "secondaryName": "",
-        "propertyNumber": "BISKOPSGÅRDEN 21:7",
-        "streetAddress": "Sommarvädersgatan 2  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.71472,
-        "longitude": 11.89583
-    },
-    {
         "id": "248728",
         "name": "ÅVS 7824 Sommarvädersgatan 40 ",
         "secondaryName": "",
@@ -29984,17 +29962,6 @@
         "extraInfo": "",
         "latitude": 57.71083,
         "longitude": 11.88722
-    },
-    {
-        "id": "248730",
-        "name": "ÅVS 7826 Väderlekstorget   ",
-        "secondaryName": "",
-        "propertyNumber": "BISKOPSGÅRDEN 37:4",
-        "streetAddress": "Väderlekstorget   ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.71778,
-        "longitude": 11.88694
     },
     {
         "id": "248731",
@@ -30503,17 +30470,6 @@
         "longitude": 11.97278
     },
     {
-        "id": "248778",
-        "name": "ÅVS 12162 Distansgatan 57  ",
-        "secondaryName": "",
-        "propertyNumber": "JÄRNBROTT 147:4",
-        "streetAddress": "Distansgatan 57  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.66028,
-        "longitude": 11.92778
-    },
-    {
         "id": "248779",
         "name": "ÅVS 12163 Nymilsgatan 4  ",
         "secondaryName": "",
@@ -30567,17 +30523,6 @@
         "extraInfo": "",
         "latitude": 57.67861,
         "longitude": 11.98
-    },
-    {
-        "id": "248784",
-        "name": "ÅVS 12173 Beryllgatan 9  ",
-        "secondaryName": "",
-        "propertyNumber": "TYNNERED 25:8",
-        "streetAddress": "Beryllgatan 9  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.65833,
-        "longitude": 11.88667
     },
     {
         "id": "248785",
@@ -31570,17 +31515,6 @@
         "longitude": 11.93111
     },
     {
-        "id": "248881",
-        "name": "ÅVS 14718 Rosendalsgatan 8  ",
-        "secondaryName": "",
-        "propertyNumber": "SÄVENÄS 747:107",
-        "streetAddress": "Rosendalsgatan 8  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.71306,
-        "longitude": 12.04278
-    },
-    {
         "id": "248882",
         "name": "ÅVS 14719 Måns Bryntessonsplatsen 1  ",
         "secondaryName": "",
@@ -31645,17 +31579,6 @@
         "extraInfo": "",
         "latitude": 57.58944,
         "longitude": 11.93917
-    },
-    {
-        "id": "248895",
-        "name": "ÅVS 15469 Lärjeågatan   ",
-        "secondaryName": "",
-        "propertyNumber": "GAMLESTADEN 73:5",
-        "streetAddress": "Lärjeågatan   ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.75639,
-        "longitude": 12.00889
     },
     {
         "id": "248896",
@@ -38875,7 +38798,7 @@
     },
     {
         "id": "83909",
-        "name": "Atleverken ÅVS Tillfälligt stängd öppnar åter 6/9",
+        "name": "Atleverken ÅVS",
         "secondaryName": null,
         "propertyNumber": "ATTERSTA 7:8",
         "streetAddress": "Tippvägen 1",
@@ -42230,7 +42153,7 @@
     },
     {
         "id": "20343601",
-        "name": "Grönklitt",
+        "name": "Grönklitt, infarten till området",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Grönklittsvägen",
@@ -42241,7 +42164,7 @@
     },
     {
         "id": "20343602",
-        "name": "Skattungbyn",
+        "name": "Skattungbyn, affären",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Landsvägen",
@@ -42263,7 +42186,7 @@
     },
     {
         "id": "20343604",
-        "name": "Coop",
+        "name": "Orsa centrum, Dalagatan",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Dalagatan",
@@ -42274,7 +42197,7 @@
     },
     {
         "id": "20343605",
-        "name": "Willys",
+        "name": "Orsa centrum, Moravägen",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Moravägen",
@@ -42282,6 +42205,17 @@
         "extraInfo": "",
         "latitude": 61.115665,
         "longitude": 14.624396
+    },
+    {
+        "id": "20343607",
+        "name": "Orsa Centrum, Järnvägsgatan",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Järnvägsgatan 12",
+        "municipalityCode": "2034",
+        "extraInfo": "",
+        "latitude": 61.124505,
+        "longitude": 14.622441
     },
     {
         "id": "20394601",
@@ -42296,7 +42230,7 @@
     },
     {
         "id": "20394602",
-        "name": "Björnliden",
+        "name": "Björnliden, Lövåsvägen",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Lövåsvägen",
@@ -42307,7 +42241,7 @@
     },
     {
         "id": "20394603",
-        "name": "Flötningen",
+        "name": "Flötningen, väg 70",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Flötningen",
@@ -42318,7 +42252,7 @@
     },
     {
         "id": "20394604",
-        "name": "Foskrosvägen",
+        "name": "Centrala Idre, Foskrosvägen",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Foskrosvägen",
@@ -42329,10 +42263,10 @@
     },
     {
         "id": "20394605",
-        "name": "Himmelfjäll",
+        "name": "Himmelfjäll, södra infarten",
         "secondaryName": "",
         "propertyNumber": "",
-        "streetAddress": "Polstjänsgatan",
+        "streetAddress": "Polarisvägen 5",
         "municipalityCode": "2039",
         "extraInfo": "",
         "latitude": 61.885375,
@@ -42351,7 +42285,7 @@
     },
     {
         "id": "20394607",
-        "name": "Fjätervålen",
+        "name": "Fjätervålen, vid infarten",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Fjätervålen",
@@ -42373,7 +42307,7 @@
     },
     {
         "id": "20394609",
-        "name": "Brandstationen- Särna",
+        "name": "Centala Särna, brandstationen",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Särnavägen 113",
@@ -42384,10 +42318,10 @@
     },
     {
         "id": "20394610",
-        "name": "Gördalen",
+        "name": "Gördalen, väg 1056",
         "secondaryName": "",
         "propertyNumber": "",
-        "streetAddress": "Gördalen",
+        "streetAddress": "Väg 1056",
         "municipalityCode": "2039",
         "extraInfo": "",
         "latitude": 61.597971,
@@ -42395,7 +42329,7 @@
     },
     {
         "id": "20394611",
-        "name": "Brunnsberg",
+        "name": "Brunnsberg, bystugan",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Brunnsbergsvägen",
@@ -42417,7 +42351,7 @@
     },
     {
         "id": "20394613",
-        "name": "Villavägen",
+        "name": "Centrala Älvdalen, Villavägen",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Villavägen",
@@ -42428,7 +42362,7 @@
     },
     {
         "id": "20394614",
-        "name": "Brotvägen",
+        "name": "Centrala Älvdalen, Brotvägen",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Brotvägen",
@@ -42662,7 +42596,7 @@
         "name": "Långlet, bygdegården",
         "secondaryName": "",
         "propertyNumber": "",
-        "streetAddress": "Samsgärdsvägen",
+        "streetAddress": "Krånnkittbacksvägen 2",
         "municipalityCode": "2062",
         "extraInfo": "",
         "latitude": 61.021134,
@@ -42681,7 +42615,7 @@
     },
     {
         "id": "20622605",
-        "name": "Morkarlby, Selbäcksvägen/Oxbergsvägen",
+        "name": "Morkarlby, Väståkersvägen",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Väståkersvägen",
@@ -42714,7 +42648,7 @@
     },
     {
         "id": "20622608",
-        "name": "Hagvägen, Nodava/värmeverket",
+        "name": "Utmeland, Hagvägen",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Hagvägen",
@@ -42747,14 +42681,14 @@
     },
     {
         "id": "20622611",
-        "name": "Sollerön, oklart än",
+        "name": "Sollerön, bensinstationen",
         "secondaryName": "",
         "propertyNumber": "",
-        "streetAddress": "Soldvägen",
+        "streetAddress": "Sundsvägen",
         "municipalityCode": "2062",
         "extraInfo": "",
-        "latitude": 60.917608,
-        "longitude": 14.617646
+        "latitude": 60.917512,
+        "longitude": 14.597676
     },
     {
         "id": "20622612",
@@ -42769,7 +42703,7 @@
     },
     {
         "id": "20622613",
-        "name": "Venjan, butiken",
+        "name": "Venjan, affären",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Tennängsvägen 5",
@@ -42780,7 +42714,7 @@
     },
     {
         "id": "20622614",
-        "name": "Gävunda",
+        "name": "Gävunda, gamla affären",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Byvägen",
@@ -42791,7 +42725,7 @@
     },
     {
         "id": "20622615",
-        "name": "Garsås",
+        "name": "Garsås, bystugan",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Riksvägen 128",
@@ -42802,7 +42736,7 @@
     },
     {
         "id": "20622616",
-        "name": "Nusnäs",
+        "name": "Nusnäs, bygdegården",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Sionsvägen 2",
@@ -42813,7 +42747,7 @@
     },
     {
         "id": "20622617",
-        "name": "Skålmyrvägen",
+        "name": "Norets köpcentrum",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Skålmyrsvägen",
@@ -42824,10 +42758,10 @@
     },
     {
         "id": "20622618",
-        "name": "Tallvägen",
+        "name": "Rödmyren, industriområde",
         "secondaryName": "",
         "propertyNumber": "",
-        "streetAddress": "Tallvägen",
+        "streetAddress": "Tallvägen 2",
         "municipalityCode": "2062",
         "extraInfo": "",
         "latitude": 61.017698,
@@ -42835,7 +42769,7 @@
     },
     {
         "id": "20622619",
-        "name": "Bergkarlås",
+        "name": "Bergkarlås, bygdegården",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Gamla Risavägen",
