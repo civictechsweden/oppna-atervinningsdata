@@ -49181,17 +49181,6 @@
         "longitude": 18.414599
     },
     {
-        "id": "1111122",
-        "name": "Test",
-        "secondaryName": "",
-        "propertyNumber": "Test 1:2",
-        "streetAddress": "Testgatan 1",
-        "municipalityCode": "2480",
-        "extraInfo": "Detta är en teststation",
-        "latitude": 57.725313,
-        "longitude": 12.941921
-    },
-    {
         "id": "4415892",
         "name": "ÅVS Botsmark ",
         "secondaryName": "12451",
@@ -49531,17 +49520,6 @@
         "extraInfo": "",
         "latitude": 63.61889,
         "longitude": 19.91889
-    },
-    {
-        "id": "4415951",
-        "name": "ÅVS Hörnefors Skogsvägen",
-        "secondaryName": "12442",
-        "propertyNumber": "HÖRNEÅ 8:539",
-        "streetAddress": "Åvs Hörnefors Skogsvägen ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.625,
-        "longitude": 19.91917
     },
     {
         "id": "4415952",
