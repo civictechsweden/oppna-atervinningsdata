@@ -1196,7 +1196,6 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 11100,Ekdungen,,Västerlösa 2:1,Sågarevägen,0584,,58.382057,14.697496
 11107,Cirkusplatsen,,Vadstena 3:2,Pilgrimsvägen,0584,,58.444644,14.903598
 11109,Utanför nya ÅVC Tegellöten,,Tegellöten 1:1,Tegellöten 107,0584,,58.45796,14.934024
-16720,Kronängsgatan ,,Vadstena 3:3,Kronängsgatan 5,0584,,58.444237,14.880288
 99211,Gamla Vägverket,,Kalkbrottet 1,Hovsvägen,0584,,58.439074,14.895969
 15605,Hulje (ÅVC),,MJÖLBY OMLASTAREN 1,Omlastarvägen 5,0586,,58.34074543545173,15.106850583486835
 16250,Vallsbergsvägen 8,,VALLSBERG 7:65,Vallsbergsvägen 8,0586,,58.314268354392404,14.923451513054511
@@ -4471,6 +4470,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 919922,Lillögda,,,,2463,,64.485783,18.276359
 919923,Älgsjö,,,,2463,,64.201599,17.506847
 919931,Fredrika,,Viska 1:138,Umevägen 29,2463,,64.073858,18.414599
+1111122,Test,,Test 1:2,Testgatan 1,2480,Detta är en teststation,57.725313,12.941921
 4415892,ÅVS Botsmark ,12451,BOTSMARK 1:26,Åvs Botsmark Byagårdsvägen ,2480,,64.25389,20.24444
 4415901,ÅVS Ålidhem Biologigränd,10954,LICENTIATEN 1,Åvs Ålidhem Biologigränd 18 ,2480,,63.80806,20.31028
 4415902,ÅVS Öst-Teg,99058,VÄSTERTEG 51:2,Åvs Öst-Teg Långgatan ,2480,,63.81,20.26833
@@ -4479,7 +4479,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415907,ÅVS Tomtebo Coop,17238,FÄLTSPATEN 2,Åvs Tomtebo Mineralvägen 7 ,2480,,63.81111,20.33139
 4415908,ÅVS Holmsund Brandstationen,16853,HOLMSUND 4:1,Åvs Holmsund Brandstationen Stenhuggareg ,2480,,63.71556,20.36722
 4415909,ÅVS Tomtebo Tomtebovägen,16852,TOMTEBO 2:1,Åvs Tomtebo Tomtebovägen/Näckens Väg ,2480,,63.80361,20.35583
-4415910,ÅVS Ikea,16449,MARKNADSPLATSEN S:1,Åvs Ikea Marknadsgatan ,2480,,63.80528,20.25667
 4415911,ÅVS Marieberg,16369,STADSLIDEN 2:4,Åvs Marieberg Älgvägen 3 ,2480,,63.84444,20.32972
 4415912,ÅVS Innertavle,16107,INNERTAVLE 17:3,Åvs Innertavle Gamla Sågentomten ,2480,,63.81083,20.38972
 4415913,ÅVS Hörnefors Hantverkareg,15978,HÖRNEÅ 8:459,Åvs Hörnefors Hantverkaregatan ,2480,,63.63167,19.90778
@@ -4502,6 +4501,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415948,ÅVS Holmsund Lärkvägen,10988,HOLMSUND 2:1,Åvs Holmsund Lärkvägen 1 ,2480,,63.71528,20.38417
 4415949,ÅVS Holmsund Trädgårdsgatan,10990,TÖRNROSEN 10,Åvs Holmsund Trädgårdsgatan ,2480,,63.70806,20.36667
 4415950,ÅVS Hörnefors ÅVC,12441,HÖRNEÅ 8:845,Åvs Hörnefors (Åvc) Skatvägen 35,2480,,63.61889,19.91889
+4415951,ÅVS Hörnefors Skogsvägen,12442,HÖRNEÅ 8:539,Åvs Hörnefors Skogsvägen ,2480,,63.625,19.91917
 4415952,ÅVS Hörnefors Österlånggatan,10992,HÖRNEÅ 8:459,Åvs Hörnefors Österlånggatan ,2480,,63.63111,19.9225
 4415953,ÅVS Klockarbäcken,15959,KÄLLAREN 1,Åvs Klockarbäcken (Åvc) Källarvägen 4,2480,,63.85139,20.14861
 4415954,ÅVS Mariehem,10996,STADSLIDEN 5:1,Åvs Mariehem Mariehemsvägen 9 ,2480,,63.83361,20.32972

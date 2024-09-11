@@ -12091,77 +12091,77 @@
     {
         "id": "12035",
         "name": "Björsäter Stationsvägen ",
-        "secondaryName": null,
+        "secondaryName": "",
         "propertyNumber": "BLIDSÄTER 1:23, 1:27",
         "streetAddress": "Stationsvägen 4",
         "municipalityCode": "0561",
-        "extraInfo": null,
+        "extraInfo": "",
         "latitude": 58.33722,
         "longitude": 16.02583
     },
     {
         "id": "16294",
         "name": "Åtvidaberg Folkets Park",
-        "secondaryName": null,
+        "secondaryName": "",
         "propertyNumber": "ÅTVIDABERG 5:3",
         "streetAddress": "Parkvägen 1",
         "municipalityCode": "0561",
-        "extraInfo": null,
+        "extraInfo": "",
         "latitude": 58.20167,
         "longitude": 15.98722
     },
     {
         "id": "6541",
         "name": "Falerum Järnvägsstationen",
-        "secondaryName": null,
+        "secondaryName": "",
         "propertyNumber": "TORESTORP 1:52",
         "streetAddress": "Uknavägen",
         "municipalityCode": "0561",
-        "extraInfo": null,
+        "extraInfo": "",
         "latitude": 58.14278,
         "longitude": 16.2075
     },
     {
         "id": "6542",
         "name": "Grebo ",
-        "secondaryName": null,
+        "secondaryName": "",
         "propertyNumber": "GREBO PRÄSTGÅRD 1:43",
         "streetAddress": "Ängsvägen",
         "municipalityCode": "0561",
-        "extraInfo": null,
+        "extraInfo": "",
         "latitude": 58.2975,
         "longitude": 15.87278
     },
     {
         "id": "6543",
         "name": "Kvarnvik Sjöberga lanthandel",
-        "secondaryName": null,
+        "secondaryName": "",
         "propertyNumber": "HOLMBO 2:1",
         "streetAddress": "Kvarnvik",
         "municipalityCode": "0561",
-        "extraInfo": null,
+        "extraInfo": "",
         "latitude": 58.19611,
         "longitude": 16.36972
     },
     {
         "id": "6545",
         "name": "Åtvidaberg Långbrottsgatan ",
-        "secondaryName": null,
+        "secondaryName": "",
         "propertyNumber": "ÅTVIDABERG 4:6",
         "streetAddress": "Långbrottsgatan 10",
         "municipalityCode": "0561",
-        "extraInfo": null,
+        "extraInfo": "",
         "latitude": 58.2025,
         "longitude": 16.00694
     },
     {
         "id": "6547",
         "name": "Åtvidaberg Söderleden ",
-        "secondaryName": null,
+        "secondaryName": "",
         "propertyNumber": "ÅTVIDABERG 6:8",
         "streetAddress": "Söderleden 13",
         "municipalityCode": "0561",
-        "extraInfo": null,
+        "extraInfo": "",
         "latitude": 58.19194,
         "longitude": 16.00306
     },
@@ -13154,17 +13154,6 @@
         "extraInfo": "",
         "latitude": 58.45796,
         "longitude": 14.934024
-    },
-    {
-        "id": "16720",
-        "name": "Kronängsgatan ",
-        "secondaryName": "",
-        "propertyNumber": "Vadstena 3:3",
-        "streetAddress": "Kronängsgatan 5",
-        "municipalityCode": "0584",
-        "extraInfo": "",
-        "latitude": 58.444237,
-        "longitude": 14.880288
     },
     {
         "id": "99211",
@@ -49181,6 +49170,17 @@
         "longitude": 18.414599
     },
     {
+        "id": "1111122",
+        "name": "Test",
+        "secondaryName": "",
+        "propertyNumber": "Test 1:2",
+        "streetAddress": "Testgatan 1",
+        "municipalityCode": "2480",
+        "extraInfo": "Detta är en teststation",
+        "latitude": 57.725313,
+        "longitude": 12.941921
+    },
+    {
         "id": "4415892",
         "name": "ÅVS Botsmark ",
         "secondaryName": "12451",
@@ -49267,17 +49267,6 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
-    },
-    {
-        "id": "4415910",
-        "name": "ÅVS Ikea",
-        "secondaryName": "16449",
-        "propertyNumber": "MARKNADSPLATSEN S:1",
-        "streetAddress": "Åvs Ikea Marknadsgatan ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.80528,
-        "longitude": 20.25667
     },
     {
         "id": "4415911",
@@ -49520,6 +49509,17 @@
         "extraInfo": "",
         "latitude": 63.61889,
         "longitude": 19.91889
+    },
+    {
+        "id": "4415951",
+        "name": "ÅVS Hörnefors Skogsvägen",
+        "secondaryName": "12442",
+        "propertyNumber": "HÖRNEÅ 8:539",
+        "streetAddress": "Åvs Hörnefors Skogsvägen ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.625,
+        "longitude": 19.91917
     },
     {
         "id": "4415952",
