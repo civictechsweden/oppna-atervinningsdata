@@ -9879,9 +9879,9 @@
     },
     {
         "id": "988318",
-        "name": "ÅVS 652 P-plats,  f.d.  Fanna-kiosken",
+        "name": "ÅVS 652 P-plats, f.d.  Fanna-kiosken",
         "secondaryName": null,
-        "propertyNumber": "Enköping Fanna 17:1",
+        "propertyNumber": "Enköping Fanna 15:13",
         "streetAddress": "Fannagatan 23",
         "municipalityCode": "0381",
         "extraInfo": null,
@@ -10297,6 +10297,39 @@
     },
     {
         "id": "100001459",
+        "name": "P-plats Konsum",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Bruksvägen",
+        "municipalityCode": "0428",
+        "extraInfo": null,
+        "latitude": 59.0277799989506,
+        "longitude": 15.6697200066142
+    },
+    {
+        "id": "100001460",
+        "name": "P-plats Campingen",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Hjälmargårdsvägen",
+        "municipalityCode": "0428",
+        "extraInfo": null,
+        "latitude": 59.1302800030213,
+        "longitude": 15.8061099987125
+    },
+    {
+        "id": "100001461",
+        "name": "Folke Angers väg/Ekebergsvägen, Marmorbyn",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Ekebergsvägen",
+        "municipalityCode": "0428",
+        "extraInfo": null,
+        "latitude": 59.047220003837,
+        "longitude": 16.0672199956927
+    },
+    {
+        "id": "100001462",
         "name": "Ica Supermarket Cityhallen/Tennisparken",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -10307,7 +10340,7 @@
         "longitude": 15.8730599995134
     },
     {
-        "id": "100001460",
+        "id": "100001463",
         "name": "Lastbilscentralen (LBC) (Söder)",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -10318,7 +10351,7 @@
         "longitude": 15.864719991369
     },
     {
-        "id": "100001461",
+        "id": "100001464",
         "name": "Gamla brandstationen, Lindberga",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -10363,6 +10396,50 @@
     },
     {
         "id": "100004537",
+        "name": "Riksväg 52 nära Smedjevägen Baggetorp",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Smedjevägen",
+        "municipalityCode": "0428",
+        "extraInfo": null,
+        "latitude": 59.0094399974912,
+        "longitude": 16.0555599945684
+    },
+    {
+        "id": "100004538",
+        "name": "Hackstavägen 17 (norr)",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Hackstavägen 17",
+        "municipalityCode": "0428",
+        "extraInfo": null,
+        "latitude": 59.0563900009306,
+        "longitude": 15.8752800036845
+    },
+    {
+        "id": "100004539",
+        "name": "P-plats järnvägsbron (centrum)",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Järnvägsgatan",
+        "municipalityCode": "0428",
+        "extraInfo": null,
+        "latitude": 59.0419400019364,
+        "longitude": 15.8711099993281
+    },
+    {
+        "id": "100004540",
+        "name": "ÅVC Vik (ÅVS)",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Viks Återvinningscentral 1 B",
+        "municipalityCode": "0428",
+        "extraInfo": null,
+        "latitude": 59.0872199985611,
+        "longitude": 15.9174999995565
+    },
+    {
+        "id": "100004541",
         "name": "Riksväg 52 nära Smedjevägen Baggetorp",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -11067,6 +11144,61 @@
     },
     {
         "id": "100011001",
+        "name": "Kungsbackavägen",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Kungsbackavägen/Valstavägen",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 58.9041700017449,
+        "longitude": 16.6458299971
+    },
+    {
+        "id": "100011002",
+        "name": "Vasagatan",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Vasagatan 2",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 59.0552799976108,
+        "longitude": 16.5866699912964
+    },
+    {
+        "id": "100011003",
+        "name": "Lötvägen",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Lötvägen 9",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 59.0547199993554,
+        "longitude": 16.6030600014831
+    },
+    {
+        "id": "100011004",
+        "name": "ICA Kvantum",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Hantverkargatan(väg mot ICA)",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 59.0597200000344,
+        "longitude": 16.5930600070298
+    },
+    {
+        "id": "100011005",
+        "name": "Willys",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Tegelvägen 2 vid P-plats",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 59.0627800020562,
+        "longitude": 16.5927800007852
+    },
+    {
+        "id": "100011006",
         "name": "Torsbovägen",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -11077,7 +11209,7 @@
         "longitude": 16.4947199970836
     },
     {
-        "id": "100011002",
+        "id": "100011007",
         "name": "Malmheden, Malmköping",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -11088,7 +11220,7 @@
         "longitude": 16.7272199972123
     },
     {
-        "id": "100011003",
+        "id": "100011008",
         "name": "Trädgårdsgatan 29",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -11099,7 +11231,7 @@
         "longitude": 16.7255600022149
     },
     {
-        "id": "100011004",
+        "id": "100011009",
         "name": "Domarvägen / Ljusnevägen",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -11110,7 +11242,7 @@
         "longitude": 16.5638900086923
     },
     {
-        "id": "100011005",
+        "id": "100011010",
         "name": "Föreningsgården, Skebokvarn",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -11121,7 +11253,7 @@
         "longitude": 16.7144400068746
     },
     {
-        "id": "100011006",
+        "id": "100011011",
         "name": "Tempo Sparreholm",
         "secondaryName": null,
         "propertyNumber": "Sparreholm 8:3",
@@ -11166,6 +11298,50 @@
     },
     {
         "id": "100012802",
+        "name": "Grusplan Variagatan",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Variagatan",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 59.055829998553,
+        "longitude": 16.5763900006006
+    },
+    {
+        "id": "100012805",
+        "name": "Brogetorp",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Januarivägen",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 59.0650000025898,
+        "longitude": 16.5983300040535
+    },
+    {
+        "id": "100012806",
+        "name": "Grönviksvägen",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Grönviksvägen",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 59.1563899989572,
+        "longitude": 16.5036099967037
+    },
+    {
+        "id": "100012807",
+        "name": "ÅVC Frutorp ÅVS",
+        "secondaryName": null,
+        "propertyNumber": "Talja 1:5",
+        "streetAddress": "Talja Frutorp",
+        "municipalityCode": "0482",
+        "extraInfo": null,
+        "latitude": 59.0699999987434,
+        "longitude": 16.6347199957611
+    },
+    {
+        "id": "100012808",
         "name": "Grusplan Variagatan",
         "secondaryName": null,
         "propertyNumber": ".",
@@ -13154,6 +13330,17 @@
         "extraInfo": "",
         "latitude": 58.45796,
         "longitude": 14.934024
+    },
+    {
+        "id": "16720",
+        "name": "Kronängsgatan ",
+        "secondaryName": "",
+        "propertyNumber": "Vadstena 3:3",
+        "streetAddress": "Kronängsgatan 5",
+        "municipalityCode": "0584",
+        "extraInfo": "",
+        "latitude": 58.444237,
+        "longitude": 14.880288
     },
     {
         "id": "99211",
@@ -47210,6 +47397,17 @@
         "extraInfo": null,
         "latitude": 63.919443653334,
         "longitude": 16.333713204394
+    },
+    {
+        "id": "115123",
+        "name": "Strömvallen",
+        "secondaryName": null,
+        "propertyNumber": "GRELSGÅRD 3:47",
+        "streetAddress": "Ramselevägen",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.8460319357045,
+        "longitude": 15.5760392917201
     },
     {
         "id": "11605",

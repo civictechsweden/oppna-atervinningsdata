@@ -898,7 +898,7 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 988256,ÅVS 15451 Återbruket Enköping,,Enköping Kryddgården 9:1,Kaptensgatan 21,0381,,59.6285413990431,17.0803099471806
 988266,ÅVS 15931 Lantmännen,,Enköping Mällersta 3:1,Stora vägen 20,0381,,59.7770177503902,16.9272418630215
 988283,"ÅVS 16978 Haga Slott, Hållplats Haga vändslinga",,Enköping Haga 9:6,Natt Och Dags Allé 53,0381,,59.6046943566941,17.0517807814471
-988318,"ÅVS 652 P-plats,  f.d.  Fanna-kiosken",,Enköping Fanna 17:1,Fannagatan 23,0381,,59.6397908549943,17.1012787302248
+988318,"ÅVS 652 P-plats, f.d.  Fanna-kiosken",,Enköping Fanna 15:13,Fannagatan 23,0381,,59.6397908549943,17.1012787302248
 988319,ÅVS 653 Bangatan/Brunnsgatan,,Enköping Grillby 80:3,Bangatan 19,0381,,59.625987793132,17.2529057525356
 988320,ÅVS 655 Lastbilsparkeringen (f.d. Hummelsta Livs),,Enköping Tillinge-Hummelsta 1:61,Åsundavägen 7,0381,,59.6272099279133,16.9481911923953
 988321,ÅVS 17738 Torggatan/Sandgatan,,Enköping Kryddgården 6:3,Långgatan,0381,,59.6384717862856,17.0718261182514
@@ -936,13 +936,20 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 100001456,P-plats Konsum,,.,Bruksvägen,0428,,59.0277799989506,15.6697200066142
 100001457,P-plats Campingen,,.,Hjälmargårdsvägen,0428,,59.1302800030213,15.8061099987125
 100001458,"Folke Angers väg/Ekebergsvägen, Marmorbyn",,.,Ekebergsvägen,0428,,59.047220003837,16.0672199956927
-100001459,Ica Supermarket Cityhallen/Tennisparken,,.,Bondegatan 9,0428,,59.0436100034394,15.8730599995134
-100001460,Lastbilscentralen (LBC) (Söder),,.,Idrottsvägen,0428,,59.0383300017469,15.864719991369
-100001461,"Gamla brandstationen, Lindberga",,.,Rosavillavägen,0428,,59.1244399969171,15.9863899975829
+100001459,P-plats Konsum,,.,Bruksvägen,0428,,59.0277799989506,15.6697200066142
+100001460,P-plats Campingen,,.,Hjälmargårdsvägen,0428,,59.1302800030213,15.8061099987125
+100001461,"Folke Angers väg/Ekebergsvägen, Marmorbyn",,.,Ekebergsvägen,0428,,59.047220003837,16.0672199956927
+100001462,Ica Supermarket Cityhallen/Tennisparken,,.,Bondegatan 9,0428,,59.0436100034394,15.8730599995134
+100001463,Lastbilscentralen (LBC) (Söder),,.,Idrottsvägen,0428,,59.0383300017469,15.864719991369
+100001464,"Gamla brandstationen, Lindberga",,.,Rosavillavägen,0428,,59.1244399969171,15.9863899975829
 100004534,Hackstavägen 17 (norr),,.,Hackstavägen 17,0428,,59.0563900009306,15.8752800036845
 100004535,P-plats järnvägsbron (centrum),,.,Järnvägsgatan,0428,,59.0419400019364,15.8711099993281
 100004536,ÅVC Vik (ÅVS),,.,Viks Återvinningscentral 1 B,0428,,59.0872199985611,15.9174999995565
 100004537,Riksväg 52 nära Smedjevägen Baggetorp,,.,Smedjevägen,0428,,59.0094399974912,16.0555599945684
+100004538,Hackstavägen 17 (norr),,.,Hackstavägen 17,0428,,59.0563900009306,15.8752800036845
+100004539,P-plats järnvägsbron (centrum),,.,Järnvägsgatan,0428,,59.0419400019364,15.8711099993281
+100004540,ÅVC Vik (ÅVS),,.,Viks Återvinningscentral 1 B,0428,,59.0872199985611,15.9174999995565
+100004541,Riksväg 52 nära Smedjevägen Baggetorp,,.,Smedjevägen,0428,,59.0094399974912,16.0555599945684
 16879,NIVÅGÅNGEN / PLATÅVÄGEN,,SIGTUNA 2:249,PLATÅVÄGEN,0461,,59.045326566918,17.2944628377268
 7596,BJÖRNLUNDA BUSSTORGET,,SKENDA 9:31,STATIONSVÄGEN 5,0461,,59.0640405755556,17.1598326786475
 7597,"ELEKTRON, BAKOM ICA",,GNESTA 4:1,VÄSTRA STORGATAN 18,0461,,59.0495391010038,17.3061499373704
@@ -1006,16 +1013,25 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 100010998,Lötvägen,,.,Lötvägen 9,0482,,59.0547199993554,16.6030600014831
 100010999,ICA Kvantum,,.,Hantverkargatan(väg mot ICA),0482,,59.0597200000344,16.5930600070298
 100011000,Willys,,.,Tegelvägen 2 vid P-plats,0482,,59.0627800020562,16.5927800007852
-100011001,Torsbovägen,,.,Torsbovägen 2,0482,,59.1536100038121,16.4947199970836
-100011002,"Malmheden, Malmköping",,.,Förrådsgatan,0482,,59.1358299967028,16.7272199972123
-100011003,Trädgårdsgatan 29,,.,Trädgårdsgatan 29,0482,,59.1319400037694,16.7255600022149
-100011004,Domarvägen / Ljusnevägen,,.,Domarvägen,0482,,59.1016700030592,16.5638900086923
-100011005,"Föreningsgården, Skebokvarn",,.,Sparreholmsvägen,0482,,59.0641699962648,16.7144400068746
-100011006,Tempo Sparreholm,,Sparreholm 8:3,Skarvnäsvägen 7,0482,,59.0708300034122,16.8258299972339
+100011001,Kungsbackavägen,,.,Kungsbackavägen/Valstavägen,0482,,58.9041700017449,16.6458299971
+100011002,Vasagatan,,.,Vasagatan 2,0482,,59.0552799976108,16.5866699912964
+100011003,Lötvägen,,.,Lötvägen 9,0482,,59.0547199993554,16.6030600014831
+100011004,ICA Kvantum,,.,Hantverkargatan(väg mot ICA),0482,,59.0597200000344,16.5930600070298
+100011005,Willys,,.,Tegelvägen 2 vid P-plats,0482,,59.0627800020562,16.5927800007852
+100011006,Torsbovägen,,.,Torsbovägen 2,0482,,59.1536100038121,16.4947199970836
+100011007,"Malmheden, Malmköping",,.,Förrådsgatan,0482,,59.1358299967028,16.7272199972123
+100011008,Trädgårdsgatan 29,,.,Trädgårdsgatan 29,0482,,59.1319400037694,16.7255600022149
+100011009,Domarvägen / Ljusnevägen,,.,Domarvägen,0482,,59.1016700030592,16.5638900086923
+100011010,"Föreningsgården, Skebokvarn",,.,Sparreholmsvägen,0482,,59.0641699962648,16.7144400068746
+100011011,Tempo Sparreholm,,Sparreholm 8:3,Skarvnäsvägen 7,0482,,59.0708300034122,16.8258299972339
 100012799,Brogetorp,,.,Januarivägen,0482,,59.0650000025898,16.5983300040535
 100012800,Grönviksvägen,,.,Grönviksvägen,0482,,59.1563899989572,16.5036099967037
 100012801,ÅVC Frutorp ÅVS,,Talja 1:5,Talja Frutorp,0482,,59.0699999987434,16.6347199957611
 100012802,Grusplan Variagatan,,.,Variagatan,0482,,59.055829998553,16.5763900006006
+100012805,Brogetorp,,.,Januarivägen,0482,,59.0650000025898,16.5983300040535
+100012806,Grönviksvägen,,.,Grönviksvägen,0482,,59.1563899989572,16.5036099967037
+100012807,ÅVC Frutorp ÅVS,,Talja 1:5,Talja Frutorp,0482,,59.0699999987434,16.6347199957611
+100012808,Grusplan Variagatan,,.,Variagatan,0482,,59.055829998553,16.5763900006006
 048312006,Isrinken Backavallen,,.,Prins Bertils gata,0483,,58.9833299991949,16.2019400028315
 048315603,Vika Avfallsanläggning (ÅVC),,Lasstorp 4:1,Vikadeponin,0483,,59.01224025684,16.2190818787451
 048315967,Fotbollsplan,,.,Kanntorpsgatan,0483,,59.0277799984937,16.4486099993668
@@ -1196,6 +1212,7 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 11100,Ekdungen,,Västerlösa 2:1,Sågarevägen,0584,,58.382057,14.697496
 11107,Cirkusplatsen,,Vadstena 3:2,Pilgrimsvägen,0584,,58.444644,14.903598
 11109,Utanför nya ÅVC Tegellöten,,Tegellöten 1:1,Tegellöten 107,0584,,58.45796,14.934024
+16720,Kronängsgatan ,,Vadstena 3:3,Kronängsgatan 5,0584,,58.444237,14.880288
 99211,Gamla Vägverket,,Kalkbrottet 1,Hovsvägen,0584,,58.439074,14.895969
 15605,Hulje (ÅVC),,MJÖLBY OMLASTAREN 1,Omlastarvägen 5,0586,,58.34074543545173,15.106850583486835
 16250,Vallsbergsvägen 8,,VALLSBERG 7:65,Vallsbergsvägen 8,0586,,58.314268354392404,14.923451513054511
@@ -4292,6 +4309,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 115109,Lövberga,,LÖVBERGA 1:78,Lövberga,2313,,63.965175218761,15.8528114117806
 115111,Gäddede Södra,,GÄDDEDE 1:380,Strömsvägen,2313,,64.4941875955377,14.1490601306663
 115112,Rossön Gamla Reningsverket,,BODUM 1:45,Näsvägen,2313,,63.919443653334,16.333713204394
+115123,Strömvallen,,GRELSGÅRD 3:47,Ramselevägen,2313,,63.8460319357045,15.5760392917201
 11605,Duved,,,Mångåvägen,2321,,63.39642,12.91402
 11607,"Hallen, vid ÅVC",,,Trägsta 109,2321,,63.17076,14.10955
 11608,Huså,,,"Husåvägen, vid reningsverket",2321,,63.48639,13.13694
