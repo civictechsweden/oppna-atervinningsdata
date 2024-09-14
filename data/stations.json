@@ -40722,6 +40722,17 @@
         "longitude": 16.4223026869313
     },
     {
+        "id": "988487",
+        "name": "Skultunabod Prästgärdsgatan",
+        "secondaryName": null,
+        "propertyNumber": "Västerås Skädduga 12:1",
+        "streetAddress": "Prästgärdsgatan",
+        "municipalityCode": "1980",
+        "extraInfo": null,
+        "latitude": 59.709543792931,
+        "longitude": 16.4342810632475
+    },
+    {
         "id": "988488",
         "name": "Skultunabod Midvintergatan",
         "secondaryName": null,
@@ -45695,7 +45706,7 @@
     },
     {
         "id": "6975",
-        "name": "Brunne Affären f.d.",
+        "name": "Brunne Coop",
         "secondaryName": "",
         "propertyNumber": "Brunne 12:2",
         "streetAddress": "Stigsjö Brunne 90",
