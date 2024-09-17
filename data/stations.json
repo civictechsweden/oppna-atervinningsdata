@@ -19063,6 +19063,17 @@
         "longitude": 18.2768150569156
     },
     {
+        "id": "15507",
+        "name": "Dalhem",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Dalhem Hallvide 453",
+        "municipalityCode": "0980",
+        "extraInfo": "",
+        "latitude": 57.547292458625186,
+        "longitude": 18.531330709627614
+    },
+    {
         "id": "15508",
         "name": "ICA Krampbroboden",
         "secondaryName": "",
@@ -40623,50 +40634,6 @@
         "longitude": 16.5425260911341
     },
     {
-        "id": "988472",
-        "name": "Skultunabod Björkängsvägen 12",
-        "secondaryName": null,
-        "propertyNumber": "Västerås Skultuna Tibble 2:2",
-        "streetAddress": "Björkängsvägen 12",
-        "municipalityCode": "1980",
-        "extraInfo": null,
-        "latitude": 59.7157518351349,
-        "longitude": 16.4365901942764
-    },
-    {
-        "id": "988473",
-        "name": "Skultunabod Åvägen",
-        "secondaryName": null,
-        "propertyNumber": "Västerås Kvarnbacka 3:46",
-        "streetAddress": "Åvägen",
-        "municipalityCode": "1980",
-        "extraInfo": null,
-        "latitude": 59.7232279067813,
-        "longitude": 16.4281572092387
-    },
-    {
-        "id": "988474",
-        "name": "Skultunabod Bruksgatan",
-        "secondaryName": null,
-        "propertyNumber": "Västerås Kvarnbacka 3:101",
-        "streetAddress": "Bruksgatan",
-        "municipalityCode": "1980",
-        "extraInfo": null,
-        "latitude": 59.7207718056097,
-        "longitude": 16.4224051381391
-    },
-    {
-        "id": "988475",
-        "name": "Skultunabod Midvintergatan",
-        "secondaryName": null,
-        "propertyNumber": "Västerås Skultuna Prästgård 1:1",
-        "streetAddress": "Midvintergatan",
-        "municipalityCode": "1980",
-        "extraInfo": null,
-        "latitude": 59.7116122688657,
-        "longitude": 16.4276837148909
-    },
-    {
         "id": "988482",
         "name": "Skultunabod Vallonvägen 47",
         "secondaryName": null,
@@ -49083,7 +49050,7 @@
     },
     {
         "id": "11248",
-        "name": "CUS Dikanäs",
+        "name": "Dikanäs",
         "secondaryName": "",
         "propertyNumber": "Dikanäs 2.1",
         "streetAddress": "Församlingsvägen 4",
@@ -49094,7 +49061,7 @@
     },
     {
         "id": "11250",
-        "name": "CUS Latikberg",
+        "name": "Latikberg",
         "secondaryName": "",
         "propertyNumber": "Latikberg 3:68",
         "streetAddress": "Södra Vägen",
@@ -49105,7 +49072,7 @@
     },
     {
         "id": "11251",
-        "name": "CUS Malgovik",
+        "name": "Malgovik",
         "secondaryName": "",
         "propertyNumber": "Malgovik 1:96",
         "streetAddress": "Malgovik",
@@ -49126,17 +49093,6 @@
         "longitude": 16.644797
     },
     {
-        "id": "11258",
-        "name": "OkQ8 Vilhelmina",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Volgsjövägen 58",
-        "municipalityCode": "2462",
-        "extraInfo": "",
-        "latitude": 64.62194,
-        "longitude": 16.66556
-    },
-    {
         "id": "11259",
         "name": "Baksjöstrand",
         "secondaryName": "",
@@ -49148,30 +49104,8 @@
         "longitude": 16.6725
     },
     {
-        "id": "15872",
-        "name": "Vilhelmina ÅVC",
-        "secondaryName": "Företagsförpackningar",
-        "propertyNumber": "Fabriken 1",
-        "streetAddress": "Vilhelmina ÅVC",
-        "municipalityCode": "2462",
-        "extraInfo": "",
-        "latitude": 64.61528,
-        "longitude": 16.66361
-    },
-    {
-        "id": "16034",
-        "name": "Stalon",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Stationen stängd",
-        "municipalityCode": "2462",
-        "extraInfo": "",
-        "latitude": 64.94,
-        "longitude": 15.85361
-    },
-    {
         "id": "17435",
-        "name": "CUS Kittelfjäll",
+        "name": "Kittelfjäll",
         "secondaryName": "",
         "propertyNumber": "Kittelfjäll 1:534",
         "streetAddress": "Fjälltorget, Kittelfjäll 211",
@@ -49182,7 +49116,7 @@
     },
     {
         "id": "17640",
-        "name": "CUS Klimpfjäll",
+        "name": "Klimpfjäll",
         "secondaryName": "",
         "propertyNumber": "Klimpfjäll 3:1",
         "streetAddress": "Klimpfjäll",
@@ -49193,7 +49127,7 @@
     },
     {
         "id": "72345",
-        "name": "CUS Volgsjövägen",
+        "name": "Volgsjövägen",
         "secondaryName": "",
         "propertyNumber": "Granberg 1:2",
         "streetAddress": "Volgsjövägen, Tjärnvallen",
@@ -49226,7 +49160,7 @@
     },
     {
         "id": "81234",
-        "name": "CUS Lövliden",
+        "name": "Lövliden",
         "secondaryName": "",
         "propertyNumber": "Lövliden 1:86",
         "streetAddress": "Lövliden 100",
@@ -49236,8 +49170,19 @@
         "longitude": 16.60644
     },
     {
+        "id": "82349",
+        "name": "Tallåsvägen",
+        "secondaryName": "",
+        "propertyNumber": "Hemmanet 23",
+        "streetAddress": "Tallåsvägen",
+        "municipalityCode": "2462",
+        "extraInfo": "",
+        "latitude": 64.624003,
+        "longitude": 16.666728
+    },
+    {
         "id": "99128",
-        "name": "CUS Saxnäs",
+        "name": "Saxnäs",
         "secondaryName": "",
         "propertyNumber": "Saxnäs 1:54",
         "streetAddress": "Saxnäs 36B",
@@ -49476,6 +49421,17 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
+    },
+    {
+        "id": "4415910",
+        "name": "ÅVS Ikea",
+        "secondaryName": "16449",
+        "propertyNumber": "MARKNADSPLATSEN S:1",
+        "streetAddress": "Åvs Ikea Marknadsgatan ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.80528,
+        "longitude": 20.25667
     },
     {
         "id": "4415911",

@@ -1733,6 +1733,7 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 12341,ICA Nyströms,,,Fårö Friggars 1655,0980,,57.9620831067318,19.2383348611027
 12344,Åminne,,,Gothem Åminnevägen 2,0980,,57.6137085764352,18.7564180672801
 12347,ICA Hoburgshallen,,,Hoburgsvägen 35,0980,,57.0321882692375,18.2768150569156
+15507,Dalhem,,,Dalhem Hallvide 453,0980,,57.547292458625186,18.531330709627614
 15508,ICA Krampbroboden,,,Fole Lilla Sojdeby 500,0980,,57.6341760926862,18.5415730124389
 15515,ICA Högbyhallen,,,Hagagatan 15,0980,,57.2405922837084,18.3753752504022
 15516,Torget Hemse,,,Nygatan 7,0980,,57.2393437433858,18.378116873866
@@ -3693,10 +3694,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 988282,ÅVS 16884 ICA Supermarket Skultuna,,Västerås Kvarnbacka 3:84,Krongjutarvägen,1980,,59.7191672381622,16.427261615724
 988287,ÅVS 17340 Ymergatan/Sveaborgsvägen,,Västerås Ullvi 3:640,Ymergatan 1,1980,,59.6006336635704,16.6839125659135
 988361,ÅVS 99070 Vattentornet,,Västerås Västerås 4:91,Nansengatan,1980,,59.629738068496,16.5425260911341
-988472,Skultunabod Björkängsvägen 12,,Västerås Skultuna Tibble 2:2,Björkängsvägen 12,1980,,59.7157518351349,16.4365901942764
-988473,Skultunabod Åvägen,,Västerås Kvarnbacka 3:46,Åvägen,1980,,59.7232279067813,16.4281572092387
-988474,Skultunabod Bruksgatan,,Västerås Kvarnbacka 3:101,Bruksgatan,1980,,59.7207718056097,16.4224051381391
-988475,Skultunabod Midvintergatan,,Västerås Skultuna Prästgård 1:1,Midvintergatan,1980,,59.7116122688657,16.4276837148909
 988482,Skultunabod Vallonvägen 47,,Västerås Skultuna Prästgård 1:57,Vallonvägen 47,1980,,59.7127174631385,16.4345690328913
 988483,Skultunabod Björkängsvägen 12,,Västerås Skultuna Tibble 2:2,Björkängsvägen 12,1980,,59.7157514254247,16.4363796117263
 988484,Skultunabod Mäster Jacobs Väg/Byhagsvägen 21,,Västerås Skultunaby 1:84,Mäster Jacobs Väg/Byhagsvägen 21,1980,,59.717049464956,16.4320225212578
@@ -4462,21 +4459,19 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 15724,"Vännäs, Starrbergets ÅVC",,Vännäs 30:3,Lyckselevägen 20,2460,,63.935,19.77333
 17282,Vännäs inne på ÅVC Starrberget,,Vännäs 30:3,Lyckselevägen 20,2460,,63.935,19.77472
 17505,Vännäs Torpgatan ,,Orren 1,Torpgatan 4,2460,,63.90833,19.76722
-11248,CUS Dikanäs,,Dikanäs 2.1,Församlingsvägen 4,2462,,65.236965,15.997983
-11250,CUS Latikberg,,Latikberg 3:68,Södra Vägen,2462,,64.64028,17.05556
-11251,CUS Malgovik,,Malgovik 1:96,Malgovik,2462,,64.63917,16.35917
+11248,Dikanäs,,Dikanäs 2.1,Församlingsvägen 4,2462,,65.236965,15.997983
+11250,Latikberg,,Latikberg 3:68,Södra Vägen,2462,,64.64028,17.05556
+11251,Malgovik,,Malgovik 1:96,Malgovik,2462,,64.63917,16.35917
 11256,Bergbacka,,Bergbacka 1:86,Solgårdsgatan 1,2462,,64.633411,16.644797
-11258,OkQ8 Vilhelmina,,,Volgsjövägen 58,2462,,64.62194,16.66556
 11259,Baksjöstrand,,Baksjönäs 1:1,Baksjöstrandsvägen 6,2462,,64.62667,16.6725
-15872,Vilhelmina ÅVC,Företagsförpackningar,Fabriken 1,Vilhelmina ÅVC,2462,,64.61528,16.66361
-16034,Stalon,,,Stationen stängd,2462,,64.94,15.85361
-17435,CUS Kittelfjäll,,Kittelfjäll 1:534,"Fjälltorget, Kittelfjäll 211",2462,,65.25028,15.50167
-17640,CUS Klimpfjäll,,Klimpfjäll 3:1,Klimpfjäll,2462,,65.06278,14.79972
-72345,CUS Volgsjövägen,,Granberg 1:2,"Volgsjövägen, Tjärnvallen",2462,,64.6172609,16.6807082
+17435,Kittelfjäll,,Kittelfjäll 1:534,"Fjälltorget, Kittelfjäll 211",2462,,65.25028,15.50167
+17640,Klimpfjäll,,Klimpfjäll 3:1,Klimpfjäll,2462,,65.06278,14.79972
+72345,Volgsjövägen,,Granberg 1:2,"Volgsjövägen, Tjärnvallen",2462,,64.6172609,16.6807082
 74567,Järnvägsgatan,,Baksjönäs 1:1,Järnvägsgatan,2462,,64.6218255,16.6539007
 76543,Gränsgatan,,Baksjönäs 1:1,Gränsgatan,2462,,64.617154,16.662827
-81234,CUS Lövliden,,Lövliden 1:86,Lövliden 100,2462,,64.64829,16.60644
-99128,CUS Saxnäs,,Saxnäs 1:54,Saxnäs 36B,2462,,64.97,15.34833
+81234,Lövliden,,Lövliden 1:86,Lövliden 100,2462,,64.64829,16.60644
+82349,Tallåsvägen,,Hemmanet 23,Tallåsvägen,2462,,64.624003,16.666728
+99128,Saxnäs,,Saxnäs 1:54,Saxnäs 36B,2462,,64.97,15.34833
 919311,Vulken,,Åsele 2:194,Adamsgatan,2463,,64.162547,17.346102
 919312,Dagiset,,Åsele 2:194,Fågelstigen /hedvägen,2463,,64.158759,17.343528
 919313,Vasagatan,,Älgen 10,Vasagatan 17,2463,,64.160639,17.352003
@@ -4498,6 +4493,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415907,ÅVS Tomtebo Coop,17238,FÄLTSPATEN 2,Åvs Tomtebo Mineralvägen 7 ,2480,,63.81111,20.33139
 4415908,ÅVS Holmsund Brandstationen,16853,HOLMSUND 4:1,Åvs Holmsund Brandstationen Stenhuggareg ,2480,,63.71556,20.36722
 4415909,ÅVS Tomtebo Tomtebovägen,16852,TOMTEBO 2:1,Åvs Tomtebo Tomtebovägen/Näckens Väg ,2480,,63.80361,20.35583
+4415910,ÅVS Ikea,16449,MARKNADSPLATSEN S:1,Åvs Ikea Marknadsgatan ,2480,,63.80528,20.25667
 4415911,ÅVS Marieberg,16369,STADSLIDEN 2:4,Åvs Marieberg Älgvägen 3 ,2480,,63.84444,20.32972
 4415912,ÅVS Innertavle,16107,INNERTAVLE 17:3,Åvs Innertavle Gamla Sågentomten ,2480,,63.81083,20.38972
 4415913,ÅVS Hörnefors Hantverkareg,15978,HÖRNEÅ 8:459,Åvs Hörnefors Hantverkaregatan ,2480,,63.63167,19.90778
