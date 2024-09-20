@@ -634,9 +634,9 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 13891,Höglandsvägen,,Höglandsvägen,Höglandsvägen,0181,,59.196201977841,17.6497560653961
 13897,Fornhöjdsvägen,,Fornhöjdsvägen,Fornhöjdsvägen,0181,,59.1951569504978,17.6666903783072
 13914,Trollsjövägen,,Trollsjövägen,Trollsjövägen,0181,,59.1483973964982,17.6550819332983
-12205,Vändplats,,.,Landåvägen,0182,,59.3172520292621,18.1696194444248
+12205,Landåvägen,,.,Landåvägen Vändplats,0182,,59.3172520292621,18.1696194444248
 12206,Trillans tidningshus,,.,Trillans väg 1,0182,,59.3174348154607,18.1730374951043
-12207,Vändplats vid garaget ,,.,Diligensvägen 38 72,0182,,59.3155296346094,18.1730024241181
+12207,Diligensvägen 38- 72,,.,Diligensvägen vändplats vid garaget 38 72,0182,,59.3155296346094,18.1730024241181
 12209,Ornövägen,,ORMINGE 40:1 40:2,Ornöväen 20 34,0182,,59.3313068177966,18.2586071016742
 12210,Skarpövägen,,ORMINGE 39:1,Skarpövägen 1,0182,,59.3336762020619,18.263052736305
 12211,Låghus,,ORMINGE 39:1,Skarpövägen 25 -27,0182,,59.3334077750563,18.2582886993193
@@ -992,6 +992,15 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 9476,SJÖSA,,VALSTA 3:4,SMARAGDVÄGEN,0480,,58.7830599924077,17.099719965411
 9477,STAVSJÖ,,STAVSJÖ 2:66,GAMLA STAVSJÖVÄGEN 1,0480,,58.7244399434867,16.4266698037634
 99006,STIGTOMTA,,TÄNGSTA 1:1,TÄNGSTAVÄGEN 2,0480,,58.804999903467,16.7822198905464
+12533,Jogersö camping,,,Jogersövägen 15,0481,Ej året om.,58.66667,17.05639
+12534,Gästhamnen,,,Strandvägen 1,0481,Ej året om.,58.66361,17.10278
+17742,Näsuddsvägen,,,Näsuddsvägen,0481,,58.68056,17.04528
+9615,Tempo,,,Sundstigen 1,0481,,58.67611,17.065
+9616,Ramdalen,,,Björntorpsvägen 2,0481,,58.67222,17.07694
+9620,Återvinningscentralen,,,Föreningsgatan 43,0481,,58.67722,17.11472
+9621,Frösängsgården,,,Frösängsvägen 1,0481,,58.67639,17.08694
+9622,Hamnbron,,,Torggatan 10,0481,,58.66861,17.10389
+9623,Coop,,,Torggatan 1,0481,,58.67194,17.09778
 048212751,Brogetorp,,.,Januarivägen,0482,,59.0650000025898,16.5983300040535
 048212752,Grönviksvägen,,.,Grönviksvägen,0482,,59.1563899989572,16.5036099967037
 048215602,ÅVC Frutorp ÅVS,,Talja 1:5,Talja Frutorp,0482,,59.0699999987434,16.6347199957611
@@ -4307,6 +4316,12 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 115111,Gäddede Södra,,GÄDDEDE 1:380,Strömsvägen,2313,,64.4941875955377,14.1490601306663
 115112,Rossön Gamla Reningsverket,,BODUM 1:45,Näsvägen,2313,,63.919443653334,16.333713204394
 115123,Strömvallen,,GRELSGÅRD 3:47,Ramselevägen,2313,,63.8460319357045,15.5760392917201
+115124,Strand,,STRAND 2:28,Strand,2313,,63.8944559480542,15.5362821364193
+115125,Vängel,,VÄNGEL 1:37,Vängel 240,2313,,63.7139455441142,16.218390092835
+115126,Gåxsjö,,GÅXSJÖ 2:80,Lomåsen 110,2313,,63.6855382512235,15.1141507960807
+115127,Yxskaftkälen,,YXSKAFTKÄLEN 1:41,Yxskaftkälen 540,2313,,63.7789823642167,15.2260881208987
+115128,Hoting Reningsverket,,HOTING 2:245,Idrottsgatan 21,2313,,64.1072468704205,16.2106741265577
+115129,Siljeåsen,,SILJEÅSEN 1:25,Siljeåsen,2313,,64.2349846893594,15.5801537570749
 11605,Duved,,,Mångåvägen,2321,,63.39642,12.91402
 11607,"Hallen, vid ÅVC",,,Trägsta 109,2321,,63.17076,14.10955
 11608,Huså,,,"Husåvägen, vid reningsverket",2321,,63.48639,13.13694
@@ -4482,6 +4497,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 919922,Lillögda,,,,2463,,64.485783,18.276359
 919923,Älgsjö,,,,2463,,64.201599,17.506847
 919931,Fredrika,,Viska 1:138,Umevägen 29,2463,,64.073858,18.414599
+1111122,Test,,Test 1:2,Testgatan 1,2480,Detta är en teststation,57.725313,12.941921
 4415892,ÅVS Botsmark ,12451,BOTSMARK 1:26,Åvs Botsmark Byagårdsvägen ,2480,,64.25389,20.24444
 4415901,ÅVS Ålidhem Biologigränd,10954,LICENTIATEN 1,Åvs Ålidhem Biologigränd 18 ,2480,,63.80806,20.31028
 4415902,ÅVS Öst-Teg,99058,VÄSTERTEG 51:2,Åvs Öst-Teg Långgatan ,2480,,63.81,20.26833
@@ -4512,6 +4528,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415948,ÅVS Holmsund Lärkvägen,10988,HOLMSUND 2:1,Åvs Holmsund Lärkvägen 1 ,2480,,63.71528,20.38417
 4415949,ÅVS Holmsund Trädgårdsgatan,10990,TÖRNROSEN 10,Åvs Holmsund Trädgårdsgatan ,2480,,63.70806,20.36667
 4415950,ÅVS Hörnefors ÅVC,12441,HÖRNEÅ 8:845,Åvs Hörnefors (Åvc) Skatvägen 35,2480,,63.61889,19.91889
+4415951,ÅVS Hörnefors Skogsvägen,12442,HÖRNEÅ 8:539,Åvs Hörnefors Skogsvägen ,2480,,63.625,19.91917
 4415952,ÅVS Hörnefors Österlånggatan,10992,HÖRNEÅ 8:459,Åvs Hörnefors Österlånggatan ,2480,,63.63111,19.9225
 4415953,ÅVS Klockarbäcken,15959,KÄLLAREN 1,Åvs Klockarbäcken (Åvc) Källarvägen 4,2480,,63.85139,20.14861
 4415954,ÅVS Mariehem,10996,STADSLIDEN 5:1,Åvs Mariehem Mariehemsvägen 9 ,2480,,63.83361,20.32972

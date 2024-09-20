@@ -6986,10 +6986,10 @@
     },
     {
         "id": "12205",
-        "name": "Vändplats",
+        "name": "Landåvägen",
         "secondaryName": null,
         "propertyNumber": ".",
-        "streetAddress": "Landåvägen",
+        "streetAddress": "Landåvägen Vändplats",
         "municipalityCode": "0182",
         "extraInfo": null,
         "latitude": 59.3172520292621,
@@ -7008,10 +7008,10 @@
     },
     {
         "id": "12207",
-        "name": "Vändplats vid garaget ",
+        "name": "Diligensvägen 38- 72",
         "secondaryName": null,
         "propertyNumber": ".",
-        "streetAddress": "Diligensvägen 38 72",
+        "streetAddress": "Diligensvägen vändplats vid garaget 38 72",
         "municipalityCode": "0182",
         "extraInfo": null,
         "latitude": 59.3155296346094,
@@ -10910,6 +10910,105 @@
         "extraInfo": null,
         "latitude": 58.804999903467,
         "longitude": 16.7822198905464
+    },
+    {
+        "id": "12533",
+        "name": "Jogersö camping",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Jogersövägen 15",
+        "municipalityCode": "0481",
+        "extraInfo": "Ej året om.",
+        "latitude": 58.66667,
+        "longitude": 17.05639
+    },
+    {
+        "id": "12534",
+        "name": "Gästhamnen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Strandvägen 1",
+        "municipalityCode": "0481",
+        "extraInfo": "Ej året om.",
+        "latitude": 58.66361,
+        "longitude": 17.10278
+    },
+    {
+        "id": "17742",
+        "name": "Näsuddsvägen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Näsuddsvägen",
+        "municipalityCode": "0481",
+        "extraInfo": "",
+        "latitude": 58.68056,
+        "longitude": 17.04528
+    },
+    {
+        "id": "9615",
+        "name": "Tempo",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Sundstigen 1",
+        "municipalityCode": "0481",
+        "extraInfo": "",
+        "latitude": 58.67611,
+        "longitude": 17.065
+    },
+    {
+        "id": "9616",
+        "name": "Ramdalen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Björntorpsvägen 2",
+        "municipalityCode": "0481",
+        "extraInfo": "",
+        "latitude": 58.67222,
+        "longitude": 17.07694
+    },
+    {
+        "id": "9620",
+        "name": "Återvinningscentralen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Föreningsgatan 43",
+        "municipalityCode": "0481",
+        "extraInfo": "",
+        "latitude": 58.67722,
+        "longitude": 17.11472
+    },
+    {
+        "id": "9621",
+        "name": "Frösängsgården",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Frösängsvägen 1",
+        "municipalityCode": "0481",
+        "extraInfo": "",
+        "latitude": 58.67639,
+        "longitude": 17.08694
+    },
+    {
+        "id": "9622",
+        "name": "Hamnbron",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Torggatan 10",
+        "municipalityCode": "0481",
+        "extraInfo": "",
+        "latitude": 58.66861,
+        "longitude": 17.10389
+    },
+    {
+        "id": "9623",
+        "name": "Coop",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Torggatan 1",
+        "municipalityCode": "0481",
+        "extraInfo": "",
+        "latitude": 58.67194,
+        "longitude": 17.09778
     },
     {
         "id": "048212751",
@@ -47377,6 +47476,72 @@
         "longitude": 15.5760392917201
     },
     {
+        "id": "115124",
+        "name": "Strand",
+        "secondaryName": null,
+        "propertyNumber": "STRAND 2:28",
+        "streetAddress": "Strand",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.8944559480542,
+        "longitude": 15.5362821364193
+    },
+    {
+        "id": "115125",
+        "name": "Vängel",
+        "secondaryName": null,
+        "propertyNumber": "VÄNGEL 1:37",
+        "streetAddress": "Vängel 240",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.7139455441142,
+        "longitude": 16.218390092835
+    },
+    {
+        "id": "115126",
+        "name": "Gåxsjö",
+        "secondaryName": null,
+        "propertyNumber": "GÅXSJÖ 2:80",
+        "streetAddress": "Lomåsen 110",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.6855382512235,
+        "longitude": 15.1141507960807
+    },
+    {
+        "id": "115127",
+        "name": "Yxskaftkälen",
+        "secondaryName": null,
+        "propertyNumber": "YXSKAFTKÄLEN 1:41",
+        "streetAddress": "Yxskaftkälen 540",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.7789823642167,
+        "longitude": 15.2260881208987
+    },
+    {
+        "id": "115128",
+        "name": "Hoting Reningsverket",
+        "secondaryName": null,
+        "propertyNumber": "HOTING 2:245",
+        "streetAddress": "Idrottsgatan 21",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.1072468704205,
+        "longitude": 16.2106741265577
+    },
+    {
+        "id": "115129",
+        "name": "Siljeåsen",
+        "secondaryName": null,
+        "propertyNumber": "SILJEÅSEN 1:25",
+        "streetAddress": "Siljeåsen",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.2349846893594,
+        "longitude": 15.5801537570749
+    },
+    {
         "id": "11605",
         "name": "Duved",
         "secondaryName": "",
@@ -49302,6 +49467,17 @@
         "longitude": 18.414599
     },
     {
+        "id": "1111122",
+        "name": "Test",
+        "secondaryName": "",
+        "propertyNumber": "Test 1:2",
+        "streetAddress": "Testgatan 1",
+        "municipalityCode": "2480",
+        "extraInfo": "Detta är en teststation",
+        "latitude": 57.725313,
+        "longitude": 12.941921
+    },
+    {
         "id": "4415892",
         "name": "ÅVS Botsmark ",
         "secondaryName": "12451",
@@ -49630,6 +49806,17 @@
         "extraInfo": "",
         "latitude": 63.61889,
         "longitude": 19.91889
+    },
+    {
+        "id": "4415951",
+        "name": "ÅVS Hörnefors Skogsvägen",
+        "secondaryName": "12442",
+        "propertyNumber": "HÖRNEÅ 8:539",
+        "streetAddress": "Åvs Hörnefors Skogsvägen ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.625,
+        "longitude": 19.91917
     },
     {
         "id": "4415952",
