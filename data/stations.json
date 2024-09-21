@@ -10813,6 +10813,17 @@
         "longitude": 17.0002800089571
     },
     {
+        "id": "9466",
+        "name": "CENTRALSTATIONEN",
+        "secondaryName": null,
+        "propertyNumber": "VÄSTER 1:41",
+        "streetAddress": "CENTRALPLAN",
+        "municipalityCode": "0480",
+        "extraInfo": null,
+        "latitude": 58.7549999374988,
+        "longitude": 16.9947199252027
+    },
+    {
         "id": "9467",
         "name": "BRANDKÄRR, ÖPPEN HAND",
         "secondaryName": null,
@@ -50194,14 +50205,14 @@
     },
     {
         "id": "865107",
-        "name": "ÅVS Forsbacka",
+        "name": "ÅVS Forsdala Dalst",
         "secondaryName": null,
         "propertyNumber": "Lycksele 1:7",
-        "streetAddress": "TRAVVÄGEN",
+        "streetAddress": "DALSTIGEN",
         "municipalityCode": "2481",
         "extraInfo": null,
-        "latitude": 64.5804534513497,
-        "longitude": 18.6832652380893
+        "latitude": 64.5792630644246,
+        "longitude": 18.6828160918644
     },
     {
         "id": "865108",
