@@ -10813,17 +10813,6 @@
         "longitude": 17.0002800089571
     },
     {
-        "id": "9466",
-        "name": "CENTRALSTATIONEN",
-        "secondaryName": null,
-        "propertyNumber": "VÄSTER 1:41",
-        "streetAddress": "CENTRALPLAN",
-        "municipalityCode": "0480",
-        "extraInfo": null,
-        "latitude": 58.7549999374988,
-        "longitude": 16.9947199252027
-    },
-    {
         "id": "9467",
         "name": "BRANDKÄRR, ÖPPEN HAND",
         "secondaryName": null,
@@ -22738,10 +22727,10 @@
     },
     {
         "id": "131364",
-        "name": "1015 MERAB:S KRETSLOPPSPARK ÅVS",
+        "name": "1015 MERAB:s KRETSLOPPSPARK ÅVS",
         "secondaryName": null,
         "propertyNumber": "HASSLE 32:11",
-        "streetAddress": "MERAB:S KRETSLOPPSPARK HASSLE 3211",
+        "streetAddress": "MERAB:s KRETSLOPPSPARK HASSLE 3211",
         "municipalityCode": "1285",
         "extraInfo": null,
         "latitude": 55.914619081101,
