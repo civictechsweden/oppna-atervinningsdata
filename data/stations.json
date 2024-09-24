@@ -10813,6 +10813,17 @@
         "longitude": 17.0002800089571
     },
     {
+        "id": "9466",
+        "name": "CENTRALSTATIONEN",
+        "secondaryName": null,
+        "propertyNumber": "VÄSTER 1:41",
+        "streetAddress": "CENTRALPLAN",
+        "municipalityCode": "0480",
+        "extraInfo": null,
+        "latitude": 58.7549999374988,
+        "longitude": 16.9947199252027
+    },
+    {
         "id": "9467",
         "name": "BRANDKÄRR, ÖPPEN HAND",
         "secondaryName": null,
@@ -46366,7 +46377,7 @@
     },
     {
         "id": "4430017",
-        "name": "Sund, Korsningen Droskgränd/Sundsvägen",
+        "name": "Droskgränd",
         "secondaryName": null,
         "propertyNumber": "SUND 1:33",
         "streetAddress": "Droskgränd",
@@ -48664,6 +48675,17 @@
         "longitude": 19.72306
     },
     {
+        "id": "4415926",
+        "name": "ÅVS Vindeln Lidbacken ÅVC",
+        "secondaryName": "15723",
+        "propertyNumber": "ROSINEDAL 1:39",
+        "streetAddress": "Åvs Rosinedal 6",
+        "municipalityCode": "2404",
+        "extraInfo": "",
+        "latitude": 64.17611,
+        "longitude": 19.72417
+    },
+    {
         "id": "4415927",
         "name": "ÅVS Åmsele",
         "secondaryName": "11279",
@@ -49564,6 +49586,17 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
+    },
+    {
+        "id": "4415910",
+        "name": "ÅVS Ikea",
+        "secondaryName": "16449",
+        "propertyNumber": "MARKNADSPLATSEN S:1",
+        "streetAddress": "Åvs Ikea Marknadsgatan ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.80528,
+        "longitude": 20.25667
     },
     {
         "id": "4415911",
@@ -50719,17 +50752,6 @@
         "extraInfo": "",
         "latitude": 64.751827,
         "longitude": 21.010335
-    },
-    {
-        "id": "9821",
-        "name": "Sunnanå, Lantmannagatan",
-        "secondaryName": "",
-        "propertyNumber": "Syrsan 1",
-        "streetAddress": "Lantmannagatan",
-        "municipalityCode": "2482",
-        "extraInfo": "",
-        "latitude": 64.740717,
-        "longitude": 20.934769
     },
     {
         "id": "9826",
