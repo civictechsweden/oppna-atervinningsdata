@@ -387,7 +387,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585107,Återvinningsstation 10048,,HAMMARBYHÖJDEN 1:1,Karlskronavägen 2,0180,,59.2934596021058,18.1148602118564
 585108,Återvinningsstation 10050,,DALGÄRDET 12,Gamla Tyresövägen 374,0180,,59.2795517267418,18.1087068841745
 585109,Återvinningsstation 10053,,JOHANNESHOV 1:12,Pastellvägen 1,0180,,59.2941134369526,18.086284174382
-585110,Återvinningsstation 10055,,REIMERSHOLME 1:1,Reimersholmsgatan 10,0180,,59.3180367740257,18.0226345580812
+585110,Återvinningsstation 10055,,BRÄNNERIET 3,Reimersholmsgatan 10,0180,,59.3180367740257,18.0226345580812
 585111,Återvinningsstation 10057,,STÄMJÄRNET 1,Heleneborgsgatan 12,0180,,59.3195510054224,18.040965011413
 585112,Återvinningsstation 10059,,BULTEN 14,Borgargatan 6,0180,,59.3175828133807,18.0344252709019
 585113,Återvinningsstation 10062,,VÄSTBERGA 1:1,Mellanbergsvägen 61,0180,,59.292811053224,17.9849285743006
@@ -402,7 +402,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585123,Återvinningsstation 10082,,MASKEN 9,Bohusgatan 57,0180,,59.3073176521343,18.0838785775988
 585124,Återvinningsstation 10083,,MOROTEN 5,Ringvägen 163,0180,,59.3102326478019,18.087148248178
 585132,Återvinningsstation 10084,,SÖDERMALM 8:57,Färgarplan,0180,,59.3102168830935,18.0950033985129
-585133,Återvinningsstation 10087,,SÖDERMALM 10:35,Folkungagatan 137,0180,,59.3158810901311,18.0911062420022
+585133,Återvinningsstation 10087,,ERSTA 24,Folkungagatan 137,0180,,59.3158810901311,18.0911062420022
 585134,Återvinningsstation 10088,,GRUVAN 4,Bondegatan 79,0180,,59.3132169025006,18.0958211695287
 585146,Återvinningsstation 10094,,STUREN MINSTA 2,Södermannagatan 2,0180,,59.3157479188366,18.0792810191312
 585147,Återvinningsstation 99254,,ÅKESHOV 1:1,Bergslagsvägen 51,0180,,59.3416083113933,17.9285747484451
@@ -437,7 +437,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585186,Återvinningsstation 16743,,HÅLLSÄTRA 1,Lövsätragränd 1,0180,,59.2872572223486,17.9135740551029
 585187,Återvinningsstation 16742,,HÄRDEN 16,Dalagatan 63,0180,,59.3476328664564,18.0398177538406
 585188,Återvinningsstation 16728,,VATTUMANNEN 31,Timmermansgatan 27,0180,,59.3169836151313,18.0607936652715
-585189,Återvinningsstation 10106,,STADSHAGEN 1:1,Igeldammsgatan 42,0180,,59.3383196073394,18.0222037907303
+585189,Återvinningsstation 10106,,ISBRYTAREN 34,Igeldammsgatan 42,0180,,59.3383196073394,18.0222037907303
 585190,Återvinningsstation 16724,,KÄTTINGEN 30,Kungsholms Strand 127,0180,,59.3368555358115,18.0341576455676
 585191,Återvinningsstation 10107,,BORGARE 1,Hjalmar Söderbergs Väg 14,0180,,59.3330152227021,18.0017178508769
 585192,Återvinningsstation 16653,,SOMMAREN 10,Alsnögatan 3,0180,,59.3125094570131,18.1006257723683
@@ -447,7 +447,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585196,Återvinningsstation 16647,,BJÖRKLÅNGEN 1,Sandfjärdsgatan 9,0180,,59.2952613590495,18.0436445075256
 585197,Återvinningsstation 16644,,INSTRUKTIONEN 1,Snöripsvägen 36,0180,,59.2728607849264,17.977528244613
 585199,Återvinningsstation 16643,,PLANKAN 24,Varvsgatan 21,0180,,59.3172276349804,18.0404057640136
-585200,Återvinningsstation 10109,,LILLA ESSINGEN 1:1,Essinge Brogata 37,0180,,59.3250676782381,18.0034429454825
+585200,Återvinningsstation 10109,,DAMMSUGAREN 1,Essinge Brogata 37,0180,,59.3250676782381,18.0034429454825
 585207,Återvinningsstation 10114,,STADSARKIVET 1,Kungsklippan 10,0180,,59.3301504410538,18.0484548532348
 585208,Återvinningsstation 10117,,KUNGSHOLMEN 2:2,Pontonjärgatan 25,0180,,59.3290582518279,18.0328816330477
 585209,Återvinningsstation 10118,,STADSHAGEN 1:1,Stadshagsvägen 14,0180,,59.3363434410815,18.0213949117304
@@ -475,10 +475,10 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585245,Återvinningsstation 16001,,HÖGBERGSTERRASSEN 1,Högbergsgatan 99,0180,,59.3146455692291,18.0574192620513
 585246,Återvinningsstation 15932,,KUNDREGISTRET 5,Multrågatan 57,0180,,59.360199323677,17.8785898599685
 585247,Återvinningsstation 15877,,VASASTADEN 1:116,Frejgatan 31,0180,,59.3472360143812,18.0567790806913
-585248,Återvinningsstation 15769,,ASPUDDEN 2:1,Stenkilsgatan 7,0180,,59.307921479214,17.9894169334237
+585248,Återvinningsstation 15769,,FLYTTFÅGELN 2,Stenkilsgatan 7,0180,,59.307921479214,17.9894169334237
 585249,Återvinningsstation 15760,,BLACKEBERG 3:1,Björnsonsgatan 4,0180,,59.3436157278927,17.8889719377676
-585250,Återvinningsstation 15759,,SKOLÖRTEN 2,Sandviksvägen 159,0180,,59.3784258450515,17.815877561699
-585252,Återvinningsstation 15755,,RÅCKSTA 1:21,Sundbyvägen 12,0180,,59.3636615409483,17.9039842650132
+585250,Återvinningsstation 15759,,HÄSSELBY VILLASTAD 14:34,Sandviksvägen 159,0180,,59.3784258450515,17.815877561699
+585252,Återvinningsstation 15755,,MORÄNEN 1,Sundbyvägen 12,0180,,59.3636615409483,17.9039842650132
 585253,Återvinningsstation 15754,,TRANEBERG 1:1,Margretelundsvägen 49,0180,,59.3374548456658,17.9829196189343
 585254,Återvinningsstation 15753,,GRIMSTA 1:2,Loviselundsvägen 44,0180,,59.3693542468028,17.8351947941506
 585255,Återvinningsstation 15752,,ASPUDDEN 2:1,Blommensbergsvägen 176,0180,,59.3073635036747,17.9960987711551
@@ -517,7 +517,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585299,Återvinningsstation 10185,,BROMSTEN 8:1,Duvbovägen 147,0180,,59.3832932856639,17.9097148783364
 585300,Återvinningsstation 15350,,FÖRMAKET 1,Maltesholmsvägen 85,0180,,59.3656113249627,17.8432613537621
 585301,Återvinningsstation 15347,,STJÄRNFALLET 21,Upplandsgatan 30,0180,,59.339970666319,18.0512177434476
-585302,Återvinningsstation 10189,,SUNDBY 5:6,Brotorpsvägen 1,0180,,59.3655260923206,17.916659770341
+585302,Återvinningsstation 10189,,CALIXTUS 10,Brotorpsvägen 1,0180,,59.3655260923206,17.916659770341
 585303,Återvinningsstation 15028,,VÄSTBERGA 1:1,Elsa Brändströms Gata 62,0180,,59.2878126180204,17.9641868658573
 585304,Återvinningsstation 15015,,KONDUKTRISEN 7,Ugglemossvägen 61,0180,,59.2934621058361,17.946497179744
 585305,Återvinningsstation 15014,,HÄGERSTENSÅSEN 1:2,Bäckvägen 130,0180,,59.3001390943076,17.9816001131885
@@ -576,7 +576,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585373,Återvinningsstation 14359,,ARCHIMEDES 2,Adolfsbergsvägen 25,0180,,59.3582339905445,17.9559502162082
 585375,Återvinningsstation 12839,,TIMGLASET 2,Bärbogränd 2,0180,,59.2713010621915,18.0426107871625
 585376,Återvinningsstation 10244,,BALUNGEN 3,Siljansvägen 75,0180,,59.2993313363711,18.0413727872214
-585377,Återvinningsstation 12827,,VASASTADEN 2:99,Kungstensgatan 47,0180,,59.3405182478222,18.0543102445112
+585377,Återvinningsstation 12827,,VEGA 3,Kungstensgatan 47,0180,,59.3405182478222,18.0543102445112
 585378,Återvinningsstation 10248,,ENSKEDE GÅRD 1:1,Gullmarsvägen 7,0180,,59.2985644358023,18.0782012360229
 585379,Återvinningsstation 10251,,NIPPERSKRINET 9,Älvsjövägen 90,0180,,59.2848556444964,17.9928722182846
 585380,Återvinningsstation 16588,,SOLHEM 16:1,Dagsverksvägen 244,0180,,59.3778157621835,17.9067271283392
@@ -585,7 +585,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585383,Återvinningsstation 10257,,JUMPERN 2,Karossvägen 41,0180,,59.2868237674113,17.9799428660024
 585384,Återvinningsstation 10258,,VÄSTBERGA 1:1,Herrängsvägen 112,0180,,59.2807544835909,17.960025732593
 585385,Återvinningsstation 10273,,KAMPEMENTET 4,Kampementsgatan 2,0180,,59.3464328179007,18.1025415212895
-585387,Återvinningsstation 10268,,ASKEN 11,Runebergsgatan 1,0180,,59.3409047000674,18.0661667072739
+585387,Återvinningsstation 10268,,ERIKSBERG 2,Runebergsgatan 1,0180,,59.3409047000674,18.0661667072739
 585389,Återvinningsstation 10260,,TAKRYTTAREN 1,Gimmerstavägen 2,0180,,59.2804158170286,18.0348024617862
 585390,Återvinningsstation 10261,,JULGRÖTEN 2,Annebodavägen 66,0180,,59.2875955472821,18.0267127272884
 585391,Återvinningsstation 10266,,ÖSTERMALM 3:62,Strandvägen,0180,,59.3880514418675,17.886547093959
@@ -596,7 +596,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 586756,Återvinningsstation 10032,,LAGNÖ 20,Värmlandsvägen 410,0180,,59.2445798112585,18.0790836796647
 586809,Återvinningsstation 17510,,TORSÖ 4,Forshagagatan 1,0180,,59.2461995497953,18.0888435119825
 586810,Återvinningsstation 17658,,FASTE 5,Spånga Stationsväg 39,0180,,59.3817936622278,17.9000925225689
-586811,Återvinningsstation 17552,,GRIMSTA 1:5,Björnsonsgatan 138,0180,,59.3488735250341,17.8799881513719
+586811,Återvinningsstation 17552,,NORRMANNEN 7,Björnsonsgatan 138,0180,,59.3488735250341,17.8799881513719
 586812,Återvinningsstation 17542,,MIDSOMMARKRANSEN 1:1,Tellusborgsvägen 56,0180,,59.3018134316094,18.0053096396945
 587032,Återvinningsstation 15676,,FORMEN 5,Tomtebogatan 6,0180,,59.3413901397185,18.0362336387342
 587033,Återvinningsstation 10203,,BRUKSBÄRAREN 3,Skebokvarnsvägen 159,0180,,59.2666131834166,18.0363295917622
@@ -2230,20 +2230,6 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 4322389,99243,,Skörden 1,Karlsrovägen 81,1380,,56.678837,12.80425
 4322390,15739,,Fyllinge 20:464,Villmanstrand ÅVC,1380,,56.638046,12.924153
 4322391,15584,,Eketånga 24:63,Flygstaden ÅVC,1380,,56.675729,12.796956
-01,Mellbystrand,,Mellby 2:129,Söderleden 1,1381,,56.50101,12.95766
-02,Laholm - Repslagaregatan,,,Repslagaregatan,1381,,56.50948,13.05616
-03,Laholm - Brandstationen,,,Ängelholmsvägen,1381,,56.50459,13.03351
-04,Lilla Tjärby,,,Bonnarpsvägen,1381,,56.52594,13.05339
-05,Genevad,,,Bruksgatan,1381,,56.57131,13.02929
-06,Veinge,,,Skogabyvägen/ Vessingegatan,1381,,56.55285,13.07856
-07,Knäred,,,Lagavägen 3,1381,,56.51416,13.31715
-08,Hishult,,,Markarydsvägen,1381,,56.42692,13.31645
-09,Ysby,,,Brödåkravägen 2,1381,,56.49093,13.11509
-10,Hasslöv,,,Karupsvägen 2,1381,,56.41387,13.00396
-11,Ränneslöv,,,Kristineborgsvägen,1381,,56.45416,13.07617
-12,Skottorp,,,Gamla Banvallen,1381,,56.45038,12.95755
-13,Vallberga,,,Maskingatan,1381,,56.47113,13.02826
-14,Skummeslöv,,,Stora Strandvägen,1381,,56.46017,12.92644
 15624,Sandladan ÅVC,,Arvidstorp 1:39,Sandladan ÅVC,1382,,56.9108914558243,12.4646479202912
 16378,Morups IP Spännavägen,,Morup 20:2,Morups IP Spännavägen,1382,,56.9757669749855,12.3978219414278
 17263,Långaveka skola,,Långaveka 4:1,"Långaveka 126, Långaveka skola",1382,,56.9356595076805,12.3745945547687
@@ -3048,7 +3034,6 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 6995,"Bussvändplats, St Mellby",,,St Mellby väg 190 mot Nossebro,1489,,58.14389,12.58667
 6996,"Västra Bodarna, Affären",,,Västra Bodarnevägen,1489,,57.8875,12.47361
 99045,"Noltorp, Centrum, Citronen 8",,,Citrongatan,1489,,57.94028,12.52306
-001,Aplared,,,Stationsvägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.64972,13.07611
 002,Bergsäter,,,Rosendalsgatan 10,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.71556,12.96417
 003,Borgstena,,,Krögarevägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.88194,13.01583
 004,Bredared,,,Myrekullavägen 12,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.80583,12.90361
