@@ -255,7 +255,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 95704,7948  Vid Närbutik Jordbro,,KALVSVIK 11:831,Mostensvägen,0136,,59.1499932441306,18.1377532347189
 95706,ÅVS 7947  Vändplan,,KALVSVIK 11:400,Pusshagen,0136,,59.1451277370007,18.1349286739368
 95707,7951 Vändplan,,KALVSVIK 16:1,Blockstensvägen,0136,,59.142695472595,18.1403730402496
-95708,ÅVS 7950 Bortre parkeringsplats,,KALVSVIK 16:1,Jordbro centrum,0136,,59.1412799669362,18.1357309194697
+95708,ÅVS 7950 Bortre parkeringsplats,,KALVSVIK 16:1,Jordbro centrum Moränvägen,0136,,59.1412799669362,18.1357309194697
 95709,7944,,KALVSVIK 11:35,Södra jordbrovägen 165,0136,,59.1383430325397,18.1382602761346
 95711,7945 Vändplan,,KALVSVIK 11:23,Södra jordbrovägen 120,0136,,59.1360362203232,18.1333100060761
 95712,7946 Parkeringsplats,,KALVSVIK 16:1,Södra jordbrovägen 111,0136,,59.1369491162543,18.1271329357762
@@ -554,7 +554,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585346,Återvinningsstation 14431,,PRÄSTGÅRDSVRETEN 1,Götalandsvägen 205,0180,,59.2810045959988,18.0152747828585
 585348,Återvinningsstation 14430,,TINGFAST 39,Stamdikesvägen 6,0180,,59.3742863021544,17.8693251877472
 585350,Återvinningsstation 14425,,ÖRBY 4:1,Trollesundsvägen 69,0180,,59.2632572350824,18.0518623287002
-585351,Återvinningsstation 14421,,ÄLVSJÖ 1:1,Bjursätragatan 29,0180,,59.2562562893949,18.0361445470197
+585351,Återvinningsstation 14421,,ÄLVSJÖ 1:1,Bjursätragatan 24,0180,,59.2562562893949,18.0361445470197
 585352,Återvinningsstation 14412,,SKRUBBHYVELN 4,Kistvägen 6,0180,,59.2644913947073,18.0807061687582
 585353,Återvinningsstation 14406,,HÖGSÄTRA 9,Sätra Torg 4,0180,,59.2850591019973,17.9242393482606
 585354,Återvinningsstation 14405,,BRANTHOLMEN 1,Brantholmsgränd 66,0180,,59.2768800888516,17.896604116133
@@ -855,7 +855,6 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 4061348,ICA Almunge,,LILLA VÄSBY 1:34,LILLA VÄSBY 108,0380,,59.8697032436534,18.070708511333
 4061350,"Björklinge centrum, Parkering",,BJÖRKLINGE 2:4,NÄRA SÖDRA LÅNGÅSVÄGEN 2,0380,,60.0288099684533,17.5525315639305
 4061351,"Bälinge centrum, Matöppet Träffköp",,BÄLINGE-EKEBY 1:179,NÄRA KLOCKARBOLSVÄGEN 14,0380,,59.9466573759129,17.5327172140625
-4061352,"Gunsta, Trädgårdsmästeriet",,ÄRNEVI 1:7,NÄRA FRAMTIDSVÄGEN 1,0380,,59.8545401018504,17.8272558394241
 4061353,"Oxsätra, Handlarn",,OXSÄTRA 1:30,OXSÄTRA 29,0380,,60.0016770586061,17.3620544417967
 4061354,Ramstalund reningsverk,,RAMSTA-LUND 10:1,NÄRA KYRKÄNGSVÄGEN 4,0380,,59.7959196968408,17.4427645625174
 4061355,Skyttorps brandstation,,SKYTTORP 8:2,FLISVÄGEN 2,0380,,60.077662871636,17.7391503716793
@@ -2101,7 +2100,7 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 259045,Kristianstad - ICA Maxi,,Kristianstad 4:37,Mäster Bonggatan,1290,,56.0249720682439,14.1705547717102
 259046,Linderöd - Äsphultsvägen,,Linderöd 7:50,Äsphultsvägen,1290,,55.9325270058794,13.8242812225678
 259047,Maglehem - Julebodavägen,,Maglehem 54:2,Julebodavägen,1290,,55.7676934415335,14.1542895683053
-259048,Rickarum - Lanthandel,,Rickarum 22:39,Rickarums Byväg,1290,,55.9944003482621,13.8204784969403
+259048,Rickarum - Missionshuset,,Rickarum 22:39,Rickarums Byväg,1290,,55.9944003482621,13.8204784969403
 259049,Rinkaby - Skolan,,Rinkaby 29:34,Kyrkvägen,1290,,55.9838977738478,14.2709514866897
 259050,Tollarp - Affären,,Tollarp 5:53,Särlagatan,1290,,55.9341341959376,13.9755006488795
 259051,Vanneberga - Gälltoftavägen,,Vanneberga 10:38,Gälltoftavägen,1290,,55.9991154045148,14.3545727435097
@@ -2230,6 +2229,20 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 4322389,99243,,Skörden 1,Karlsrovägen 81,1380,,56.678837,12.80425
 4322390,15739,,Fyllinge 20:464,Villmanstrand ÅVC,1380,,56.638046,12.924153
 4322391,15584,,Eketånga 24:63,Flygstaden ÅVC,1380,,56.675729,12.796956
+01,Mellbystrand,,Mellby 2:129,Söderleden 1,1381,,56.50101,12.95766
+02,Laholm - Repslagaregatan,,,Repslagaregatan,1381,,56.50948,13.05616
+03,Laholm - Brandstationen,,,Ängelholmsvägen,1381,,56.50459,13.03351
+04,Lilla Tjärby,,,Bonnarpsvägen,1381,,56.52594,13.05339
+05,Genevad,,,Bruksgatan,1381,,56.57131,13.02929
+06,Veinge,,,Skogabyvägen/ Vessingegatan,1381,,56.55285,13.07856
+07,Knäred,,,Lagavägen 3,1381,,56.51416,13.31715
+08,Hishult,,,Markarydsvägen,1381,,56.42692,13.31645
+09,Ysby,,,Brödåkravägen 2,1381,,56.49093,13.11509
+10,Hasslöv,,,Karupsvägen 2,1381,,56.41387,13.00396
+11,Ränneslöv,,,Kristineborgsvägen,1381,,56.45416,13.07617
+12,Skottorp,,,Gamla Banvallen,1381,,56.45038,12.95755
+13,Vallberga,,,Maskingatan,1381,,56.47113,13.02826
+14,Skummeslöv,,,Stora Strandvägen,1381,,56.46017,12.92644
 15624,Sandladan ÅVC,,Arvidstorp 1:39,Sandladan ÅVC,1382,,56.9108914558243,12.4646479202912
 16378,Morups IP Spännavägen,,Morup 20:2,Morups IP Spännavägen,1382,,56.9757669749855,12.3978219414278
 17263,Långaveka skola,,Långaveka 4:1,"Långaveka 126, Långaveka skola",1382,,56.9356595076805,12.3745945547687
