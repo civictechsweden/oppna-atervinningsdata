@@ -10802,17 +10802,6 @@
         "longitude": 17.0002800089571
     },
     {
-        "id": "9466",
-        "name": "CENTRALSTATIONEN",
-        "secondaryName": null,
-        "propertyNumber": "VÄSTER 1:41",
-        "streetAddress": "CENTRALPLAN",
-        "municipalityCode": "0480",
-        "extraInfo": null,
-        "latitude": 58.7549999374988,
-        "longitude": 16.9947199252027
-    },
-    {
         "id": "9467",
         "name": "BRANDKÄRR, ÖPPEN HAND",
         "secondaryName": null,
@@ -13418,17 +13407,6 @@
         "extraInfo": "",
         "latitude": 58.45796,
         "longitude": 14.934024
-    },
-    {
-        "id": "16720",
-        "name": "Kronängsgatan ",
-        "secondaryName": "",
-        "propertyNumber": "Vadstena 3:3",
-        "streetAddress": "Kronängsgatan 5",
-        "municipalityCode": "0584",
-        "extraInfo": "",
-        "latitude": 58.444237,
-        "longitude": 14.880288
     },
     {
         "id": "99211",
@@ -47300,28 +47278,6 @@
         "longitude": 15.2183648014528
     },
     {
-        "id": "115064",
-        "name": "Näsviken OKQ8",
-        "secondaryName": null,
-        "propertyNumber": "STRÖMS-NÄSET 1:328",
-        "streetAddress": "Trollövägen",
-        "municipalityCode": "2313",
-        "extraInfo": null,
-        "latitude": 63.8498128728807,
-        "longitude": 15.5388366395986
-    },
-    {
-        "id": "115065",
-        "name": "Strömsund Bilbolaget",
-        "secondaryName": null,
-        "propertyNumber": "UTTERN 16",
-        "streetAddress": "Lövbergavägen",
-        "municipalityCode": "2313",
-        "extraInfo": null,
-        "latitude": 63.8543457107389,
-        "longitude": 15.5601704747348
-    },
-    {
         "id": "115066",
         "name": "Kyrktåsjö ICA Nära",
         "secondaryName": null,
@@ -48653,17 +48609,6 @@
         "longitude": 19.72306
     },
     {
-        "id": "4415926",
-        "name": "ÅVS Vindeln Lidbacken ÅVC",
-        "secondaryName": "15723",
-        "propertyNumber": "ROSINEDAL 1:39",
-        "streetAddress": "Åvs Rosinedal 6",
-        "municipalityCode": "2404",
-        "extraInfo": "",
-        "latitude": 64.17611,
-        "longitude": 19.72417
-    },
-    {
         "id": "4415927",
         "name": "ÅVS Åmsele",
         "secondaryName": "11279",
@@ -49467,17 +49412,6 @@
         "longitude": 18.414599
     },
     {
-        "id": "1111122",
-        "name": "Test",
-        "secondaryName": "",
-        "propertyNumber": "Test 1:2",
-        "streetAddress": "Testgatan 1",
-        "municipalityCode": "2480",
-        "extraInfo": "Detta är en teststation",
-        "latitude": 57.725313,
-        "longitude": 12.941921
-    },
-    {
         "id": "4415892",
         "name": "ÅVS Botsmark ",
         "secondaryName": "12451",
@@ -49564,17 +49498,6 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
-    },
-    {
-        "id": "4415910",
-        "name": "ÅVS Ikea",
-        "secondaryName": "16449",
-        "propertyNumber": "MARKNADSPLATSEN S:1",
-        "streetAddress": "Åvs Ikea Marknadsgatan ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.80528,
-        "longitude": 20.25667
     },
     {
         "id": "4415911",
@@ -49817,17 +49740,6 @@
         "extraInfo": "",
         "latitude": 63.61889,
         "longitude": 19.91889
-    },
-    {
-        "id": "4415951",
-        "name": "ÅVS Hörnefors Skogsvägen",
-        "secondaryName": "12442",
-        "propertyNumber": "HÖRNEÅ 8:539",
-        "streetAddress": "Åvs Hörnefors Skogsvägen ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.625,
-        "longitude": 19.91917
     },
     {
         "id": "4415952",
