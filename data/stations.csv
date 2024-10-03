@@ -276,16 +276,16 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 98382,ÅVS 7939  Infart från Gamla Nynäsvägen,,TÄCKÅKER 1:146,Hallstens väg,0136,,59.1894818178157,18.1429347147905
 98970,14589 Årsta Havsbad Torget,,STADSBERGA 8:1,Årsta Havsbad Torget,0136,,59.0827695564522,18.1644511830595
 99283,7985 Elhus Åbyinfarten,,ÅBY 1:27,Ringvägen/Åbyinfarten,0136,,59.1261936950801,18.1072363170325
-10868,ÅVS Granängsringen/Granängsvägen Tyresö,,Bollmora 2:1,Granängsringen/Granängsvägen,0138,,59.2381260785598,18.2284597610866
+10868,ÅVS Granängsringen/Granängsvägen,,Bollmora 2:1,Granängsringen/Granängsvägen,0138,,59.2381260785598,18.2284597610866
 10869,ÅVS Kyrkogränd/Myggdalsvägen Tyresö,,Bollmora 2:585,Kyrkogränd/Myggdalsvägen,0138,,59.2440537538412,18.2318287802651
 10870,ÅVS Krusbodavägen/Lummergången Tyresö,,Bollmora 2:1,Krusbodavägen/Lummergången,0138,,59.2336149630043,18.2458596671529
 10871,ÅVS Pluggvägen Tyresö,,Bollmora 2:403,Pluggvägen,0138,,59.241142386137,18.2283923264651
 10872,ÅVS Sikvägen 27-29/Siklöjevägen Tyresö,,Bollmora 2:1,Sikvägen 27-29/Siklöjevägen,0138,,59.2486787414825,18.235733286571
 10873,ÅVS Fornuddsvägen/Fornuddsparken Tyresö,,Kumla 3:1103,Fornuddsvägen/Fornuddsparken,0138,,59.2201946940354,18.1925829421327
 10874,ÅVS Sofiebergsvägen/Kumla Allé Tyresö,,Kumla 3:1264,Sofiebergsvägen/Kumla Allé,0138,,59.2182328065891,18.1958987441755
-10875,ÅVS Alléplan Tyresö,,Kumla 69:26,Alléplan,0138,,59.2242380055332,18.2019400594069
+10875,ÅVS Alléplan,,Kumla 69:26,Alléplan,0138,,59.2242380055332,18.2019400594069
 10877,ÅVS Skolvägen Tyresö,,Näsby 4:1044,Skolvägen,0138,,59.2247287218375,18.2203842396719
-10878,ÅVS Granängsringen 20-25 Tyresö,,Näsby 4:1469,Granängsringen 20-25,0138,,59.234933012892,18.2320296678761
+10878,ÅVS Granängsringen 25,,Näsby 4:1469,Granängsringen 20-25,0138,,59.234933012892,18.2320296678761
 10880,ÅVS Mellanbergsvägen/Njupkärrsvägen Tyresö,,Näsby 4:1469,Mellanbergsvägen/Njupkärrsvägen,0138,,59.2385972820112,18.2207014618343
 10883,ÅVS Vendelsövägen Tyresö,,Kumla 69:44,Vendelsövägen 17,0138,,59.2291800630121,18.1987989800288
 10885,ÅVS Tegvägen/Gudöbroleden Tyresö,,Näsby 50:1,Tegvägen/Gudöbroleden,0138,,59.2136451662725,18.2077950064769
@@ -509,7 +509,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585288,Återvinningsstation 10174,,FALKHOLMEN 5,Falkholmsgränd 41,0180,,59.2793316865408,17.8966720239619
 585289,Återvinningsstation 10176,,SOLHEM 12:1,Vinstavägen 1,0180,,59.3804562572935,17.8849393641396
 585291,Återvinningsstation 10181,,AKALLA 4:1,Solhems Hagväg 8,0180,,59.386647137891,17.9027629433879
-585294,Återvinningsstation 15478,,ÄLVSJÖ 2:5,Pukslagargatan 33,0180,,59.2735334759105,17.9948099295715
+585294,Återvinningsstation 15478,,ÄLVSJÖ 2:5,Långsjövägen 30,0180,,59.2735334759105,17.9948099295715
 585295,Återvinningsstation 15366,,JOHANNELUND 4,Siktgatan 11,0180,,59.3695715705131,17.8561101855389
 585296,Återvinningsstation 10184,,EGIL 7,Duvbovägen 78,0180,,59.3762527840708,17.9195711744729
 585297,Återvinningsstation 15360,,VOLONTÄREN 16,Rörstrandsgatan 32,0180,,59.3408048161432,18.0293382223317
@@ -536,7 +536,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585325,Återvinningsstation 10205,,BYGELN 4,Rågsveds Skolgränd 6,0180,,59.2570379713649,18.0245795846075
 585326,Återvinningsstation 10206,,ÖRBY 4:1,Ripsavägen 34,0180,,59.2669224151031,18.0315474854021
 585327,Återvinningsstation 10210,,RUSTIKEN 2,Fågelstavägen 1,0180,,59.2695763472093,18.0487239495583
-585328,Återvinningsstation 10217,,NÄLSTA 5:1,Rättar Vigs Väg 2,0180,,59.3715784448361,17.8853470307818
+585328,Återvinningsstation 10217,,BRUDHANDSKEN 11,Rättar Vigs Väg 98,0180,,59.3715784448361,17.8853470307818
 585329,Återvinningsstation 10220,,PAPPERSKLÄMMAN 2,Lyckselevägen 37,0180,,59.3683556549989,17.8636130924142
 585330,Återvinningsstation 10222,,ULLTISTELN 40,Sörgårdsvägen 257,0180,,59.3841623934611,17.8479680747494
 585331,Återvinningsstation 10223,,GLADA ÄNKAN 1,Basgränd 1,0180,,59.3833501929828,17.8653537319639
@@ -4317,6 +4317,11 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 115127,Yxskaftkälen,,YXSKAFTKÄLEN 1:41,Yxskaftkälen 540,2313,,63.7789823642167,15.2260881208987
 115128,Hoting Reningsverket,,HOTING 2:245,Idrottsgatan 21,2313,,64.1072468704205,16.2106741265577
 115129,Siljeåsen,,SILJEÅSEN 1:25,Siljeåsen,2313,,64.2349846893594,15.5801537570749
+115130,Järvsand,,JÄRVSAND 1:75,Järvsand 360,2313,,64.0317867163986,15.8101929668541
+115131,Östra Havsnäs,,HAVSNÄS 1:257,Östra Havsnäs 325,2313,,64.0716331867715,15.8887932557753
+115132,Södra Öhn,,TULLINGSÅS 7:67,Bredkälsflon 120,2313,,63.8455894521867,15.4045626904982
+115133,Västertåsjö,,VÄSTERTÅSJÖ 1:88,Västertåsjö 340,2313,,64.3743596122215,15.6938023331412
+115134,Fagerdal,,GISSELÅS 2:62,Fagerdal,2313,,63.6766175017659,15.394579247743
 11605,Duved,,,Mångåvägen,2321,,63.39642,12.91402
 11607,"Hallen, vid ÅVC",,,Trägsta 109,2321,,63.17076,14.10955
 11608,Huså,,,"Husåvägen, vid reningsverket",2321,,63.48639,13.13694

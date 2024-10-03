@@ -3048,7 +3048,7 @@
     },
     {
         "id": "10868",
-        "name": "ÅVS Granängsringen/Granängsvägen Tyresö",
+        "name": "ÅVS Granängsringen/Granängsvägen",
         "secondaryName": null,
         "propertyNumber": "Bollmora 2:1",
         "streetAddress": "Granängsringen/Granängsvägen",
@@ -3125,7 +3125,7 @@
     },
     {
         "id": "10875",
-        "name": "ÅVS Alléplan Tyresö",
+        "name": "ÅVS Alléplan",
         "secondaryName": null,
         "propertyNumber": "Kumla 69:26",
         "streetAddress": "Alléplan",
@@ -3147,7 +3147,7 @@
     },
     {
         "id": "10878",
-        "name": "ÅVS Granängsringen 20-25 Tyresö",
+        "name": "ÅVS Granängsringen 25",
         "secondaryName": null,
         "propertyNumber": "Näsby 4:1469",
         "streetAddress": "Granängsringen 20-25",
@@ -5614,7 +5614,7 @@
         "name": "Återvinningsstation 15478",
         "secondaryName": null,
         "propertyNumber": "ÄLVSJÖ 2:5",
-        "streetAddress": "Pukslagargatan 33",
+        "streetAddress": "Långsjövägen 30",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.2735334759105,
@@ -5910,8 +5910,8 @@
         "id": "585328",
         "name": "Återvinningsstation 10217",
         "secondaryName": null,
-        "propertyNumber": "NÄLSTA 5:1",
-        "streetAddress": "Rättar Vigs Väg 2",
+        "propertyNumber": "BRUDHANDSKEN 11",
+        "streetAddress": "Rättar Vigs Väg 98",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3715784448361,
@@ -47485,6 +47485,61 @@
         "extraInfo": null,
         "latitude": 64.2349846893594,
         "longitude": 15.5801537570749
+    },
+    {
+        "id": "115130",
+        "name": "Järvsand",
+        "secondaryName": null,
+        "propertyNumber": "JÄRVSAND 1:75",
+        "streetAddress": "Järvsand 360",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.0317867163986,
+        "longitude": 15.8101929668541
+    },
+    {
+        "id": "115131",
+        "name": "Östra Havsnäs",
+        "secondaryName": null,
+        "propertyNumber": "HAVSNÄS 1:257",
+        "streetAddress": "Östra Havsnäs 325",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.0716331867715,
+        "longitude": 15.8887932557753
+    },
+    {
+        "id": "115132",
+        "name": "Södra Öhn",
+        "secondaryName": null,
+        "propertyNumber": "TULLINGSÅS 7:67",
+        "streetAddress": "Bredkälsflon 120",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.8455894521867,
+        "longitude": 15.4045626904982
+    },
+    {
+        "id": "115133",
+        "name": "Västertåsjö",
+        "secondaryName": null,
+        "propertyNumber": "VÄSTERTÅSJÖ 1:88",
+        "streetAddress": "Västertåsjö 340",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.3743596122215,
+        "longitude": 15.6938023331412
+    },
+    {
+        "id": "115134",
+        "name": "Fagerdal",
+        "secondaryName": null,
+        "propertyNumber": "GISSELÅS 2:62",
+        "streetAddress": "Fagerdal",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.6766175017659,
+        "longitude": 15.394579247743
     },
     {
         "id": "11605",
