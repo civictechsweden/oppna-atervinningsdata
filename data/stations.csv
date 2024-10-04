@@ -424,7 +424,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585173,Återvinningsstation 16943,,STORA KATRINEBERG 16,Liljeholmsstranden 5,0180,,59.3140926440461,18.0272411278066
 585174,Återvinningsstation 10095,,FORMANNEN 16,Åsögatan 118,0180,,59.3131248003535,18.0754402336978
 585175,Återvinningsstation 10096,,TULLSTUGAN 1,Östgötagatan 97,0180,,59.3065258914143,18.0805028805381
-585176,Återvinningsstation 16942,,ÄLVSJÖ 1:1,Östbergabackarna 73,0180,,59.2886924586757,18.0367166635583
+585176,Återvinningsstation 16942,,ÅRSTA 1:1,Östbergabackarna 73,0180,,59.2886924586757,18.0367166635583
 585177,Återvinningsstation 10097,,AKALLA 4:1,Villmanstrandsgatan 7,0180,,59.4134749492668,17.9170121009194
 585178,Återvinningsstation 16920,,LOFOTEN 1,Stavangergatan 68,0180,,59.4126565386632,17.9294752200091
 585179,Återvinningsstation 10098,,TROMSÖ 3,Narviksgatan 11,0180,,59.4132562968611,17.9235686571444
@@ -699,7 +699,7 @@ Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsv�
 16163,Viktoriagatan 11B / Råsundavägen 27,,Hagalund 3:3,Viktoriagatan 11B,0184,,59.36351,18.01565
 16164,Oskarsrogatan vid vändplan/järnvägsundergången,,Huvudsta 3:1,Oskarsrogatan,0184,,59.35485,17.98946
 16165,"Ekorrstigen, vid nr 2",,Bergshamra 2:3,Ekorrstigen 2,0184,,59.38181,18.02941
-16168,"Barks väg, nedfarten vid nr 8",,Bergshamra 3:1,Barks väg 8,0184,,59.37901,18.03014
+16168,"Carl Malmstens väg 10, mittemot",,Bergshamra 3:1,Carl Malmstens väg 10,0184,,59.37901,18.03014
 16169,Johan Enbergs väg; vid nr 19/vändzonen,,Huvudsta 4:18,Johan Enbergs väg,0184,,59.34523,18.00012
 16170,Råsundavägen/Hasselparken,,Råsunda 3:1,Råsundavägen 138,0184,,59.36711,17.98601
 16171,Bagartorpsringen; gångväg vid nr 2,,Järva 2:10,Bagartorpsringen 2,0184,,59.37744,18.00037
@@ -4555,6 +4555,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415980,ÅVS Umeå,12450,UMEÅ 2:1,Åvs Umeå Parkgatan 4,2480,,63.83056,20.26139
 4415981,ÅVS Ålidhem Kuratorvägen,10963,KURATORN 3,Åvs Ålidhem Kuratorvägen ,2480,,63.81694,20.32111
 4415982,ÅVS Överboda,11026,ÖVERBODA 3:38,Åvs Överboda Bodumsvägen ,2480,,63.85111,19.92694
+4416371,Åvs Sävar (Åvc) Upplagsvägen 6,,SÄVAR 61:274,Åvs Sävar (Åvc) Upplagsvägen 6,2480,,63.909088,20.536526
 865101,ÅVS Lugnet/Palmsunda,,Lycksele 10:5,STORGATAN   efter nr 103,2481,,64.6067236448776,18.653776353828
 865102,ÅVS Centrum/Grubban,,Magistern 1,SKOLGATAN 13,2481,,64.5939624219726,18.6757554751741
 865103,ÅVS Södermalm n:a,,Södermalm 1:1,PRÄSTBOLSV/TANNBERGSV,2481,,64.5954317805557,18.6656109754294

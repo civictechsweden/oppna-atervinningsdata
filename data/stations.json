@@ -4678,7 +4678,7 @@
         "id": "585176",
         "name": "Återvinningsstation 16942",
         "secondaryName": null,
-        "propertyNumber": "ÄLVSJÖ 1:1",
+        "propertyNumber": "ÅRSTA 1:1",
         "streetAddress": "Östbergabackarna 73",
         "municipalityCode": "0180",
         "extraInfo": null,
@@ -7690,10 +7690,10 @@
     },
     {
         "id": "16168",
-        "name": "Barks väg, nedfarten vid nr 8",
+        "name": "Carl Malmstens väg 10, mittemot",
         "secondaryName": "",
         "propertyNumber": "Bergshamra 3:1",
-        "streetAddress": "Barks väg 8",
+        "streetAddress": "Carl Malmstens väg 10",
         "municipalityCode": "0184",
         "extraInfo": "",
         "latitude": 59.37901,
@@ -50103,6 +50103,17 @@
         "extraInfo": "",
         "latitude": 63.85111,
         "longitude": 19.92694
+    },
+    {
+        "id": "4416371",
+        "name": "Åvs Sävar (Åvc) Upplagsvägen 6",
+        "secondaryName": null,
+        "propertyNumber": "SÄVAR 61:274",
+        "streetAddress": "Åvs Sävar (Åvc) Upplagsvägen 6",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.909088,
+        "longitude": 20.536526
     },
     {
         "id": "865101",
