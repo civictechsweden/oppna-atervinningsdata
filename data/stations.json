@@ -25125,7 +25125,7 @@
     },
     {
         "id": "15804",
-        "name": "Veddige ÅVC",
+        "name": "Veddige ÅVS",
         "secondaryName": null,
         "propertyNumber": "Veddige 33:3",
         "streetAddress": "Veddige ÅVC",
@@ -33561,17 +33561,6 @@
         "longitude": 12.91333
     },
     {
-        "id": "009",
-        "name": "Centrum Annelundsparken",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Nyckelbergsgatan",
-        "municipalityCode": "1490",
-        "extraInfo": "Se vad du kan sortera på varje station samt dess tömningsdagar i vår app \"Sortera med mera\", där kan du även felanmäla.",
-        "latitude": 57.71833,
-        "longitude": 12.95222
-    },
-    {
         "id": "010",
         "name": "Centrum Bergdalen",
         "secondaryName": "",
@@ -34065,17 +34054,6 @@
         "extraInfo": "Se vad du kan sortera på varje station samt dess tömningsdagar i vår app \"Sortera med mera\", där kan du även felanmäla.",
         "latitude": 57.60444,
         "longitude": 12.79389
-    },
-    {
-        "id": "063",
-        "name": "Sörmarken",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Sandwallsgatan",
-        "municipalityCode": "1490",
-        "extraInfo": "Se vad du kan sortera på varje station samt dess tömningsdagar i vår app \"Sortera med mera\", där kan du även felanmäla.",
-        "latitude": 57.71806,
-        "longitude": 12.98861
     },
     {
         "id": "064",
@@ -44903,14 +44881,14 @@
     },
     {
         "id": "307369",
-        "name": "Rengsjö Löten vid fabriken",
+        "name": "Rengsjö, mitt emot ringshög",
         "secondaryName": "",
-        "propertyNumber": "Höjen 8:3",
-        "streetAddress": "Höjenvägen",
+        "propertyNumber": "Utby 1:43",
+        "streetAddress": "Hästhagsvägen",
         "municipalityCode": "2183",
         "extraInfo": "",
-        "latitude": 61.361716,
-        "longitude": 16.614954
+        "latitude": 61.3644,
+        "longitude": 16.61916
     },
     {
         "id": "307370",
