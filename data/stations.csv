@@ -140,7 +140,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 2050667,ÅVS 16240 Elbevägen/Glömstavägen,,RÖRPOSTEN 2,Elbevägen,0126,,59.2310156995369,17.9486110735206
 2063233,ÅVS 16373 Glömstavägen/Gustav Adolfsvägen,,STENYXAN 4,Gustav Adolfsvägen 56,0126,,59.2376983233466,17.9120611584809
 2115831,ÅVS 17215 Ornö,,SUNDBY 7:1,Ornövägen/breviksvägen,0126,,59.0761032284247,18.3938254118931
-2133761,17465 Högmoravägen/Ågestavägen,,MYRÄNGEN 1:12,Högmoravägen/Ågestavägen,0126,,59.2368150750071,18.0355375157597
+2133761,ÅVS 17465 Högmoravägen/Ågestavägen,,MYRÄNGEN 1:12,Högmoravägen/Ågestavägen,0126,,59.2368150750071,18.0355375157597
 2142552,17368 Mogårdsvägen Vårby,,VÅRBY GÅRD 1:1,Mogårdsvägen 8,0126,,59.264901982484,17.8909529661111
 6377,8131 ÅVC Skogås,,TRANSISTORN 4,Storvretsvägen 18,0126,,59.2258318216834,18.1348131935056
 6520,8122 Elhus Skeppsmyreparken,,STUVSTA GÅRD 1:1,Renvägen/Norra Parkvägen,0126,,59.2488856312891,17.9939794346196
@@ -151,7 +151,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 94573,8134 Parkering vid Etydgränd,,NYTORP 4:30,Mörtviksvägen,0126,,59.2251239337394,18.1555246114392
 96129,14468 Gårdsvägen/Hagvägen,,KRONTORPAREN 9,Hagvägen,0126,,59.2714569973903,17.9293219993448
 96681,8098,,KRÅKVIK 2:5,Ejdervägen/Häradsvägen,0126,,59.2682887434995,17.9569597805741
-96682,8096 Pumphus,,UTSÄLJE 1:101,Utsäljeleden/Häradsvägen,0126,,59.2647230272878,17.966356677085
+96682,ÅVS 8096 Pumphus,,UTSÄLJE 1:101,Utsäljeleden/Häradsvägen,0126,,59.2647230272878,17.966356677085
 96683,8101 Mickelbergsvägen Mitt Emot Nr 386,,JAKOBSLUND 2:40,Mickelbergsvägen,0126,,59.275767657918,17.9513055169457
 96685,8078 Vid Elhus,,KÄLLBRINK 1:1,Mossvägen/Bergholmsvägen,0126,,59.2390040643533,17.9711190663825
 96687,8087 Glas hemtagen,,TOMTBERGA 3:25,Nyängsvägen/mariedalsvägen,0126,,59.2317449851196,17.9781150138802
@@ -166,7 +166,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 97256,8112 Vändplan vid Loftv 7-8,,VÄSTRA SKOGÅS 1:2,Loftvägen,0126,,59.2214646877124,18.1414948072834
 97257,8105  P Plats,,KÖKET 2,Studievägen 1,0126,,59.2210140771344,18.1489740371505
 97258,8104  P Plats,,BROMSEN 3,Säterbacken,0126,,59.2163343367449,18.1466495579544
-97269,8081 Vid Grillpalatset,,TOMTBERGA 3:25,Kommunalvägen 15,0126,,59.2380065833902,17.9825021812415
+97269,ÅVS 8081 Vid Grillpalatset,,TOMTBERGA 3:25,Kommunalvägen 15,0126,,59.2380065833902,17.9825021812415
 97270,8088 Vid vändplan,,RÅDSBACKEN 12,Rådsvägen14,0126,,59.2420862588696,17.9891556794581
 97279,8062 Vid parkeringshus,,LADAN 5,Sågstuvägen,0126,,59.2180247507341,17.9599518654592
 97281,ÅVS 8070  Visättra Centrum,,VISÄTRA 1:1,Kvarnängsvägen,0126,,59.2183421521222,17.9566665960119
@@ -178,7 +178,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 2134661,17388 Sandstugan,,LINDHOV 15:24,Tant gröns väg,0127,,59.2033802848905,17.7996754032971
 2144100,17214   Mittemot Parkering,,TULLINGE 21:223,Gösta Frohms väg,0127,,59.1828986612248,17.9158345166534
 3004101,ÅVS 7255  St Albans väg,,ERIKSBERG 2:1,Sankt albans väg,0127,,59.242954828871,17.813707791141
-3004103,17653  Bussvändpl Korpvägen,,Tumba 8:536,Skäcklingevägen,0127,,59.1817327048792,17.8263018301297
+3004103,ÅVS 17653  Bussvändpl Korpvägen,,Tumba 8:536,Skäcklingevägen,0127,,59.1817327048792,17.8263018301297
 6289,13328  Hörna Adler Salvius V,,TULLINGE 16:119,Anna Maria Roosväg,0127,,59.2149370376147,17.8935590919468
 6329,7252  Vändplan,,BRUNNA GÅRD 1,Tomtbergavägen 66,0127,,59.2490510825839,17.8325601275427
 6779,7292,,Rotemannen S:1,Albyvägen 15,0127,,59.2391073057404,17.8513245331713
@@ -200,7 +200,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 96798,ÅVS 7327  P-Plats Tumbav,,TUMBA 7:206,Nackdalavägen,0127,,59.2095993051296,17.8245409038014
 96799,7308  P-Plats Vid Nyängsv,,TULLINGE 19:276,"Tullinge centrum, östra",0127,,59.2064811660964,17.9052482915465
 96803,7358  Vid Veterinär,,VÅRSTA 1:118,Vårsta centrum,0127,,59.1643989337091,17.7956121288247
-96804,7331,,TUMBA 8:284,Ekvägen 28,0127,,59.1894512977538,17.8217560541065
+96804,ÅVS 7331,,TUMBA 8:284,Ekvägen 28,0127,,59.1894512977538,17.8217560541065
 96808,7316  Trädgårdstorpsvägen,,TULLINGE 16:10,Källvägen,0127,,59.2157752568992,17.8845515839224
 96810,7314 Vändplan Tullinge,,TULLINGE 21:484,Morgonvägen,0127,,59.2070075869186,17.9166471182159
 97196,7290 Vändplan,,FREJA 2,Balders väg,0127,,59.2475654411878,17.8103340071062
@@ -629,7 +629,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 13874,Mörköbron,,Mörköbron,Mörköbron,0181,,58.9893131893162,17.6232642342418
 13875,Humlestigen,,Humlestigen,Humlestigen,0181,,59.193065138706,17.5966644233052
 13882,Vretvägen,,Vretvägen,Vretvägen,0181,,59.0968493424269,17.5634140380542
-13887,Granövägen,,Granövägen,Granövägen,0181,,59.1733153966174,17.6038423908657
 13890,Rosenhöjdsvägen,,Rosenhöjdsvägen,Rosenhöjdsvägen,0181,,59.199892013915,17.6520466782691
 13891,Höglandsvägen,,Höglandsvägen,Höglandsvägen,0181,,59.196201977841,17.6497560653961
 13897,Fornhöjdsvägen,,Fornhöjdsvägen,Fornhöjdsvägen,0181,,59.1951569504978,17.6666903783072
@@ -670,8 +669,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 9184,Kolarängen,,ÄLTA 10:1,Ältavägen/Ulvsjövägen,0182,,59.2726459794035,18.1761870813276
 9186,Ekstubben Infartsparkering,,ÄLTA 27:2,Ältabergsvägen/Ältavägen,0182,,59.2511325294033,18.173866833488
 99068,Kummelnäsvägen/Värmdövägen,,RENSÄTTRA 1:41,Värmdövägen/Kummelnäsvägen,0182,,59.3358572518646,18.2957512938863
-10374," 
-Hallonbergsplan",,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsvängen och Ursviksvägen",0183,,59.37611,17.97111
+10374,Hallonbergsplan,,Sundbyberg 2:30,"Hallonbergen, stora parkeringen mellan Örsvängen och Ursviksvägen",0183,,59.37611,17.97111
 10375,Rissne Centrum,,Sundbyberg 2:26,"Rissne torg, nära nr 9",0183,,59.37611,17.94111
 10377,"Simhallen, Sundbybergs IP",,Sundbyberg 2:17,"Fredsgränd 2, parkering mittemot Sundbybergs IP",0183,,59.36833,17.96528
 11111,Returpunkt Sundbyberg,,Banken 8,Landsvägen 62,0183,"Här kan du bland annat lämna förpackningar, textil och saker återbruk, i den mängd du kan bära hit själv. Här finns även verktyg och symaskin för att lappa och laga. Sök efter Returpunkt på www.sorab.se för öppettider och mer information.",59.36143,17.96444

@@ -1552,7 +1552,7 @@
     },
     {
         "id": "2133761",
-        "name": "17465 Högmoravägen/Ågestavägen",
+        "name": "ÅVS 17465 Högmoravägen/Ågestavägen",
         "secondaryName": null,
         "propertyNumber": "MYRÄNGEN 1:12",
         "streetAddress": "Högmoravägen/Ågestavägen",
@@ -1673,7 +1673,7 @@
     },
     {
         "id": "96682",
-        "name": "8096 Pumphus",
+        "name": "ÅVS 8096 Pumphus",
         "secondaryName": null,
         "propertyNumber": "UTSÄLJE 1:101",
         "streetAddress": "Utsäljeleden/Häradsvägen",
@@ -1838,7 +1838,7 @@
     },
     {
         "id": "97269",
-        "name": "8081 Vid Grillpalatset",
+        "name": "ÅVS 8081 Vid Grillpalatset",
         "secondaryName": null,
         "propertyNumber": "TOMTBERGA 3:25",
         "streetAddress": "Kommunalvägen 15",
@@ -1970,7 +1970,7 @@
     },
     {
         "id": "3004103",
-        "name": "17653  Bussvändpl Korpvägen",
+        "name": "ÅVS 17653  Bussvändpl Korpvägen",
         "secondaryName": null,
         "propertyNumber": "Tumba 8:536",
         "streetAddress": "Skäcklingevägen",
@@ -2212,7 +2212,7 @@
     },
     {
         "id": "96804",
-        "name": "7331",
+        "name": "ÅVS 7331",
         "secondaryName": null,
         "propertyNumber": "TUMBA 8:284",
         "streetAddress": "Ekvägen 28",
@@ -6930,17 +6930,6 @@
         "longitude": 17.5634140380542
     },
     {
-        "id": "13887",
-        "name": "Granövägen",
-        "secondaryName": null,
-        "propertyNumber": "Granövägen",
-        "streetAddress": "Granövägen",
-        "municipalityCode": "0181",
-        "extraInfo": null,
-        "latitude": 59.1733153966174,
-        "longitude": 17.6038423908657
-    },
-    {
         "id": "13890",
         "name": "Rosenhöjdsvägen",
         "secondaryName": null,
@@ -7382,7 +7371,7 @@
     },
     {
         "id": "10374",
-        "name": " \nHallonbergsplan",
+        "name": "Hallonbergsplan",
         "secondaryName": "",
         "propertyNumber": "Sundbyberg 2:30",
         "streetAddress": "Hallonbergen, stora parkeringen mellan Örsvängen och Ursviksvägen",
