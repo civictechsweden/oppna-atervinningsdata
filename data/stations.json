@@ -32527,17 +32527,6 @@
         "longitude": 11.99389
     },
     {
-        "id": "677014492",
-        "name": "Liljedalsområdet",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Liljedalsgatan",
-        "municipalityCode": "1482",
-        "extraInfo": null,
-        "latitude": 57.8683299999909,
-        "longitude": 11.9816699997972
-    },
-    {
         "id": "677014494",
         "name": "ICA Nära Skafferiet",
         "secondaryName": null,
@@ -32593,17 +32582,6 @@
         "longitude": 11.9627799993713
     },
     {
-        "id": "677014503",
-        "name": "Trekungagatan",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Trekungagatan",
-        "municipalityCode": "1482",
-        "extraInfo": null,
-        "latitude": 57.8666699989989,
-        "longitude": 11.9533300006109
-    },
-    {
         "id": "677014504",
         "name": "Kärna, Ängkullevägen",
         "secondaryName": null,
@@ -32624,17 +32602,6 @@
         "extraInfo": null,
         "latitude": 57.8874999979712,
         "longitude": 11.6005600005126
-    },
-    {
-        "id": "677014507",
-        "name": "Olseröd",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Räfsalsvägen",
-        "municipalityCode": "1482",
-        "extraInfo": null,
-        "latitude": 57.8877800044581,
-        "longitude": 11.9663900008286
     },
     {
         "id": "677014508",
@@ -38795,17 +38762,6 @@
         "extraInfo": null,
         "latitude": 59.2480947267751,
         "longitude": 15.1670310033905
-    },
-    {
-        "id": "79107",
-        "name": "Marieberg ÅVS",
-        "secondaryName": null,
-        "propertyNumber": "Mosås 1:111",
-        "streetAddress": "Travbanevägen 5",
-        "municipalityCode": "1880",
-        "extraInfo": null,
-        "latitude": 59.2249643966989,
-        "longitude": 15.155707421085
     },
     {
         "id": "79109",
