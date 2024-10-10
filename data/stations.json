@@ -32560,28 +32560,6 @@
         "longitude": 11.8516700001914
     },
     {
-        "id": "677014501",
-        "name": "Gamla Trollhättevägen",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Gamla Trollhättevägen",
-        "municipalityCode": "1482",
-        "extraInfo": null,
-        "latitude": 57.8811100043103,
-        "longitude": 11.9872200003211
-    },
-    {
-        "id": "677014502",
-        "name": "Sankt Halvardsgatan",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Sankt Halvardsgatan",
-        "municipalityCode": "1482",
-        "extraInfo": null,
-        "latitude": 57.8705599964396,
-        "longitude": 11.9627799993713
-    },
-    {
         "id": "677014504",
         "name": "Kärna, Ängkullevägen",
         "secondaryName": null,
@@ -38764,6 +38742,17 @@
         "longitude": 15.1670310033905
     },
     {
+        "id": "79107",
+        "name": "Mosås ÅVS",
+        "secondaryName": null,
+        "propertyNumber": "TÖRSJÖ 3:12",
+        "streetAddress": "Viktor Dahléns väg 2",
+        "municipalityCode": "1880",
+        "extraInfo": null,
+        "latitude": 59.2000756213249,
+        "longitude": 15.1506383673649
+    },
+    {
         "id": "79109",
         "name": "Kilsmo ÅVS",
         "secondaryName": null,
@@ -38991,8 +38980,8 @@
         "streetAddress": "Lännäs 163",
         "municipalityCode": "1880",
         "extraInfo": null,
-        "latitude": 59.1409682947036,
-        "longitude": 15.6604868227708
+        "latitude": 59.1442582644726,
+        "longitude": 15.6621034949133
     },
     {
         "id": "26554",
