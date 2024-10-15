@@ -6864,17 +6864,6 @@
         "longitude": 17.6086723268032
     },
     {
-        "id": "13869",
-        "name": "Klockarvägen",
-        "secondaryName": null,
-        "propertyNumber": "Klockarvägen",
-        "streetAddress": "Klockarvägen",
-        "municipalityCode": "0181",
-        "extraInfo": null,
-        "latitude": 59.1962342554958,
-        "longitude": 17.5895263964992
-    },
-    {
         "id": "13871",
         "name": "Skolvägen",
         "secondaryName": null,
@@ -36388,6 +36377,17 @@
         "longitude": 13.5476852902627
     },
     {
+        "id": "5516993",
+        "name": "RUDSTORPSVÄGEN (SINGEL-GLAS)",
+        "secondaryName": null,
+        "propertyNumber": "RUDSTORPSVÄGEN 1:50",
+        "streetAddress": "RUDSTORPSVÄGEN",
+        "municipalityCode": "1762",
+        "extraInfo": null,
+        "latitude": 59.7696228179063,
+        "longitude": 13.463070075087
+    },
+    {
         "id": "6017287",
         "name": "ERLANDERVÄGEN (RASTPLATSEN)",
         "secondaryName": null,
@@ -42491,17 +42491,6 @@
         "extraInfo": "",
         "latitude": 61.227734,
         "longitude": 14.075536
-    },
-    {
-        "id": "20394616",
-        "name": "Evertsberg",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Boggbergsvägen",
-        "municipalityCode": "2039",
-        "extraInfo": "",
-        "latitude": 61.132696,
-        "longitude": 13.966606
     },
     {
         "id": "349943",
