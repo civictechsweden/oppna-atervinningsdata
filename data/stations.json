@@ -35794,17 +35794,6 @@
         "longitude": 12.31
     },
     {
-        "id": "601",
-        "name": "Källgatan",
-        "secondaryName": "",
-        "propertyNumber": "NOLBY 1:38",
-        "streetAddress": "",
-        "municipalityCode": "1730",
-        "extraInfo": "",
-        "latitude": 59.87667,
-        "longitude": 12.28472
-    },
-    {
         "id": "605",
         "name": "Bruksgatan",
         "secondaryName": "",
@@ -36978,8 +36967,8 @@
         "streetAddress": "Öståsgatan",
         "municipalityCode": "1781",
         "extraInfo": "",
-        "latitude": 59.16,
-        "longitude": 14.19
+        "latitude": 59.16009,
+        "longitude": 14.19037
     },
     {
         "id": "461516",
@@ -37011,8 +37000,8 @@
         "streetAddress": "Visnum Kilsvägen Gaterud",
         "municipalityCode": "1781",
         "extraInfo": "",
-        "latitude": 59.25286,
-        "longitude": 14.11155
+        "latitude": 59.25255,
+        "longitude": 14.12372
     },
     {
         "id": "461523",
@@ -38007,90 +37996,90 @@
     {
         "id": "214436",
         "name": "HJULSJÖ GRÖNÄLVEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "HJULSJÖBY 2:13",
         "streetAddress": "RENINGSVERK HJULSJÖ",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.78972,
-        "longitude": 14.76722
+        "extraInfo": null,
+        "latitude": 59.7897166908191,
+        "longitude": 14.7672101872097
     },
     {
         "id": "214437",
         "name": "HÄLLEFORS KLOCKARSKOGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "GYLTBO 1:1",
         "streetAddress": "BASVÄGEN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.77306,
-        "longitude": 14.53556
+        "extraInfo": null,
+        "latitude": 59.7727741895228,
+        "longitude": 14.5352773737596
     },
     {
         "id": "214438",
         "name": "HÄLLEFORS SVARTÄLVSVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "FJÄLLBO 24:1",
         "streetAddress": "SVARTÄLVSVÄGEN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.77,
-        "longitude": 14.52139
+        "extraInfo": null,
+        "latitude": 59.770300182689,
+        "longitude": 14.5212155695905
     },
     {
         "id": "214439",
         "name": "HÄLLEFORS HÄLLEVI IP",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "KLOCKAREBÄCKEN 10:1",
         "streetAddress": "SÄVENFORSVÄGEN 15",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.78667,
-        "longitude": 14.51611
+        "extraInfo": null,
+        "latitude": 59.7863836115928,
+        "longitude": 14.5158212135456
     },
     {
         "id": "214440",
         "name": "HÄLLEFORS GÄDDSJÖVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "KRONHAGEN 30:1",
         "streetAddress": "GÄDDSJÖVÄGEN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.79444,
-        "longitude": 14.52444
+        "extraInfo": null,
+        "latitude": 59.7944396702758,
+        "longitude": 14.5244319004471
     },
     {
         "id": "214441",
-        "name": "HÄLLEFORS GYLTBO",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "name": "HÄLLEFORS GYLTBO ÅTERVINNINGSCENTRAL",
+        "secondaryName": null,
+        "propertyNumber": "HÄLLEFORS 11:1",
         "streetAddress": "SMALVIKSVÄGEN 2 A",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.76389,
-        "longitude": 14.52722
+        "extraInfo": null,
+        "latitude": 59.7639932600078,
+        "longitude": 14.527089172018
     },
     {
         "id": "214442",
         "name": "HÄLLEFORS BRANDINVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "GILLERSHÖJDEN 19:7",
         "streetAddress": "BRANDINVÄGEN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.78083,
-        "longitude": 14.52056
+        "extraInfo": null,
+        "latitude": 59.7808413296783,
+        "longitude": 14.5196224915334
     },
     {
         "id": "214443",
         "name": "GRYTHYTTAN MAGASINGATAN ",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "GRYTHYTTAN 14:1",
         "streetAddress": "MAGASINGATAN 1",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.705,
-        "longitude": 14.53278
+        "extraInfo": null,
+        "latitude": 59.7050781721944,
+        "longitude": 14.5333915320995
     },
     {
         "id": "214444",
@@ -38106,211 +38095,211 @@
     {
         "id": "214445",
         "name": "BREDSJÖ HYTTVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "JÖNSHYTTAN 6:117",
         "streetAddress": "BREDSJÖ HYTTVÄGEN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.83194,
-        "longitude": 14.73194
+        "extraInfo": null,
+        "latitude": 59.8322478418789,
+        "longitude": 14.7311087442934
     },
     {
         "id": "214446",
         "name": "BJÖRKSJÖN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "BJÖRKSJÖN 4:17",
         "streetAddress": "BJÖRKSJÖN 14",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.827948,
-        "longitude": 14.807008
+        "extraInfo": null,
+        "latitude": 59.8280467266894,
+        "longitude": 14.8077706961304
     },
     {
         "id": "214447",
         "name": "GRÄNGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "STORA HÄSTNÄS 1:19",
         "streetAddress": "GRÄNGEN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.72682,
-        "longitude": 14.840259
+        "extraInfo": null,
+        "latitude": 59.7267872057658,
+        "longitude": 14.8403467094585
     },
     {
         "id": "214448",
         "name": "GRÄNGSHYTTAN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "GRÄNGSHYTTAN 1:32",
         "streetAddress": "GRÄNGSHYTTAN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.724824,
-        "longitude": 14.785208
+        "extraInfo": null,
+        "latitude": 59.7247160487655,
+        "longitude": 14.7852757555107
     },
     {
         "id": "214449",
         "name": "KNUTHÖJDEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "SÅNGSHYTTAN 1:143",
         "streetAddress": "KNUTHÖJDEN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.789025,
-        "longitude": 14.470953
+        "extraInfo": null,
+        "latitude": 59.7886091217037,
+        "longitude": 14.4713758000248
     },
     {
         "id": "214450",
         "name": "NYGÅRD",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "HÄLLEFORS 9:1",
         "streetAddress": "NYGÅRD",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.75714,
-        "longitude": 14.474508
+        "extraInfo": null,
+        "latitude": 59.7574931453126,
+        "longitude": 14.474714105709
     },
     {
         "id": "214451",
         "name": "ROCKESHOLM",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "SKÄRTORP 3:1",
         "streetAddress": "ROCKESHOLM",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.533134,
-        "longitude": 14.637644
+        "extraInfo": null,
+        "latitude": 59.5327772749479,
+        "longitude": 14.6383299975323
     },
     {
         "id": "214452",
         "name": "SAXHYTTAN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "SAXHYTTAN S:3",
         "streetAddress": "SAXHYTTAN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.741734,
-        "longitude": 14.467566
+        "extraInfo": null,
+        "latitude": 59.7416654678453,
+        "longitude": 14.4673690771249
     },
     {
         "id": "214453",
         "name": "SAXHYTTEFALLET",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "SVARTÄLVSTORP 1:1",
         "streetAddress": "SAXHYTTEFALLET",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.736504,
-        "longitude": 14.519204
+        "extraInfo": null,
+        "latitude": 59.7365781895999,
+        "longitude": 14.5191551962033
     },
     {
         "id": "214454",
         "name": "SIKFORS",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "HÄLLEFORS 9:1",
         "streetAddress": "SIKFORS",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.803957,
-        "longitude": 14.586685
+        "extraInfo": null,
+        "latitude": 59.8041662981427,
+        "longitude": 14.587220303001
     },
     {
         "id": "214455",
         "name": "SILVERGRUVAN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "HÄLLEFORS 9:1",
         "streetAddress": "SILVERGRUVAN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.852293,
-        "longitude": 14.46436
+        "extraInfo": null,
+        "latitude": 59.8522205438096,
+        "longitude": 14.464158292659
     },
     {
         "id": "214456",
         "name": "SKÅLN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "SKÅLEN S:1",
         "streetAddress": "SKÅLN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.837113,
-        "longitude": 14.618072
+        "extraInfo": null,
+        "latitude": 59.8369410524946,
+        "longitude": 14.618041518677
     },
     {
         "id": "214457",
         "name": "SÅNGSHYTTAN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "SAXHYTTAN 3:1",
         "streetAddress": "SÅNGSHYTTAN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.819765,
-        "longitude": 14.443639
+        "extraInfo": null,
+        "latitude": 59.8186095152397,
+        "longitude": 14.4435942771
     },
     {
         "id": "214458",
         "name": "SÄVSJÖN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "HÄLLEFORS 9:1",
         "streetAddress": "SÄVSJÖN",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.910794,
-        "longitude": 14.547919
+        "extraInfo": null,
+        "latitude": 59.9108331334958,
+        "longitude": 14.5477731908052
     },
     {
         "id": "214459",
         "name": "ÄLVESTORP",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "ÄLVESTORP 1:9",
         "streetAddress": "ÄLVESTORP",
         "municipalityCode": "1863",
-        "extraInfo": "",
-        "latitude": 59.631259,
-        "longitude": 14.560392
+        "extraInfo": null,
+        "latitude": 59.6311078093475,
+        "longitude": 14.5602605080475
     },
     {
         "id": "415210",
         "name": "BÅNGBRO HERRGÅRDSVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "HEDEN 6:1",
         "streetAddress": "HERRGÅRDSVÄGEN",
         "municipalityCode": "1864",
-        "extraInfo": "",
-        "latitude": 59.85917,
-        "longitude": 15.04583
+        "extraInfo": null,
+        "latitude": 59.8594061363645,
+        "longitude": 15.046041347439
     },
     {
         "id": "415211",
         "name": "KOPPARBERG KOPPARHALLENS PARKERING",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "KOPPARBERG 1:1",
         "streetAddress": "VINKELGATAN",
         "municipalityCode": "1864",
-        "extraInfo": "",
-        "latitude": 59.87472,
-        "longitude": 14.99472
+        "extraInfo": null,
+        "latitude": 59.8748076899615,
+        "longitude": 14.9953937364251
     },
     {
         "id": "415212",
         "name": "KOPPARBERG KYRKVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "KLÖVERVALLEN 7",
         "streetAddress": "KYRKVÄGEN 14",
         "municipalityCode": "1864",
-        "extraInfo": "",
-        "latitude": 59.87139,
-        "longitude": 15.01056
+        "extraInfo": null,
+        "latitude": 59.8717016958103,
+        "longitude": 15.0106755378016
     },
     {
         "id": "415213",
-        "name": "STÄLLDALEN JÄRNVÄGSSTATIONEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "name": "STÄLLDALEN JÄRNVÄGSSTATIONEN ",
+        "secondaryName": null,
+        "propertyNumber": "VÄSTRA BORN 1:278",
         "streetAddress": "STÄLLBERGSVÄGEN",
         "municipalityCode": "1864",
-        "extraInfo": "",
-        "latitude": 59.93472,
-        "longitude": 14.94194
+        "extraInfo": null,
+        "latitude": 59.9350764819259,
+        "longitude": 14.9419595577698
     },
     {
         "id": "415214",
@@ -38337,46 +38326,46 @@
     {
         "id": "415216",
         "name": "DAMMEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "DAMMEN 1:25",
         "streetAddress": "DAMMEN",
         "municipalityCode": "1864",
-        "extraInfo": "",
-        "latitude": 59.808388,
-        "longitude": 15.068457
+        "extraInfo": null,
+        "latitude": 59.8083683836172,
+        "longitude": 15.0684753508075
     },
     {
         "id": "415217",
         "name": "HÖRKEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "SÖDRA HÖRKEN 1:15",
         "streetAddress": "HÖRKEN",
         "municipalityCode": "1864",
-        "extraInfo": "",
-        "latitude": 60.022978,
-        "longitude": 14.937625
+        "extraInfo": null,
+        "latitude": 60.0229915060985,
+        "longitude": 14.9376269630068
     },
     {
         "id": "415218",
-        "name": "SÅGVERKSVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "name": "SILVERHÖJDEN",
+        "secondaryName": null,
+        "propertyNumber": "SÖDRA HÖRKEN 8:10",
         "streetAddress": "SÅGVERKSVÄGEN",
         "municipalityCode": "1864",
-        "extraInfo": "",
-        "latitude": 60.040763,
-        "longitude": 14.977314
+        "extraInfo": null,
+        "latitude": 60.0408747618651,
+        "longitude": 14.9773735169595
     },
     {
         "id": "415219",
         "name": "BASTKÄRN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "VIKTORP 5:1",
         "streetAddress": "KOSTELAVÄGEN",
         "municipalityCode": "1864",
-        "extraInfo": "",
-        "latitude": 60.021448,
-        "longitude": 14.979453
+        "extraInfo": null,
+        "latitude": 60.0214518495136,
+        "longitude": 14.9795028581187
     },
     {
         "id": "415220",
@@ -39349,178 +39338,178 @@
     {
         "id": "523590",
         "name": "GYTTORP NORAVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "GYTTORP 5:3",
         "streetAddress": "NORAVÄGEN",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.50667,
-        "longitude": 14.96861
+        "extraInfo": null,
+        "latitude": 59.5068468794657,
+        "longitude": 14.9684257164019
     },
     {
         "id": "523591",
         "name": "NORA PARKERINGEN KONSUM",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "BJÖRNEN 5",
         "streetAddress": "STORGATAN 19",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.51889,
-        "longitude": 15.03639
+        "extraInfo": null,
+        "latitude": 59.5189636698998,
+        "longitude": 15.0364612385695
     },
     {
         "id": "523592",
         "name": "NORA ESSTORPSVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "NORA 1:1",
         "streetAddress": "ESSTORPSVÄGEN",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.52667,
-        "longitude": 15.0125
+        "extraInfo": null,
+        "latitude": 59.5265980337542,
+        "longitude": 15.0124745409082
     },
     {
         "id": "523593",
         "name": "NORA HEIMDALSVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "NORA 1:1",
         "streetAddress": "HEIMDALSVÄGEN",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.52778,
-        "longitude": 15.03778
+        "extraInfo": null,
+        "latitude": 59.5279036925798,
+        "longitude": 15.0378668209127
     },
     {
         "id": "523594",
         "name": "NORA SOLTUNET",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "HJÄSSAN 7",
         "streetAddress": "KOLMÄTAREGATAN 23",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.52694,
-        "longitude": 15.02806
+        "extraInfo": null,
+        "latitude": 59.5272418886345,
+        "longitude": 15.0281831053752
     },
     {
         "id": "523595",
         "name": "PERSHYTTAN FOLKETS HUS",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "GAMLA PERSHYTTAN 3:70",
         "streetAddress": "PERSHYTTEVÄGEN",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.50417,
-        "longitude": 15.01556
+        "extraInfo": null,
+        "latitude": 59.5043453483797,
+        "longitude": 15.0156800270469
     },
     {
         "id": "523596",
         "name": "NORA TRÄNGBO CAMPING",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "NORA 1:1",
         "streetAddress": "KUNGSGATAN",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.52556,
-        "longitude": 15.04278
+        "extraInfo": null,
+        "latitude": 59.5256491055096,
+        "longitude": 15.0428292334456
     },
     {
         "id": "523597",
         "name": "JÄRNBOÅS SKOLA",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "LINDESBY 14:10",
         "streetAddress": "LINDESBY 150",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.65694,
-        "longitude": 14.86361
+        "extraInfo": null,
+        "latitude": 59.6570959662227,
+        "longitude": 14.8635776875766
     },
     {
         "id": "523598",
         "name": "NORA ÄNGARNA",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "SPOVEN 4",
         "streetAddress": "ÄLVSTORPSVÄGEN",
         "municipalityCode": "1884",
-        "extraInfo": "",
-        "latitude": 59.51278,
-        "longitude": 15.03222
+        "extraInfo": null,
+        "latitude": 59.5128966617639,
+        "longitude": 15.0326926522773
     },
     {
         "id": "316615",
-        "name": "FELLINGSBRO NORRA BANVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "name": "FELLINGSBRO NORRA BANVÄGEN, PARKERING",
+        "secondaryName": null,
+        "propertyNumber": "ÄNGEBY 6:1",
         "streetAddress": "NORRA BANVÄGEN",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.43278,
-        "longitude": 15.59361
+        "extraInfo": null,
+        "latitude": 59.4333482016254,
+        "longitude": 15.5939105564877
     },
     {
         "id": "316616",
         "name": "FRÖVI VANNEBODAGATAN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "NÄSBYBACKA 28:5",
         "streetAddress": "VANNEBODAGATAN 12",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.46556,
-        "longitude": 15.36833
+        "extraInfo": null,
+        "latitude": 59.4656604485437,
+        "longitude": 15.3680783580034
     },
     {
         "id": "316617",
         "name": "GULDSMEDSHYTTAN BRANDSTATIONEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "GULDSMEDSHYTTAN 4:42",
         "streetAddress": "ELZWIKS VÄG 3",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.69472,
-        "longitude": 15.09917
+        "extraInfo": null,
+        "latitude": 59.6947931507701,
+        "longitude": 15.09926633446
     },
     {
         "id": "316618",
         "name": "LINDESBERG CENTRALFÖRRÅDET",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "LINDESHYTTAN 5:6",
         "streetAddress": "STAFETTGATAN 5",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.6025,
-        "longitude": 15.19167
+        "extraInfo": null,
+        "latitude": 59.602433487691,
+        "longitude": 15.1917543370771
     },
     {
         "id": "316619",
         "name": "LINDESBERG STADSSKOGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "STADSSKOGEN 2:6",
         "streetAddress": "HÖGSTADIEVÄGEN",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.60444,
-        "longitude": 15.20917
+        "extraInfo": null,
+        "latitude": 59.6043987748181,
+        "longitude": 15.2096705318274
     },
     {
         "id": "316620",
-        "name": "LINDESBERG PARKERINGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "name": "LINDESBERG PARKERINGEN FOLKETS HUS",
+        "secondaryName": null,
+        "propertyNumber": "LINDESÅS 1:1",
         "streetAddress": "KRISTINAVÄGEN 12",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.59083,
-        "longitude": 15.23139
+        "extraInfo": null,
+        "latitude": 59.5910140786997,
+        "longitude": 15.2316453550648
     },
     {
         "id": "316621",
         "name": "ROCKHAMMAR BADET",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "VÄSTANSJÖ 2:34",
         "streetAddress": "STENSTAVÄGEN",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.52806,
-        "longitude": 15.44944
+        "extraInfo": null,
+        "latitude": 59.528294591093,
+        "longitude": 15.4496560482354
     },
     {
         "id": "316622",
@@ -39536,68 +39525,68 @@
     {
         "id": "316623",
         "name": "VEDEVÅG VEDEVÅGSHEMMET",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "KVARNBACKEN 1:70",
         "streetAddress": "KVARNBACKAVÄGEN",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.52694,
-        "longitude": 15.29167
+        "extraInfo": null,
+        "latitude": 59.5270097546094,
+        "longitude": 15.2916186452881
     },
     {
         "id": "316624",
-        "name": "RAMSBERG HÄCKLAVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "name": "RAMSBERG",
+        "secondaryName": null,
+        "propertyNumber": "RAMSHYTTAN 4:101",
         "streetAddress": "HÄCKLAVÄGEN 13",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.775997,
-        "longitude": 15.292807
+        "extraInfo": null,
+        "latitude": 59.7760250279232,
+        "longitude": 15.2928086399199
     },
     {
         "id": "316625",
         "name": "STORÅ STORÅPLAN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "STORÅ 1:36",
         "streetAddress": "STORÅPLAN",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.71389,
-        "longitude": 15.13306
+        "extraInfo": null,
+        "latitude": 59.7137658069078,
+        "longitude": 15.1328860883682
     },
     {
         "id": "316626",
-        "name": "LÖS GAMLA KVARNEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "name": "LÖA GAMLA KVARNEN",
+        "secondaryName": null,
+        "propertyNumber": "ÖSTRA LÖA 12:1",
         "streetAddress": "ÖSTRA LÖA 130",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.80278,
-        "longitude": 15.16278
+        "extraInfo": null,
+        "latitude": 59.8029084587557,
+        "longitude": 15.1631525089626
     },
     {
         "id": "316628",
         "name": "LINDESBERG SÖDRA MÅLE",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "YXE 7:5",
         "streetAddress": "MÅLE 225",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.51861,
-        "longitude": 15.2175
+        "extraInfo": null,
+        "latitude": 59.5187970143322,
+        "longitude": 15.2174593703891
     },
     {
         "id": "316629",
         "name": "LINDESBERG BANVÄGEN",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "HAGABERG 3:22",
         "streetAddress": "BANVÄGEN 25",
         "municipalityCode": "1885",
-        "extraInfo": "",
-        "latitude": 59.60083,
-        "longitude": 15.22472
+        "extraInfo": null,
+        "latitude": 59.6007474027466,
+        "longitude": 15.2247352476271
     },
     {
         "id": "316634",
