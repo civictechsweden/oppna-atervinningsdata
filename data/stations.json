@@ -10230,116 +10230,6 @@
         "longitude": 15.9863899975829
     },
     {
-        "id": "100001459",
-        "name": "P-plats Konsum",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Bruksvägen",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.0277799989506,
-        "longitude": 15.6697200066142
-    },
-    {
-        "id": "100001460",
-        "name": "P-plats Campingen",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Hjälmargårdsvägen",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.1302800030213,
-        "longitude": 15.8061099987125
-    },
-    {
-        "id": "100001461",
-        "name": "Folke Angers väg/Ekebergsvägen, Marmorbyn",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Ekebergsvägen",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.047220003837,
-        "longitude": 16.0672199956927
-    },
-    {
-        "id": "100001462",
-        "name": "Ica Supermarket Cityhallen/Tennisparken",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Bondegatan 9",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.0436100034394,
-        "longitude": 15.8730599995134
-    },
-    {
-        "id": "100001463",
-        "name": "Lastbilscentralen (LBC) (Söder)",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Idrottsvägen",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.0383300017469,
-        "longitude": 15.864719991369
-    },
-    {
-        "id": "100001464",
-        "name": "Gamla brandstationen, Lindberga",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Rosavillavägen",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.1244399969171,
-        "longitude": 15.9863899975829
-    },
-    {
-        "id": "100004538",
-        "name": "Hackstavägen 17 (norr)",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Hackstavägen 17",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.0563900009306,
-        "longitude": 15.8752800036845
-    },
-    {
-        "id": "100004539",
-        "name": "P-plats järnvägsbron (centrum)",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Järnvägsgatan",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.0419400019364,
-        "longitude": 15.8711099993281
-    },
-    {
-        "id": "100004540",
-        "name": "ÅVC Vik (ÅVS)",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Viks Återvinningscentral 1 B",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.0872199985611,
-        "longitude": 15.9174999995565
-    },
-    {
-        "id": "100004541",
-        "name": "Riksväg 52 nära Smedjevägen Baggetorp",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Smedjevägen",
-        "municipalityCode": "0428",
-        "extraInfo": null,
-        "latitude": 59.0094399974912,
-        "longitude": 16.0555599945684
-    },
-    {
         "id": "16879",
         "name": "NIVÅGÅNGEN / PLATÅVÄGEN",
         "secondaryName": null,
@@ -10465,22 +10355,22 @@
         "name": "SPELHAGEN, LIDL",
         "secondaryName": null,
         "propertyNumber": "SPÅNTEN 8",
-        "streetAddress": "SPELHAGSVÄGEN 2",
+        "streetAddress": "Spelhagsvägen 2",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7427799616029,
-        "longitude": 17.0066699073976
+        "latitude": 58.7436416837652,
+        "longitude": 17.0071812228921
     },
     {
         "id": "16246",
         "name": "TYSTBERGA",
         "secondaryName": null,
         "propertyNumber": "NÄLBERGA 1:25",
-        "streetAddress": "STATIONSVÄGEN 12",
+        "streetAddress": "Stationsvägen 12",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.8483299402452,
-        "longitude": 17.2380599312529
+        "latitude": 58.8480800316454,
+        "longitude": 17.2380707254782
     },
     {
         "id": "16479",
@@ -10751,22 +10641,22 @@
         "name": "RUNTUNA, RENINGSVERKET",
         "secondaryName": null,
         "propertyNumber": "ALBY 5:2",
-        "streetAddress": "RUNTUNA GRANSTAHOLM 2",
+        "streetAddress": "Runtuna Granstaholm 2",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.8691700113669,
-        "longitude": 17.0727799592208
+        "latitude": 58.8691001325564,
+        "longitude": 17.0729497123549
     },
     {
         "id": "9475",
         "name": "RÅBY",
         "secondaryName": null,
         "propertyNumber": "RÅBY 3:13",
-        "streetAddress": "RÅBY SKOLA 3",
+        "streetAddress": "Råby Skola 3",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.8708299283687,
-        "longitude": 16.8941698692895
+        "latitude": 58.8709821602279,
+        "longitude": 16.8935000746338
     },
     {
         "id": "9476",
@@ -20590,17 +20480,6 @@
         "extraInfo": "",
         "latitude": 55.38639,
         "longitude": 13.50028
-    },
-    {
-        "id": "12820",
-        "name": "ÅVS Enskiftesgatan",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Enskiftesgatan",
-        "municipalityCode": "1264",
-        "extraInfo": "",
-        "latitude": 55.48222,
-        "longitude": 13.49806
     },
     {
         "id": "12823",
@@ -46256,7 +46135,7 @@
     },
     {
         "id": "4430041",
-        "name": "Själevad, Coop P-plats",
+        "name": "Karlslundsvägen",
         "secondaryName": null,
         "propertyNumber": "ÖVERSJÄLA 14:4",
         "streetAddress": "Karlslundsvägen",
