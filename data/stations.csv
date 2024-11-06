@@ -442,7 +442,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585191,Återvinningsstation 10107,,BORGARE 1,Hjalmar Söderbergs Väg 14,0180,,59.3330152227021,18.0017178508769
 585192,Återvinningsstation 16653,,SOMMAREN 10,Alsnögatan 3,0180,,59.3125094570131,18.1006257723683
 585193,Återvinningsstation 16652,,SÖDERMALM 7:89,Klevgränd 5,0180,,59.3186332165949,18.0746899511251
-585194,Återvinningsstation 10108,,DUNGEN 26,Essinge Kyrkväg 9,0180,,59.3213022975102,17.9897839335492
+585194,Återvinningsstation 10108,,DUNGEN 22,Essinge Kyrkväg 9,0180,,59.3213022975102,17.9897839335492
 585195,Återvinningsstation 16648,,HAIFA 1,Tullvaktsvägen 2,0180,,59.3395271096413,18.1173917714877
 585196,Återvinningsstation 16647,,BJÖRKLÅNGEN 1,Sandfjärdsgatan 9,0180,,59.2952613590495,18.0436445075256
 585197,Återvinningsstation 16644,,INSTRUKTIONEN 1,Snöripsvägen 36,0180,,59.2728607849264,17.977528244613
@@ -474,7 +474,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585244,Återvinningsstation 16040,,HJORTHAGEN 1:5,Artemisgatan 89,0180,,59.3548090859793,18.0972170766892
 585245,Återvinningsstation 16001,,HÖGBERGSTERRASSEN 1,Högbergsgatan 99,0180,,59.3146455692291,18.0574192620513
 585246,Återvinningsstation 15932,,KUNDREGISTRET 5,Multrågatan 57,0180,,59.360199323677,17.8785898599685
-585247,Återvinningsstation 15877,,VASASTADEN 1:116,Frejgatan 31,0180,,59.3472360143812,18.0567790806913
+585247,Återvinningsstation 15877,,GETEN 21,Frejgatan 31,0180,,59.3472360143812,18.0567790806913
 585248,Återvinningsstation 15769,,FLYTTFÅGELN 2,Stenkilsgatan 7,0180,,59.307921479214,17.9894169334237
 585249,Återvinningsstation 15760,,BLACKEBERG 3:1,Björnsonsgatan 4,0180,,59.3436157278927,17.8889719377676
 585250,Återvinningsstation 15759,,HÄSSELBY VILLASTAD 14:34,Sandviksvägen 159,0180,,59.3784258450515,17.815877561699
@@ -522,7 +522,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585304,Återvinningsstation 15015,,KONDUKTRISEN 7,Ugglemossvägen 61,0180,,59.2934621058361,17.946497179744
 585305,Återvinningsstation 15014,,HÄGERSTENSÅSEN 1:2,Bäckvägen 130,0180,,59.3001390943076,17.9816001131885
 585307,Återvinningsstation 15011,,ACCEPTEN 1,Tornedalsgatan 4,0180,,59.3662875847598,17.883647639333
-585308,Återvinningsstation 15009,,ÅNGPANNAN 20,Folkskolegatan 16,0180,,59.3165382844003,18.0306580962875
+585308,Återvinningsstation 15009,,FABRIKEN 29,Folkskolegatan 16,0180,,59.3165382844003,18.0306580962875
 585309,Återvinningsstation 15008,,KÄRRSPIRAN 1,Björnmossevägen 5,0180,,59.3789173285803,17.8482676145936
 585310,Återvinningsstation 14822,,BECKASINEN 14,Valhallavägen 16,0180,,59.3491263673715,18.0619992171311
 585311,Återvinningsstation 14821,,TIMMERLASSET 19,Sågverksgatan 58,0180,,59.2772886336215,18.0482549961018
@@ -2685,6 +2685,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 248705,ÅVS 7795 Jungmansgatan 14  ,,OLIVEDAL 5:27,Jungmansgatan 14  ,1480,,57.695,11.94639
 248706,ÅVS 7796 Repslagaregatan 7  ,,STIGBERGET 34:19,Repslagaregatan 7  ,1480,,57.69528,11.93861
 248707,ÅVS 7797 Vegagatan 19  ,,OLIVEDAL 6:37,Vegagatan 19  ,1480,,57.6925,11.94778
+248708,ÅVS 7800 Lagerströmsplatsen 4  ,,GÅRDA 744:559,Lagerströmsplatsen 4  ,1480,,57.71167,11.99833
 248709,ÅVS 7802 Storkgatan 1  ,,OLSKROKEN 743:62,Storkgatan 1  ,1480,,57.72111,12.00444
 248710,ÅVS 7803 Övre Olskroksgatan 14  ,,OLSKROKEN 743:62,Övre Olskroksgatan 14  ,1480,,57.71889,12.00194
 248711,ÅVS 7804 Idtjärnsgatan   ,,ANGERED S:95,Idtjärnsgatan   ,1480,,57.80583,12.065
@@ -3948,6 +3949,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 901006,Håksberg,,Persbo 64:100,Håksberg,2085,,60.186289,15.20524
 901007,Knutsbovägen,,Knutsbo 7:221,Knutsbovägen,2085,,60.126665,15.194938
 901008,Axvägen,,Gärdet 1,Axvägen 1,2085,,60.130086,15.18338
+901009,Magnetbacken/Grottvägen,,Ludvika 4:26,Magnetbacken/Grottvägen,2085,,60.140715,15.181453
 901010,Nyhammar torget,,Saxhyttan 4:13,Nyhammar torget,2085,,60.292535,14.970589
 901011,Saxdalen Oxbrovägen,,Rävvåla 10:9,Oxbrovägen ,2085,,60.145216,14.985847
 901012,Elljusspåret Högberget,,Ludvika 6:1,Högbergsgatan,2085,,60.137726,15.198124

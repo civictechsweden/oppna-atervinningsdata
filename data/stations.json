@@ -4876,7 +4876,7 @@
         "id": "585194",
         "name": "Återvinningsstation 10108",
         "secondaryName": null,
-        "propertyNumber": "DUNGEN 26",
+        "propertyNumber": "DUNGEN 22",
         "streetAddress": "Essinge Kyrkväg 9",
         "municipalityCode": "0180",
         "extraInfo": null,
@@ -5228,7 +5228,7 @@
         "id": "585247",
         "name": "Återvinningsstation 15877",
         "secondaryName": null,
-        "propertyNumber": "VASASTADEN 1:116",
+        "propertyNumber": "GETEN 21",
         "streetAddress": "Frejgatan 31",
         "municipalityCode": "0180",
         "extraInfo": null,
@@ -5756,7 +5756,7 @@
         "id": "585308",
         "name": "Återvinningsstation 15009",
         "secondaryName": null,
-        "propertyNumber": "ÅNGPANNAN 20",
+        "propertyNumber": "FABRIKEN 29",
         "streetAddress": "Folkskolegatan 16",
         "municipalityCode": "0180",
         "extraInfo": null,
@@ -29546,6 +29546,17 @@
         "longitude": 11.94778
     },
     {
+        "id": "248708",
+        "name": "ÅVS 7800 Lagerströmsplatsen 4  ",
+        "secondaryName": "",
+        "propertyNumber": "GÅRDA 744:559",
+        "streetAddress": "Lagerströmsplatsen 4  ",
+        "municipalityCode": "1480",
+        "extraInfo": "",
+        "latitude": 57.71167,
+        "longitude": 11.99833
+    },
+    {
         "id": "248709",
         "name": "ÅVS 7802 Storkgatan 1  ",
         "secondaryName": "",
@@ -43437,6 +43448,17 @@
         "extraInfo": "",
         "latitude": 60.130086,
         "longitude": 15.18338
+    },
+    {
+        "id": "901009",
+        "name": "Magnetbacken/Grottvägen",
+        "secondaryName": "",
+        "propertyNumber": "Ludvika 4:26",
+        "streetAddress": "Magnetbacken/Grottvägen",
+        "municipalityCode": "2085",
+        "extraInfo": "",
+        "latitude": 60.140715,
+        "longitude": 15.181453
     },
     {
         "id": "901010",
