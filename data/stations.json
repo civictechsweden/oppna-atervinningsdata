@@ -7095,17 +7095,6 @@
         "longitude": 18.1348664680023
     },
     {
-        "id": "15275",
-        "name": "Jarlaberg  Gamla Tempobutiken",
-        "secondaryName": null,
-        "propertyNumber": "SICKLAÖN 367:5",
-        "streetAddress": "Jarlabergsvägen vid vändplan/parkeringen",
-        "municipalityCode": "0182",
-        "extraInfo": null,
-        "latitude": 59.3149269913973,
-        "longitude": 18.1679283888099
-    },
-    {
         "id": "15374",
         "name": "Rensättravägen",
         "secondaryName": null,
@@ -10773,11 +10762,11 @@
         "name": "SJÖSA",
         "secondaryName": null,
         "propertyNumber": "VALSTA 3:4",
-        "streetAddress": "SMARAGDVÄGEN",
+        "streetAddress": "Sjösa Industriområde 1",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7830599924077,
-        "longitude": 17.099719965411
+        "latitude": 58.7828326225762,
+        "longitude": 17.1001956829761
     },
     {
         "id": "9477",
