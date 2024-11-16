@@ -698,7 +698,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 16168,"Carl Malmstens väg 10, mittemot",,Bergshamra 3:1,Carl Malmstens väg 10,0184,,59.37901,18.03014
 16169,Johan Enbergs väg; vid nr 19/vändzonen,,Huvudsta 4:18,Johan Enbergs väg,0184,,59.34523,18.00012
 16170,Råsundavägen/Hasselparken,,Råsunda 3:1,Råsundavägen 138,0184,,59.36711,17.98601
-16171,Bagartorpsringen; gångväg vid nr 2,,Järva 2:10,Bagartorpsringen 2,0184,,59.37744,18.00037
 16254,Parkering Kristinelundsvägen,,Huvudsta 3:1,Kristinelundsvägen/Armégatan,0184,,59.3494,17.99021
 16351,Odlingsvägen/ICA Bergshamra,,Strået 1,Odlingsvägen 4,0184,,59.37908,18.03772
 16352,Lövgatan/Bokvägen,,Råsunda 3:1,Lövgatan vid nr 37-39,0184,,59.36305,17.98291
@@ -4455,14 +4454,15 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 919311,Vulken,,Åsele 2:194,Adamsgatan,2463,,64.162547,17.346102
 919312,Dagiset,,Åsele 2:194,Fågelstigen /hedvägen,2463,,64.158759,17.343528
 919313,Vasagatan,,Älgen 10,Vasagatan 17,2463,,64.160639,17.352003
+919314,Ripan,,Ripan,storgatan 28,2463,,64.161189,17.349505
 919321,Svängen,,Enen 19,Svängvägen 5,2463,,64.157675,17.360586
 919322,Fisken,,Åsele 2:194,fiskaregatan 11,2463,,64.162862,17.361058
 919323,Åkarn,,Åsele 2:177,Vilhelminavägen/ åkarvägen,2463,,64.169641,17.369169
-919911,Lomsjö,,,,2463,,64.204707,16.966045
-919912,Gafsele,,,,2463,,64.004689,17.273181
-919921,Överrissjö,,,,2463,,64.057502,17.6429605
+919911,Lomsjö,,ej färdig,nagerst,2463,,64.204707,16.966045
+919912,Gafsele,,Igång,Östra gafsele 94,2463,,64.004689,17.273181
+919921,Överrissjö,,ej färdig snart klar,Överrissjö 6,2463,,64.057502,17.6429605
 919922,Lillögda,,,,2463,,64.485783,18.276359
-919923,Älgsjö,,,,2463,,64.201599,17.506847
+919923,Älgsjö,,ej färdig snart klar,Älgsjö 51,2463,,64.201599,17.506847
 919931,Fredrika,,Viska 1:138,Umevägen 29,2463,,64.073858,18.414599
 4415892,ÅVS Botsmark ,12451,BOTSMARK 1:26,Åvs Botsmark Byagårdsvägen ,2480,,64.25389,20.24444
 4415901,ÅVS Ålidhem Biologigränd,10954,LICENTIATEN 1,Åvs Ålidhem Biologigränd 18 ,2480,,63.80806,20.31028
