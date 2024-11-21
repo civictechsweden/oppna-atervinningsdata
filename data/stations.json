@@ -10396,7 +10396,7 @@
     },
     {
         "id": "12543",
-        "name": "ÅLBERGA",
+        "name": "ÅVC ÅLBERGA",
         "secondaryName": null,
         "propertyNumber": "VIRBY 1:48",
         "streetAddress": "ÅLBERGAVÄGEN",
@@ -12395,6 +12395,17 @@
         "extraInfo": "Samtliga förpackningsslag samt tidningar och batterier",
         "latitude": 58.70639,
         "longitude": 15.76611
+    },
+    {
+        "id": "100471",
+        "name": "ÅVS Vallastaden",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Paradisgatan",
+        "municipalityCode": "0580",
+        "extraInfo": null,
+        "latitude": 58.3924987388412,
+        "longitude": 15.5882023523693
     },
     {
         "id": "12039",
@@ -47199,6 +47210,28 @@
         "extraInfo": null,
         "latitude": 63.6766175017659,
         "longitude": 15.394579247743
+    },
+    {
+        "id": "115160",
+        "name": "Alanäs",
+        "secondaryName": null,
+        "propertyNumber": "ALANÄSET 2:1",
+        "streetAddress": "Alanäs",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.1566206573875,
+        "longitude": 15.6767330163247
+    },
+    {
+        "id": "115161",
+        "name": "Ringvattnet",
+        "secondaryName": null,
+        "propertyNumber": "RINGVATTNET 1:61",
+        "streetAddress": "Ringvattnet",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.1785202416696,
+        "longitude": 15.4236059991928
     },
     {
         "id": "11605",
