@@ -2938,7 +2938,7 @@
     },
     {
         "id": "95731",
-        "name": "7954 Vid tunnelnmynning",
+        "name": "7954 Vid tunnelmynning",
         "secondaryName": null,
         "propertyNumber": "ARBOTTNA 1:2",
         "streetAddress": "Muskö Guldboda",
@@ -10578,8 +10578,8 @@
         "streetAddress": "WALKERS VÄG 11",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.9291698879765,
-        "longitude": 17.1011100222078
+        "latitude": 58.9293941266637,
+        "longitude": 17.101441919902
     },
     {
         "id": "9450",
@@ -10597,11 +10597,11 @@
         "name": "BRYNGELSTORP",
         "secondaryName": null,
         "propertyNumber": "HUMLAN 7",
-        "streetAddress": "TRILLINGSBERGSVÄGEN 1",
+        "streetAddress": "Trillingsbergsvägen 2",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7536099820373,
-        "longitude": 17.0527798762426
+        "latitude": 58.7538438306786,
+        "longitude": 17.0521972404581
     },
     {
         "id": "9453",
@@ -13990,17 +13990,6 @@
         "extraInfo": null,
         "latitude": 57.53889,
         "longitude": 14.14333
-    },
-    {
-        "id": "5956",
-        "name": "Bondstorp, 150 norr om Skolan",
-        "secondaryName": null,
-        "propertyNumber": "5956",
-        "streetAddress": "Bondstorp",
-        "municipalityCode": "0665",
-        "extraInfo": null,
-        "latitude": 57.59083,
-        "longitude": 13.92694
     },
     {
         "id": "5957",
@@ -47232,6 +47221,17 @@
         "extraInfo": null,
         "latitude": 64.1785202416696,
         "longitude": 15.4236059991928
+    },
+    {
+        "id": "115162",
+        "name": "Hallviken",
+        "secondaryName": null,
+        "propertyNumber": "HAMMERDALS-SVEDJE 1:1",
+        "streetAddress": "Hallviken",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.7269824298396,
+        "longitude": 15.4780629794141
     },
     {
         "id": "11605",
