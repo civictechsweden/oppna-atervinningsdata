@@ -13992,6 +13992,17 @@
         "longitude": 14.14333
     },
     {
+        "id": "5956",
+        "name": "Bondstorp, 150 norr om Skolan",
+        "secondaryName": null,
+        "propertyNumber": "5956",
+        "streetAddress": "Bondstorp",
+        "municipalityCode": "0665",
+        "extraInfo": null,
+        "latitude": 57.59083,
+        "longitude": 13.92694
+    },
+    {
         "id": "5957",
         "name": "Hok, Alstervägen",
         "secondaryName": null,
@@ -47232,6 +47243,17 @@
         "extraInfo": null,
         "latitude": 63.7269824298396,
         "longitude": 15.4780629794141
+    },
+    {
+        "id": "115163",
+        "name": null,
+        "secondaryName": null,
+        "propertyNumber": "TULLINGSÅS 7:15",
+        "streetAddress": "Tullingsås 210",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.8240097314726,
+        "longitude": 15.5134201156742
     },
     {
         "id": "11605",
