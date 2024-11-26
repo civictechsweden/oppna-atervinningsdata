@@ -187,7 +187,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 95935,16032 ÅVC Fittja,,FITTJA 17:1,Hallundavägen 4,0127,,59.2514427381663,17.8575484560329
 96424,15839  Grusplan/parkering,,TUMBA 8:535,Kolonistigen/harbrovägen,0127,,59.1948088007942,17.8545657505231
 96753,7280  Hallunda,,KORNET 2,Kornvägen,0127,,59.2471172437188,17.829347337207
-96759,7317  Tullinge,,TULLINGE 21:44,Smedvägen/pålamalmsvägen,0127,,59.2020342784669,17.9248247127879
+96759,7317  Tullinge,,TULLINGE 21:44,Smedvägen/Pålamalmsvägen,0127,,59.2020342784669,17.9248247127879
 96762,7263 P-Plats Vändplan Alby,,NÄMNDEMANNEN 1,Nämndemannavägen,0127,,59.2427699715028,17.8568047296466
 96763,ÅVS 7268  Vändplan,,ALBY 15:32,Kvarnhagsvägen/ enskiftesvägen,0127,,59.2322598339671,17.8648327180858
 96765,7310  Vändplan,,TULLINGE 19:282,Solskensvägen 19,0127,,59.2102610243718,17.9094072585416
@@ -3713,7 +3713,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 988309,"ÅVS 4335 Saladamm, SJ lastkaj",,Sala Åby 3:40,Saladamm SJ Lastkaj,1981,,59.9815486431244,16.6380783143401
 988310,"ÅVS 4336 Salbohed, affären",,Salbohed Sörsalbo 4:5,Salbohed Affären/Kopparbergsvägen,1981,,59.9099493467605,16.3472302936101
 988311,"ÅVS 4337 Sätrabrunn, Kvarnbacken",,Sala Sätra 1:69,"Sätrabrunn, Kvarnbacken",1981,,59.864036490883,16.4332942800723
-988312,"ÅVS 4340 Väster Färnebo, Björkgården",,Västerfärnebo Färnebo Prästgård 2:1,Björkgården Västerfärnebo Norbergsvägen 16,1981,,59.9469387844376,16.2779233068514
+988312,"ÅVS 4340 Väster Färnebo, Björkgården",,Västerfärnebo Färnebo Prästgård 2:1,Björkgården Västerfärnebo Norbergsvägen 13,1981,,59.9469387844376,16.2779233068514
 988257,ÅVS 15575 Återbruket Sänkmossen,,Fagersta Sundbo 7:13,Sänkmossevägen,1982,,59.9931035377142,15.855939707398
 988288,ÅVS 17432 Fagersta station,,Fagersta Knutsbo 1,Centralvägen 17,1982,,59.9904708502867,15.817690309213
 988337,"ÅVS 751 ICA Centrum, p-plats",,Fagersta Värmaren 6,Järntorget 1,1982,,60.0055274933439,15.7905472270343
