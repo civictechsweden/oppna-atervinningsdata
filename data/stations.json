@@ -1144,39 +1144,6 @@
         "longitude": 17.7992503735
     },
     {
-        "id": "2",
-        "name": "Teknikvägen",
-        "secondaryName": "",
-        "propertyNumber": "KALLHÄLL 9:1",
-        "streetAddress": "Teknikvägen 1",
-        "municipalityCode": "0123",
-        "extraInfo": "",
-        "latitude": 59.464552,
-        "longitude": 17.807226
-    },
-    {
-        "id": "3",
-        "name": "Turbingränd",
-        "secondaryName": "",
-        "propertyNumber": "KALLHÄLL9:10",
-        "streetAddress": "Turbingränd 4",
-        "municipalityCode": "0123",
-        "extraInfo": "",
-        "latitude": 59.461575,
-        "longitude": 17.805226
-    },
-    {
-        "id": "4",
-        "name": "Svetsarvägen",
-        "secondaryName": "",
-        "propertyNumber": "KALLHÄLL 7:5",
-        "streetAddress": "Svetsarvägen 13",
-        "municipalityCode": "0123",
-        "extraInfo": "",
-        "latitude": 59.460228,
-        "longitude": 17.805654
-    },
-    {
         "id": "5",
         "name": "Ponnyvägen",
         "secondaryName": "",
