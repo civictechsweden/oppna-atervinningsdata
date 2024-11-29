@@ -8437,6 +8437,17 @@
         "longitude": 18.9590772589709
     },
     {
+        "id": "9166114097",
+        "name": "Görla ÅVC",
+        "secondaryName": null,
+        "propertyNumber": "ÅVS fastighet",
+        "streetAddress": "Sikvägen 6",
+        "municipalityCode": "0188",
+        "extraInfo": null,
+        "latitude": 59.7658296847021,
+        "longitude": 18.6941766058133
+    },
+    {
         "id": "9378",
         "name": "ICA Nära Bergshamra",
         "secondaryName": null,
@@ -11862,7 +11873,7 @@
         "name": "ÅVS Backasands Köpcentrum",
         "secondaryName": null,
         "propertyNumber": ".",
-        "streetAddress": "Lievägen 9",
+        "streetAddress": "Slåttervägen 4",
         "municipalityCode": "0509",
         "extraInfo": null,
         "latitude": 58.2330584054173,
@@ -39813,7 +39824,7 @@
         "name": "ÅVS 15579 Återbruket Trångfors",
         "secondaryName": null,
         "propertyNumber": "Hallstahammar Svedvi Häradsallmänning 1:5",
-        "streetAddress": "Riksväg 252",
+        "streetAddress": "Hammarleden 32",
         "municipalityCode": "1961",
         "extraInfo": null,
         "latitude": 59.6313919257311,
@@ -40822,7 +40833,7 @@
     },
     {
         "id": "988312",
-        "name": "ÅVS 4340 Väster Färnebo, Björkgården",
+        "name": "ÅVS 4340 Västerfärnebo, Björkgården",
         "secondaryName": null,
         "propertyNumber": "Västerfärnebo Färnebo Prästgård 2:1",
         "streetAddress": "Björkgården Västerfärnebo Norbergsvägen 13",
@@ -45716,6 +45727,215 @@
         "longitude": 16.4506208889866
     },
     {
+        "id": "24381",
+        "name": "Mällbyvägen",
+        "secondaryName": null,
+        "propertyNumber": "Björsta 8:78",
+        "streetAddress": "Mällbyvägen-Östbygatan",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.932471295991,
+        "longitude": 17.757060814337
+    },
+    {
+        "id": "24382",
+        "name": "Viktoriagatan",
+        "secondaryName": null,
+        "propertyNumber": "Björsta 8:9",
+        "streetAddress": "Björstagatan-Viktoriagatan",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9296126077777,
+        "longitude": 17.7752313974798
+    },
+    {
+        "id": "24383",
+        "name": "Ådalshallen",
+        "secondaryName": null,
+        "propertyNumber": "Gymnasiet 1",
+        "streetAddress": "Sporthallsgatan",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9307765954325,
+        "longitude": 17.7841625967224
+    },
+    {
+        "id": "24384",
+        "name": "Brunnevägen",
+        "secondaryName": null,
+        "propertyNumber": "Limsta 18:326",
+        "streetAddress": "Brunnevägen-Timmergatan",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9370352564982,
+        "longitude": 17.8023162114178
+    },
+    {
+        "id": "24385",
+        "name": "Bollstabruk",
+        "secondaryName": null,
+        "propertyNumber": "Bollsta 6:15",
+        "streetAddress": "Stationsvägen",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9981101027339,
+        "longitude": 17.6766430812553
+    },
+    {
+        "id": "24386",
+        "name": "Frånö",
+        "secondaryName": null,
+        "propertyNumber": "Frånö 8:75",
+        "streetAddress": "Frånövägen-Björknäsvägen",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9044494791508,
+        "longitude": 17.8353755821988
+    },
+    {
+        "id": "24387",
+        "name": "Docksta",
+        "secondaryName": null,
+        "propertyNumber": "Docksta 5:124",
+        "streetAddress": "Dockstavägen 30",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 63.0546446583987,
+        "longitude": 18.3290199474906
+    },
+    {
+        "id": "24388",
+        "name": "Sandöverken",
+        "secondaryName": null,
+        "propertyNumber": "Nora-Klocke 2:48",
+        "streetAddress": "Verdandi-Liavägen 10",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.8810384616609,
+        "longitude": 17.907837933824
+    },
+    {
+        "id": "24389",
+        "name": "Lunde",
+        "secondaryName": null,
+        "propertyNumber": "Lunde 2:3",
+        "streetAddress": "Bussplan-Tullgatan",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.8804568397598,
+        "longitude": 17.8702714061935
+    },
+    {
+        "id": "24390",
+        "name": "Lugnvik",
+        "secondaryName": null,
+        "propertyNumber": "Lugnvik 29:1",
+        "streetAddress": "Hallstavägen",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9285169706264,
+        "longitude": 17.9080161281193
+    },
+    {
+        "id": "24391",
+        "name": "Mjällom",
+        "secondaryName": null,
+        "propertyNumber": "Nordingrå-Mjällom 1:19",
+        "streetAddress": "Petsamovägen-Södervägen",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9854512065764,
+        "longitude": 18.4313332625304
+    },
+    {
+        "id": "24392",
+        "name": "Noraström",
+        "secondaryName": null,
+        "propertyNumber": "Nora Prästbord 1:2",
+        "streetAddress": "Prästbordet 201",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.8727328226786,
+        "longitude": 18.0872970590949
+    },
+    {
+        "id": "24393",
+        "name": "Nordingrå",
+        "secondaryName": null,
+        "propertyNumber": "Nordingrå Prästbord 1:140",
+        "streetAddress": "Kyrkåkersvägen",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9275169564237,
+        "longitude": 18.2941678773997
+    },
+    {
+        "id": "24394",
+        "name": "Nyland",
+        "secondaryName": null,
+        "propertyNumber": "Nyland 5:19",
+        "streetAddress": "Borgargatan-Viaduktsgatan",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 63.006563926926,
+        "longitude": 17.7607969356363
+    },
+    {
+        "id": "24395",
+        "name": "Sandslån",
+        "secondaryName": null,
+        "propertyNumber": "Kungsgården 4:3",
+        "streetAddress": "Dannero travbana",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 63.0229671492471,
+        "longitude": 17.8065239080275
+    },
+    {
+        "id": "24396",
+        "name": "Ullånger",
+        "secondaryName": null,
+        "propertyNumber": "Ullångers-Utvik 2:31",
+        "streetAddress": "Centrumvägen-Stationsgatan",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 63.0127182236894,
+        "longitude": 18.1905963769763
+    },
+    {
+        "id": "24397",
+        "name": "Väja",
+        "secondaryName": null,
+        "propertyNumber": "Dynäs 21:3",
+        "streetAddress": "Dysjövägen-Sportvägen",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9723104624612,
+        "longitude": 17.7071978018143
+    },
+    {
+        "id": "24400",
+        "name": "ÅVC Höga Kusten",
+        "secondaryName": null,
+        "propertyNumber": "Ullånger-Utvik 4::51",
+        "streetAddress": "Rödviken 102",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 63.0003358329623,
+        "longitude": 18.2164337418849
+    },
+    {
+        "id": "24401",
+        "name": "Högberget",
+        "secondaryName": null,
+        "propertyNumber": "Dynäs 17:4",
+        "streetAddress": "Högbergsvägen 10",
+        "municipalityCode": "2282",
+        "extraInfo": null,
+        "latitude": 62.9567692592019,
+        "longitude": 17.7207414790126
+    },
+    {
         "id": "223204",
         "name": "Edsele affären ÅVS",
         "secondaryName": null,
@@ -46933,8 +47153,8 @@
         "streetAddress": "Brogatan 22",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 64.4988107800246,
-        "longitude": 14.1410677754056
+        "latitude": 64.5028940726108,
+        "longitude": 14.1411606539933
     },
     {
         "id": "115073",
