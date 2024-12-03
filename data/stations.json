@@ -2905,7 +2905,7 @@
     },
     {
         "id": "95731",
-        "name": "7954 Vid tunnelmynning",
+        "name": "ÅVS 7954 Vid tunnelmynning stänger under v 1 2025",
         "secondaryName": null,
         "propertyNumber": "ARBOTTNA 1:2",
         "streetAddress": "Muskö Guldboda",
@@ -6926,8 +6926,8 @@
         "streetAddress": "Trollsjövägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.1483973964982,
-        "longitude": 17.6550819332983
+        "latitude": 59.1479564382642,
+        "longitude": 17.6554022459687
     },
     {
         "id": "12205",
@@ -41283,6 +41283,17 @@
         "longitude": 12.9661054308392
     },
     {
+        "id": "208006",
+        "name": "Salbäcksvägen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Salbäcksvägen",
+        "municipalityCode": "2023",
+        "extraInfo": "",
+        "latitude": 61.1830440140433,
+        "longitude": 12.9470958557593
+    },
+    {
         "id": "208009",
         "name": "Fjällgläntan",
         "secondaryName": "",
@@ -41644,6 +41655,17 @@
         "extraInfo": "",
         "latitude": 61.1629090988089,
         "longitude": 13.1887264342664
+    },
+    {
+        "id": "214602",
+        "name": "Lämmelstigen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Lämmelstigen",
+        "municipalityCode": "2023",
+        "extraInfo": "",
+        "latitude": 61.1925597699292,
+        "longitude": 12.971101263639
     },
     {
         "id": "15405",
@@ -46168,7 +46190,7 @@
     },
     {
         "id": "4430017",
-        "name": "Droskgränd",
+        "name": "Sund, Korsningen Droskgränd/Sundsvägen",
         "secondaryName": null,
         "propertyNumber": "SUND 1:33",
         "streetAddress": "Droskgränd",
@@ -46377,7 +46399,7 @@
     },
     {
         "id": "4430040",
-        "name": "Hörneborgsvägen",
+        "name": "Hörnett, Bredvid ST1",
         "secondaryName": null,
         "propertyNumber": "HÖRNETT 47:1",
         "streetAddress": "Hörneborgsvägen",
@@ -46388,7 +46410,7 @@
     },
     {
         "id": "4430041",
-        "name": "Karlslundsvägen",
+        "name": "Själevad, Coop P-plats",
         "secondaryName": null,
         "propertyNumber": "ÖVERSJÄLA 14:4",
         "streetAddress": "Karlslundsvägen",
@@ -46476,7 +46498,7 @@
     },
     {
         "id": "4430051",
-        "name": "Ångermanlandsgatan",
+        "name": "Örnsköldsvik, Mellan Ångermanlandsgatan 10 och 12",
         "secondaryName": null,
         "propertyNumber": "RENEN 1",
         "streetAddress": "Ångermanlandsgatan",
