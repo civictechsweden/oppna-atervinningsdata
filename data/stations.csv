@@ -656,6 +656,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 17602,Sickla köpkvarter Planiavägen,,SICKLAÖN 117:17,Planiavägen 5,0182,,59.3056412832999,18.1337050935963
 17661,Blåklockansväg,,LÄNNERSTA 10:1,Blåklockans väg 2,0182,,59.3103196441387,18.2605482628312
 17694,Boo Gårdsskola ,,BO 1:70,Boovägen 7,0182,,59.3089998819836,18.2849568031488
+19001,,,VELAMSUND 14:1,Åbroddsvägen 2 A,0182,,59.3505548114911,18.2905472224588
 9171,Mensättrav/Värmdöv,,MENSÄTTRA 1:1,Mensättravägen/Värmövägen,0182,,59.329295388703,18.2821421116365
 9173,Björknäs skola,,BJÖRKNÄS 1:315,Björknäs skolväg,0182,,59.3128286705604,18.2398521175526
 9176,"ICA, Henriksdalsberget",,SICKLAÖN 37:11,Henriksdalsringen mittemot 1 -3,0182,,59.3113730728406,18.118014802913
@@ -2684,7 +2685,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 248707,ÅVS 7797 Vegagatan 19  ,,OLIVEDAL 6:37,Vegagatan 19  ,1480,,57.6925,11.94778
 248708,ÅVS 7800 Lagerströmsplatsen 4  ,,GÅRDA 744:559,Lagerströmsplatsen 4  ,1480,,57.71167,11.99833
 248709,ÅVS 7802 Storkgatan 1  ,,OLSKROKEN 743:62,Storkgatan 1  ,1480,,57.72111,12.00444
-248710,ÅVS 7803 Övre Olskroksgatan 14  ,,OLSKROKEN 743:62,Övre Olskroksgatan 14  ,1480,,57.71889,12.00194
 248711,ÅVS 7804 Idtjärnsgatan   ,,ANGERED S:95,Idtjärnsgatan   ,1480,,57.80583,12.065
 248712,ÅVS 7805 Fjällblomman   ,,ANGERED 34:1,Fjällblomman   ,1480,,57.80333,12.06944
 248713,ÅVS 7809 Fjällnejlikan   ,,ANGERED 82:2,Fjällnejlikan   ,1480,,57.79944,12.07139

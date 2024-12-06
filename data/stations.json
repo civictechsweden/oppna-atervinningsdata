@@ -7227,6 +7227,17 @@
         "longitude": 18.2849568031488
     },
     {
+        "id": "19001",
+        "name": null,
+        "secondaryName": null,
+        "propertyNumber": "VELAMSUND 14:1",
+        "streetAddress": "Åbroddsvägen 2 A",
+        "municipalityCode": "0182",
+        "extraInfo": null,
+        "latitude": 59.3505548114911,
+        "longitude": 18.2905472224588
+    },
+    {
         "id": "9171",
         "name": "Mensättrav/Värmdöv",
         "secondaryName": null,
@@ -29533,17 +29544,6 @@
         "extraInfo": "",
         "latitude": 57.72111,
         "longitude": 12.00444
-    },
-    {
-        "id": "248710",
-        "name": "ÅVS 7803 Övre Olskroksgatan 14  ",
-        "secondaryName": "",
-        "propertyNumber": "OLSKROKEN 743:62",
-        "streetAddress": "Övre Olskroksgatan 14  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.71889,
-        "longitude": 12.00194
     },
     {
         "id": "248711",
