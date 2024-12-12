@@ -24750,17 +24750,6 @@
         "longitude": 12.0795153977863
     },
     {
-        "id": "202415713",
-        "name": "SNIPEN PENDELPARKERING",
-        "secondaryName": null,
-        "propertyNumber": "SPÅRHAGA 1:5",
-        "streetAddress": "LINDOMEVÄGEN",
-        "municipalityCode": "1384",
-        "extraInfo": null,
-        "latitude": 57.5620165196644,
-        "longitude": 11.9495107821297
-    },
-    {
         "id": "202415737",
         "name": "LINDÄLVSGYMNASIET",
         "secondaryName": null,
@@ -52820,60 +52809,5 @@
         "extraInfo": "",
         "latitude": 68.08556,
         "longitude": 21.70694
-    },
-    {
-        "id": "00011737",
-        "name": "Dublettest jag har nu ändrat namn åter igen!!",
-        "secondaryName": null,
-        "propertyNumber": "Villastaden 1:2",
-        "streetAddress": "Nyckelbergsgatan 1",
-        "municipalityCode": "9999",
-        "extraInfo": null,
-        "latitude": 57.716774,
-        "longitude": 12.947276
-    },
-    {
-        "id": "000117379999",
-        "name": "Annat ID 3",
-        "secondaryName": null,
-        "propertyNumber": "Villastaden 1:2",
-        "streetAddress": "Nyckelbergsgatan 1",
-        "municipalityCode": "9999",
-        "extraInfo": null,
-        "latitude": 57.716774,
-        "longitude": 12.947276
-    },
-    {
-        "id": "1111111111",
-        "name": "Är det löst nu!?!",
-        "secondaryName": null,
-        "propertyNumber": "Villastaden 1:22",
-        "streetAddress": "Nyckelbergsgatan 1",
-        "municipalityCode": "9999",
-        "extraInfo": null,
-        "latitude": 57.716774,
-        "longitude": 12.947276
-    },
-    {
-        "id": "1234567890153",
-        "name": "Annelundsparken",
-        "secondaryName": null,
-        "propertyNumber": "Villastaden 1:2",
-        "streetAddress": "Nyckelbergsgatan 1!",
-        "municipalityCode": "9999",
-        "extraInfo": null,
-        "latitude": 57.716774,
-        "longitude": 12.947276
-    },
-    {
-        "id": "99999999999",
-        "name": "Kraschar och brinner!!!",
-        "secondaryName": null,
-        "propertyNumber": "Villastaden 1:22",
-        "streetAddress": "Nyckelbergsgatan 1",
-        "municipalityCode": "9999",
-        "extraInfo": null,
-        "latitude": 57.716774,
-        "longitude": 12.947276
     }
 ]
