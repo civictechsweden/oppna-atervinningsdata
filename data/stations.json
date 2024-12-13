@@ -5052,7 +5052,7 @@
         "id": "585226",
         "name": "Återvinningsstation 16482",
         "secondaryName": null,
-        "propertyNumber": "KUNGSHOLMEN 2:2",
+        "propertyNumber": "MUNKLÄGRET 14",
         "streetAddress": "Norr Mälarstrand 20",
         "municipalityCode": "0180",
         "extraInfo": null,
@@ -24748,6 +24748,17 @@
         "extraInfo": null,
         "latitude": 57.4785325810102,
         "longitude": 12.0795153977863
+    },
+    {
+        "id": "202415713",
+        "name": "SNIPEN PENDELPARKERING",
+        "secondaryName": null,
+        "propertyNumber": "SPÅRHAGA 1:5",
+        "streetAddress": "LINDOMEVÄGEN",
+        "municipalityCode": "1384",
+        "extraInfo": null,
+        "latitude": 57.5620165196644,
+        "longitude": 11.9495107821297
     },
     {
         "id": "202415737",
