@@ -3161,7 +3161,7 @@
         "name": "ÅVS Krusbodavägen/Lummergången Tyresö",
         "secondaryName": null,
         "propertyNumber": "Kumla 3:1264",
-        "streetAddress": "Bollmorav/Lindalsv Sortering ljuskällor",
+        "streetAddress": "Bollmorav/Lindalsv",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.2421899250849,
@@ -40538,7 +40538,7 @@
         "id": "988312",
         "name": "ÅVS 4340 Västerfärnebo, Björkgården",
         "secondaryName": null,
-        "propertyNumber": "Västerfärnebo Färnebo Prästgård 2:1",
+        "propertyNumber": "Sala Västerfärnebo Färnebo Prästgård 2:1",
         "streetAddress": "Björkgården Västerfärnebo Norbergsvägen 13",
         "municipalityCode": "1981",
         "extraInfo": null,
@@ -43965,6 +43965,17 @@
         "extraInfo": "",
         "latitude": 61.84056,
         "longitude": 16.10583
+    },
+    {
+        "id": "6019798",
+        "name": "Återvinningsstation Hybo",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Jon-Orsvägen",
+        "municipalityCode": "2161",
+        "extraInfo": "",
+        "latitude": 61.79766,
+        "longitude": 16.19938
     },
     {
         "id": "10615",

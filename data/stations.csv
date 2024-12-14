@@ -286,7 +286,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 10880,ÅVS Mellanbergsvägen/Njupkärrsvägen Tyresö,,Näsby 4:1469,Mellanbergsvägen/Njupkärrsvägen,0138,,59.2385972820112,18.2207014618343
 10883,ÅVS Vendelsövägen Tyresö,,Kumla 69:44,Vendelsövägen 17,0138,,59.2291800630121,18.1987989800288
 10885,ÅVS Tegvägen/Gudobroleden,,Näsby 50:1,Tegv/Gudöbroleden Sortering ljuskällor,0138,,59.2136451662725,18.2077950064769
-10888,ÅVS Krusbodavägen/Lummergången Tyresö,,Kumla 3:1264,Bollmorav/Lindalsv Sortering ljuskällor,0138,,59.2421899250849,18.1971224888894
+10888,ÅVS Krusbodavägen/Lummergången Tyresö,,Kumla 3:1264,Bollmorav/Lindalsv,0138,,59.2421899250849,18.1971224888894
 10890,ÅVS Breviksvägen/Tegelbruksvägen Tyresö,,Trinntorp 1:1,Breviksv/Tegelbruksv Sortering ljusk.,0138,,59.22762157463,18.3536190904265
 12220,ÅVS Öringe Strandväg Tyresö,,Gimmersta 1:1,Öringe Strandv Sortering ljuskällor,0138,,59.2480414602652,18.2593000969367
 15569,ÅVS Strömfallsvägen 73 Tyresö,,Strömfallet 9,Strömfallsvägen 73,0138,,59.245661019231,18.2509581968353
@@ -3684,7 +3684,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 988309,"ÅVS 4335 Saladamm, SJ lastkaj",,Sala Åby 3:40,Saladamm SJ Lastkaj,1981,,59.9815486431244,16.6380783143401
 988310,"ÅVS 4336 Salbohed, affären",,Salbohed Sörsalbo 4:5,Salbohed Affären/Kopparbergsvägen,1981,,59.9099493467605,16.3472302936101
 988311,"ÅVS 4337 Sätrabrunn, Kvarnbacken",,Sala Sätra 1:69,"Sätrabrunn, Kvarnbacken",1981,,59.864036490883,16.4332942800723
-988312,"ÅVS 4340 Västerfärnebo, Björkgården",,Västerfärnebo Färnebo Prästgård 2:1,Björkgården Västerfärnebo Norbergsvägen 13,1981,,59.9469387844376,16.2779233068514
+988312,"ÅVS 4340 Västerfärnebo, Björkgården",,Sala Västerfärnebo Färnebo Prästgård 2:1,Björkgården Västerfärnebo Norbergsvägen 13,1981,,59.9469387844376,16.2779233068514
 988257,ÅVS 15575 Återbruket Sänkmossen,,Fagersta Sundbo 7:13,Sänkmossevägen,1982,,59.9931035377142,15.855939707398
 988288,ÅVS 17432 Fagersta station,,Fagersta Knutsbo 1,Centralvägen 17,1982,,59.9904708502867,15.817690309213
 988337,"ÅVS 751 ICA Centrum, p-plats",,Fagersta Värmaren 6,Järntorget 1,1982,,60.0055274933439,15.7905472270343
@@ -3996,6 +3996,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 6019249,Svenssons byggmaterial i Nor,,,Norvägen 160,2161,Töms Måndag,61.665,16.31639
 6019250,Ramsjö Affären,,,Sundsvägen 7 ,2161,Töms Onsdag ,62.18278,15.64889
 6019698,Ljusdal ÅVC,,,Åkerslundsvägen 41,2161,,61.84056,16.10583
+6019798,Återvinningsstation Hybo,,,Jon-Orsvägen,2161,,61.79766,16.19938
 10615,Tempo,,Stråtjära 1:50,Kyrkvägen 1,2182,,61.16639,16.84389
 10619,Variant köpcenter,,Myskje 6:4,Bäckforsvägen,2182,,61.27111,16.84194
 10620,Vallvik Torget,,Vallvik 1:69,Häggvägen,2182,,61.185,17.17778
