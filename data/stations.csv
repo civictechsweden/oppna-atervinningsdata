@@ -192,7 +192,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 96768,7348  Tumbavägen,,TUMBA 7:206,Sedelvägen,0127,,59.2022023820227,17.8262772003664
 96769,7324  Vändplan Vid Tumba Sjukhem,,TUMBA 7:206,Samaritvägen,0127,,59.2055673989552,17.8372078490543
 96773,7359  Dalvägen Vårsta,,VÅRSTA 1:168,Malmtorpsvägen,0127,,59.1701276388726,17.7983027555822
-96792,ÅVS 7274  Ica Maxi,,KUMLA GÅRD 1,Kumla gårdsväg 30,0127,,59.2374003189343,17.8324000146637
+96792,ÅVS 7274  Ica Maxi,,KUMLA GÅRD 1,Kumla gårdsväg 30,0127,,59.2365964317576,17.8297028665145
 96796,ÅVS 7291  Vid Närbutik,,ALBY 15:32,Alhagsvägen 95,0127,,59.2344990953997,17.8520794571355
 96798,ÅVS 7327  P-Plats Tumbav,,TUMBA 7:206,Nackdalavägen,0127,,59.2095993051296,17.8245409038014
 96799,7308  P-Plats Vid Nyängsv,,TULLINGE 19:276,"Tullinge centrum, östra",0127,,59.2064811660964,17.9052482915465
@@ -2954,7 +2954,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6058839,Aröd,148516,ARÖD 1:40,Vassbovägen 7,1485,,58.24,11.91639
 148801,ÅVS Nysätra IP Skoftebyn,,0,Nysätra Fotbollsplan,1488,,58.26474,12.26609
 148802,ÅVS Bergkullevägen,,0,Bergkullevägen 58,1488,,58.258,12.26396
-148803,ÅVS Åsaka Kryddlunds,,0,Slätternavägen 3,1488,,58.24549,12.42166
+148803,ÅVS Åsaka Kryddlunds,,0,Slätternavägen 3,1488,,58.2455,12.4217
 148804,ÅVS Velanda,,0,Velandavägen 4,1488,,58.232,12.30439
 148805,ÅVS Halvorstorp Kiosk,,0,Skogsvägen 1,1488,,58.28922,12.3405
 148806,ÅVS Hedeängsvägen,,0,Hedeängsvägen 61,1488,,58.2892,12.33604
@@ -3305,7 +3305,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 4025684,Kroppkärr,12704,SÖDRA KROPPKÄRR 1:1,Talluddsgatan/Östra Infarten ,1780,,59.4001118,13.5486633
 4025685,Sundsta; bakom Circle K,12712,SUNDSTA 2:1,Sävegatan/Drottning Kristinas Väg ,1780,,59.3934918,13.5145806
 4025686,Edsvalla,12713,HÖGLUNDA 1:322,Edsvallavägen/Dalsängsvägen ,1780,,59.4400239,13.2097286
-4025687,Farmtrade,12715,HAMMAR 1:136,Arnövägen ,1780,,59.3801951,13.849316
+4025687,ÅVS Väse,12715,HAMMAR 1:24,Storgatan 44,1780,,59.3801951,13.849316
 4025688,Skattkärr; Konsum,12717,BJÖRKNÄS 31:4,Skattkärrsvägen 34,1780,,59.4133478,13.6749157
 4025689,Skåre centrum; Ica Hallen,12718,ÖSTRA TORP 1:154,Centrumvägen 4,1780,,59.435477,13.4391083
 4025690,ÅVC Djupdalen,13734,BJÖRBY 1:75,Norra Järpetan 545,1780,,59.442348,13.5060292
@@ -4139,7 +4139,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 24385,Bollstabruk,,Bollsta 6:15,Stationsvägen,2282,,62.9981101027339,17.6766430812553
 24386,Frånö,,Frånö 8:75,Frånövägen-Björknäsvägen,2282,,62.9044494791508,17.8353755821988
 24387,Docksta,,Docksta 5:124,Dockstavägen 30,2282,,63.0546446583987,18.3290199474906
-24388,Sandöverken,,Nora-Klocke 2:48,Verdandi-Liavägen 10,2282,,62.8810384616609,17.907837933824
+24388,Verdandi,,Nora-Klocke 2:48,Verdandi-Liavägen 10,2282,,62.8810384616609,17.907837933824
 24389,Lunde,,Lunde 2:3,Bussplan-Tullgatan,2282,,62.8804568397598,17.8702714061935
 24390,Lugnvik,,Lugnvik 29:1,Hallstavägen,2282,,62.9285169706264,17.9080161281193
 24391,Mjällom,,Nordingrå-Mjällom 1:19,Petsamovägen-Södervägen,2282,,62.9854512065764,18.4313332625304
@@ -4199,7 +4199,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4430043,"Myckelgensjö, Korsningen väg 1035/984",,MYCKELGENSJÖ 5:17,Myckelgensjö,2284,,63.5783609047461,17.5939907155049
 4430045,"Myckling, Mittemot Mycklingskolan",,SJÄLEVADS-MYCKLING 1:47,Mycklingsvägen,2284,,63.3006827668731,18.6059347930761
 4430046,"Valhalla, Torsvägen",,ÖRNSKÖLDSVIK 6:1,Torsvägen,2284,,63.2991478260362,18.7268710520889
-4430047,"Centrum, Vegagatan/E4:an",,ÖRNSKÖLDSVIK 8:24,Vegagatan,2284,,63.2920594581503,18.7212354515156
+4430047,Vegagatan,,ÖRNSKÖLDSVIK 8:24,Vegagatan,2284,,63.2920594581503,18.7212354515156
 4430049,"Åsdalen, Vid vändplanen",,ÖRNSKÖLDSVIK 3:1,Västra Dalgatan,2284,,63.2942157772864,18.7002812564755
 4430050,"Husum, Isbanan",,DOMBÄCK 1:161,Wibergsvägen,2284,,63.3347180097447,19.1461947132429
 4430051,"Örnsköldsvik, Mellan Ångermanlandsgatan 10 och 12",,RENEN 1,Ångermanlandsgatan,2284,,63.2976746518179,18.717282183933
@@ -4472,7 +4472,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415907,ÅVS Tomtebo Coop,17238,FÄLTSPATEN 2,Åvs Tomtebo Mineralvägen 7 ,2480,,63.81111,20.33139
 4415908,ÅVS Holmsund Brandstationen,16853,HOLMSUND 4:1,Åvs Holmsund Brandstationen Stenhuggareg ,2480,,63.71556,20.36722
 4415909,ÅVS Tomtebo Tomtebovägen,16852,TOMTEBO 2:1,Åvs Tomtebo Tomtebovägen/Näckens Väg ,2480,,63.80361,20.35583
-4415911,ÅVS Marieberg,16369,STADSLIDEN 2:4,Åvs Marieberg Älgvägen 3 ,2480,,63.84444,20.32972
 4415912,ÅVS Innertavle,16107,INNERTAVLE 17:3,Åvs Innertavle Gamla Sågentomten ,2480,,63.81083,20.38972
 4415913,ÅVS Hörnefors Hantverkareg,15978,HÖRNEÅ 8:459,Åvs Hörnefors Hantverkaregatan ,2480,,63.63167,19.90778
 4415914,ÅVS Ersboda Stora Coop,15331,SINGELN 1,Åvs Ersboda Formvägen 4 ,2480,,63.85,20.30139

@@ -2130,8 +2130,8 @@
         "streetAddress": "Kumla gårdsväg 30",
         "municipalityCode": "0127",
         "extraInfo": null,
-        "latitude": 59.2374003189343,
-        "longitude": 17.8324000146637
+        "latitude": 59.2365964317576,
+        "longitude": 17.8297028665145
     },
     {
         "id": "96796",
@@ -32512,8 +32512,8 @@
         "streetAddress": "Slätternavägen 3",
         "municipalityCode": "1488",
         "extraInfo": null,
-        "latitude": 58.24549,
-        "longitude": 12.42166
+        "latitude": 58.2455,
+        "longitude": 12.4217
     },
     {
         "id": "148804",
@@ -36367,10 +36367,10 @@
     },
     {
         "id": "4025687",
-        "name": "Farmtrade",
+        "name": "ÅVS Väse",
         "secondaryName": "12715",
-        "propertyNumber": "HAMMAR 1:136",
-        "streetAddress": "Arnövägen ",
+        "propertyNumber": "HAMMAR 1:24",
+        "streetAddress": "Storgatan 44",
         "municipalityCode": "1780",
         "extraInfo": "",
         "latitude": 59.3801951,
@@ -45541,7 +45541,7 @@
     },
     {
         "id": "24388",
-        "name": "Sandöverken",
+        "name": "Verdandi",
         "secondaryName": null,
         "propertyNumber": "Nora-Klocke 2:48",
         "streetAddress": "Verdandi-Liavägen 10",
@@ -46201,7 +46201,7 @@
     },
     {
         "id": "4430047",
-        "name": "Centrum, Vegagatan/E4:an",
+        "name": "Vegagatan",
         "secondaryName": null,
         "propertyNumber": "ÖRNSKÖLDSVIK 8:24",
         "streetAddress": "Vegagatan",
@@ -49201,17 +49201,6 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
-    },
-    {
-        "id": "4415911",
-        "name": "ÅVS Marieberg",
-        "secondaryName": "16369",
-        "propertyNumber": "STADSLIDEN 2:4",
-        "streetAddress": "Åvs Marieberg Älgvägen 3 ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.84444,
-        "longitude": 20.32972
     },
     {
         "id": "4415912",
