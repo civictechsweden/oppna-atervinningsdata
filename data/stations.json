@@ -3070,7 +3070,7 @@
     },
     {
         "id": "10873",
-        "name": "ÅVS Krusbodavägen/Lummergången Tyresö",
+        "name": "ÅVS Fornuddsvägen/Fornuddsparken Tyresö",
         "secondaryName": null,
         "propertyNumber": "Kumla 3:1103",
         "streetAddress": "Fornuddsv/Fornuddsp Sortering ljuskällor",
@@ -3158,7 +3158,7 @@
     },
     {
         "id": "10888",
-        "name": "ÅVS Krusbodavägen/Lummergången Tyresö",
+        "name": "ÅVS Bollmoravägen/Lindalsvägen Tyresö",
         "secondaryName": null,
         "propertyNumber": "Kumla 3:1264",
         "streetAddress": "Bollmorav/Lindalsv",
@@ -36367,10 +36367,10 @@
     },
     {
         "id": "4025687",
-        "name": "ÅVS Väse",
+        "name": "Farmtrade",
         "secondaryName": "12715",
-        "propertyNumber": "HAMMAR 1:24",
-        "streetAddress": "Storgatan 44",
+        "propertyNumber": "HAMMAR 1:136",
+        "streetAddress": "Arnövägen ",
         "municipalityCode": "1780",
         "extraInfo": "",
         "latitude": 59.3801951,
@@ -39644,6 +39644,17 @@
         "longitude": 15.9180155016464
     },
     {
+        "id": "11420",
+        "name": "ÅVS 11420 Brandthovda, bussvändplats",
+        "secondaryName": "",
+        "propertyNumber": "Västerås Västerås 3:68",
+        "streetAddress": "Järnåldersgatan",
+        "municipalityCode": "1980",
+        "extraInfo": "Test",
+        "latitude": 59.61852131823962,
+        "longitude": 16.614268282438072
+    },
+    {
         "id": "988197",
         "name": "ÅVS 11419 Coop Stjärnan, Bjurhovda",
         "secondaryName": null,
@@ -39653,6 +39664,17 @@
         "extraInfo": null,
         "latitude": 59.6234281042119,
         "longitude": 16.6017971274125
+    },
+    {
+        "id": "988198",
+        "name": "ÅVS 11420 Brandthovda, bussvändplats",
+        "secondaryName": null,
+        "propertyNumber": "Västerås Västerås 3:68",
+        "streetAddress": "Järnåldersgatan",
+        "municipalityCode": "1980",
+        "extraInfo": null,
+        "latitude": 59.6184702280338,
+        "longitude": 16.6144010328545
     },
     {
         "id": "988199",
@@ -52713,14 +52735,14 @@
     },
     {
         "id": "17175",
-        "name": "Kiruna, ICA Nära Lombolo",
+        "name": "Kiruna, Tarfalaparkeringen",
         "secondaryName": "",
-        "propertyNumber": "Datorn 2",
-        "streetAddress": "Forskarevägen 6",
+        "propertyNumber": "Tarfala 1",
+        "streetAddress": "Tarfalavägen",
         "municipalityCode": "2584",
         "extraInfo": "",
-        "latitude": 67.83861,
-        "longitude": 20.285
+        "latitude": 67.838193,
+        "longitude": 20.28994
     },
     {
         "id": "17723",

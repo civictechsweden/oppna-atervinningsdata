@@ -278,7 +278,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 10870,ÅVS Krusbodavägen/Lummergången Tyresö,,Bollmora 2:1,Krusbodav/Lummerg Sortering ljuskällor,0138,,59.2336149630043,18.2458596671529
 10871,ÅVS Pluggvägen Tyresö,,Bollmora 2:403,Pluggvägen,0138,,59.241142386137,18.2283923264651
 10872,ÅVS Sikvägen 27-29/Siklöjevägen Tyresö,,Bollmora 2:1,Sikvägen 27-29/Siklöjevägen,0138,,59.2486787414825,18.235733286571
-10873,ÅVS Krusbodavägen/Lummergången Tyresö,,Kumla 3:1103,Fornuddsv/Fornuddsp Sortering ljuskällor,0138,,59.2201946940354,18.1925829421327
+10873,ÅVS Fornuddsvägen/Fornuddsparken Tyresö,,Kumla 3:1103,Fornuddsv/Fornuddsp Sortering ljuskällor,0138,,59.2201946940354,18.1925829421327
 10874,ÅVS Sofiebergsvägen/Kumla Allé Tyresö,,Kumla 3:1264,Sofiebergsvägen/Kumla Allé,0138,,59.2182328065891,18.1958987441755
 10875,ÅVS Alléplan,,Kumla 69:26,Alléplan Sortering ljuskällor,0138,,59.2242380055332,18.2019400594069
 10877,ÅVS Skolvägen Tyresö,,Näsby 4:1044,Skolvägen Sortering ljuskällor,0138,,59.2247287218375,18.2203842396719
@@ -286,7 +286,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 10880,ÅVS Mellanbergsvägen/Njupkärrsvägen Tyresö,,Näsby 4:1469,Mellanbergsvägen/Njupkärrsvägen,0138,,59.2385972820112,18.2207014618343
 10883,ÅVS Vendelsövägen Tyresö,,Kumla 69:44,Vendelsövägen 17,0138,,59.2291800630121,18.1987989800288
 10885,ÅVS Tegvägen/Gudobroleden,,Näsby 50:1,Tegv/Gudöbroleden Sortering ljuskällor,0138,,59.2136451662725,18.2077950064769
-10888,ÅVS Krusbodavägen/Lummergången Tyresö,,Kumla 3:1264,Bollmorav/Lindalsv,0138,,59.2421899250849,18.1971224888894
+10888,ÅVS Bollmoravägen/Lindalsvägen Tyresö,,Kumla 3:1264,Bollmorav/Lindalsv,0138,,59.2421899250849,18.1971224888894
 10890,ÅVS Breviksvägen/Tegelbruksvägen Tyresö,,Trinntorp 1:1,Breviksv/Tegelbruksv Sortering ljusk.,0138,,59.22762157463,18.3536190904265
 12220,ÅVS Öringe Strandväg Tyresö,,Gimmersta 1:1,Öringe Strandv Sortering ljuskällor,0138,,59.2480414602652,18.2593000969367
 15569,ÅVS Strömfallsvägen 73 Tyresö,,Strömfallet 9,Strömfallsvägen 73,0138,,59.245661019231,18.2509581968353
@@ -3305,7 +3305,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 4025684,Kroppkärr,12704,SÖDRA KROPPKÄRR 1:1,Talluddsgatan/Östra Infarten ,1780,,59.4001118,13.5486633
 4025685,Sundsta; bakom Circle K,12712,SUNDSTA 2:1,Sävegatan/Drottning Kristinas Väg ,1780,,59.3934918,13.5145806
 4025686,Edsvalla,12713,HÖGLUNDA 1:322,Edsvallavägen/Dalsängsvägen ,1780,,59.4400239,13.2097286
-4025687,ÅVS Väse,12715,HAMMAR 1:24,Storgatan 44,1780,,59.3801951,13.849316
+4025687,Farmtrade,12715,HAMMAR 1:136,Arnövägen ,1780,,59.3801951,13.849316
 4025688,Skattkärr; Konsum,12717,BJÖRKNÄS 31:4,Skattkärrsvägen 34,1780,,59.4133478,13.6749157
 4025689,Skåre centrum; Ica Hallen,12718,ÖSTRA TORP 1:154,Centrumvägen 4,1780,,59.435477,13.4391083
 4025690,ÅVC Djupdalen,13734,BJÖRBY 1:75,Norra Järpetan 545,1780,,59.442348,13.5060292
@@ -3603,7 +3603,9 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 988357,ÅVS 9224 ICA Gruvhallen,,Norberg Vargen 11,Engelbrektsgatan 52,1962,,60.0639956485142,15.9261992342009
 988358,ÅVS 9226 Kornettgatan 15-19,,Norberg Resedan 2,Kornettgatan 15 -19,1962,,60.0699628167316,15.9307597501618
 988359,ÅVS 9227 Ringvägen 8,,Norberg Almen 2,Ringvägen 8,1962,,60.0629514247067,15.9180155016464
+11420,"ÅVS 11420 Brandthovda, bussvändplats",,Västerås Västerås 3:68,Järnåldersgatan,1980,Test,59.61852131823962,16.614268282438072
 988197,"ÅVS 11419 Coop Stjärnan, Bjurhovda",,Västerås Forntiden 1,Bjurhovdagatan 3,1980,,59.6234281042119,16.6017971274125
+988198,"ÅVS 11420 Brandthovda, bussvändplats",,Västerås Västerås 3:68,Järnåldersgatan,1980,,59.6184702280338,16.6144010328545
 988199,ÅVS 11426 Tingslidens IP,,Västerås Östjädra 1:246,Häradsvägen,1980,,59.5769582145704,16.3971695424276
 988200,"ÅVS 11432 Haga, ICA Supermarket",,Västerås Skyttegillet 1,Hästhovsgatan,1980,,59.6280983621281,16.5727419410177
 988201,"ÅVS 11437 Hökåsen, Klimatvägen/Åsenlundsvägen",,Västerås Alvesta 3:270,Klimatvägen/Åsenlundsvägen,1980,,59.6675739158773,16.5844322616331
@@ -4791,7 +4793,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 15782,"Jukkasjärvi, Folkets hus",,Jukkasjärvi 13:3,Slöjdvägen,2584,,67.84861,20.61472
 15995,Kiruna ÅVC,,Kiruna 1:163,Kurravaaravägen 16,2584,,67.86278,20.28333
 16268,"Vittangi, Gästisvägen",,Vittangi 66:21,Gästisvägen 25,2584,,67.67556,21.63944
-17175,"Kiruna, ICA Nära Lombolo",,Datorn 2,Forskarevägen 6,2584,,67.83861,20.285
+17175,"Kiruna, Tarfalaparkeringen",,Tarfala 1,Tarfalavägen,2584,,67.838193,20.28994
 17723,"Kiruna, Coop Föraregatan",,Bagaren 16,Föraregatan 45,2584,,67.865306,20.225706
 8449,"Karesuando, Reningsverket",,Karesuando 23:2,Reningsverket,2584,,68.43944,22.46667
 8451,"Kiruna, Movägen",,Lombolo 12:1,Movägen,2584,,67.83806,20.26
