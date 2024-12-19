@@ -2779,8 +2779,8 @@
         "streetAddress": "Blockstensvägen",
         "municipalityCode": "0136",
         "extraInfo": null,
-        "latitude": 59.142695472595,
-        "longitude": 18.1403730402496
+        "latitude": 59.1426069374215,
+        "longitude": 18.1414318466687
     },
     {
         "id": "95708",
@@ -33528,94 +33528,6 @@
         "longitude": 12.833618
     },
     {
-        "id": "1234567890153",
-        "name": "Annelundsparken",
-        "secondaryName": null,
-        "propertyNumber": "Villastaden 1:2",
-        "streetAddress": "Nyckelbergsgatan 1",
-        "municipalityCode": "1490",
-        "extraInfo": null,
-        "latitude": 57.716774,
-        "longitude": 12.947276
-    },
-    {
-        "id": "1234567890154",
-        "name": "Aplareds Stationsområde",
-        "secondaryName": null,
-        "propertyNumber": "Borås Aplared 1:12",
-        "streetAddress": "Stationsvägen 1",
-        "municipalityCode": "1490",
-        "extraInfo": null,
-        "latitude": 57.650831,
-        "longitude": 13.070819
-    },
-    {
-        "id": "1234567890155",
-        "name": "Borås Coop Forum",
-        "secondaryName": null,
-        "propertyNumber": "Borås Gulmåran 7",
-        "streetAddress": "Rosendalsgatan 12",
-        "municipalityCode": "1490",
-        "extraInfo": null,
-        "latitude": 57.715703,
-        "longitude": 12.964052
-    },
-    {
-        "id": "1234567890156",
-        "name": "Knalleland Storknallen",
-        "secondaryName": null,
-        "propertyNumber": "Lundby 1:1",
-        "streetAddress": "Herrljungagatan 31",
-        "municipalityCode": "1490",
-        "extraInfo": null,
-        "latitude": 57.72934,
-        "longitude": 12.939351
-    },
-    {
-        "id": "1234567890157",
-        "name": "Knalleland ICA Kvantum",
-        "secondaryName": null,
-        "propertyNumber": "Flugan 6",
-        "streetAddress": "Skaraborgsvägen 12",
-        "municipalityCode": "1490",
-        "extraInfo": null,
-        "latitude": 57.725313,
-        "longitude": 12.941921
-    },
-    {
-        "id": "1234567890158",
-        "name": "ICA City Knalleland",
-        "secondaryName": null,
-        "propertyNumber": "Vegagatan 2",
-        "streetAddress": "Vegagatan 2",
-        "municipalityCode": "1490",
-        "extraInfo": null,
-        "latitude": 57.72978,
-        "longitude": 12.941907
-    },
-    {
-        "id": "1234567890159",
-        "name": "Borås Elgiganten Knalleland",
-        "secondaryName": null,
-        "propertyNumber": "Evedal 1",
-        "streetAddress": "Ålgårdsvägen 38",
-        "municipalityCode": "1490",
-        "extraInfo": null,
-        "latitude": 57.735152,
-        "longitude": 12.930772
-    },
-    {
-        "id": "1234567890160",
-        "name": "Sagavallen",
-        "secondaryName": null,
-        "propertyNumber": "Norrmalm 1:1",
-        "streetAddress": "Hornsgatan 61",
-        "municipalityCode": "1490",
-        "extraInfo": null,
-        "latitude": 57.733186,
-        "longitude": 12.94872
-    },
-    {
         "id": "10931",
         "name": "Blidsberg ",
         "secondaryName": "Blidsberg",
@@ -39644,17 +39556,6 @@
         "longitude": 15.9180155016464
     },
     {
-        "id": "11420",
-        "name": "ÅVS 11420 Brandthovda, bussvändplats",
-        "secondaryName": "",
-        "propertyNumber": "Västerås Västerås 3:68",
-        "streetAddress": "Järnåldersgatan",
-        "municipalityCode": "1980",
-        "extraInfo": "Test",
-        "latitude": 59.61852131823962,
-        "longitude": 16.614268282438072
-    },
-    {
         "id": "988197",
         "name": "ÅVS 11419 Coop Stjärnan, Bjurhovda",
         "secondaryName": null,
@@ -45166,17 +45067,6 @@
         "longitude": 17.2571396829429
     },
     {
-        "id": "107446",
-        "name": "Granlo Vikingavägen/Västra vägen",
-        "secondaryName": null,
-        "propertyNumber": "GRANLO 6:1",
-        "streetAddress": "ÅVS Vikingavägen 77",
-        "municipalityCode": "2281",
-        "extraInfo": null,
-        "latitude": 62.4057209793073,
-        "longitude": 17.2445386653042
-    },
-    {
         "id": "107447",
         "name": "Granloholm centrum",
         "secondaryName": null,
@@ -45351,17 +45241,6 @@
         "extraInfo": null,
         "latitude": 62.4185412448973,
         "longitude": 17.3343229285626
-    },
-    {
-        "id": "107463",
-        "name": "Bydalen Motionsspåret",
-        "secondaryName": null,
-        "propertyNumber": "BYDALEN 1:1",
-        "streetAddress": "ÅVS Segelvägen 20",
-        "municipalityCode": "2281",
-        "extraInfo": null,
-        "latitude": 62.4149718477682,
-        "longitude": 17.325139044819
     },
     {
         "id": "107464",

@@ -251,7 +251,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 95703,7940  I korsning,,SLÄTMOSSEN 1:191,Tuvvägen/Gamla Nynäsvägen,0136,,59.1573796993058,18.1362953569393
 95704,7948  Vid Närbutik Jordbro,,KALVSVIK 11:831,Mostensvägen,0136,,59.1499932441306,18.1377532347189
 95706,ÅVS 7947  Vändplan,,KALVSVIK 11:400,Pusshagen,0136,,59.1451277370007,18.1349286739368
-95707,7951 Vändplan,,KALVSVIK 16:1,Blockstensvägen,0136,,59.142695472595,18.1403730402496
+95707,7951 Vändplan,,KALVSVIK 16:1,Blockstensvägen,0136,,59.1426069374215,18.1414318466687
 95708,ÅVS 7950 Bortre parkeringsplats,,KALVSVIK 16:1,Jordbro centrum Moränvägen,0136,,59.1412799669362,18.1357309194697
 95709,7944,,KALVSVIK 11:35,Södra jordbrovägen 165,0136,,59.1383430325397,18.1382602761346
 95711,7945 Vändplan,,KALVSVIK 11:23,Södra jordbrovägen 120,0136,,59.1360362203232,18.1333100060761
@@ -3047,14 +3047,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 069,Boda Åvc,,,Sjumilagatan 6,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.72583,12.98611
 070,Norrby Billdalsgatan,,,Billdalsgatan 12,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.725619,12.933809
 071,Viskafors ÅVC,,,Textilvägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.625014,12.833618
-1234567890153,Annelundsparken,,Villastaden 1:2,Nyckelbergsgatan 1,1490,,57.716774,12.947276
-1234567890154,Aplareds Stationsområde,,Borås Aplared 1:12,Stationsvägen 1,1490,,57.650831,13.070819
-1234567890155,Borås Coop Forum,,Borås Gulmåran 7,Rosendalsgatan 12,1490,,57.715703,12.964052
-1234567890156,Knalleland Storknallen,,Lundby 1:1,Herrljungagatan 31,1490,,57.72934,12.939351
-1234567890157,Knalleland ICA Kvantum,,Flugan 6,Skaraborgsvägen 12,1490,,57.725313,12.941921
-1234567890158,ICA City Knalleland,,Vegagatan 2,Vegagatan 2,1490,,57.72978,12.941907
-1234567890159,Borås Elgiganten Knalleland,,Evedal 1,Ålgårdsvägen 38,1490,,57.735152,12.930772
-1234567890160,Sagavallen,,Norrmalm 1:1,Hornsgatan 61,1490,,57.733186,12.94872
 10931,Blidsberg ,Blidsberg,,Entreprenadvägen - vändplan,1491,,57.932512,13.492557
 10932,Dalum,Dalum,,Industrigatan - grusplan,1491,,57.898488,13.459672
 10934,Hökerum,Hökerum,,Brovallavägen vid reningsverket,1491,,57.840622,13.28096
@@ -3603,7 +3595,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 988357,ÅVS 9224 ICA Gruvhallen,,Norberg Vargen 11,Engelbrektsgatan 52,1962,,60.0639956485142,15.9261992342009
 988358,ÅVS 9226 Kornettgatan 15-19,,Norberg Resedan 2,Kornettgatan 15 -19,1962,,60.0699628167316,15.9307597501618
 988359,ÅVS 9227 Ringvägen 8,,Norberg Almen 2,Ringvägen 8,1962,,60.0629514247067,15.9180155016464
-11420,"ÅVS 11420 Brandthovda, bussvändplats",,Västerås Västerås 3:68,Järnåldersgatan,1980,Test,59.61852131823962,16.614268282438072
 988197,"ÅVS 11419 Coop Stjärnan, Bjurhovda",,Västerås Forntiden 1,Bjurhovdagatan 3,1980,,59.6234281042119,16.6017971274125
 988198,"ÅVS 11420 Brandthovda, bussvändplats",,Västerås Västerås 3:68,Järnåldersgatan,1980,,59.6184702280338,16.6144010328545
 988199,ÅVS 11426 Tingslidens IP,,Västerås Östjädra 1:246,Häradsvägen,1980,,59.5769582145704,16.3971695424276
@@ -4105,7 +4096,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 6975,Brunne Coop,,Brunne 12:2,Stigsjö Brunne 90,2280,,62.65333,17.63444
 107444,Alnö Brandstationen,,ALNÖ-VI 18:1,ÅVS Fullriggarvägen 33,2281,,62.4227646067562,17.4292972675008
 107445,Granlo bakom vårdcentralen ,,GRANLO 6:1,ÅVS Vikingavägen 43,2281,,62.4045443849392,17.2571396829429
-107446,Granlo Vikingavägen/Västra vägen,,GRANLO 6:1,ÅVS Vikingavägen 77,2281,,62.4057209793073,17.2445386653042
 107447,Granloholm centrum,,GRANLO S:11,ÅVS Varbergsvägen 2,2281,,62.4102716153887,17.2703334688463
 107448,Granloholm På G-butiken,,GRANLO 3:357,ÅVS Linköpingsvägen 1 B,2281,,62.4092405466084,17.2848683594728
 107449,Haga Tivolivägen,,NORRMALM 1:1,ÅVS Tivolivägen 18,2281,,62.3973160742275,17.3178729420249
@@ -4122,7 +4112,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 107460,"Njurunda, norra cirkulationsplatsen",,DINGERSJÖ 15:113,ÅVS Njurundavägen/Klockarbergsvägen,2281,,62.2724555071279,17.3759441086411
 107461,Svartvik (Utanför ÅVC:n),,NOLBY 7:133,ÅVS Sandslåvägen 3,2281,,62.310658306259,17.3743146659783
 107462,Bosvedjan centrum,,BYDALEN 2:1,ÅVS Bäckebovägen 12,2281,,62.4185412448973,17.3343229285626
-107463,Bydalen Motionsspåret,,BYDALEN 1:1,ÅVS Segelvägen 20,2281,,62.4149718477682,17.325139044819
 107464,Johannedal ÅVC,,HUGGSTA 1:160,ÅVS Johannedalsvägen 67,2281,,62.4402539783163,17.3880073426672
 107465,Blåberget innanför (ÅVC) k-parken,,KNÄVLAND 2:21,ÅVS Knävland 164,2281,,62.3774152348612,17.1655610198841
 107466,Hemmanet Idrottsplatsen,,NOLBY 3:259,ÅVS Aspvägen 2,2281,,62.3117600693841,17.359331846019
