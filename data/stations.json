@@ -5669,7 +5669,7 @@
         "name": "Återvinningsstation 10189",
         "secondaryName": null,
         "propertyNumber": "CALIXTUS 10",
-        "streetAddress": "Brotorpsvägen 1",
+        "streetAddress": "Arrendevägen 32",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3655260923206,
@@ -36279,10 +36279,10 @@
     },
     {
         "id": "4025687",
-        "name": "Farmtrade",
+        "name": "ÅVS Väse",
         "secondaryName": "12715",
-        "propertyNumber": "HAMMAR 1:136",
-        "streetAddress": "Arnövägen ",
+        "propertyNumber": "HAMMAR 1:24",
+        "streetAddress": "Storgatan 44",
         "municipalityCode": "1780",
         "extraInfo": "",
         "latitude": 59.3801951,
@@ -45067,6 +45067,17 @@
         "longitude": 17.2571396829429
     },
     {
+        "id": "107446",
+        "name": "Granlo Vikingavägen/Västra vägen",
+        "secondaryName": null,
+        "propertyNumber": "GRANLO 6:1",
+        "streetAddress": "ÅVS Vikingavägen 77",
+        "municipalityCode": "2281",
+        "extraInfo": null,
+        "latitude": 62.4057209793073,
+        "longitude": 17.2445386653042
+    },
+    {
         "id": "107447",
         "name": "Granloholm centrum",
         "secondaryName": null,
@@ -45241,6 +45252,17 @@
         "extraInfo": null,
         "latitude": 62.4185412448973,
         "longitude": 17.3343229285626
+    },
+    {
+        "id": "107463",
+        "name": "Bydalen Motionsspåret",
+        "secondaryName": null,
+        "propertyNumber": "BYDALEN 1:1",
+        "streetAddress": "ÅVS Segelvägen 20",
+        "municipalityCode": "2281",
+        "extraInfo": null,
+        "latitude": 62.4149718477682,
+        "longitude": 17.325139044819
     },
     {
         "id": "107464",
@@ -49102,6 +49124,17 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
+    },
+    {
+        "id": "4415910",
+        "name": "ÅVS Ikea",
+        "secondaryName": "16449",
+        "propertyNumber": "MARKNADSPLATSEN S:1",
+        "streetAddress": "Åvs Ikea Marknadsgatan ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.80528,
+        "longitude": 20.25667
     },
     {
         "id": "4415912",
