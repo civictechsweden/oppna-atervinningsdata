@@ -38826,8 +38826,8 @@
         "streetAddress": "Bigatan",
         "municipalityCode": "1883",
         "extraInfo": "Karlskoga",
-        "latitude": 59.345101,
-        "longitude": 14.567675
+        "latitude": 59.336959,
+        "longitude": 14.50913
     },
     {
         "id": "18834",
@@ -45078,17 +45078,6 @@
         "longitude": 17.2571396829429
     },
     {
-        "id": "107446",
-        "name": "Granlo Vikingavägen/Västra vägen",
-        "secondaryName": null,
-        "propertyNumber": "GRANLO 6:1",
-        "streetAddress": "ÅVS Vikingavägen 77",
-        "municipalityCode": "2281",
-        "extraInfo": null,
-        "latitude": 62.4057209793073,
-        "longitude": 17.2445386653042
-    },
-    {
         "id": "107447",
         "name": "Granloholm centrum",
         "secondaryName": null,
@@ -45263,17 +45252,6 @@
         "extraInfo": null,
         "latitude": 62.4185412448973,
         "longitude": 17.3343229285626
-    },
-    {
-        "id": "107463",
-        "name": "Bydalen Motionsspåret",
-        "secondaryName": null,
-        "propertyNumber": "BYDALEN 1:1",
-        "streetAddress": "ÅVS Segelvägen 20",
-        "municipalityCode": "2281",
-        "extraInfo": null,
-        "latitude": 62.4149718477682,
-        "longitude": 17.325139044819
     },
     {
         "id": "107464",
