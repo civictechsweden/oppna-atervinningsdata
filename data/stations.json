@@ -46047,7 +46047,7 @@
     },
     {
         "id": "4430040",
-        "name": "Hörnett, Bredvid ST1",
+        "name": "Hörneborgsvägen",
         "secondaryName": null,
         "propertyNumber": "HÖRNETT 47:1",
         "streetAddress": "Hörneborgsvägen",
@@ -46759,17 +46759,6 @@
         "extraInfo": null,
         "latitude": 64.4360354105699,
         "longitude": 15.5928824671749
-    },
-    {
-        "id": "115062",
-        "name": "Rossön Flottningsverk",
-        "secondaryName": null,
-        "propertyNumber": "BODUM 1:182",
-        "streetAddress": "Bodumsvägen 10",
-        "municipalityCode": "2313",
-        "extraInfo": null,
-        "latitude": 63.9232840814922,
-        "longitude": 16.3357089023627
     },
     {
         "id": "115063",
