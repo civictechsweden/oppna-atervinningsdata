@@ -10354,12 +10354,12 @@
         "id": "16479",
         "name": "ARNÖ, ICA ARNÖ",
         "secondaryName": null,
-        "propertyNumber": "LÅNGSÄTTER 1116",
-        "streetAddress": "LÅNGSÄTTERVÄGEN 6",
+        "propertyNumber": "LÅNGSÄTTER 116",
+        "streetAddress": "Långsättersvägen 6",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7294399411719,
-        "longitude": 17.0130599118107
+        "latitude": 58.7293263635993,
+        "longitude": 17.0123177955818
     },
     {
         "id": "16882",
@@ -10553,11 +10553,11 @@
         "name": "OPPEBY, ICA KNUTEN",
         "secondaryName": null,
         "propertyNumber": "HÄSTSKON 1",
-        "streetAddress": "OPPEBY GÅRD 277",
+        "streetAddress": "Oppeby Gård 277",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7699999782222,
-        "longitude": 16.9866700232571
+        "latitude": 58.7691680541622,
+        "longitude": 16.9879709016339
     },
     {
         "id": "9465",
@@ -52158,8 +52158,8 @@
         "streetAddress": "Gamla Sjulsmarksvägen 41",
         "municipalityCode": "2581",
         "extraInfo": "",
-        "latitude": 65.52361,
-        "longitude": 21.48777
+        "latitude": 65.52378422636536,
+        "longitude": 21.489917635917664
     },
     {
         "id": "880924",
