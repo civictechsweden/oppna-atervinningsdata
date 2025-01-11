@@ -23584,17 +23584,6 @@
         "longitude": 12.832882
     },
     {
-        "id": "4322355",
-        "name": "1482",
-        "secondaryName": "",
-        "propertyNumber": "Påarp 1:180",
-        "streetAddress": "Fågelviksvägen",
-        "municipalityCode": "1380",
-        "extraInfo": "",
-        "latitude": 56.596302,
-        "longitude": 12.930083
-    },
-    {
         "id": "4322356",
         "name": "1484",
         "secondaryName": "",
@@ -39988,7 +39977,7 @@
         "id": "988483",
         "name": "Skultunabod Björkängsvägen 12",
         "secondaryName": null,
-        "propertyNumber": "Västerås Skultuna Tibble 2:2",
+        "propertyNumber": "Västerås Skultuna-Tibble 2:2",
         "streetAddress": "Björkängsvägen 12",
         "municipalityCode": "1980",
         "extraInfo": null,
@@ -49655,7 +49644,7 @@
     },
     {
         "id": "4416371",
-        "name": "Åvs Sävar (Åvc) Upplagsvägen 6",
+        "name": "Åvs Sävar ÅVC",
         "secondaryName": null,
         "propertyNumber": "SÄVAR 61:274",
         "streetAddress": "Åvs Sävar (Åvc) Upplagsvägen 6",

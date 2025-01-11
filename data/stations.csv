@@ -2143,7 +2143,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 4322352,1476,,Drared 1:37,Draredsvägen,1380,,56.839288,12.981793
 4322353,1478,,Kvibille 22:1,Lundsgårdsvägen,1380,,56.787361,12.835366
 4322354,1479,,Kvibille 7:7,Slättåkravägen,1380,,56.781951,12.832882
-4322355,1482,,Påarp 1:180,Fågelviksvägen,1380,,56.596302,12.930083
 4322356,1484,,Snöstorp 19:202,Lågagårdsvägen,1380,,56.681089,12.935195
 4322357,1485,,Marbäck 2:12,Svanåsvägen,1380,,56.706132,13.033332
 4322358,1486,,Halmstad 5:26,Broddesonsgatan,1380,,56.676435,12.846186
@@ -3634,7 +3633,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 988287,ÅVS 17340 Ymergatan/Sveaborgsvägen,,Västerås Ullvi 3:640,Ymergatan 1,1980,,59.6006336635704,16.6839125659135
 988361,ÅVS 99070 Vattentornet,,Västerås Västerås 4:91,Nansengatan,1980,,59.629738068496,16.5425260911341
 988482,Skultunabod Vallonvägen 47,,Västerås Skultuna Prästgård 1:57,Vallonvägen 47,1980,,59.7127174631385,16.4345690328913
-988483,Skultunabod Björkängsvägen 12,,Västerås Skultuna Tibble 2:2,Björkängsvägen 12,1980,,59.7157514254247,16.4363796117263
+988483,Skultunabod Björkängsvägen 12,,Västerås Skultuna-Tibble 2:2,Björkängsvägen 12,1980,,59.7157514254247,16.4363796117263
 988484,Skultunabod Mäster Jacobs Väg/Byhagsvägen 21,,Västerås Skultunaby 1:84,Mäster Jacobs Väg/Byhagsvägen 21,1980,,59.717049464956,16.4320225212578
 988485,Skultunabod Åvägen,,Västerås Kvarnbacka 3:46,Åvägen,1980,,59.7231421729008,16.4281736303512
 988486,Skultunabod Bruksgatan,,Västerås Kvarnbacka 3:101,Bruksgatan,1980,,59.7207524940994,16.4223026869313
@@ -4513,7 +4512,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4415980,ÅVS Umeå,12450,UMEÅ 2:1,Åvs Umeå Parkgatan 4,2480,,63.83056,20.26139
 4415981,ÅVS Ålidhem Kuratorvägen,10963,KURATORN 3,Åvs Ålidhem Kuratorvägen ,2480,,63.81694,20.32111
 4415982,ÅVS Överboda,11026,ÖVERBODA 3:38,Åvs Överboda Bodumsvägen ,2480,,63.85111,19.92694
-4416371,Åvs Sävar (Åvc) Upplagsvägen 6,,SÄVAR 61:274,Åvs Sävar (Åvc) Upplagsvägen 6,2480,,63.909088,20.536526
+4416371,Åvs Sävar ÅVC,,SÄVAR 61:274,Åvs Sävar (Åvc) Upplagsvägen 6,2480,,63.909088,20.536526
 865101,ÅVS Lugnet/Palmsunda,,Lycksele 10:5,STORGATAN   efter nr 103,2481,,64.6067236448776,18.653776353828
 865102,ÅVS Centrum/Grubban,,Magistern 1,SKOLGATAN 13,2481,,64.5939624219726,18.6757554751741
 865103,ÅVS Södermalm n:a,,Södermalm 1:1,PRÄSTBOLSV/TANNBERGSV,2481,,64.5954317805557,18.6656109754294
