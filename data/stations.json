@@ -24750,17 +24750,6 @@
         "longitude": 12.0795153977863
     },
     {
-        "id": "202415713",
-        "name": "SNIPEN PENDELPARKERING",
-        "secondaryName": null,
-        "propertyNumber": "SPÅRHAGA 1:5",
-        "streetAddress": "LINDOMEVÄGEN",
-        "municipalityCode": "1384",
-        "extraInfo": null,
-        "latitude": 57.5620165196644,
-        "longitude": 11.9495107821297
-    },
-    {
         "id": "202415737",
         "name": "LINDÄLVSGYMNASIET",
         "secondaryName": null,
@@ -45904,7 +45893,7 @@
     },
     {
         "id": "4430028",
-        "name": "Gullänget, Korsningen Björnavägen/Krokstavägen",
+        "name": "Björnavägen",
         "secondaryName": null,
         "propertyNumber": "KROKSTA 18:1",
         "streetAddress": "Björnavägen",
@@ -51382,7 +51371,7 @@
     },
     {
         "id": "9811896",
-        "name": "SPANNMÅLSVÄGEN KVARNBÄCKEN",
+        "name": "SPANNMÅLSVÄGEN KVARNBÄCKEN 3199",
         "secondaryName": null,
         "propertyNumber": "HERTSÖN 20:1",
         "streetAddress": "SPANNMÅLSVÄGEN",
