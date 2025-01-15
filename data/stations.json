@@ -24750,6 +24750,17 @@
         "longitude": 12.0795153977863
     },
     {
+        "id": "202415713",
+        "name": "SNIPEN PENDELPARKERING",
+        "secondaryName": null,
+        "propertyNumber": "SPÅRHAGA 1:5",
+        "streetAddress": "LINDOMEVÄGEN",
+        "municipalityCode": "1384",
+        "extraInfo": null,
+        "latitude": 57.5620165196644,
+        "longitude": 11.9495107821297
+    },
+    {
         "id": "202415737",
         "name": "LINDÄLVSGYMNASIET",
         "secondaryName": null,
@@ -36268,10 +36279,10 @@
     },
     {
         "id": "4025687",
-        "name": "Farmtrade",
+        "name": "ÅVS Väse",
         "secondaryName": "12715",
-        "propertyNumber": "HAMMAR 1:136",
-        "streetAddress": "Arnövägen ",
+        "propertyNumber": "HAMMAR 1:24",
+        "streetAddress": "Storgatan 44",
         "municipalityCode": "1780",
         "extraInfo": "",
         "latitude": 59.3801951,
@@ -51701,7 +51712,7 @@
     },
     {
         "id": "9811927",
-        "name": "AVAN RENINGSVERK",
+        "name": "AVAN RENINGSVERK 13292",
         "secondaryName": null,
         "propertyNumber": "AVAN 8:14",
         "streetAddress": "AVANS BYAVÄG",
