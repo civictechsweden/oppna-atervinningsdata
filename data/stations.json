@@ -7228,7 +7228,7 @@
     },
     {
         "id": "19001",
-        "name": null,
+        "name": "Åbroddsvägen",
         "secondaryName": null,
         "propertyNumber": "VELAMSUND 14:1",
         "streetAddress": "Åbroddsvägen 2 A",
@@ -19872,7 +19872,7 @@
         "propertyNumber": "Åkarp 4:2",
         "streetAddress": "Dalslundsvägen",
         "municipalityCode": "1231",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6536100007579,
         "longitude": 13.1127799979286
     },
@@ -19883,7 +19883,7 @@
         "propertyNumber": "Tågarp 21:146",
         "streetAddress": "Arlövsvägen 34",
         "municipalityCode": "1231",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6386100044588,
         "longitude": 13.0591700069198
     },
@@ -19894,7 +19894,7 @@
         "propertyNumber": "Åkarp 1:93",
         "streetAddress": "Lervägen",
         "municipalityCode": "1231",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6566700003755,
         "longitude": 13.1008300040044
     },
@@ -20912,12 +20912,12 @@
     },
     {
         "id": "185092",
-        "name": "ÅVS Hermodalstorget",
+        "name": "ÅVS Hermodsdalstorget",
         "secondaryName": "Malmö",
         "propertyNumber": "Fosie 165:136",
         "streetAddress": "Professorsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5669399965665,
         "longitude": 13.0213899969314
     },
@@ -20928,7 +20928,7 @@
         "propertyNumber": "Kuratorn 3",
         "streetAddress": "Per Albin Hanssons väg",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5799999992217,
         "longitude": 13.0011099927542
     },
@@ -20939,7 +20939,7 @@
         "propertyNumber": "Limhamn 11:149",
         "streetAddress": "Limhamnsvägen",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5994399966847,
         "longitude": 12.9602799943701
     },
@@ -20950,7 +20950,7 @@
         "propertyNumber": "Limhamn 150:1",
         "streetAddress": "Högerudsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5869400042818,
         "longitude": 12.9397199937043
     },
@@ -20961,7 +20961,7 @@
         "propertyNumber": "Innerstaden 10:14",
         "streetAddress": "Fågelbacksgatan 9",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6013284488053,
         "longitude": 12.9865437199119
     },
@@ -20972,7 +20972,7 @@
         "propertyNumber": "Innerstaden 9:173",
         "streetAddress": "Annebergsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5830600038778,
         "longitude": 12.9977799949093
     },
@@ -20983,7 +20983,7 @@
         "propertyNumber": "Kuratorn 3",
         "streetAddress": "John Ericssons väg",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.58555999899,
         "longitude": 13.0013899976901
     },
@@ -20994,7 +20994,7 @@
         "propertyNumber": "Rosengård 130:391",
         "streetAddress": "Cypressvägen 27",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5738101587535,
         "longitude": 13.0423685235475
     },
@@ -21005,7 +21005,7 @@
         "propertyNumber": "Innerstaden 9:142",
         "streetAddress": "Roskildevägen",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5927799962091,
         "longitude": 12.9883299976883
     },
@@ -21016,7 +21016,7 @@
         "propertyNumber": "Fosie 165:136",
         "streetAddress": "Eriksfältgatan 100",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5675000029361,
         "longitude": 13.0219400066065
     },
@@ -21027,7 +21027,7 @@
         "propertyNumber": "Hyllie 160:12",
         "streetAddress": "Svansjögatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5800000019959,
         "longitude": 12.9755600067263
     },
@@ -21038,7 +21038,7 @@
         "propertyNumber": "Innerstaden 1:14",
         "streetAddress": "Norra Vallgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.608609999287,
         "longitude": 13.0094400055341
     },
@@ -21049,7 +21049,7 @@
         "propertyNumber": "Kirseberg 30:2",
         "streetAddress": "Kronetorpsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6186099970817,
         "longitude": 13.0586100031292
     },
@@ -21060,7 +21060,7 @@
         "propertyNumber": "Glidflygplanet 1",
         "streetAddress": "Calle Ljungbecks Gata 121",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6086791734489,
         "longitude": 13.0554977602375
     },
@@ -21071,7 +21071,7 @@
         "propertyNumber": "Rosengård 4:72",
         "streetAddress": "Klubbegatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5991699993428,
         "longitude": 13.038889994268
     },
@@ -21082,7 +21082,7 @@
         "propertyNumber": "Högatorp 2",
         "streetAddress": "Västra Skrävlingevägen 149",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5832467899546,
         "longitude": 13.0590549746519
     },
@@ -21093,7 +21093,7 @@
         "propertyNumber": "Katten 17",
         "streetAddress": "Lugna Gatan 44",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5996259653534,
         "longitude": 13.0032438940857
     },
@@ -21104,7 +21104,7 @@
         "propertyNumber": "Limhamn 11:149",
         "streetAddress": "Torupsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5927800002832,
         "longitude": 12.9672199971769
     },
@@ -21115,7 +21115,7 @@
         "propertyNumber": "Limhamn 152:218",
         "streetAddress": "Västra Bernadottesgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5813900017082,
         "longitude": 12.9241700038776
     },
@@ -21126,7 +21126,7 @@
         "propertyNumber": "Fosie 165:255",
         "streetAddress": "Söderkullagatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5700494659437,
         "longitude": 13.007399581435
     },
@@ -21137,7 +21137,7 @@
         "propertyNumber": "Fosie 162:25",
         "streetAddress": "Balladgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5630600022067,
         "longitude": 13.0130600070921
     },
@@ -21148,7 +21148,7 @@
         "propertyNumber": "Kirseberg 30:2",
         "streetAddress": "Segevångsgatan 4",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.616389997424,
         "longitude": 13.0477799932538
     },
@@ -21159,7 +21159,7 @@
         "propertyNumber": "Innerstaden 7:21",
         "streetAddress": "Sofielundsvägen",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5894399982235,
         "longitude": 13.0136100037314
     },
@@ -21170,7 +21170,7 @@
         "propertyNumber": "Innerstaden 7:21",
         "streetAddress": "Spångatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5958299960735,
         "longitude": 13.0122200023923
     },
@@ -21181,7 +21181,7 @@
         "propertyNumber": "Innerstaden 120:213",
         "streetAddress": "Nobeltorget",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.590214998345,
         "longitude": 13.0179843795492
     },
@@ -21192,7 +21192,7 @@
         "propertyNumber": "Eva 3",
         "streetAddress": "Kungsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6016700024355,
         "longitude": 13.0100000038176
     },
@@ -21203,7 +21203,7 @@
         "propertyNumber": "Innerstaden 1:14",
         "streetAddress": "Södra Promenaden",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6044400041124,
         "longitude": 13.0105600068675
     },
@@ -21214,7 +21214,7 @@
         "propertyNumber": "Bunkeflostrand 15:1",
         "streetAddress": "Klagshamnsvägen",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5422199987924,
         "longitude": 12.919439994109
     },
@@ -21225,20 +21225,9 @@
         "propertyNumber": "Innerstaden 10:94",
         "streetAddress": "Mariedalsvägen",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5975000000832,
         "longitude": 12.9830600006391
-    },
-    {
-        "id": "185121",
-        "name": "ÅVS Fajansvägen",
-        "secondaryName": "Malmö",
-        "propertyNumber": "Käglinge 1:16",
-        "streetAddress": "Fajansvägen",
-        "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
-        "latitude": 55.5355599970545,
-        "longitude": 13.0924999993318
     },
     {
         "id": "185122",
@@ -21247,7 +21236,7 @@
         "propertyNumber": "Producenten 1",
         "streetAddress": "Producentgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5641700028109,
         "longitude": 12.9872200028345
     },
@@ -21258,7 +21247,7 @@
         "propertyNumber": "Henriksdal 1",
         "streetAddress": "Sufflörgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5661100002746,
         "longitude": 12.9883299999293
     },
@@ -21269,7 +21258,7 @@
         "propertyNumber": "Halvljuset 1",
         "streetAddress": "Topplocksgatan 10",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5976709295397,
         "longitude": 13.0974092076625
     },
@@ -21280,7 +21269,7 @@
         "propertyNumber": "Kommungården 2",
         "streetAddress": "Gottorpsvägen 52",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5583568182285,
         "longitude": 12.9432509882058
     },
@@ -21291,7 +21280,7 @@
         "propertyNumber": "Fårabäck 180:61",
         "streetAddress": "Almåsa",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5638899977934,
         "longitude": 13.1358300020353
     },
@@ -21302,18 +21291,18 @@
         "propertyNumber": "Hyllie 165:44",
         "streetAddress": "Arkitektgatan 1",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.579999997696,
         "longitude": 12.9955599922477
     },
     {
         "id": "185128",
-        "name": "ÅVS Majon Nilsonsgatan",
+        "name": "ÅVS Major Nilssonsgatan",
         "secondaryName": "Malmö",
         "propertyNumber": "Innerstaden 10:94",
         "streetAddress": "Major Nilssonsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.594169997287,
         "longitude": 12.9722200067886
     },
@@ -21324,7 +21313,7 @@
         "propertyNumber": "Innerstaden 7:50",
         "streetAddress": "Spånehusvägen 52",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5954869913605,
         "longitude": 13.0178626508868
     },
@@ -21335,7 +21324,7 @@
         "propertyNumber": "Limhamn 154:325",
         "streetAddress": "Elinelundsvägen",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5647199982696,
         "longitude": 12.9538899997225
     },
@@ -21346,7 +21335,7 @@
         "propertyNumber": "Limhamn 150:1",
         "streetAddress": "Krossverksgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5783299989648,
         "longitude": 12.9283299943231
     },
@@ -21357,7 +21346,7 @@
         "propertyNumber": "Limhamn 154:376",
         "streetAddress": "Sommarvägen",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5763900035308,
         "longitude": 12.9136100022784
     },
@@ -21368,7 +21357,7 @@
         "propertyNumber": "Malören 1",
         "streetAddress": "Bjurögatan 20",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6278156569837,
         "longitude": 13.0223586714878
     },
@@ -21379,7 +21368,7 @@
         "propertyNumber": "Hamnen 33:1",
         "streetAddress": "Stora Varvsgatan 17",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6105600036722,
         "longitude": 12.9786100014945
     },
@@ -21390,7 +21379,7 @@
         "propertyNumber": "Innerstaden 6:59",
         "streetAddress": "Kapellgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5938900028305,
         "longitude": 13.0024999974191
     },
@@ -21401,7 +21390,7 @@
         "propertyNumber": "Kirseberg 30:2",
         "streetAddress": "Gevaldigergatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6111099987019,
         "longitude": 13.041109995192
     },
@@ -21412,7 +21401,7 @@
         "propertyNumber": "Kirseberg 30:2",
         "streetAddress": "Österhagsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6063900031288,
         "longitude": 13.0372199966149
     },
@@ -21423,7 +21412,7 @@
         "propertyNumber": "Flöjten 1",
         "streetAddress": "Börringegatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5897200041731,
         "longitude": 12.9705599941558
     },
@@ -21434,7 +21423,7 @@
         "propertyNumber": "Bunkeflostrand 22:1",
         "streetAddress": "Ola Brorssons väg",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5569783307147,
         "longitude": 12.92310994788
     },
@@ -21445,31 +21434,9 @@
         "propertyNumber": "Innerstaden 9:142",
         "streetAddress": "Pilåkersvägen",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5908300023587,
         "longitude": 12.9774999953588
-    },
-    {
-        "id": "185141",
-        "name": "ÅVS Almåsa Fritidsby (Ebbarpsvägen)",
-        "secondaryName": "Malmö",
-        "propertyNumber": "Fårabäck 180:60",
-        "streetAddress": "Ebbarpsvägen 28",
-        "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
-        "latitude": 55.5695166110665,
-        "longitude": 13.1263130476234
-    },
-    {
-        "id": "185142",
-        "name": "ÅVS Ribergsborgsstigen",
-        "secondaryName": "Limhamn",
-        "propertyNumber": "Limhamn 11:277",
-        "streetAddress": "Ribergsborgsstigen",
-        "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
-        "latitude": 55.591670001669,
-        "longitude": 12.938329995076
     },
     {
         "id": "185143",
@@ -21478,7 +21445,7 @@
         "propertyNumber": "Kyrkskolan 4",
         "streetAddress": "Byåkersvägen 30",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5503479111115,
         "longitude": 13.0965431145079
     },
@@ -21489,7 +21456,7 @@
         "propertyNumber": "Innerstaden 7:21",
         "streetAddress": "Norra Parkgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5919399980467,
         "longitude": 13.0119399932514
     },
@@ -21500,7 +21467,7 @@
         "propertyNumber": "Karburatorn 2",
         "streetAddress": "Cronmans Väg 6",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5885112685113,
         "longitude": 13.0354825384723
     },
@@ -21511,7 +21478,7 @@
         "propertyNumber": "Fosie 165:25, Duetten 1",
         "streetAddress": "Kvartettgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.563610003941,
         "longitude": 13.0047200013494
     },
@@ -21522,7 +21489,7 @@
         "propertyNumber": "Kirseberg 30:2",
         "streetAddress": "Åsgårdsgatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.6055599987371,
         "longitude": 13.030279999942
     },
@@ -21533,7 +21500,7 @@
         "propertyNumber": "Kulthuset 1",
         "streetAddress": "Drakagatan",
         "municipalityCode": "1280",
-        "extraInfo": "Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",
+        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5513709996269,
         "longitude": 12.9888850003144
     },
@@ -24748,17 +24715,6 @@
         "extraInfo": null,
         "latitude": 57.4785325810102,
         "longitude": 12.0795153977863
-    },
-    {
-        "id": "202415713",
-        "name": "SNIPEN PENDELPARKERING",
-        "secondaryName": null,
-        "propertyNumber": "SPÅRHAGA 1:5",
-        "streetAddress": "LINDOMEVÄGEN",
-        "municipalityCode": "1384",
-        "extraInfo": null,
-        "latitude": 57.5620165196644,
-        "longitude": 11.9495107821297
     },
     {
         "id": "202415737",
@@ -36279,10 +36235,10 @@
     },
     {
         "id": "4025687",
-        "name": "ÅVS Väse",
+        "name": "Farmtrade",
         "secondaryName": "12715",
-        "propertyNumber": "HAMMAR 1:24",
-        "streetAddress": "Storgatan 44",
+        "propertyNumber": "HAMMAR 1:136",
+        "streetAddress": "Arnövägen ",
         "municipalityCode": "1780",
         "extraInfo": "",
         "latitude": 59.3801951,
@@ -46091,7 +46047,7 @@
     },
     {
         "id": "4430046",
-        "name": "Valhalla, Torsvägen",
+        "name": "Torsvägen",
         "secondaryName": null,
         "propertyNumber": "ÖRNSKÖLDSVIK 6:1",
         "streetAddress": "Torsvägen",

@@ -656,7 +656,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 17602,Sickla köpkvarter Planiavägen,,SICKLAÖN 117:17,Planiavägen 5,0182,,59.3056412832999,18.1337050935963
 17661,Blåklockansväg,,LÄNNERSTA 10:1,Blåklockans väg 2,0182,,59.3103196441387,18.2605482628312
 17694,Boo Gårdsskola ,,BO 1:70,Boovägen 7,0182,,59.3089998819836,18.2849568031488
-19001,,,VELAMSUND 14:1,Åbroddsvägen 2 A,0182,,59.3505548114911,18.2905472224588
+19001,Åbroddsvägen,,VELAMSUND 14:1,Åbroddsvägen 2 A,0182,,59.3505548114911,18.2905472224588
 9171,Mensättrav/Värmdöv,,MENSÄTTRA 1:1,Mensättravägen/Värmövägen,0182,,59.329295388703,18.2821421116365
 9173,Björknäs skola,,BJÖRKNÄS 1:315,Björknäs skolväg,0182,,59.3128286705604,18.2398521175526
 9176,"ICA, Henriksdalsberget",,SICKLAÖN 37:11,Henriksdalsringen mittemot 1 -3,0182,,59.3113730728406,18.118014802913
@@ -1805,9 +1805,9 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 17740,P-plats Järnvägskrogen,,STANSTORP 5:1 ,Järnvägsgatan,1230,,55.64138,13.21666
 17741,P-plats mitt emot Reningsverket,,BORGGÅRD 1:4 ,Sliparevägen,1230,,55.65416,13.21277
 9990,Domsagovägen,,STANSTORP 6:8 ,Lagv/Domsagovägen 1,1230,,55.640293,13.194097
-185089,ÅVS Posten,Åkarp,Åkarp 4:2,Dalslundsvägen,1231,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6536100007579,13.1127799979286
-185090,ÅVS COOP,Arlöv,Tågarp 21:146,Arlövsvägen 34,1231,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6386100044588,13.0591700069198
-185091,ÅVS Åkarp,Åkarp,Åkarp 1:93,Lervägen,1231,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6566700003755,13.1008300040044
+185089,ÅVS Posten,Åkarp,Åkarp 4:2,Dalslundsvägen,1231,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6536100007579,13.1127799979286
+185090,ÅVS COOP,Arlöv,Tågarp 21:146,Arlövsvägen 34,1231,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6386100044588,13.0591700069198
+185091,ÅVS Åkarp,Åkarp,Åkarp 1:93,Lervägen,1231,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6566700003755,13.1008300040044
 52090771,15022 (Järnvägsgatan),,BILLESHOLMS GÅRD 1:192,Järnvägsgatan,1260,,56.053838233973,12.9767090417918
 52090784,17585 (Spannmålsgatan 18),,ELESTORP 6:71,Spannmålsgatan 18,1260,,56.0027806644272,12.9543656898293
 52090809,15675 (Verkstadsgatan 7),,BJUV 3:55,Verkstadsgatan 7,1260,,56.0757468544124,12.9346101128144
@@ -1900,63 +1900,60 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 52090806,539 (Färgerivägen 2 B),,FÖRSLÖV 2:4,Färgerivägen 2 B,1278,,56.3495003268105,12.8196930914264
 52090807,544 (Svenstadsvägen 375),,HOV 2:6,Svenstadsvägen 375,1278,,56.4348240324143,12.7297095170599
 52090808,547 (Segelstorpsvägen 18),,ÄNGELBÄCK S:1,Segelstorpsvägen 18,1278,,56.3570159526683,12.7449651320516
-185092,ÅVS Hermodalstorget,Malmö,Fosie 165:136,Professorsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5669399965665,13.0213899969314
-185093,ÅVS Mobilia,Malmö,Kuratorn 3,Per Albin Hanssons väg,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5799999992217,13.0011099927542
-185094,ÅVS Limhamnsfältet,Malmö,Limhamn 11:149,Limhamnsvägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5994399966847,12.9602799943701
-185095,ÅVS Högerudsplan,Limhamn,Limhamn 150:1,Högerudsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5869400042818,12.9397199937043
-185096,ÅVS Hästhagens IP,Malmö,Innerstaden 10:14,Fågelbacksgatan 9,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6013284488053,12.9865437199119
-185097,ÅVS Borgmästaregården,Malmö,Innerstaden 9:173,Annebergsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5830600038778,12.9977799949093
-185098,ÅVS Flensburg,Malmö,Kuratorn 3,John Ericssons väg,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.58555999899,13.0013899976901
-185099,ÅVS Kattarpstorget,Malmö,Rosengård 130:391,Cypressvägen 27,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5738101587535,13.0423685235475
-185100,ÅVS Själlandstorget,Malmö,Innerstaden 9:142,Roskildevägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5927799962091,12.9883299976883
-185101,ÅVS Gullviksborg,Malmö,Fosie 165:136,Eriksfältgatan 100,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5675000029361,13.0219400066065
-185102,ÅVS Svansjögatan,Malmö,Hyllie 160:12,Svansjögatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5800000019959,12.9755600067263
-185103,ÅVS Drottningtorget,Malmö,Innerstaden 1:14,Norra Vallgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.608609999287,13.0094400055341
-185104,ÅVS Segevång,Malmö,Kirseberg 30:2,Kronetorpsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6186099970817,13.0586100031292
-185105,ÅVS Beijers park,Malmö,Glidflygplanet 1,Calle Ljungbecks Gata 121,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6086791734489,13.0554977602375
-185106,ÅVS Håkanstorp,Malmö,Rosengård 4:72,Klubbegatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5991699993428,13.038889994268
-185107,ÅVS Höja,Malmö,Högatorp 2,Västra Skrävlingevägen 149,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5832467899546,13.0590549746519
-185108,ÅVS Lugnet,Malmö,Katten 17,Lugna Gatan 44,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5996259653534,13.0032438940857
-185109,ÅVS Erikslust,Malmö,Limhamn 11:149,Torupsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5927800002832,12.9672199971769
-185110,ÅVS Sörängen Limhamn,Limhamn,Limhamn 152:218,Västra Bernadottesgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5813900017082,12.9241700038776
-185111,ÅVS Söderkulla,Malmö,Fosie 165:255,Söderkullagatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5700494659437,13.007399581435
-185112,ÅVS Lindängen,Malmö,Fosie 162:25,Balladgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5630600022067,13.0130600070921
-185113,ÅVS Segevång,Malmö,Kirseberg 30:2,Segevångsgatan 4,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.616389997424,13.0477799932538
-185114,ÅVS Falsterboplan,Malmö,Innerstaden 7:21,Sofielundsvägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5894399982235,13.0136100037314
-185115,ÅVS Möllevången,Malmö,Innerstaden 7:21,Spångatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5958299960735,13.0122200023923
-185116,ÅVS Nobeltorget,Malmö,Innerstaden 120:213,Nobeltorget,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.590214998345,13.0179843795492
-185117,ÅVS Rörsjöstaden,Malmö,Eva 3,Kungsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6016700024355,13.0100000038176
-185118,ÅVS Paulibron,Malmö,Innerstaden 1:14,Södra Promenaden,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6044400041124,13.0105600068675
-185119,ÅVS Strandhem,Malmö,Bunkeflostrand 15:1,Klagshamnsvägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5422199987924,12.919439994109
-185120,ÅVS Nils Perssons Plan,Malmö,Innerstaden 10:94,Mariedalsvägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5975000000832,12.9830600006391
-185121,ÅVS Fajansvägen,Malmö,Käglinge 1:16,Fajansvägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5355599970545,13.0924999993318
-185122,ÅVS Producentgatan,Malmö,Producenten 1,Producentgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5641700028109,12.9872200028345
-185123,ÅVS Sufflörgatan,Malmö,Henriksdal 1,Sufflörgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5661100002746,12.9883299999293
-185124,ÅVS Maxi Toftanäs,Malmö,Halvljuset 1,Topplocksgatan 10,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5976709295397,13.0974092076625
-185125,ÅVS Bunkeflo ÅVC,Vintrie,Kommungården 2,Gottorpsvägen 52,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5583568182285,12.9432509882058
-185126,ÅVS Almåsa Fritidsby (Almåsavägen),Malmö,Fårabäck 180:61,Almåsa,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5638899977934,13.1358300020353
-185127,ÅVS Arkitektgatan,Malmö,Hyllie 165:44,Arkitektgatan 1,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.579999997696,12.9955599922477
-185128,ÅVS Majon Nilsonsgatan,Malmö,Innerstaden 10:94,Major Nilssonsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.594169997287,12.9722200067886
-185129,ÅVS Spånhusevägen,Malmö,Innerstaden 7:50,Spånehusvägen 52,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5954869913605,13.0178626508868
-185130,ÅVS Elinelunds koloniområde,Malmö,Limhamn 154:325,Elinelundsvägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5647199982696,12.9538899997225
-185131,ÅVS Lidl Krossverksgatan,Limhamn,Limhamn 150:1,Krossverksgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5783299989648,12.9283299943231
-185132,ÅVS Limhamn Sommarvägen,Limhamn,Limhamn 154:376,Sommarvägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5763900035308,12.9136100022784
-185133,ÅVS Norra Hamnen ÅVC,Malmö,Malören 1,Bjurögatan 20,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6278156569837,13.0223586714878
-185134,ÅVS Västa Hamnen,Malmö,Hamnen 33:1,Stora Varvsgatan 17,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6105600036722,12.9786100014945
-185135,ÅVS Kapellgatan,Malmö,Innerstaden 6:59,Kapellgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5938900028305,13.0024999974191
-185136,ÅVS Gevaligergatan,Malmö,Kirseberg 30:2,Gevaldigergatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6111099987019,13.041109995192
-185137,ÅVS Kirsebergs Ishall,Malmö,Kirseberg 30:2,Österhagsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6063900031288,13.0372199966149
-185138,ÅVS Börringegatan,Malmö,Flöjten 1,Börringegatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5897200041731,12.9705599941558
-185139,ÅVS Ola Brorssons väg,Bunkeflostrand,Bunkeflostrand 22:1,Ola Brorssons väg,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5569783307147,12.92310994788
-185140,ÅVS Pilåkersvägen,Malmö,Innerstaden 9:142,Pilåkersvägen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5908300023587,12.9774999953588
-185141,ÅVS Almåsa Fritidsby (Ebbarpsvägen),Malmö,Fårabäck 180:60,Ebbarpsvägen 28,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5695166110665,13.1263130476234
-185142,ÅVS Ribergsborgsstigen,Limhamn,Limhamn 11:277,Ribergsborgsstigen,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.591670001669,12.938329995076
-185143,ÅVS Oxie Kyrkoväg,Oxie,Kyrkskolan 4,Byåkersvägen 30,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5503479111115,13.0965431145079
-185144,ÅVS Norra Parkgatan,Malmö,Innerstaden 7:21,Norra Parkgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5919399980467,13.0119399932514
-185145,ÅVS Rosengård,Malmö,Karburatorn 2,Cronmans Väg 6,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5885112685113,13.0354825384723
-185146,ÅVS Almvik,Malmö,"Fosie 165:25, Duetten 1",Kvartettgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.563610003941,13.0047200013494
-185147,ÅVS Ellstorp,Malmö,Kirseberg 30:2,Åsgårdsgatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.6055599987371,13.030279999942
-186180,ÅVS IKEA Malmö,Malmö,Kulthuset 1,Drakagatan,1280,"Kontakt och felanmälan: VA SYD, 040-635 10 00, kund@vasyd.se",55.5513709996269,12.9888850003144
+185092,ÅVS Hermodsdalstorget,Malmö,Fosie 165:136,Professorsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5669399965665,13.0213899969314
+185093,ÅVS Mobilia,Malmö,Kuratorn 3,Per Albin Hanssons väg,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5799999992217,13.0011099927542
+185094,ÅVS Limhamnsfältet,Malmö,Limhamn 11:149,Limhamnsvägen,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5994399966847,12.9602799943701
+185095,ÅVS Högerudsplan,Limhamn,Limhamn 150:1,Högerudsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5869400042818,12.9397199937043
+185096,ÅVS Hästhagens IP,Malmö,Innerstaden 10:14,Fågelbacksgatan 9,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6013284488053,12.9865437199119
+185097,ÅVS Borgmästaregården,Malmö,Innerstaden 9:173,Annebergsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5830600038778,12.9977799949093
+185098,ÅVS Flensburg,Malmö,Kuratorn 3,John Ericssons väg,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.58555999899,13.0013899976901
+185099,ÅVS Kattarpstorget,Malmö,Rosengård 130:391,Cypressvägen 27,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5738101587535,13.0423685235475
+185100,ÅVS Själlandstorget,Malmö,Innerstaden 9:142,Roskildevägen,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5927799962091,12.9883299976883
+185101,ÅVS Gullviksborg,Malmö,Fosie 165:136,Eriksfältgatan 100,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5675000029361,13.0219400066065
+185102,ÅVS Svansjögatan,Malmö,Hyllie 160:12,Svansjögatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5800000019959,12.9755600067263
+185103,ÅVS Drottningtorget,Malmö,Innerstaden 1:14,Norra Vallgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.608609999287,13.0094400055341
+185104,ÅVS Segevång,Malmö,Kirseberg 30:2,Kronetorpsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6186099970817,13.0586100031292
+185105,ÅVS Beijers park,Malmö,Glidflygplanet 1,Calle Ljungbecks Gata 121,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6086791734489,13.0554977602375
+185106,ÅVS Håkanstorp,Malmö,Rosengård 4:72,Klubbegatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5991699993428,13.038889994268
+185107,ÅVS Höja,Malmö,Högatorp 2,Västra Skrävlingevägen 149,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5832467899546,13.0590549746519
+185108,ÅVS Lugnet,Malmö,Katten 17,Lugna Gatan 44,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5996259653534,13.0032438940857
+185109,ÅVS Erikslust,Malmö,Limhamn 11:149,Torupsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5927800002832,12.9672199971769
+185110,ÅVS Sörängen Limhamn,Limhamn,Limhamn 152:218,Västra Bernadottesgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5813900017082,12.9241700038776
+185111,ÅVS Söderkulla,Malmö,Fosie 165:255,Söderkullagatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5700494659437,13.007399581435
+185112,ÅVS Lindängen,Malmö,Fosie 162:25,Balladgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5630600022067,13.0130600070921
+185113,ÅVS Segevång,Malmö,Kirseberg 30:2,Segevångsgatan 4,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.616389997424,13.0477799932538
+185114,ÅVS Falsterboplan,Malmö,Innerstaden 7:21,Sofielundsvägen,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5894399982235,13.0136100037314
+185115,ÅVS Möllevången,Malmö,Innerstaden 7:21,Spångatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5958299960735,13.0122200023923
+185116,ÅVS Nobeltorget,Malmö,Innerstaden 120:213,Nobeltorget,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.590214998345,13.0179843795492
+185117,ÅVS Rörsjöstaden,Malmö,Eva 3,Kungsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6016700024355,13.0100000038176
+185118,ÅVS Paulibron,Malmö,Innerstaden 1:14,Södra Promenaden,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6044400041124,13.0105600068675
+185119,ÅVS Strandhem,Malmö,Bunkeflostrand 15:1,Klagshamnsvägen,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5422199987924,12.919439994109
+185120,ÅVS Nils Perssons Plan,Malmö,Innerstaden 10:94,Mariedalsvägen,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5975000000832,12.9830600006391
+185122,ÅVS Producentgatan,Malmö,Producenten 1,Producentgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5641700028109,12.9872200028345
+185123,ÅVS Sufflörgatan,Malmö,Henriksdal 1,Sufflörgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5661100002746,12.9883299999293
+185124,ÅVS Maxi Toftanäs,Malmö,Halvljuset 1,Topplocksgatan 10,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5976709295397,13.0974092076625
+185125,ÅVS Bunkeflo ÅVC,Vintrie,Kommungården 2,Gottorpsvägen 52,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5583568182285,12.9432509882058
+185126,ÅVS Almåsa Fritidsby (Almåsavägen),Malmö,Fårabäck 180:61,Almåsa,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5638899977934,13.1358300020353
+185127,ÅVS Arkitektgatan,Malmö,Hyllie 165:44,Arkitektgatan 1,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.579999997696,12.9955599922477
+185128,ÅVS Major Nilssonsgatan,Malmö,Innerstaden 10:94,Major Nilssonsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.594169997287,12.9722200067886
+185129,ÅVS Spånhusevägen,Malmö,Innerstaden 7:50,Spånehusvägen 52,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5954869913605,13.0178626508868
+185130,ÅVS Elinelunds koloniområde,Malmö,Limhamn 154:325,Elinelundsvägen,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5647199982696,12.9538899997225
+185131,ÅVS Lidl Krossverksgatan,Limhamn,Limhamn 150:1,Krossverksgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5783299989648,12.9283299943231
+185132,ÅVS Limhamn Sommarvägen,Limhamn,Limhamn 154:376,Sommarvägen,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5763900035308,12.9136100022784
+185133,ÅVS Norra Hamnen ÅVC,Malmö,Malören 1,Bjurögatan 20,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6278156569837,13.0223586714878
+185134,ÅVS Västa Hamnen,Malmö,Hamnen 33:1,Stora Varvsgatan 17,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6105600036722,12.9786100014945
+185135,ÅVS Kapellgatan,Malmö,Innerstaden 6:59,Kapellgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5938900028305,13.0024999974191
+185136,ÅVS Gevaligergatan,Malmö,Kirseberg 30:2,Gevaldigergatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6111099987019,13.041109995192
+185137,ÅVS Kirsebergs Ishall,Malmö,Kirseberg 30:2,Österhagsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6063900031288,13.0372199966149
+185138,ÅVS Börringegatan,Malmö,Flöjten 1,Börringegatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5897200041731,12.9705599941558
+185139,ÅVS Ola Brorssons väg,Bunkeflostrand,Bunkeflostrand 22:1,Ola Brorssons väg,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5569783307147,12.92310994788
+185140,ÅVS Pilåkersvägen,Malmö,Innerstaden 9:142,Pilåkersvägen,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5908300023587,12.9774999953588
+185143,ÅVS Oxie Kyrkoväg,Oxie,Kyrkskolan 4,Byåkersvägen 30,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5503479111115,13.0965431145079
+185144,ÅVS Norra Parkgatan,Malmö,Innerstaden 7:21,Norra Parkgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5919399980467,13.0119399932514
+185145,ÅVS Rosengård,Malmö,Karburatorn 2,Cronmans Väg 6,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5885112685113,13.0354825384723
+185146,ÅVS Almvik,Malmö,"Fosie 165:25, Duetten 1",Kvartettgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.563610003941,13.0047200013494
+185147,ÅVS Ellstorp,Malmö,Kirseberg 30:2,Åsgårdsgatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.6055599987371,13.030279999942
+186180,ÅVS IKEA Malmö,Malmö,Kulthuset 1,Drakagatan,1280,Kontakt: VA SYD 040-635 10 00 kund@vasyd.se,55.5513709996269,12.9888850003144
 12281,Återvinningsstation Pumpvägen Dalby,,Semaforen 1,Pumpvägen,1281,,55.6593717654081,13.3432907360403
 12733,Återvinningsstation Drakskeppsvägen Lund,,Linero 1:9,Drakskeppsvägen,1281,,55.698972899875,13.2325078398428
 14125,Återvinningsstation Omvägen Genarp,,Kärrvallen 3,Genarp,1281,,55.6065181093165,13.39482860467
@@ -2249,7 +2246,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 202415684,BARNAMOSSEN ÅTERVINNINGSCENTRAL,,HÖGLANDA 1:12,BARNAMOSSEVÄGEN 67,1384,,57.5229399264352,12.141798193696
 202415701,"FRILLESÅS VALLERSVIKSVÄGEN, VID JÄRNVÄGEN",,FRILLESÅS-RYA 1:17,VALLERSVIKSVÄGEN,1384,,57.3170691642516,12.1696418678762
 202415711,STORA COOP KUNGSBACKA PARKERING,,KUNGSBACKA 4:62,HANTVERKSGATAN,1384,,57.4785325810102,12.0795153977863
-202415713,SNIPEN PENDELPARKERING,,SPÅRHAGA 1:5,LINDOMEVÄGEN,1384,,57.5620165196644,11.9495107821297
 202415737,LINDÄLVSGYMNASIET,,VARLA 12:68,LINDÄLVS GATA 1,1384,,57.4963049046317,12.0725294075662
 202415934,ÅSA IP,,ÅSA 4:30,HULTAVÄGEN,1384,,57.3474086963691,12.1285624237239
 202415980,VALLDA HEBERG,,HEBERG 3:43,VALLDAVÄGEN - LUNNAVÄGEN,1384,,57.466115341433,11.9942304524363
@@ -3297,7 +3293,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 4025684,Kroppkärr,12704,SÖDRA KROPPKÄRR 1:1,Talluddsgatan/Östra Infarten ,1780,,59.4001118,13.5486633
 4025685,Sundsta; bakom Circle K,12712,SUNDSTA 2:1,Sävegatan/Drottning Kristinas Väg ,1780,,59.3934918,13.5145806
 4025686,Edsvalla,12713,HÖGLUNDA 1:322,Edsvallavägen/Dalsängsvägen ,1780,,59.4400239,13.2097286
-4025687,ÅVS Väse,12715,HAMMAR 1:24,Storgatan 44,1780,,59.3801951,13.849316
+4025687,Farmtrade,12715,HAMMAR 1:136,Arnövägen ,1780,,59.3801951,13.849316
 4025688,Skattkärr; Konsum,12717,BJÖRKNÄS 31:4,Skattkärrsvägen 34,1780,,59.4133478,13.6749157
 4025689,Skåre centrum; Ica Hallen,12718,ÖSTRA TORP 1:154,Centrumvägen 4,1780,,59.435477,13.4391083
 4025690,ÅVC Djupdalen,13734,BJÖRBY 1:75,Norra Järpetan 545,1780,,59.442348,13.5060292
@@ -4189,7 +4185,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,Bruksvägen,1882,,58.753609998
 4430042,"Kubbe, Korsningen väg 348/1039",,KUBBE 7:26,Kubbe,2284,,63.520792647594,18.0603902578113
 4430043,"Myckelgensjö, Korsningen väg 1035/984",,MYCKELGENSJÖ 5:17,Myckelgensjö,2284,,63.5783609047461,17.5939907155049
 4430045,"Myckling, Mittemot Mycklingskolan",,SJÄLEVADS-MYCKLING 1:47,Mycklingsvägen,2284,,63.3006827668731,18.6059347930761
-4430046,"Valhalla, Torsvägen",,ÖRNSKÖLDSVIK 6:1,Torsvägen,2284,,63.2991478260362,18.7268710520889
+4430046,Torsvägen,,ÖRNSKÖLDSVIK 6:1,Torsvägen,2284,,63.2991478260362,18.7268710520889
 4430047,Vegagatan,,ÖRNSKÖLDSVIK 8:24,Vegagatan,2284,,63.2920594581503,18.7212354515156
 4430049,"Åsdalen, Vid vändplanen",,ÖRNSKÖLDSVIK 3:1,Västra Dalgatan,2284,,63.2942157772864,18.7002812564755
 4430050,"Husum, Isbanan",,DOMBÄCK 1:161,Wibergsvägen,2284,,63.3347180097447,19.1461947132429
