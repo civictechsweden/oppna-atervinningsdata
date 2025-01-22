@@ -37433,6 +37433,17 @@
         "longitude": 14.428104
     },
     {
+        "id": "16345",
+        "name": "Garagegatan",
+        "secondaryName": "",
+        "propertyNumber": "Agen 11:12",
+        "streetAddress": "Garagegatan 4",
+        "municipalityCode": "1862",
+        "extraInfo": "",
+        "latitude": 59.24282,
+        "longitude": 14.434922
+    },
+    {
         "id": "17291",
         "name": "Åtorp",
         "secondaryName": "",
@@ -45794,7 +45805,7 @@
     },
     {
         "id": "4430017",
-        "name": "Sund, Korsningen Droskgränd/Sundsvägen",
+        "name": "Droskgränd",
         "secondaryName": null,
         "propertyNumber": "SUND 1:33",
         "streetAddress": "Droskgränd",
