@@ -10608,11 +10608,11 @@
         "name": "NÄVEKVARN",
         "secondaryName": null,
         "propertyNumber": "NÄVEKVARN 3:3",
-        "streetAddress": "MEJERIVÄGEN 17",
+        "streetAddress": "Nyköpingsvägen 56",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.6313899038697,
-        "longitude": 16.8033299654183
+        "latitude": 58.6368252477441,
+        "longitude": 16.8038917320932
     },
     {
         "id": "9474",
@@ -28422,17 +28422,6 @@
         "extraInfo": "",
         "latitude": 57.573657,
         "longitude": 11.778668
-    },
-    {
-        "id": "20005",
-        "name": "ÅVS 20005 Kretsloppsplatsen Brännö",
-        "secondaryName": "",
-        "propertyNumber": "Brännö S:2, S:6",
-        "streetAddress": "Kretsloppsplatsen Brännö",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.648738,
-        "longitude": 11.784591
     },
     {
         "id": "20006",
