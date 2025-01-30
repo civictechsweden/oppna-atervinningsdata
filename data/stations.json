@@ -21945,17 +21945,6 @@
         "longitude": 12.6316581959967
     },
     {
-        "id": "52090796",
-        "name": "8210 (Bränneslyckevägen 2)",
-        "secondaryName": null,
-        "propertyNumber": "STUBBARP 1:57",
-        "streetAddress": "Bränneslyckevägen 2",
-        "municipalityCode": "1284",
-        "extraInfo": null,
-        "latitude": 56.2601464958344,
-        "longitude": 12.573339261538
-    },
-    {
         "id": "52090797",
         "name": "17574 (Pål Anders Väg 1)",
         "secondaryName": null,
@@ -48528,8 +48517,8 @@
         "streetAddress": "STORGATAN 32 A",
         "municipalityCode": "2425",
         "extraInfo": null,
-        "latitude": 64.2555872872223,
-        "longitude": 16.4083851029137
+        "latitude": 64.26153388342,
+        "longitude": 16.4085699900782
     },
     {
         "id": "303029",
@@ -48891,8 +48880,8 @@
         "streetAddress": "ADAMSGATAN 1",
         "municipalityCode": "2463",
         "extraInfo": null,
-        "latitude": 64.165003283915,
-        "longitude": 17.3464969764038
+        "latitude": 64.1625599884061,
+        "longitude": 17.3461986473012
     },
     {
         "id": "65000088563",
