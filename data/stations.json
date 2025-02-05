@@ -2317,8 +2317,8 @@
         "streetAddress": "Hallundavägen 63-111",
         "municipalityCode": "0127",
         "extraInfo": null,
-        "latitude": 59.2444695379367,
-        "longitude": 17.7997303491185
+        "latitude": 59.2448363122553,
+        "longitude": 17.7989711231849
     },
     {
         "id": "2144221",
@@ -8815,11 +8815,11 @@
         "name": "9499 Parkeringsplats Backluravägen 11",
         "secondaryName": null,
         "propertyNumber": "STAVEN 9",
-        "streetAddress": "Backluravägen 11c",
+        "streetAddress": "Backluravägen 11C",
         "municipalityCode": "0192",
         "extraInfo": null,
-        "latitude": 58.9140579841046,
-        "longitude": 17.9394470577961
+        "latitude": 58.9139748971584,
+        "longitude": 17.9395442329255
     },
     {
         "id": "96631",
@@ -45045,6 +45045,17 @@
         "longitude": 17.2571396829429
     },
     {
+        "id": "107446",
+        "name": "Granlo Vikingavägen/Västra vägen",
+        "secondaryName": null,
+        "propertyNumber": "GRANLO 6:1",
+        "streetAddress": "ÅVS Vikingavägen 77",
+        "municipalityCode": "2281",
+        "extraInfo": null,
+        "latitude": 62.4057209793073,
+        "longitude": 17.2445386653042
+    },
+    {
         "id": "107447",
         "name": "Granloholm centrum",
         "secondaryName": null,
@@ -45219,6 +45230,17 @@
         "extraInfo": null,
         "latitude": 62.4185412448973,
         "longitude": 17.3343229285626
+    },
+    {
+        "id": "107463",
+        "name": "Bydalen Motionsspåret",
+        "secondaryName": null,
+        "propertyNumber": "BYDALEN 1:1",
+        "streetAddress": "ÅVS Segelvägen 20",
+        "municipalityCode": "2281",
+        "extraInfo": null,
+        "latitude": 62.4149718477682,
+        "longitude": 17.325139044819
     },
     {
         "id": "107464",
