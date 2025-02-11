@@ -305,7 +305,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 15570,Brunna Kretsloppscentral,,,Energivägen 10,0139,,59.510017788238244,17.744919210812085
 15571,Skällsta Kretsloppscentral,,,Ullevivägen 6,0139,,59.52422833235287,17.624002212071677
 15886,"Kockbacka, p-plats",,,Begoniaslingan,0139,,59.51045384837326,17.655427606499124
-17250,Parkeringen Idrottsplatsen,,,Västa Rydsvägen,0139,,59.49308323425825,17.74199280125936
+17250,Parkeringen Idrottsplatsen,,,Västa Rydsvägen,0139,,59.492019968868114,17.73977493000335
 17702,Norrgrindsvägen Bro Centrum,,,Norrgrindsvägen,0139,,59.51628650181663,17.641045331365603
 17707,Parkeringen Bygdegårdsvägen,,,Bygdegårdsvägen 20,0139,,59.47968385993559,17.741238527906383
 38465,Lundavägen,,,Lundavägen,0140,,59.1753967084597,17.4361650595052
@@ -834,7 +834,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 16212,Gredelbyvägen;utanför Kretsloppsparken,,,Gredelbyvägen 25,0330,,59.73722504634533,17.800037285348793
 16431,Alsike Norra/Parkering vid Brännkärrsskolan,,,Skogsgläntevägen,0330,,59.75780067868266,17.777101002950516
 99180,"Ängby Park, Vändplan vid Folkets Park",,,Gredelbyleden/Apelsinvägen 75,0330,,59.72448425513508,17.775912535773845
-99187,"Knivsta, Bouleplan vid Kärrmarksvägen",,,Apoteksvägen 26,0330,,59.72611923127836,17.801481122453428
 988259,ÅVS 15580 Återbruket Heby,,Heby Horrsta 4:36,Industrivägen 11,0331,,59.9349067105254,16.8601026688346
 988260,ÅVS 15581 Återbruket Östervåla,,Heby Östervåla Prästgård 1:35,Zetterbergs väg 2,0331,,60.1746107417052,17.1826132023379
 988268,ÅVS 16056 Ol-Jansvägen,,Heby Hov 4:1,Ol-Jansvägen,0331,,60.1842343606454,17.1684439923673
@@ -2345,7 +2344,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 61965,Pressarevägen / Hallerna skola,,,Pressarevägen,1415,,58.049418,11.838377
 61966,Hantverkaregatan / vid OK,,,Hantverkaregatan vid OK,1415,,58.075338,11.839163
 61967,Hasselbacken,,,Hasselbacken,1415,,58.061961,11.844914
-61968,Kyrkebyvägen / Jörlandaboden,,,Kyrkebyvägen,1415,,57.986473,11.828117
+61968,Novavägen / Jörlandagården,,,Novavägen 1,1415,,57.986173,11.829692
 61969,Kristinedals förskola,,,Kristinedalsvägen 4,1415,,58.064522,11.833315
 61970,Kyrkenorum,,,Kyrkenorum,1415,,58.056137,11.864949
 61971,"Södra vägen, P-plats",,,"Södra vägen, P-plats",1415,,58.06885,11.821728
