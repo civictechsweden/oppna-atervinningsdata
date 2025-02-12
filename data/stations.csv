@@ -2461,15 +2461,15 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 7132,ÅVS Töllsjö - Affären i Töllsjö,,Töllsjö Stom 1:63,Morjhultsvägen 1,1443,,57.794516,12.632518
 1000,Grästorp Vårdcentralens panncentral,,ÅSEVI 2,Rönnvägen,1444,,58.33,12.67778
 1001,Hemköp,,RÄVEN 16,Södergatan,1444,,58.33389,12.67611
-15441,Forshall (ÅVC),,GRÄSTORP LANNA 5:20,Grästorp,1444,,58.34278,12.66083
-997,Flakeberg Köpglädje,,OLUNDA 1:5,Flakeberg,1444,,58.32282,12.75917
+15441,Forshall (ÅVC),,GRÄSTORP LANNA 5:20,,1444,,58.34278,12.66083
+997,Flakeberg Köpglädje,,OLUNDA 1:5,,1444,,58.32282,12.75917
 999,Grästorp ICA,,SKATAN 31,Oskarsgatan,1444,,58.33417,12.67972
 15550,Krusegården (ÅVC),,ESSUNGA BÄREBERG 1:10,Skattebacken 21,1445,,58.19682,12.73609
 16861,Järnvägsgatan / Liljegatan,,STÄDET 8,Järnvägsgatan 17,1445,,58.18539,12.71453
 17683,Lunnehov IP,,ESSUNGA STORA FLÖTTORP 6:1,Barne-Åsaka Lunnehov 701,1445,,58.15417,12.82722
-7482,Bygdegården,,FRÄMMESTAD 22:1,Bygdegården,1445,,58.23114,12.66453
-7483,"Samlingslokalen, g:a affären",,FÅGLUM 1:28,"Samlingslokalen, g:a affären",1445,,58.12583,12.78056
-7485,"Samlingslokalen, g:a affären",,ESSUNGA KROKSTORP 1:1,"Samlingslokalen, g:a affären",1445,,58.16694,12.79333
+7482,Bygdegården,,FRÄMMESTAD 22:1,,1445,,58.23114,12.66453
+7483,"Samlingslokalen, g:a affären",,FÅGLUM 1:28,,1445,,58.12583,12.78056
+7485,Affären ICA,,ESSUNGA KROKSTORP 1:1,,1445,,58.16694,12.79333
 12883,Karlsborgs (ÅVC),,KARLSBORG SVANVIK 3:205,Tippvägen 1,1446,,58.5475,14.49
 15007,Karlsborgs Fästning,,VANÄS 1:9,Östra Vallgatan 4,1446,,58.52944,14.53139
 16525,ICA Supermarket ,,KARLSBORG ASKEN 15,Storgatan 18,1446,,58.52972,14.51139
@@ -2556,21 +2556,21 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 17448,Helås,,HALVÅS 3:5,Arentorpsvägen 29,1470,,58.2775,12.88556
 17685,Heljeved ÅVC,,HUVEN 1,Fordonsgatan 6,1470,,58.25556,12.97667
 12201,Badhuset,,GÖTENE VÄSTERBY 1:280,Skogsvägen 17,1471,,58.52694,13.48056
-13237,Lundsbrunn,,GÖTENE GUTTORP 1:201,Lundsbrunn,1471,,58.46889,13.45111
-15442,Miljövägen 1 (ÅVC),,GÖTENE SILS-SANDTORP 1:15,Miljövägen 1 ,1471,,58.53028,13.46417
+13237,Lundsbrunn,,GÖTENE GUTTORP 1:201,,1471,,58.46889,13.45111
+15442,Miljövägen 1 (ÅVC),,GÖTENE SILS-SANDTORP 1:15,,1471,,58.53028,13.46417
 7872,Färghandeln,,HELDE 1:131,Lidköpingsvägen 18,1471,,58.52917,13.49194
-7873,Linnégatan 15/Hillbogatan,,GÖTENE HELDE 1:301,Linnégatan 15,1471,,58.525,13.50111
-7875,P-plats Konsum,,GÖTENE HÖNSÄTER 5:4,Coop,1471,,58.62806,13.43333
+7873,Linnégatan 15/Hillbogatan,,GÖTENE HELDE 1:301,,1471,,58.525,13.50111
+7875,P-plats Konsum,,GÖTENE HÖNSÄTER 5:4,,1471,,58.62806,13.43333
 7876,Pizzerian,,NÄSTAKVARN 2:2,Sjökvarnsvägen 10,1471,,58.51139,13.30361
 7879,Sil,,GÖTENE STJÄLKASKOGEN 1:185,Nygårdsvägen 20,1471,,58.52306,13.45722
-7880,Stationsvägen,,HEMMINGSSLÄTTEN 1:5,Stationsvägen,1471,,58.63444,13.56056
-10685,Fagersanna tennisbana,,FAGERSANNA 2:79,Fagersanna,1472,,58.46861,14.30028
+7880,Stationsvägen,,HEMMINGSSLÄTTEN 1:5,,1471,,58.63444,13.56056
+10685,Fagersanna tennisbana,,FAGERSANNA 2:79,,1472,,58.46861,14.30028
 10688,Stigstaholmsvägen,,BYRÅN 4,Stigstaholmsvägen 36,1472,,58.40778,14.14944
 10697,Folkets Park ,,TIBRO 4:1,Östra Långgatan ,1472,,58.42889,14.17167
 12885,Breviksvägen,,TÄRNAN 1,Breviksvägen 2,1472,,58.41444,14.18111
 14090,"Centrum, bakom korvkiosken",,SPRÅTTEBO 1:498,Storgatan/Bäckdalsgatan,1472,,58.42194,14.165
 14091,Tibro ÅVC,,TIBRO STÄMJÄRNET 9,Rydsgatan 9,1472,,58.41778,14.13694
-10921,Lekparken,,MÖCKELTORP 4:27,Lekparken,1473,,58.56028,14.145
+10921,Lekparken,,MÖCKELTORP 4:27, ,1473,,58.56028,14.145
 10922,Valdemar Anderssons magasin,,KRABBÄNGEN 1:7,Parkgatan/Järnvägsgatan,1473,,58.60528,14.03806
 10926,Centralskolans IP,,SKOLLÄRAREN 11,Fredsbergsvägen,1473,,58.71056,14.12111
 10929,Coop,,PLÅTSLAGAREN 7,Kyrkogatan 20,1473,,58.71028,14.12667
@@ -3076,16 +3076,15 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 9027,Björsäter,,BJÖRSÄTER 43:1,Björnlyckevägen,1493,,58.64139,13.7
 9028,Gästhamnen,,KANALJORDEN 1:2,Kanalvägen 5(till 9),1493,,58.8025,14.05806
 9031,Folkets Park,,GAMLA STADEN 6:1,Strandvägen 27,1493,,58.71389,13.82833
-9036,St1 Tapp Vattentornet ,,Mariefors Krontorp,"Marieforsleden, Krontorp",1493,,58.71139,13.85917
+9036,St1 Tapp Vattentornet ,,,"Marieforsleden, Krontorp",1493,,58.71139,13.85917
 9038,Bilverkstad,,GÄRDET 4:1,Gärdesgatan 2,1493,,58.70528,13.82028
 9039,Folktandvården,,MARIEHOLM 10:1,Bråtenvägen 4,1493,,58.695,13.80389
 9044,Sandbäcksvägen fd Skeppet,,KATRINEFORS 2:1,Sandbäcksvägen 42-44,1493,,58.69889,13.83556
-9045,Marieholms centrum,,MYRAN 1,Älgstigen 1,1493,,58.70417,13.8025
+9045,Drottning Kristinas Väg,,BIET 1 ,Drottning Kristinas väg,1493,,58.70504,13.8058
 9048,"Lockerudsskolan, Termiten 1",,TERMITEN 1,Västra vägen 39,1493,,58.6975,13.79167
 9049,Reningsverket,,SJÖTORP 2:209,Fiskare Pärs Väg 8,1493,,58.83583,13.97694
 9050,Tidavads skola,,TIDAVAD 3:7,Tidavad nya skolan 1,1493,,58.57806,13.85194
 9051,Norr om Torsö skola,,HÄSSLESTAD 1:22,Hässlestadsvägen ,1493,,58.79,13.81222
-9052,Affären,,ULLERVAD 1:5,Ullervadsvägen 7,1493,,58.66528,13.85778
 149412860,ÅVS FILSBÄCK,,FILSBÄCK 2:45,UDDEHOLMSVÄGEN,1494,,58.4920574664253,13.2510591473753
 149412861,ÅVS FRAMNÄS,,SANNORNA 3:1,FRAMNÄS PARKERING,1494,,58.5116109614204,13.1418859792738
 149412862,ÅVS GILLSTAD,,GILLSTAD 1:26,SÖRBYVÄGEN,1494,,58.440731502925,12.9606787318237
@@ -3111,36 +3110,36 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 149417047,ÅVS MAJÅKER,,TORSBORG 1:1,JORDBRUKSGATAN 1 MAJÅKER,1494,,58.4813666604607,13.1380940316924
 149417395,ÅVS FRAMNÄS KÖPCENTRUM SINGELSTATION,,HARVEN 4,FRAMNÄSVÄGEN 1 FRAMNÄS KÖPCENTRUM,1494,,58.5078694790059,13.1476837491704
 149417445,ÅVS COOP ÄNGHAGEN SINGELSTATION,,FJÄLLSKIVLINGEN 4,RÖRSTRANDSGATAN 5 COOP ÄNGHAGEN,1494,,58.4941535940459,13.1829650018736
-15466,Rödjorna (ÅVC),,SKARA HÄRLINGSTORP 4:1,Rödjorna,1495,,58.37611,13.545
+15466,Rödjorna (ÅVC),,SKARA HÄRLINGSTORP 4:1,,1495,,58.37611,13.545
 16237,Willys parkering,,TOR 4,Marumsgatan,1495,,58.38528,13.43417
-9782,Badet,,SKARA ARDALA 1:15,Badet,1495,,58.35944,13.33417
+9782,Badet,,SKARA ARDALA 1:15,,1495,,58.35944,13.33417
 9783,ICA Hästen,,SKARA KULETOMTEN 1:226,Bangatan 5,1495,,58.38778,13.57083
 9784,Eggby,,SKARA EGGBY 17:13,Holmavägen,1495,,58.43278,13.64139
 9785,Lokstallet,,SKARA GAMLA STADEN 2:1,Vallgatan,1495,,58.38333,13.44861
-9786,Skaravallen p-plats Hindsbogatan,,SKARA MARIEBERG 2:1,Skaravallen,1495,,58.38583,13.42444
-9787,P-plats Katedralskolan,,SKARA DOMPROSTEN 1,Katedralskolan,1495,,58.39111,13.45056
+9786,Skaravallen p-plats Hindsbogatan,,SKARA MARIEBERG 2:1,,1495,,58.38583,13.42444
+9787,P-plats Katedralskolan,,SKARA DOMPROSTEN 1,,1495,,58.39111,13.45056
 9789,Coop Forum,,BOCKEN 1,Smedstorpsgatan 6,1495,,58.37944,13.41361
-9791,ICA Munken,,SKARA THALIA 2,ICA Munken,1495,,58.38389,13.43667
+9791,ICA Munken,,SKARA THALIA 2, ,1495,,58.38389,13.43667
 9793,OK/Q8,,ÅKAREN 1,Skaraborgsgatan 70,1495,,58.39083,13.46139
-9796,P-plats skolan,,SKARA KLOSTRET 22:1,Skolan,1495,,58.38639,13.64778
-12500,Södra Ryd (ÅVC),,okänd,Spånvägen,1496,,58.42083,13.87083
+9796,P-plats skolan,,SKARA KLOSTRET 22:1,,1495,,58.38639,13.64778
+12500,Södra Ryd (ÅVC),,,Spånvägen,1496,,58.42083,13.87083
 12814,"Skövde, Östermalm",,SKÖVDE 5:250,Östergatan,1496,,58.38694,13.87333
 12816,"Södra Ryd, Östra Skogsrovägen",,RYD 15:1,Östra Skogsrovägen,1496,,58.42361,13.88472
 12817,"Skövde, Skultorps IP",,SKULTORP 2:3,Sjogerstadsvägen,1496,,58.33611,13.82028
 12818,"Värsås, Västerleden",,"VÄRSÅS 1:15, 8:49",Västerleden,1496,,58.34944,14.04917
 13283,Skultorp,,SKULTORP 1:147,Klagstorpsvägen,1496,,58.34167,13.84111
 13284,Väring,,STORA VÄRING 11:17,Industrigatan,1496,,58.51333,13.96417
-13285,Stöpen (ÅVC),,okänd,Vägen mot Ulvåker,1496,,58.47917,13.875
+13285,Stöpen (ÅVC),,,Vägen mot Ulvåker,1496,,58.47917,13.875
 13286,Timmersdala (ÅVC),,SKÖVDE TIMMERSDALA 1:41,Bäckedalsvägen,1496,,58.53111,13.75639
 13287,Värsås (ÅVC),,SKÖVDE VÄRSÅS 5:27,Vid reningsverket,1496,,58.34972,14.05694
 13288,Skultorp (ÅVC),,SKÖVDE HENE 22:1,Industrigatan,1496,,58.3475,13.83139
-13290,Tidan (ÅVC),,okänd,Vaholmsvägen,1496,,58.58167,13.99972
-15467,Risängen (ÅVC),,SKÖVDE SKÖVDE 5:258,ÅVC,1496,,58.37889,13.87639
+13290,Tidan (ÅVC),,,Vaholmsvägen,1496,,58.58167,13.99972
+15467,Risängen (ÅVC),,SKÖVDE SKÖVDE 5:258,,1496,,58.37889,13.87639
 15860,Lidl Skövde,,VESSLAN 8,Gesällgatan,1496,,58.38278,13.83639
 15971,Ekebacksvägen Parkering,,EKEBACKEN S:1,Ekebacksvägen,1496,,58.41,13.83806
 16651,Trädgårdsstaden,,SKÖVDE 5:85,Jonstorpsgatan,1496,,58.41028,13.88389
 16807,Vändplats Lunden,,SKÖVDE 4:142,Lundenvägen,1496,,58.41,13.87389
-16875,Handlarn,,Okänd,Bäckvägen,1496,,58.39167,13.865
+16875,Handlarn,,,Bäckvägen,1496,,58.39167,13.865
 9842,"Skövde, p-plats Hemköp",,VÅMB 30:241,Gröna vägen,1496,,58.36861,13.82528
 9843,"Igelstorp, Affären",,SVENTORP 2:14,Stationsvägen,1496,,58.39972,13.97694
 9844,Lerdala,,LERDALA 2:44,Sparresätersvägen,1496,,58.48,13.71139
@@ -3152,10 +3151,10 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 9857,Hentorp,,SOFIEDAL 37,Claesborgsvägen/Gröna vägen,1496,,58.37361,13.82917
 9865,"Stöpen, ICA Blomman",,DUNSHULT 1:1,Hästskovägen 6,1496,,58.475,13.86389
 9869,"Södra Ryd, P-plats",,RYD 15:1,Myggdansvägen,1496,,58.43167,13.88056
-9870,"Tidan, P-plats",,NÄRLUNDA 4:52,Skövdevägen,1496,,58.57361,14.00417
+9870,Flistadsvägen,,BERGLUNDA 3:14,Flistadsvägen 5,1496,,58.57063,14.00257
 15151,ÅVC,,HJO SÅGEN 2,Timmervägen 1,1497,,58.31444,14.28639
 15152,Falköpingsvägen,,HJO SÖDER 3:43,Sigghusgatan 3,1497,,58.30167,14.275
-16143,Sturegatan,,HJO NORRSKENET 1,Sturegatan,1497,,58.30639,14.28917
+16143,Sturegatan,,HJO NORRSKENET 1,,1497,,58.30639,14.28917
 16214,Borreberga,,HJO KLARINETTEN 2,Jönköpingsvägen / Orkestervägen,1497,,58.29111,14.27306
 1698,Stationen,,HJO NORR 3:59,Bangatan 4,1497,,58.30611,14.29417
 1699,"Korsberga, Centrum, Bygdegården",,HAMRUM 3:71,Hjovägen,1497,,58.30389,14.10056
@@ -3172,28 +3171,28 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 5443,Tidaholm Dyckertsgatan,,KULLEN 3,Dyckertsgatan,1498,,58.18358,13.966811
 5446,Tidaholm Tidavallen p-plats,,STALLÄNGEN 3:1,Södra Ringvägen,1498,,58.171686,13.958837
 5448,Tidaholm Östergatan,,MONTÖREN 14,Östergatan 3,1498,,58.183516,13.976515
-13441,Mossen (ÅVC),,FALKÖPING FALEVI 8:14,Mossvägen,1499,,58.15528,13.53444
+13441,Mossen (ÅVC),,FALKÖPING FALEVI 8:14,,1499,,58.15528,13.53444
 15464,"Floby (ÅVC), tillfällig",,FALKÖPING TORREVALLA 1:1,Ullenevägen ,1499,,58.13528,13.36833
-15465,"Stenstorp (ÅVC), tillfällig",,FALKÖPING RANSTAD 9:16,Stenstorp,1499,,58.27194,13.72611
-15779,Folkets Park,,"DOTORP 6:26, RANTEN 2:23",Trinnöjegatan,1499,,58.17417,13.55833
+15465,"Stenstorp (ÅVC), tillfällig",,FALKÖPING RANSTAD 9:16,,1499,,58.27194,13.72611
+15779,Långtidsparkeringen,,DOTORP 6:28,Valsbogatan,1499,,58.17944,13.55749
 16580,Prästgårdsgärde,,GAMLA STAN 2:26,"Landbogatan, parkeringen",1499,,58.16,13.54972
 16732,Åttagården,,KRÄFTAN 1,Hjelmarörrsgatan parkeringen,1499,,58.17083,13.56972
 17230,Jäla Hembygdsgård,,ULLARP 1:1,Jäla Ullarp,1499,,58.03139,13.35611
-7522,Borgunda,,BORGUNDA 1:17,Borgunda,1499,,58.29222,13.79889
+7522,Borgunda,,BORGUNDA 1:17, ,1499,,58.29222,13.79889
 7523,Tempo Tranan P-plats,,BOLUM 9:24,Falköpingsvägen,1499,,58.30583,13.60528
 7524,"Bergsliden, öster",,"ANNEBORG 1:5, JÄTTNE 33:6",Danska vägen,1499,,58.18444,13.55444
 7527,Vid Willys,,GAMLA STAN 2:26,Marknadsgatan,1499,,58.1625,13.55972
 7528,P-plats,,GAMLA STAN 2:26,Hästbacken,1499,,58.16056,13.55778
 7530,ICA Maxi Stormarknad,,STALAKTITEN 1,Ålleberg Center,1499,,58.15291,13.56278
-7533,"P-plats järnvägen, kiosken",,"FLOBY 24:21, 40:30","P-plats järnvägen, kiosken",1499,,58.13778,13.33139
+7533,"P-plats järnvägen, kiosken",,"FLOBY 24:21, 40:30",,1499,,58.13778,13.33139
 7534,ICA Matfocus,,SLUTARP 7:80,Samuels gränd 1,1499,,58.08639,13.52222
 7535,Gamla Järnvägsstationen,,YLLESTAD 15:1,Ryttarevägen,1499,,58.03944,13.71111
 7536,Odensberg,,GÖKHEM 14:1,Hulegårdsvägen,1499,,58.1525,13.44083
 7537,Tempo Stenstorp,,ALLMÄNNINGEN 3,Storgatan 28,1499,,58.27222,13.71611
-7538,Torbjörntorp,,STORA BERG 1:2,Torbjörntorp,1499,,58.20944,13.60722
-7539,Korsningen,,Almänningen, Gamla Falköpingsvägen,1499,,58.2275,13.64556
-7540,Samlingslokalen,,SLÖTA 4:71,Slöta,1499,,58.09944,13.63167
-7541,Industrigatan,,ALVARED 4:164,Industrigatan,1499,,58.02417,13.56889
+7538,Torbjörntorp,,STORA BERG 1:2, ,1499,,58.20944,13.60722
+7539,Korsningen,,, Gamla Falköpingsvägen,1499,,58.2275,13.64556
+7540,Samlingslokalen,,SLÖTA 4:71, ,1499,,58.09944,13.63167
+7541,Industrigatan,,ALVARED 4:164,,1499,,58.02417,13.56889
 7542,Gudhem,,AMBJÖRNTORP 2:18, Torbjörntorpsvägen,1499,,58.22556,13.56722
 171501,Dalliden,,,Ravinvägen ,1715,,59.494214986892565,13.325524238458689
 171502,Fagerås,,,Arvikavägen ,1715,,59.518786186039925,13.22215110198882
