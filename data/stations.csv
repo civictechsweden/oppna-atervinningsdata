@@ -216,7 +216,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 95493,9693 Parkering vid Simhallen,,SALEM 5:20,Säbyhallsvägen 10,0128,,59.2027543384879,17.7668117672375
 96401,9687 Parkeringsplats,,NYBYGGAREN 10,Timmermansstigen 109,0128,,59.2034547581974,17.776100915097
 96775,9684 Salemvallen,,KASTANJEN 1,Rönningevägen/Solbovägen,0128,,59.2004572288956,17.7326950379428
-96777,9688 Parkeringsplats Mittemot Orrstigen,,SALEM 5:27,Söderbyvägen/Orrstigen,0128,,59.1939551149685,17.7694624960008
+96777,9688 Mittemot Orrstigen,,SALEM 5:27,Söderbyvägen/Orrstigen,0128,,59.1939551149685,17.7694624960008
 96779,9690 Vändplan,,STORSKOGEN 5,Storskogsvägen 13A,0128,,59.1979515306108,17.7691380981222
 96780,9685  Parkeringsplats,,UTTRINGE 1:831,Sannadalsvägen/Sandbäcksvägen,0128,,59.1858741191463,17.7442069935023
 96781,9686 Dånviksvägen/Fruängsvägen,,RÖNNINGE 1:301,Dånviksvägen/Fruängsvägen,0128,,59.1944643823152,17.7224083054435
@@ -2406,9 +2406,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 3011,3011 Höjden Tanumshede,,3011 Höjden Tanumshede,3011 Höjden Tanumshede,1435,,58.7295008887377,11.3132921409824
 3012,3012 Centrum Tanumshede,,3012 Centrum Tanumshede,3012 Centrum Tanumshede,1435,,58.7251304267715,11.3226363756309
 3013,3013 Vinbäck Tanumshede,,3013 Vinbäck Tanumshede,3013 Vinbäck Tanumshede,1435,,58.7164355602781,11.3338563842396
-3014,3014 Knäm,,3014 Knäm,3014 Knäm,1435,,58.7589059127427,11.261994216842
 3015,3015 Resö,,3015 Resö,3015 Resö,1435,,58.8031372077101,11.1748547036832
-3016,3016 Lur,,3016 Lur,3016 Lur,1435,,58.8183125073099,11.3293627666628
 3017,3017 Tyft Åvc,,3017 Tyft Åvc,3017 Tyft Åvc,1435,,58.7415154298328,11.4426953251205
 3018,3018 Östad,,3018 Östad,3018 Östad,1435,,58.7758678255586,11.5609184541665
 015,Brandstationen,Surte,,Vassvägen,1440,,57.82306,12.01472
@@ -3291,7 +3289,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 4025684,Kroppkärr,12704,SÖDRA KROPPKÄRR 1:1,Talluddsgatan/Östra Infarten ,1780,,59.4001118,13.5486633
 4025685,Sundsta; bakom Circle K,12712,SUNDSTA 2:1,Sävegatan/Drottning Kristinas Väg ,1780,,59.3934918,13.5145806
 4025686,Edsvalla,12713,HÖGLUNDA 1:322,Edsvallavägen/Dalsängsvägen ,1780,,59.4400239,13.2097286
-4025687,Farmtrade,12715,HAMMAR 1:136,Arnövägen ,1780,,59.3801951,13.849316
+4025687,ÅVS Väse,12715,HAMMAR 1:24,Storgatan 44,1780,,59.3801951,13.849316
 4025688,Skattkärr; Konsum,12717,BJÖRKNÄS 31:4,Skattkärrsvägen 34,1780,,59.4133478,13.6749157
 4025689,Skåre centrum; Ica Hallen,12718,ÖSTRA TORP 1:154,Centrumvägen 4,1780,,59.435477,13.4391083
 4025690,ÅVC Djupdalen,13734,BJÖRBY 1:75,Norra Järpetan 545,1780,,59.442348,13.5060292
@@ -3947,7 +3945,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 901019,Fredriksberg ÅVC,,Säfsen 3:24,Tyforsvägen 20  ,2085,,60.144017,14.355626
 901020,Sporthallen Ludvika,,Ludvika 6:1,Prästgårdsvägen 13  ,2085,,60.151765,15.192414
 901021,Hllängens IP,,Ludvika 6:20,Grågåsvägen 4  ,2085,,60.149278,15.210704
-307381,Inne på ÅVC Edsbyn,,Södra Edsbyn 49:4,Gamla Landsvägen 9,2121,,61.382894,15.834635
 307382,Alfta Bornvägen,,Alfta Kyrkby 28:80,Bornvägen,2121,,61.343777,16.057398
 307383,Alfta Järnvägsgatan,,Alfta Kyrkby 42:1,Järnvägsgatan Alfta,2121,,61.34627,16.073009
 307384,Utanför ÅVC Edsbyn,,Södra Edsbyn 49:1,Gamla Landsvägen 8,2121,,61.382401,15.834877

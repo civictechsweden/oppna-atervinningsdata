@@ -2388,7 +2388,7 @@
     },
     {
         "id": "96777",
-        "name": "9688 Parkeringsplats Mittemot Orrstigen",
+        "name": "9688 Mittemot Orrstigen",
         "secondaryName": null,
         "propertyNumber": "SALEM 5:27",
         "streetAddress": "Söderbyvägen/Orrstigen",
@@ -26477,17 +26477,6 @@
         "longitude": 11.3338563842396
     },
     {
-        "id": "3014",
-        "name": "3014 Knäm",
-        "secondaryName": null,
-        "propertyNumber": "3014 Knäm",
-        "streetAddress": "3014 Knäm",
-        "municipalityCode": "1435",
-        "extraInfo": null,
-        "latitude": 58.7589059127427,
-        "longitude": 11.261994216842
-    },
-    {
         "id": "3015",
         "name": "3015 Resö",
         "secondaryName": null,
@@ -26497,17 +26486,6 @@
         "extraInfo": null,
         "latitude": 58.8031372077101,
         "longitude": 11.1748547036832
-    },
-    {
-        "id": "3016",
-        "name": "3016 Lur",
-        "secondaryName": null,
-        "propertyNumber": "3016 Lur",
-        "streetAddress": "3016 Lur",
-        "municipalityCode": "1435",
-        "extraInfo": null,
-        "latitude": 58.8183125073099,
-        "longitude": 11.3293627666628
     },
     {
         "id": "3017",
@@ -36213,10 +36191,10 @@
     },
     {
         "id": "4025687",
-        "name": "Farmtrade",
+        "name": "ÅVS Väse",
         "secondaryName": "12715",
-        "propertyNumber": "HAMMAR 1:136",
-        "streetAddress": "Arnövägen ",
+        "propertyNumber": "HAMMAR 1:24",
+        "streetAddress": "Storgatan 44",
         "municipalityCode": "1780",
         "extraInfo": "",
         "latitude": 59.3801951,
@@ -43426,17 +43404,6 @@
         "extraInfo": "",
         "latitude": 60.149278,
         "longitude": 15.210704
-    },
-    {
-        "id": "307381",
-        "name": "Inne på ÅVC Edsbyn",
-        "secondaryName": "",
-        "propertyNumber": "Södra Edsbyn 49:4",
-        "streetAddress": "Gamla Landsvägen 9",
-        "municipalityCode": "2121",
-        "extraInfo": "",
-        "latitude": 61.382894,
-        "longitude": 15.834635
     },
     {
         "id": "307382",
