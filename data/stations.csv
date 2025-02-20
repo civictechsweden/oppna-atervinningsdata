@@ -2340,7 +2340,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6211,,,Hälsö,Hälsö hamn,1407,,57.73194,11.65583
 6212,,,Öckerö,"Kärrsvik ÅVC, Öckerö",1407,,57.71083,11.65361
 61963,Hantverkaregatan / Rödklövervägen,,,Hantverkaregatan / Rödklövervägen,1415,,58.067444,11.852453
-61964,Fotbollsplanen i Svenshögen,,,Fotbollsplanen i Svenshögen,1415,,58.13887,11.944162
+61964,Fotbollsplanen i Svenshögen,,,Fotbollsplanen i Svenshögen,1415,Belysningen kommer att ses över under 2025,58.13887,11.944162
 61965,Pressarevägen / Hallerna skola,,,Pressarevägen,1415,,58.049418,11.838377
 61966,Hantverkaregatan / vid OK,,,Hantverkaregatan vid OK,1415,,58.075338,11.839163
 61967,Hasselbacken,,,Hasselbacken,1415,,58.061961,11.844914
@@ -4045,7 +4045,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 8165,MALSTA SKOLA,,MALSTA 2:16,MALSTA 308,2184,,61.80972,17.20389
 8166,FOLKETS HUS,,FEGÄRDE 1:181,SUNDSÄTTERSVÄGEN 4,2184,,61.61222,17.04972
 8170,GAMLA BP,,FRIGGESUND 1:68,ÄNGEBO 84,2184,,61.97194,16.33611
-01,"Tallnäs, Sjösvedan",,TALLNÄS 1:118, Södra Fagerviksvägen,2262,,62.499917,17.363447
+01,"Tallnäs, Sjösvedan",,TALLNÄS 1:118,Södra Fagerviksvägen,2262,,62.499917,17.363447
 17,"Bergeforsen, ICA - Krutgränd",,BERGEFORSEN 1:156,Krutgränd (5),2262,,62.52651,17.378278
 18,"Fagervik, Båthamn",,SÖRBERGE 2:439,Golfbanevägen,2262,,62.501308,17.409735
 19,"Bergeforsen, Bergeforsens IP",,FORSMON 1:137,"Rännarvägen 5  , (Väg 330)  ",2262,,62.53153,17.378965
