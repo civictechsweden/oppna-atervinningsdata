@@ -2933,8 +2933,8 @@
         "streetAddress": "Nynäsvägen 21",
         "municipalityCode": "0136",
         "extraInfo": null,
-        "latitude": 59.1792456108458,
-        "longitude": 18.1462840036628
+        "latitude": 59.1791831876754,
+        "longitude": 18.1458930584909
     },
     {
         "id": "96613",
@@ -10278,29 +10278,29 @@
         "name": "ÅVC ÅLBERGA",
         "secondaryName": null,
         "propertyNumber": "VIRBY 1:48",
-        "streetAddress": "ÅLBERGAVÄGEN",
+        "streetAddress": "Ålbergavägen ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7248918456953,
-        "longitude": 16.5739974327292
+        "latitude": 58.7249258944693,
+        "longitude": 16.5742752101803
     },
     {
         "id": "12546",
         "name": "TRÄFFEN, FOLKETS PARK",
         "secondaryName": null,
         "propertyNumber": "ISAKSDAL 1:5",
-        "streetAddress": "OLOF PALMES VÄG",
+        "streetAddress": "Olof Palmes Väg ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7611099471493,
-        "longitude": 17.0213899611886
+        "latitude": 58.7615356054504,
+        "longitude": 17.0214381720755
     },
     {
         "id": "14168",
         "name": "VRENA",
         "secondaryName": null,
         "propertyNumber": "VRENABY 14:2",
-        "streetAddress": "HERRGÅRDSVÄGEN 10",
+        "streetAddress": "Herrgårdsvägen 10 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
         "latitude": 58.8594399762688,
@@ -10311,7 +10311,7 @@
         "name": "BJÖRSHULTS ÅVC",
         "secondaryName": null,
         "propertyNumber": "UPPLAGET 1",
-        "streetAddress": "BJÖRSHULT AVFALLSANL",
+        "streetAddress": "Björshults avfallsanl ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
         "latitude": 58.7124999250381,
@@ -10322,51 +10322,51 @@
         "name": "SPELHAGEN, LIDL",
         "secondaryName": null,
         "propertyNumber": "SPÅNTEN 8",
-        "streetAddress": "Spelhagsvägen 2",
+        "streetAddress": "Spelhagsvägen 2 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7436416837652,
-        "longitude": 17.0071812228921
+        "latitude": 58.7430324743666,
+        "longitude": 17.0069102851593
     },
     {
         "id": "16246",
         "name": "TYSTBERGA",
         "secondaryName": null,
         "propertyNumber": "NÄLBERGA 1:25",
-        "streetAddress": "Stationsvägen 12",
+        "streetAddress": "Stationsvägen 12 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.8480800316454,
-        "longitude": 17.2380707254782
+        "latitude": 58.8484230166508,
+        "longitude": 17.2380198397631
     },
     {
         "id": "16479",
         "name": "ARNÖ, ICA ARNÖ",
         "secondaryName": null,
         "propertyNumber": "LÅNGSÄTTER 116",
-        "streetAddress": "Långsättersvägen 6",
+        "streetAddress": "Långsättersvägen 6 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7293263635993,
-        "longitude": 17.0123177955818
+        "latitude": 58.7295069229199,
+        "longitude": 17.0130572325547
     },
     {
         "id": "16882",
         "name": "ÖSTER, TULLPORTSGATAN",
         "secondaryName": null,
         "propertyNumber": "TULLPORTEN 8",
-        "streetAddress": "TULLPORTSGATAN",
+        "streetAddress": "Tullportsgatan ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7555600248158,
-        "longitude": 17.0155599007856
+        "latitude": 58.7556147816558,
+        "longitude": 17.0155500223041
     },
     {
         "id": "17090",
         "name": "UTTERVIK",
         "secondaryName": null,
         "propertyNumber": "UTTERVIK 5:274",
-        "streetAddress": "SEGELHULTSVÄGEN",
+        "streetAddress": "Segelhultsvägen ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
         "latitude": 58.6241699757692,
@@ -10377,29 +10377,29 @@
         "name": "SVALSTA",
         "secondaryName": null,
         "propertyNumber": "ANDERBÄCK 3:1",
-        "streetAddress": "Stora Anderbäck 1",
+        "streetAddress": "Iduns väg ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7441951443091,
-        "longitude": 16.8537771854278
+        "latitude": 58.7432068864759,
+        "longitude": 16.8633618094339
     },
     {
         "id": "17455",
         "name": "ROSVALLA",
         "secondaryName": null,
         "propertyNumber": "BRANDHOLMEN 1:4",
-        "streetAddress": "BRANDHOLMSVÄGEN",
+        "streetAddress": "Brandholmsvägen ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.747779981521,
-        "longitude": 17.0372199096414
+        "latitude": 58.7481239732622,
+        "longitude": 17.0368823084038
     },
     {
         "id": "17525",
         "name": "GÄSTHAMNEN",
         "secondaryName": null,
         "propertyNumber": "BRANDHOLMEN 1:1",
-        "streetAddress": "GERT FREDRIKSSONS VÄG",
+        "streetAddress": "Gert Fredrikssons väg ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
         "latitude": 58.7443914513752,
@@ -10410,73 +10410,73 @@
         "name": "ÖRSTIG",
         "secondaryName": null,
         "propertyNumber": "ARNÖ 1:3",
-        "streetAddress": "STRANDSTUVIKENS CAMPING",
+        "streetAddress": "Strandstuvikens Camping ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7205599996867,
-        "longitude": 17.0911100223243
+        "latitude": 58.7207447178174,
+        "longitude": 17.0913141475503
     },
     {
         "id": "9446",
         "name": "BUSKHYTTAN",
         "secondaryName": null,
         "propertyNumber": "BUSKHYTTAN 2:14",
-        "streetAddress": "Koppartorpsvägen 44",
+        "streetAddress": "Koppartorpsvägen 44 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.6634473490225,
-        "longitude": 16.9405521540872
+        "latitude": 58.6631210597449,
+        "longitude": 16.9403640863401
     },
     {
         "id": "9447",
         "name": "ENSTABERGA",
         "secondaryName": null,
         "propertyNumber": "VITSTUGAN 1:2",
-        "streetAddress": "Tunavägen 21",
+        "streetAddress": "Tunavägen 21 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7507375935213,
-        "longitude": 16.8502851423603
+        "latitude": 58.7506813255175,
+        "longitude": 16.8497347070265
     },
     {
         "id": "9448",
         "name": "JÖNÅKER",
         "secondaryName": null,
         "propertyNumber": "LUNDA-TYBBLE 10:31",
-        "streetAddress": "Bäckvägen 12",
+        "streetAddress": "Bäckvägen 12 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7435231326214,
-        "longitude": 16.722672522736
+        "latitude": 58.7432579213615,
+        "longitude": 16.7226671024601
     },
     {
         "id": "9449",
         "name": "LUDGO/ASPA, RÖNNLIDEN",
         "secondaryName": null,
         "propertyNumber": "LUDGO-LÖTEN 1:13",
-        "streetAddress": "WALKERS VÄG 11",
+        "streetAddress": "Walkers väg 11 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.9293941266637,
-        "longitude": 17.101441919902
+        "latitude": 58.9292500019166,
+        "longitude": 17.1010955790663
     },
     {
         "id": "9450",
         "name": "ÖSTER, Ö KYRKOGATAN",
         "secondaryName": null,
         "propertyNumber": "ANNEBERG 11",
-        "streetAddress": "Östra Kyrkogatan 46",
+        "streetAddress": "Östra Kyrkogatan 46 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7565089649502,
-        "longitude": 17.0126969378926
+        "latitude": 58.7566693623275,
+        "longitude": 17.0133659015284
     },
     {
         "id": "9451",
         "name": "BRYNGELSTORP",
         "secondaryName": null,
         "propertyNumber": "HUMLAN 7",
-        "streetAddress": "Trillingsbergsvägen 2",
+        "streetAddress": "Trillingsbergsvägen 2 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
         "latitude": 58.7538438306786,
@@ -10487,40 +10487,40 @@
         "name": "ARNÖ, STENTORPSVÄGEN",
         "secondaryName": null,
         "propertyNumber": "ARNÖ 1:3",
-        "streetAddress": "STENTORPSVÄGEN",
+        "streetAddress": "Stentorpsvägen ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7277800058574,
-        "longitude": 17.0222199390093
+        "latitude": 58.7279159420456,
+        "longitude": 17.0226919482189
     },
     {
         "id": "9456",
         "name": "VÄSTER",
         "secondaryName": null,
         "propertyNumber": "SÅGAREN 9",
-        "streetAddress": "VÄSTRA TRÄDGÅRDSGATAN 50",
+        "streetAddress": "Västra Trädgårdsgatan 50 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7547199795587,
-        "longitude": 17.0044399557917
+        "latitude": 58.7548418088417,
+        "longitude": 17.0045603751676
     },
     {
         "id": "9457",
         "name": "TESSIN",
         "secondaryName": null,
         "propertyNumber": "ÖSTER 1:1",
-        "streetAddress": "LEKVÄGEN 5",
+        "streetAddress": "Lekvägen ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7513898877263,
-        "longitude": 17.0277798257181
+        "latitude": 58.7515215125473,
+        "longitude": 17.0279938515385
     },
     {
         "id": "9459",
         "name": "HÖGBRUNN",
         "secondaryName": null,
         "propertyNumber": "HÖGBRUNN 1:13",
-        "streetAddress": "AHLBERGERS VÄG 1",
+        "streetAddress": "Ahlbergers väg 1 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
         "latitude": 58.752779970042,
@@ -10531,33 +10531,33 @@
         "name": "STENKULLA",
         "secondaryName": null,
         "propertyNumber": "VENUS 1",
-        "streetAddress": "Jupitervägen 8",
+        "streetAddress": "Jupitervägen 8 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7570960499762,
-        "longitude": 17.0389122259125
+        "latitude": 58.7569442964102,
+        "longitude": 17.039190208593
     },
     {
         "id": "9462",
         "name": "OPPEBY, ICA KNUTEN",
         "secondaryName": null,
         "propertyNumber": "HÄSTSKON 1",
-        "streetAddress": "Oppeby Gård 277",
+        "streetAddress": "Oppeby Gård 277 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7691680541622,
-        "longitude": 16.9879709016339
+        "latitude": 58.7698417490404,
+        "longitude": 16.987292688081
     },
     {
         "id": "9465",
         "name": "FOLKUNGAVALLEN",
         "secondaryName": null,
         "propertyNumber": "SAMARITEN 1",
-        "streetAddress": "VISORNAS VÄG",
+        "streetAddress": "Visornas väg ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7583298982687,
-        "longitude": 17.0002800089571
+        "latitude": 58.7584708715806,
+        "longitude": 17.0004360388783
     },
     {
         "id": "9466",
@@ -10575,18 +10575,18 @@
         "name": "BRANDKÄRR, ÖPPEN HAND",
         "secondaryName": null,
         "propertyNumber": "GRUVFOGDEN 1",
-        "streetAddress": "Mariebergsvägen 1",
+        "streetAddress": "Mariebergsvägen 1 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7652558675294,
-        "longitude": 17.0085969515062
+        "latitude": 58.7656103038761,
+        "longitude": 17.0082974125249
     },
     {
         "id": "9468",
         "name": "GUSTAFSBERGS KÖPCENTRUM",
         "secondaryName": null,
         "propertyNumber": "UTMÅLET 10",
-        "streetAddress": "GUSTAFSBERGSSTIGEN 4",
+        "streetAddress": "Gustafsbergsstigen 4 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
         "latitude": 58.7708299285358,
@@ -10597,44 +10597,44 @@
         "name": "OPPEBY TORG",
         "secondaryName": null,
         "propertyNumber": "OPPEBY GÅRD 1:2",
-        "streetAddress": "OPPEBY TORG",
+        "streetAddress": "Oppeby Torg ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7694399556091,
-        "longitude": 16.9808299930395
+        "latitude": 58.7695847624355,
+        "longitude": 16.9808665213496
     },
     {
         "id": "9473",
         "name": "NÄVEKVARN",
         "secondaryName": null,
         "propertyNumber": "NÄVEKVARN 3:3",
-        "streetAddress": "Nyköpingsvägen 56",
+        "streetAddress": "Mejerivägen 17 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.6368252477441,
-        "longitude": 16.8038917320932
+        "latitude": 58.631354355891,
+        "longitude": 16.803698084052
     },
     {
         "id": "9474",
         "name": "RUNTUNA, RENINGSVERKET",
         "secondaryName": null,
         "propertyNumber": "ALBY 5:2",
-        "streetAddress": "Runtuna Granstaholm 2",
+        "streetAddress": "Runtuna Granstaholm 2 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.8691001325564,
-        "longitude": 17.0729497123549
+        "latitude": 58.8693508973104,
+        "longitude": 17.0729593239218
     },
     {
         "id": "9475",
         "name": "RÅBY",
         "secondaryName": null,
         "propertyNumber": "RÅBY 3:13",
-        "streetAddress": "Råby Skola 3",
+        "streetAddress": "Råby Skola 3 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.8709821602279,
-        "longitude": 16.8935000746338
+        "latitude": 58.8711561498317,
+        "longitude": 16.8943386373012
     },
     {
         "id": "9476",
@@ -10644,26 +10644,26 @@
         "streetAddress": "Sjösa Industriområde 1",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7828326225762,
-        "longitude": 17.1001956829761
+        "latitude": 58.7830932226463,
+        "longitude": 17.0995710905011
     },
     {
         "id": "9477",
         "name": "STAVSJÖ",
         "secondaryName": null,
         "propertyNumber": "STAVSJÖ 2:66",
-        "streetAddress": "GAMLA STAVSJÖVÄGEN 1",
+        "streetAddress": "Gamla Stavsjövägen 1 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
-        "latitude": 58.7244399434867,
-        "longitude": 16.4266698037634
+        "latitude": 58.7245918631015,
+        "longitude": 16.4271379345344
     },
     {
         "id": "99006",
         "name": "STIGTOMTA",
         "secondaryName": null,
         "propertyNumber": "TÄNGSTA 1:1",
-        "streetAddress": "TÄNGSTAVÄGEN 2",
+        "streetAddress": "Tängstavägen 2 ÅVS",
         "municipalityCode": "0480",
         "extraInfo": null,
         "latitude": 58.804999903467,
@@ -44979,17 +44979,6 @@
         "longitude": 17.2571396829429
     },
     {
-        "id": "107446",
-        "name": "Granlo Vikingavägen/Västra vägen",
-        "secondaryName": null,
-        "propertyNumber": "GRANLO 6:1",
-        "streetAddress": "ÅVS Vikingavägen 77",
-        "municipalityCode": "2281",
-        "extraInfo": null,
-        "latitude": 62.4057209793073,
-        "longitude": 17.2445386653042
-    },
-    {
         "id": "107447",
         "name": "Granloholm centrum",
         "secondaryName": null,
@@ -45164,17 +45153,6 @@
         "extraInfo": null,
         "latitude": 62.4185412448973,
         "longitude": 17.3343229285626
-    },
-    {
-        "id": "107463",
-        "name": "Bydalen Motionsspåret",
-        "secondaryName": null,
-        "propertyNumber": "BYDALEN 1:1",
-        "streetAddress": "ÅVS Segelvägen 20",
-        "municipalityCode": "2281",
-        "extraInfo": null,
-        "latitude": 62.4149718477682,
-        "longitude": 17.325139044819
     },
     {
         "id": "107464",
