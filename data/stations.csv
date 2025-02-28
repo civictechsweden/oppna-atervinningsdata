@@ -806,7 +806,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 96634,9497 Parkeringsplats,,NYNÄSHAMN 2:1,Estövägen/Trollstigen,0192,,58.8957566301705,17.9282030660308
 96637,9503  Fröjas väg/Idunvägen,,NYNÄSHAMN 2:1,Fröjas väg,0192,,58.9003867461402,17.9340479663847
 96638,9508 Vid Torö Lanthandel,,STORBYGÅRDEN 1:229,Torövägen,0192,,58.8265430723247,17.839804680177
-96639,9494 Hamnviksvägen/Sandskogsvägen,,NYNÄSHAMN 2:130,Hamnviksvägen/Ssandskogsvägen,0192,,58.8946710893625,17.9356469068028
+96639,9494 Hamnviksvägen/Sandskogsvägen,,NYNÄSHAMN 2:130,Hamnviksvägen/Sandskogsvägen,0192,,58.8946710893625,17.9356469068028
 96640,9512 Parkeringsdäck Musköten,,MUSKÖTEN 1,Björn Barkmans väg,0192,,58.9884027707559,17.8971386809748
 96642,9509 Vändplats,,"VANSTA 5:2, HALLÄNGEN 5",Ösmo centrum/Nybblevägen,0192,,58.9824657194661,17.893402091824
 96646,9491 Odins Plan,,NYNÄSHAMN 2:1,Odins Väg,0192,,58.9033504984512,17.9357061448461
@@ -2370,8 +2370,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 60000002,Stillingsöns Handel,,Kåröd 1:112,Korsvägen 318,1421,,58.192999,11.830264
 60000003,"Henån, Panncentralen",,Henån 3:2,Bråtenvägen 6,1421,,58.232783,11.667021
 60000004,Varekil,,Varekil 1:172,Industrivägen 1,1421,,58.124893,11.725746
-60000005,Tvet skola,,Tvet 3:8,Tvet 611,1421,,58.129516,11.558353
-60000006,"Ellös, Panncentralen",,Morlanda-Slätthult 1:29,Sörbo 151,1421,,58.182373,11.48618
 60000007,"Stocken, Fiskehamnen",,Tofta 2:31,Stockenvägen 12,1421,,58.14927,11.418911
 60000008,Kyrkans hus,,Svanesund 7:13,Fridängsvägen 1,1421,,58.144712,11.810365
 60000009,Timmerhult ,,Timmerhult 2:1,Timmerhult 411,1421,,58.238501,11.707578
@@ -4045,6 +4043,16 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 8165,MALSTA SKOLA,,MALSTA 2:16,MALSTA 308,2184,,61.80972,17.20389
 8166,FOLKETS HUS,,FEGÄRDE 1:181,SUNDSÄTTERSVÄGEN 4,2184,,61.61222,17.04972
 8170,GAMLA BP,,FRIGGESUND 1:68,ÄNGEBO 84,2184,,61.97194,16.33611
+11590,"Alby, Konsum","Alby, Konsum",OVANSJÖ 1:410,Kapellgatan,2260,,62.49472,15.47611
+11593,Fränsta,Fränsta,FRÄNSTA 13:7,Kyrkrèn 8,2260,,62.49583,16.17139
+11595,"Kölsillre, Kölsillre Handel","Kölsillre, Kölsillre Handel",KÖLSILLRE 3:8,,2260,,62.39806,15.20917
+11596,Ljungaverk,Ljungaverk,VÄSTERHÅNGSTA 35:1,Fredriksgatan,2260,,62.4925,16.04944
+11598,"Torpshammar, Konsum","Torpshammar, Konsum",KLÖSTRE 2:53,Torpshammarsvägen 3,2260,,62.47417,16.33139
+11600,"Ånge, ICA Ånge","Ånge, ICA Ånge",ÅNGE 60:132,N. Borgsjövägen 24,2260,,62.52417,15.67528
+11601,Östavall,Östavall,VASSNÄS 2:70,Förrådsvägen,2260,,62.42778,15.4775
+11602,"Överturingen, tankstationen","Överturingen, tankstationen",TURINGEN 4:86,,2260,,62.45056,14.91889
+16636,Ånge Centrum,Ånge Centrum,ÅNGE 74:5,Kommunparkeringen Centralgatan,2260,,62.52583,15.65833
+17504,Erikslund,Erikslund,ÅNGE ERIKSLUND 1:9,Gubbyn 341,2260,,62.52667,15.90972
 01,"Tallnäs, Sjösvedan",,TALLNÄS 1:118,Södra Fagerviksvägen,2262,,62.499917,17.363447
 17,"Bergeforsen, ICA - Krutgränd",,BERGEFORSEN 1:156,Krutgränd (5),2262,,62.52651,17.378278
 18,"Fagervik, Båthamn",,SÖRBERGE 2:439,Golfbanevägen,2262,,62.501308,17.409735

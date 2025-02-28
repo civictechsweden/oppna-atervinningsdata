@@ -8881,7 +8881,7 @@
         "name": "9494 Hamnviksvägen/Sandskogsvägen",
         "secondaryName": null,
         "propertyNumber": "NYNÄSHAMN 2:130",
-        "streetAddress": "Hamnviksvägen/Ssandskogsvägen",
+        "streetAddress": "Hamnviksvägen/Sandskogsvägen",
         "municipalityCode": "0192",
         "extraInfo": null,
         "latitude": 58.8946710893625,
@@ -26079,28 +26079,6 @@
         "extraInfo": "",
         "latitude": 58.124893,
         "longitude": 11.725746
-    },
-    {
-        "id": "60000005",
-        "name": "Tvet skola",
-        "secondaryName": "",
-        "propertyNumber": "Tvet 3:8",
-        "streetAddress": "Tvet 611",
-        "municipalityCode": "1421",
-        "extraInfo": "",
-        "latitude": 58.129516,
-        "longitude": 11.558353
-    },
-    {
-        "id": "60000006",
-        "name": "Ellös, Panncentralen",
-        "secondaryName": "",
-        "propertyNumber": "Morlanda-Slätthult 1:29",
-        "streetAddress": "Sörbo 151",
-        "municipalityCode": "1421",
-        "extraInfo": "",
-        "latitude": 58.182373,
-        "longitude": 11.48618
     },
     {
         "id": "60000007",
@@ -44504,6 +44482,116 @@
         "extraInfo": "",
         "latitude": 61.97194,
         "longitude": 16.33611
+    },
+    {
+        "id": "11590",
+        "name": "Alby, Konsum",
+        "secondaryName": "Alby, Konsum",
+        "propertyNumber": "OVANSJÖ 1:410",
+        "streetAddress": "Kapellgatan",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.49472,
+        "longitude": 15.47611
+    },
+    {
+        "id": "11593",
+        "name": "Fränsta",
+        "secondaryName": "Fränsta",
+        "propertyNumber": "FRÄNSTA 13:7",
+        "streetAddress": "Kyrkrèn 8",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.49583,
+        "longitude": 16.17139
+    },
+    {
+        "id": "11595",
+        "name": "Kölsillre, Kölsillre Handel",
+        "secondaryName": "Kölsillre, Kölsillre Handel",
+        "propertyNumber": "KÖLSILLRE 3:8",
+        "streetAddress": "",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.39806,
+        "longitude": 15.20917
+    },
+    {
+        "id": "11596",
+        "name": "Ljungaverk",
+        "secondaryName": "Ljungaverk",
+        "propertyNumber": "VÄSTERHÅNGSTA 35:1",
+        "streetAddress": "Fredriksgatan",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.4925,
+        "longitude": 16.04944
+    },
+    {
+        "id": "11598",
+        "name": "Torpshammar, Konsum",
+        "secondaryName": "Torpshammar, Konsum",
+        "propertyNumber": "KLÖSTRE 2:53",
+        "streetAddress": "Torpshammarsvägen 3",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.47417,
+        "longitude": 16.33139
+    },
+    {
+        "id": "11600",
+        "name": "Ånge, ICA Ånge",
+        "secondaryName": "Ånge, ICA Ånge",
+        "propertyNumber": "ÅNGE 60:132",
+        "streetAddress": "N. Borgsjövägen 24",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.52417,
+        "longitude": 15.67528
+    },
+    {
+        "id": "11601",
+        "name": "Östavall",
+        "secondaryName": "Östavall",
+        "propertyNumber": "VASSNÄS 2:70",
+        "streetAddress": "Förrådsvägen",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.42778,
+        "longitude": 15.4775
+    },
+    {
+        "id": "11602",
+        "name": "Överturingen, tankstationen",
+        "secondaryName": "Överturingen, tankstationen",
+        "propertyNumber": "TURINGEN 4:86",
+        "streetAddress": "",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.45056,
+        "longitude": 14.91889
+    },
+    {
+        "id": "16636",
+        "name": "Ånge Centrum",
+        "secondaryName": "Ånge Centrum",
+        "propertyNumber": "ÅNGE 74:5",
+        "streetAddress": "Kommunparkeringen Centralgatan",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.52583,
+        "longitude": 15.65833
+    },
+    {
+        "id": "17504",
+        "name": "Erikslund",
+        "secondaryName": "Erikslund",
+        "propertyNumber": "ÅNGE ERIKSLUND 1:9",
+        "streetAddress": "Gubbyn 341",
+        "municipalityCode": "2260",
+        "extraInfo": "",
+        "latitude": 62.52667,
+        "longitude": 15.90972
     },
     {
         "id": "01",
