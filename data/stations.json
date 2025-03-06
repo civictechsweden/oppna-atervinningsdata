@@ -21770,7 +21770,7 @@
     },
     {
         "id": "52085549",
-        "name": "ÅVS vid Återbruket (Välavägen 222)",
+        "name": "ÅVS NSR återvinningscentral (Välavägen 222)",
         "secondaryName": null,
         "propertyNumber": "VÄLA 7:9",
         "streetAddress": "Välavägen 222",
@@ -39147,17 +39147,6 @@
         "extraInfo": null,
         "latitude": 59.7132145316664,
         "longitude": 16.2341445097491
-    },
-    {
-        "id": "988195",
-        "name": "ÅVS 10466 Odonvägen/Musikvägen",
-        "secondaryName": null,
-        "propertyNumber": "Surahammar Surahammar 10:581",
-        "streetAddress": "Musikvägen",
-        "municipalityCode": "1907",
-        "extraInfo": null,
-        "latitude": 59.6973954516353,
-        "longitude": 16.242819542817
     },
     {
         "id": "988196",
