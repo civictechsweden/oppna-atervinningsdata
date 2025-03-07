@@ -704,7 +704,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 17182,"Jungfrudansen, vid utfarten",,Huvudsta 3:1,Jungfrudansen 1,0184,,59.34864,17.98511
 17228,Västra vägen/Blomgatan,,Hagalund 4:14,Västra vägen,0184,,59.35899,18.00647
 9935,"Solna vid Circle-K, parkeringen mittemot",,Skytteholm 2:3,Centrumslingan,0184,,59.35952,17.99636
-9939,Bagartorp Ulrikdals station,,Järva 2:12,Bagartorpsringen 53,0184,,59.38059,17.99999
 9959,Hagalund Hagalundskolan,,Råsunda 4:1,Södra Långgatan/Åkersvägen,0184,,59.36363,18.00654
 9960,Solna Törnbacken/Fläderstigen,,Järva 2:15,Törnbacken/Fläderstigen,0184,,59.37732,18.00594
 12638,Lidingövallens parkering,,Lidingö 5:178,Norra Kungsvägen,0186,,59.37472,18.155
@@ -2903,7 +2902,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 677014504,"Kärna, Ängkullevägen",,.,Ängkullevägen,1482,,57.8441699990365,11.7930599999129
 677014505,"Koön, Marstrand",,.,"Mjölkekilsgatan, Parkeringen",1482,,57.8874999979712,11.6005600005126
 677014508,"McDonalds, Vita Fläcken",,.,Gymnasiegatan 8,1482,,57.8758300010468,11.9724999998167
-677014509,"Ytterby, utanför ÅVC",,.,Hollandsgatan,1482,,57.8635863743541,11.9280570746097
 1001,1001 Dona,,1001 Dona,1001 Dona,1484,,58.2717237077823,11.4286495958047
 1002,1002 Drottninggatan,,1002 Drottninggatan,1002 Drottninggatan,1484,,58.2743445406444,11.4295329162329
 1003,1003 Färgargatan,,1003 Färgargatan,1003 Färgargatan,1484,,58.2763914445369,11.4347672903434
@@ -3574,7 +3572,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 988234,ÅVS 1439 Bergsgatan,,Hallstahammar Vänsta 1:102,Bergsgatan 5,1961,,59.5612169404727,16.2233549153529
 988238,ÅVS 14906 Usterstavägen,,Hallstahammar Frössvi 4:1,Usterstavägen,1961,,59.605932804211,16.2127770610394
 988252,ÅVS 15328 Djursjukhusvägen,,Strömsholm Strömsholm 8:1,Djursjukhusvägen,1961,,59.5252984484865,16.2436145670527
-988258,ÅVS 15579 Återbruket Trångfors,,Hallstahammar Svedvi Häradsallmänning 1:5,Hammarleden 32,1961,,59.6313919257311,16.1990931543869
+988258,ÅVS 15579 Återbruket Hallstahammar,,Hallstahammar Svedvi Häradsallmänning 1:5,Hammarleden 32,1961,,59.6313919257311,16.1990931543869
 988281,ÅVS 16721 P-Plats Idrottsplatsen,,Hallstahammar Eldsboda 1:250,Östra Trollebovägen,1961,,59.619849818067,16.2274459269321
 988325,ÅVS 6965 F.d. AMU Center,,Hallstahammar Nirvana 1,Videvägen 3,1961,,59.6156716037827,16.2472988797588
 988326,ÅVS 6968 HFAB's,,Hallstahammar Växeln 7,Trädgårdsgatan 8,1961,,59.6135232471,16.2352097724901
@@ -3668,7 +3666,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 988310,"ÅVS 4336 Salbohed, affären",,Salbohed Sörsalbo 4:5,"Kopparbergsvägen/Salbohed, affären",1981,,59.9099493467605,16.3472302936101
 988311,"ÅVS 4337 Sätrabrunn, Kvarnbacken",,Sala Sätra 1:69,"Sätrabrunn, Kvarnbacken",1981,,59.864036490883,16.4332942800723
 988312,"ÅVS 4340 Västerfärnebo, Björkgården",,Sala Västerfärnebo Färnebo Prästgård 2:1,Björkgården Västerfärnebo Norbergsvägen 13,1981,,59.9469387844376,16.2779233068514
-988257,ÅVS 15575 Återbruket Sänkmossen,,Fagersta Sundbo 7:13,Sänkmossevägen,1982,,59.9931035377142,15.855939707398
+988257,ÅVS 15575 Återbruket Fagersta,,Fagersta Sundbo 7:13,Sänkmossevägen,1982,,59.9931035377142,15.855939707398
 988288,ÅVS 17432 Fagersta station,,Fagersta Knutsbo 1,Centralvägen 17,1982,,59.9904708502867,15.817690309213
 988337,"ÅVS 751 ICA Centrum, p-plats",,Fagersta Värmaren 6,Järntorget 1,1982,,60.0055274933439,15.7905472270343
 988338,ÅVS 752 P-plats Coop Extra,,Fagersta Fagersta 3:52,Stationsvägen 18,1982,,60.0044783047985,15.7976264478408

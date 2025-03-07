@@ -7755,17 +7755,6 @@
         "longitude": 17.99636
     },
     {
-        "id": "9939",
-        "name": "Bagartorp Ulrikdals station",
-        "secondaryName": "",
-        "propertyNumber": "Järva 2:12",
-        "streetAddress": "Bagartorpsringen 53",
-        "municipalityCode": "0184",
-        "extraInfo": "",
-        "latitude": 59.38059,
-        "longitude": 17.99999
-    },
-    {
         "id": "9959",
         "name": "Hagalund Hagalundskolan",
         "secondaryName": "",
@@ -31944,17 +31933,6 @@
         "longitude": 11.9724999998167
     },
     {
-        "id": "677014509",
-        "name": "Ytterby, utanför ÅVC",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Hollandsgatan",
-        "municipalityCode": "1482",
-        "extraInfo": null,
-        "latitude": 57.8635863743541,
-        "longitude": 11.9280570746097
-    },
-    {
         "id": "1001",
         "name": "1001 Dona",
         "secondaryName": null,
@@ -39326,7 +39304,7 @@
     },
     {
         "id": "988258",
-        "name": "ÅVS 15579 Återbruket Trångfors",
+        "name": "ÅVS 15579 Återbruket Hallstahammar",
         "secondaryName": null,
         "propertyNumber": "Hallstahammar Svedvi Häradsallmänning 1:5",
         "streetAddress": "Hammarleden 32",
@@ -40360,7 +40338,7 @@
     },
     {
         "id": "988257",
-        "name": "ÅVS 15575 Återbruket Sänkmossen",
+        "name": "ÅVS 15575 Återbruket Fagersta",
         "secondaryName": null,
         "propertyNumber": "Fagersta Sundbo 7:13",
         "streetAddress": "Sänkmossevägen",
