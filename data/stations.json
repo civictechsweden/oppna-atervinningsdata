@@ -6739,8 +6739,8 @@
         "streetAddress": "Bragevägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.2119146231985,
-        "longitude": 17.6303137389499
+        "latitude": 59.2119132122455,
+        "longitude": 17.6302879143999
     },
     {
         "id": "13852",
@@ -6750,8 +6750,8 @@
         "streetAddress": "Balticvägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.1761321698526,
-        "longitude": 17.6517922082
+        "latitude": 59.176085610228,
+        "longitude": 17.6517465999081
     },
     {
         "id": "13853",
@@ -6783,8 +6783,8 @@
         "streetAddress": "Kakelvägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.2108432129915,
-        "longitude": 17.583607763482
+        "latitude": 59.2107615781682,
+        "longitude": 17.5837033778568
     },
     {
         "id": "13856",
@@ -6794,8 +6794,8 @@
         "streetAddress": "Ekeby",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.2516312139078,
-        "longitude": 17.5217114449656
+        "latitude": 59.2517642736369,
+        "longitude": 17.5217420764873
     },
     {
         "id": "13863",
@@ -6805,8 +6805,8 @@
         "streetAddress": "Mossvägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.0992485583611,
-        "longitude": 17.5778762304724
+        "latitude": 59.0992850563854,
+        "longitude": 17.5778561166626
     },
     {
         "id": "13864",
@@ -6816,8 +6816,8 @@
         "streetAddress": "Södertäljevägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.0872775848808,
-        "longitude": 17.577607669908
+        "latitude": 59.0872465793217,
+        "longitude": 17.5776438791962
     },
     {
         "id": "13867",
@@ -6838,8 +6838,8 @@
         "streetAddress": "Skolvägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.050036388351,
-        "longitude": 17.422865808492
+        "latitude": 59.0501595241069,
+        "longitude": 17.4230503954427
     },
     {
         "id": "13872",
@@ -6860,8 +6860,8 @@
         "streetAddress": "Mörköbron",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 58.9893131893162,
-        "longitude": 17.6232642342418
+        "latitude": 58.9892921187628,
+        "longitude": 17.6235324468081
     },
     {
         "id": "13875",
@@ -6893,8 +6893,8 @@
         "streetAddress": "Rosenhöjdsvägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.199892013915,
-        "longitude": 17.6520466782691
+        "latitude": 59.1998756921634,
+        "longitude": 17.6520392840544
     },
     {
         "id": "13891",
@@ -47716,39 +47716,6 @@
         "extraInfo": "",
         "latitude": 62.478594,
         "longitude": 13.970065
-    },
-    {
-        "id": "236123",
-        "name": "KLOCKARFJÄLLET",
-        "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 69:1",
-        "streetAddress": "VEMDALSSKALET KLOCKARFJÄLLSVÄGEN",
-        "municipalityCode": "2361",
-        "extraInfo": "",
-        "latitude": 62.493126,
-        "longitude": 13.928985
-    },
-    {
-        "id": "236124",
-        "name": "SKALSPASSET",
-        "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 54:24",
-        "streetAddress": "SKALSPASSVÄGEN 1",
-        "municipalityCode": "2361",
-        "extraInfo": "",
-        "latitude": 62.493611,
-        "longitude": 13.939724
-    },
-    {
-        "id": "236125",
-        "name": "RIPFJÄLLET",
-        "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 88:104",
-        "streetAddress": "SKALFJÄLLSVÄGEN 4",
-        "municipalityCode": "2361",
-        "extraInfo": "",
-        "latitude": 62.482761,
-        "longitude": 14.036963
     },
     {
         "id": "236126",
