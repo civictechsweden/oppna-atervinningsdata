@@ -9879,14 +9879,14 @@
     },
     {
         "id": "988364",
-        "name": "ÅVS 99091 ICA Maxi",
+        "name": "ÅVS 99091 Ny mitt emot Dollarstore",
         "secondaryName": null,
-        "propertyNumber": "Enköping Romberga 23:47",
-        "streetAddress": "Lastbilsgatan 1",
+        "propertyNumber": "Enköping Romberga 23:31",
+        "streetAddress": "Malmagatan",
         "municipalityCode": "0381",
         "extraInfo": null,
-        "latitude": 59.652720224214,
-        "longitude": 17.0864861284625
+        "latitude": 59.6534803584824,
+        "longitude": 17.0879797484592
     },
     {
         "id": "550404",
@@ -38481,8 +38481,8 @@
         "id": "ASK_16112",
         "name": "ASKERSUND HAGA",
         "secondaryName": null,
-        "propertyNumber": "Haga 1:19",
-        "streetAddress": "Folke Dahlbergs väg",
+        "propertyNumber": "HAGA 1:19",
+        "streetAddress": "FOLKE DAHLBERGS VÄG",
         "municipalityCode": "1882",
         "extraInfo": null,
         "latitude": 58.880305551773,
@@ -45981,7 +45981,7 @@
     },
     {
         "id": "4430037",
-        "name": "Björna, Korsningen Björkvägen/Husumvägen",
+        "name": "Björkvägen",
         "secondaryName": null,
         "propertyNumber": "ÅVS",
         "streetAddress": "Björkvägen",
