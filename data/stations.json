@@ -40085,10 +40085,10 @@
     },
     {
         "id": "988290",
-        "name": "ÅVS 4311 Hedåker, omstart Jordbrovägen",
+        "name": "ÅVS 4311 Hedåker, Jordbrovägen (bredvid omstart)",
         "secondaryName": null,
         "propertyNumber": "Västerfärnebo Hedåker 1:74",
-        "streetAddress": "Hedåker, omstart Jordbrovägen",
+        "streetAddress": "Hedåker, Jordbrovägen",
         "municipalityCode": "1981",
         "extraInfo": null,
         "latitude": 60.0232580347613,
@@ -47100,6 +47100,17 @@
         "extraInfo": null,
         "latitude": 63.9323902650877,
         "longitude": 16.3128604876894
+    },
+    {
+        "id": "115179",
+        "name": "Backe Reningsverket",
+        "secondaryName": null,
+        "propertyNumber": "FJÄLLSJÖ-SUNNANSJÖ 2:23",
+        "streetAddress": "Sunnansjö 330",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.8029872712157,
+        "longitude": 16.396063609691
     },
     {
         "id": "11605",
