@@ -31747,14 +31747,47 @@
     },
     {
         "id": "100104",
-        "name": "ICA Lyan",
+        "name": "Fågelbergsgatan",
         "secondaryName": "",
         "propertyNumber": "Videsvärmaren 1",
         "streetAddress": "Fågelbergsgatan 2",
         "municipalityCode": "1481",
         "extraInfo": "",
-        "latitude": 57.64559695245695,
-        "longitude": 12.031833261685096
+        "latitude": 57.645593,
+        "longitude": 12.031789
+    },
+    {
+        "id": "100229",
+        "name": "Almåsgången",
+        "secondaryName": "",
+        "propertyNumber": "Lindome 2:42",
+        "streetAddress": "Almåsgången",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.576512,
+        "longitude": 12.087582
+    },
+    {
+        "id": "100230",
+        "name": "Gamla riksvägen ",
+        "secondaryName": "",
+        "propertyNumber": "Gastorp 2:122",
+        "streetAddress": "Gamla riksvägen 202",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.575717,
+        "longitude": 12.077808
+    },
+    {
+        "id": "100238",
+        "name": "Katrinebergsgatan",
+        "secondaryName": "",
+        "propertyNumber": "Åby 1:84",
+        "streetAddress": "Katrinebergsgatan ",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.648852,
+        "longitude": 12.014338
     },
     {
         "id": "100253",
@@ -31766,6 +31799,28 @@
         "extraInfo": "",
         "latitude": 57.66359784903522,
         "longitude": 11.99527530516769
+    },
+    {
+        "id": "100256",
+        "name": "Krokslätts Torg",
+        "secondaryName": "",
+        "propertyNumber": "Krokslätt 1:165",
+        "streetAddress": "Krokslätts Torg",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.674363,
+        "longitude": 12.008188
+    },
+    {
+        "id": "100342",
+        "name": "Kryssgatan",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Kryssgatan",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.659695,
+        "longitude": 12.025637
     },
     {
         "id": "100354",
@@ -31804,12 +31859,12 @@
         "id": "116849",
         "name": "Tullbomsvägen",
         "secondaryName": "",
-        "propertyNumber": "Borås Gulmåran 7",
-        "streetAddress": "Rosendalsgatan 12",
+        "propertyNumber": "",
+        "streetAddress": "Tullbomsvägen",
         "municipalityCode": "1481",
         "extraInfo": "",
-        "latitude": 57.59119363891306,
-        "longitude": 12.06202742375232
+        "latitude": 57.591305,
+        "longitude": 12.061921
     },
     {
         "id": "116850",
@@ -31823,6 +31878,17 @@
         "longitude": 11.959740813806814
     },
     {
+        "id": "116851",
+        "name": "Fjällgatan",
+        "secondaryName": "",
+        "propertyNumber": "Kikås 1:15",
+        "streetAddress": "Fjällgatan",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.651929,
+        "longitude": 12.03606
+    },
+    {
         "id": "118466",
         "name": "Flyttfågelvägen",
         "secondaryName": "",
@@ -31832,6 +31898,28 @@
         "extraInfo": "",
         "latitude": 57.57277153058639,
         "longitude": 12.071500370287335
+    },
+    {
+        "id": "118852",
+        "name": "Tallkottegatan",
+        "secondaryName": "",
+        "propertyNumber": "Stensjön 1:66",
+        "streetAddress": "Tallkottegatan",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.662974,
+        "longitude": 12.041031
+    },
+    {
+        "id": "121871",
+        "name": "Lindome ÅVC",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Smidesvägen 9",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.575518,
+        "longitude": 12.090751
     },
     {
         "id": "677014478",
