@@ -9989,10 +9989,10 @@
     },
     {
         "id": "550415",
-        "name": "COOP ÖSTHAMMAR",
+        "name": "MELLAN NR 11 OCH 13 - VID AD BILDELAR ",
         "secondaryName": null,
-        "propertyNumber": "BÖRSTIL 11:4",
-        "streetAddress": "ENERGIVÄGEN 2",
+        "propertyNumber": "BÖRSTIL 11:1",
+        "streetAddress": "FABRIKSVÄGEN",
         "municipalityCode": "0382",
         "extraInfo": null,
         "latitude": 60.2482454085717,
@@ -45926,7 +45926,7 @@
     },
     {
         "id": "4430025",
-        "name": "Domsjö, Fotbollsplan",
+        "name": "Gamla Domsjövägen",
         "secondaryName": null,
         "propertyNumber": "DOMSJÖ 31:1",
         "streetAddress": "Gamla Domsjövägen",
@@ -45992,7 +45992,7 @@
     },
     {
         "id": "4430031",
-        "name": "Flärke, Hembyggsgården Flärke",
+        "name": "Flärkemon",
         "secondaryName": null,
         "propertyNumber": "ÅVS",
         "streetAddress": "Flärkemon",
@@ -49080,6 +49080,17 @@
         "extraInfo": null,
         "latitude": 64.1612427457432,
         "longitude": 17.3494870263258
+    },
+    {
+        "id": "65000088583",
+        "name": "Åsele Åvc",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Industrivägen 15",
+        "municipalityCode": "2463",
+        "extraInfo": null,
+        "latitude": 64.1760618944217,
+        "longitude": 17.3671735509545
     },
     {
         "id": "4415892",
