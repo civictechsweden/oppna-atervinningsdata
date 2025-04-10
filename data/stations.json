@@ -1507,17 +1507,6 @@
         "longitude": 17.9120611584809
     },
     {
-        "id": "2115831",
-        "name": "ÅVS 17215 Ornö",
-        "secondaryName": null,
-        "propertyNumber": "SUNDBY 7:1",
-        "streetAddress": "Ornövägen/breviksvägen",
-        "municipalityCode": "0126",
-        "extraInfo": null,
-        "latitude": 59.0761032284247,
-        "longitude": 18.3938254118931
-    },
-    {
         "id": "2133761",
         "name": "ÅVS 17465 Högmoravägen/Ågestavägen",
         "secondaryName": null,
@@ -2506,6 +2495,17 @@
         "extraInfo": null,
         "latitude": 59.1281332453425,
         "longitude": 18.1091778936697
+    },
+    {
+        "id": "2115831",
+        "name": "ÅVS 17215 Ornö",
+        "secondaryName": null,
+        "propertyNumber": "SUNDBY 7:1",
+        "streetAddress": "Ornövägen/breviksvägen",
+        "municipalityCode": "0136",
+        "extraInfo": null,
+        "latitude": 59.0761032284247,
+        "longitude": 18.3938254118931
     },
     {
         "id": "2147037",
@@ -35233,17 +35233,6 @@
         "longitude": 13.287706652841306
     },
     {
-        "id": "171510",
-        "name": "Coop Högboda ",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Stationsvägen ",
-        "municipalityCode": "1715",
-        "extraInfo": "",
-        "latitude": 59.55687203095556,
-        "longitude": 13.052832824504664
-    },
-    {
         "id": "13419",
         "name": "Lunden(ÅVC)",
         "secondaryName": "",
@@ -36446,12 +36435,12 @@
         "id": "461517",
         "name": "Nybble",
         "secondaryName": "",
-        "propertyNumber": "Nybble 11:8",
-        "streetAddress": "Mariestadsvägen 23",
+        "propertyNumber": "Nybble 4:1",
+        "streetAddress": "Mariestadsvägen 12",
         "municipalityCode": "1781",
         "extraInfo": "",
-        "latitude": 59.10098,
-        "longitude": 14.16257
+        "latitude": 59.10177,
+        "longitude": 14.1632
     },
     {
         "id": "461518",
@@ -47168,6 +47157,17 @@
         "longitude": 16.396063609691
     },
     {
+        "id": "115181",
+        "name": "Stora Blåsjön Östra",
+        "secondaryName": null,
+        "propertyNumber": "STORA BLÅSJÖN 2:8",
+        "streetAddress": "Stora Blåsjön",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.8287943892987,
+        "longitude": 14.1220070373374
+    },
+    {
         "id": "11605",
         "name": "Duved",
         "secondaryName": "",
@@ -51366,8 +51366,8 @@
         "streetAddress": "BÄCKVÄGEN 9",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.6403279798788,
-        "longitude": 22.2338950020299
+        "latitude": 65.6358047278678,
+        "longitude": 22.2361768533077
     },
     {
         "id": "9811886",
@@ -51443,8 +51443,8 @@
         "streetAddress": "HAGAPLAN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.5872500055692,
-        "longitude": 22.2038269951569
+        "latitude": 65.5867628694575,
+        "longitude": 22.2040409705102
     },
     {
         "id": "9811896",
@@ -51476,8 +51476,8 @@
         "streetAddress": "MJÖLKUDDSVÄGEN 6",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.6021270052803,
-        "longitude": 22.1310169920694
+        "latitude": 65.5982492805965,
+        "longitude": 22.1346662500541
     },
     {
         "id": "9811899",
@@ -51498,8 +51498,8 @@
         "streetAddress": "ÖRARNAVÄGEN 5 A",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.7399570058627,
-        "longitude": 22.167338003369
+        "latitude": 65.7399019310256,
+        "longitude": 22.1671309043076
     },
     {
         "id": "9811901",
@@ -51542,8 +51542,8 @@
         "streetAddress": "ÖVÄGEN 45",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.6430030100801,
-        "longitude": 21.9896849901253
+        "latitude": 65.6428108507037,
+        "longitude": 21.9897195773047
     },
     {
         "id": "9811905",
@@ -51564,8 +51564,8 @@
         "streetAddress": "BRÄNDÖVÄGEN 4 B",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.7076170078934,
-        "longitude": 22.2356779994264
+        "latitude": 65.7078053064961,
+        "longitude": 22.2365638873644
     },
     {
         "id": "9811907",
@@ -51597,8 +51597,8 @@
         "streetAddress": "SÖRSIDAN 2",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.8494980056504,
-        "longitude": 22.2754220061697
+        "latitude": 65.8499455088442,
+        "longitude": 22.2755487530568
     },
     {
         "id": "9811910",
@@ -51630,8 +51630,8 @@
         "streetAddress": "KLÄPPVÄGEN 41",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.5326030103325,
-        "longitude": 21.920637998061
+        "latitude": 65.532437706426,
+        "longitude": 21.9206174513621
     },
     {
         "id": "9811913",
@@ -51641,8 +51641,8 @@
         "streetAddress": "KLUBBVÄGEN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.5319820093827,
-        "longitude": 21.7883779907103
+        "latitude": 65.5304839132928,
+        "longitude": 21.7845906487355
     },
     {
         "id": "9811914",
@@ -51674,8 +51674,8 @@
         "streetAddress": "BÄLINGEVÄGEN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.6308270092735,
-        "longitude": 21.925507993213
+        "latitude": 65.6224342151478,
+        "longitude": 21.9107966537719
     },
     {
         "id": "9811917",
@@ -51707,8 +51707,8 @@
         "streetAddress": "SUNDOMSVÄGEN 488",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.7694000123041,
-        "longitude": 22.2648550049275
+        "latitude": 65.7728019994878,
+        "longitude": 22.2634616705403
     },
     {
         "id": "9811921",
@@ -51718,8 +51718,8 @@
         "streetAddress": "TRUMSELSVÄGEN 2",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 66.0217880052211,
-        "longitude": 21.9866729948615
+        "latitude": 66.0218246831859,
+        "longitude": 21.9869073447023
     },
     {
         "id": "9811922",
@@ -51740,8 +51740,8 @@
         "streetAddress": "SMEDSBYVÄGEN 774",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.8056800051014,
-        "longitude": 22.0316069946899
+        "latitude": 65.8058868312968,
+        "longitude": 22.0312514124757
     },
     {
         "id": "9811924",
@@ -51751,8 +51751,8 @@
         "streetAddress": "VITÅSKATAN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.9301250060833,
-        "longitude": 22.4244319949027
+        "latitude": 65.9311490332311,
+        "longitude": 22.4223394136949
     },
     {
         "id": "9811925",
@@ -51762,8 +51762,8 @@
         "streetAddress": "SÖDRA ÄNGESBYN 41",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.771755005947,
-        "longitude": 22.0596229930449
+        "latitude": 65.7713528197352,
+        "longitude": 22.0594013187489
     },
     {
         "id": "9811926",
@@ -51773,8 +51773,8 @@
         "streetAddress": "LULEVÄGEN 16",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.6424050108116,
-        "longitude": 22.0339270101168
+        "latitude": 65.6419717516523,
+        "longitude": 22.0338690369159
     },
     {
         "id": "9811927",
@@ -51795,8 +51795,8 @@
         "streetAddress": "BRÄNDÖ HAMNVÄG 50",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.7003600099156,
-        "longitude": 22.3384299904049
+        "latitude": 65.7006663678455,
+        "longitude": 22.3404877981754
     },
     {
         "id": "9811929",
@@ -51806,8 +51806,8 @@
         "streetAddress": "RÖRBÄCKSVÄGEN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.8542680108664,
-        "longitude": 22.4998150087702
+        "latitude": 65.8545669507341,
+        "longitude": 22.5003567469237
     },
     {
         "id": "9811930",
@@ -51828,8 +51828,8 @@
         "streetAddress": "SÖDRA PRÄSTHOLM",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.9106950046615,
-        "longitude": 22.173546989875
+        "latitude": 65.9107438021898,
+        "longitude": 22.1737904293711
     },
     {
         "id": "9811932",
@@ -51839,8 +51839,8 @@
         "streetAddress": "GAMLA HÖGSÖVÄGEN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.8981356590924,
-        "longitude": 22.4462967969676
+        "latitude": 65.8993595326152,
+        "longitude": 22.4475958787248
     },
     {
         "id": "9811933",
@@ -51861,8 +51861,8 @@
         "streetAddress": "MÅTTSUNDSVÄGEN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.5472700101564,
-        "longitude": 21.8600620093087
+        "latitude": 65.547817263236,
+        "longitude": 21.8626664038059
     },
     {
         "id": "9811935",
@@ -51927,8 +51927,8 @@
         "streetAddress": "SJÖFARTSGATAN 17",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.5603453028272,
-        "longitude": 22.196841865412
+        "latitude": 65.5623022249801,
+        "longitude": 22.1925950725308
     },
     {
         "id": "040106",
