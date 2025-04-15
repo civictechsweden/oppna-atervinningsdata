@@ -654,7 +654,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 17144,Sjökvarnsbackens vändplan,,SICKLAÖN 37:4,Sjökvarnsbacken,0182,,59.3138752708012,18.1071467213181
 17283,Kvarnholmen,,SICKLAÖN 38:1,Mjölnarvägen 1,0182,,59.3149029701367,18.1335468867205
 17602,Sickla köpkvarter Planiavägen,,SICKLAÖN 117:17,Planiavägen 5,0182,,59.3056412832999,18.1337050935963
-17661,Blåklockansväg,,LÄNNERSTA 10:1,Blåklockans väg 2,0182,,59.3103196441387,18.2605482628312
+17661,Blåklockansväg,,Lännersta 10:1,Blåklockans väg 2,0182,,59.3103196441387,18.2605482628312
 17694,Boo Gårdsskola ,,BO 1:70,Boovägen 7,0182,,59.3089998819836,18.2849568031488
 19001,Åbroddsvägen,,VELAMSUND 14:1,Åbroddsvägen 2 A,0182,,59.3505548114911,18.2905472224588
 19002,Fyrspannsvägen,,SICKLAÖN 368:3,Fyrspannsvägen 10 -18,0182,,59.3147307573896,18.1666257153153
@@ -814,6 +814,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 96648,9488 Parkeringsplats,,MORKULLAN 1,Vikingavägen/Centralgatan,0192,,58.9112597136896,17.9447334113741
 96649,9487 Vändplan,,NYNÄSHAMN 2:154,Villagatan,0192,,58.9196943916704,17.9413337882767
 96651,9510 Värmecentral Ösmo,,VANSTA 5:2,Maria Barkmans Väg/Skyttes Väg,0192,,58.9915744420074,17.8891171782931
+96658,9504 Heimdalsvägen,,NYNÄSHAMN 2:1,Heimdalsvägen 11,0192,,58.9044912641682,17.9384950600069
 96660,16033 ÅVC Nynäshamn,,HARVEN 1,Åkervägen 11,0192,,58.925637971621,17.9360350415405
 98715,12542 Parkeringsplats,,NYNÄSHAMN 2:81,Gästhamnen,0192,,58.8998934505685,17.9497918870267
 14855,Skörby Skog,,,Skörbyleden/Bergsleden,0305,,59.57000854271549,17.487252470313226

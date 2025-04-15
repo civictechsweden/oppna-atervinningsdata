@@ -7208,7 +7208,7 @@
         "id": "17661",
         "name": "Blåklockansväg",
         "secondaryName": null,
-        "propertyNumber": "LÄNNERSTA 10:1",
+        "propertyNumber": "Lännersta 10:1",
         "streetAddress": "Blåklockans väg 2",
         "municipalityCode": "0182",
         "extraInfo": null,
@@ -8963,6 +8963,17 @@
         "extraInfo": null,
         "latitude": 58.9915744420074,
         "longitude": 17.8891171782931
+    },
+    {
+        "id": "96658",
+        "name": "9504 Heimdalsvägen",
+        "secondaryName": null,
+        "propertyNumber": "NYNÄSHAMN 2:1",
+        "streetAddress": "Heimdalsvägen 11",
+        "municipalityCode": "0192",
+        "extraInfo": null,
+        "latitude": 58.9044912641682,
+        "longitude": 17.9384950600069
     },
     {
         "id": "96660",
