@@ -738,7 +738,7 @@
     },
     {
         "id": "199009532",
-        "name": null,
+        "name": "LIP Åsättra Brygga",
         "secondaryName": null,
         "propertyNumber": "Ljusterö-Åsättra 3:1",
         "streetAddress": "Åsättra bryggväg 99",
@@ -2913,17 +2913,6 @@
         "extraInfo": null,
         "latitude": 59.0989405852539,
         "longitude": 18.0441904115962
-    },
-    {
-        "id": "95731",
-        "name": "ÅVS 7954 Vid tunnelmynning stänger under v 1 2025",
-        "secondaryName": null,
-        "propertyNumber": "ARBOTTNA 1:2",
-        "streetAddress": "Muskö Guldboda",
-        "municipalityCode": "0136",
-        "extraInfo": null,
-        "latitude": 58.971854851552,
-        "longitude": 18.0612299206027
     },
     {
         "id": "96611",
@@ -39182,6 +39171,17 @@
         "longitude": 16.2341445097491
     },
     {
+        "id": "988195",
+        "name": "ÅVS 10466 Odonvägen/Musikvägen",
+        "secondaryName": null,
+        "propertyNumber": "Surahammar Surahammar 10:581",
+        "streetAddress": "Musikvägen",
+        "municipalityCode": "1907",
+        "extraInfo": null,
+        "latitude": 59.6973954516353,
+        "longitude": 16.242819542817
+    },
+    {
         "id": "988196",
         "name": "ÅVS 10469 Virsbo/Krönet",
         "secondaryName": null,
@@ -45959,7 +45959,7 @@
     },
     {
         "id": "4430033",
-        "name": "Överhörnäs, Granitvägen",
+        "name": "Granitvägen",
         "secondaryName": null,
         "propertyNumber": "ÖVERHÖRNÄS 2:8",
         "streetAddress": "Granitvägen",
