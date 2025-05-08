@@ -662,7 +662,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 9173,Björknäs skola,,BJÖRKNÄS 1:315,Björknäs skolväg,0182,,59.3128286705604,18.2398521175526
 9176,"ICA, Henriksdalsberget",,SICKLAÖN 37:11,Henriksdalsringen mittemot 1 -3,0182,,59.3113730728406,18.118014802913
 9178,Tippens Centrum,,TATTBY 2:2,Solsidevägen/Torggatan,0182,,59.2855118758192,18.2714084419639
-9183,Preem,,ÄLTA 9:27,Ältavägen/Älta Idrottsväg 2,0182,,59.262856099389,18.1803031883224
+9183,Älta Idrottsväg 2 ,,ÄLTA 9:27,Ältavägen/Älta Idrottsväg 2,0182,,59.262856099389,18.1803031883224
 9184,Kolarängen,,ÄLTA 10:1,Ältavägen/Ulvsjövägen,0182,,59.2726459794035,18.1761870813276
 9186,Ekstubben Infartsparkering,,ÄLTA 27:2,Ältabergsvägen/Ältavägen,0182,,59.2511325294033,18.173866833488
 99068,Kummelnäsvägen/Värmdövägen,,RENSÄTTRA 1:41,Värmdövägen/Kummelnäsvägen,0182,,59.3358572518646,18.2957512938863
@@ -1686,7 +1686,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 4343273,Köpingsvik,,TINGS ENE 1:14 113522,Köpingevägen,0885,,56.8818258060559,16.72146724868
 4343274,Borgholm,,SMÖRBLOMMAN 24 113522,Hammarvägen 10  ,0885,,56.8801241595467,16.6691649329783
 4343275,Böda ÅVC,,MELLBÖDA 23:4 113522,Mellbödagatan 122,0885,,57.230885678745,17.064401756892
-4343317,Kalleguta ÅVC,,KÖPINGE 1:86 113522,Kalleguta Bygata 21,0885,,56.8837969802205,16.791515324781
+4343317,Kalleguta ÅVC,,KÖPINGE 1:86 113522,Kalleguta Bygata 21 ,0885,,56.8837969802205,16.791515324781
 12341,ICA Nyströms,,,Fårö Friggars 1655,0980,,57.9620831067318,19.2383348611027
 12344,Åminne,,,Gothem Åminnevägen 2,0980,,57.6137085764352,18.7564180672801
 12347,ICA Hoburgshallen,,,Hoburgsvägen 35,0980,,57.0321882692375,18.2768150569156
