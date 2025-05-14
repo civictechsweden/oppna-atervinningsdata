@@ -47102,6 +47102,28 @@
         "longitude": 14.1220070373374
     },
     {
+        "id": "115184",
+        "name": "Backe Kyrkvägen",
+        "secondaryName": null,
+        "propertyNumber": "BACKE 29:1",
+        "streetAddress": "Kyrkvägen",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.8193703148377,
+        "longitude": 16.3996269686377
+    },
+    {
+        "id": "115185",
+        "name": "Norråker, reningsverket",
+        "secondaryName": null,
+        "propertyNumber": "TÅSJÖ-NORRBY 1:121",
+        "streetAddress": "Skolgatan 19",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.4340566776822,
+        "longitude": 15.5879530796163
+    },
+    {
         "id": "11605",
         "name": "Duved",
         "secondaryName": "",
