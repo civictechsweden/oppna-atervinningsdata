@@ -18462,7 +18462,7 @@
         "name": "Källa",
         "secondaryName": null,
         "propertyNumber": "VI 3:6 113522",
-        "streetAddress": "Wij 3",
+        "streetAddress": "Wij 3  ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 57.1199496389176,
@@ -35663,7 +35663,7 @@
     },
     {
         "id": "3135730",
-        "name": "ÅVS MUNKFORS HEDEN",
+        "name": "ÅVS MUNKFORS HEDEN (FD CENTRUM)",
         "secondaryName": null,
         "propertyNumber": "HEDEN 1:29",
         "streetAddress": "VINELLS VÄG 1",
@@ -35707,7 +35707,7 @@
     },
     {
         "id": "8135740",
-        "name": "ÅVS MUNKERUD, (MECA)",
+        "name": "ÅVS MUNKERUD (MECA)",
         "secondaryName": null,
         "propertyNumber": "MUNKERUD 2:261",
         "streetAddress": "MUNKERUDSVÄGEN 30",
@@ -36092,7 +36092,7 @@
     },
     {
         "id": "7551890",
-        "name": "ÅVS STÖPAFORS",
+        "name": "ÅVS STÖPAFORS (DINER 45)",
         "secondaryName": null,
         "propertyNumber": "SÖDRA ÅNA 3:6",
         "streetAddress": "STÖPAFORS 252",
