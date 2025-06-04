@@ -282,8 +282,8 @@
         "streetAddress": "Muskötvägen 28",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.4718839946937,
-        "longitude": 18.3318110565993
+        "latitude": 59.4718839498573,
+        "longitude": 18.3318110385189
     },
     {
         "id": "199009289",
@@ -293,8 +293,8 @@
         "streetAddress": "Ljusterövägen 1",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.540042794134,
-        "longitude": 18.5925557399594
+        "latitude": 59.5417470707416,
+        "longitude": 18.5921053226447
     },
     {
         "id": "199009290",
@@ -304,8 +304,8 @@
         "streetAddress": "Rallarvägen 8",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.482304440039,
-        "longitude": 18.2814271701923
+        "latitude": 59.4823046100185,
+        "longitude": 18.2814274363006
     },
     {
         "id": "199009291",
@@ -315,8 +315,8 @@
         "streetAddress": "Linanäsvägen 49",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.4840342371856,
-        "longitude": 18.5384993538163
+        "latitude": 59.4840342286457,
+        "longitude": 18.5384992477955
     },
     {
         "id": "199009292",
@@ -337,8 +337,8 @@
         "streetAddress": "Svinningevägen 78 B",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.4491254918723,
-        "longitude": 18.2669169618654
+        "latitude": 59.4483978142584,
+        "longitude": 18.2648035872026
     },
     {
         "id": "199009294",
@@ -392,8 +392,8 @@
         "streetAddress": "Storängsvägen 24",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.4860850390543,
-        "longitude": 18.2957854831511
+        "latitude": 59.4860848959132,
+        "longitude": 18.2957852701203
     },
     {
         "id": "199009299",
@@ -403,8 +403,8 @@
         "streetAddress": "Korsgärdesvägen 8",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.4900297546454,
-        "longitude": 18.2771734763092
+        "latitude": 59.4897821536547,
+        "longitude": 18.2778987230537
     },
     {
         "id": "199009301",
@@ -425,8 +425,8 @@
         "streetAddress": "Bergavägen 24",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.4839753618292,
-        "longitude": 18.3041734440361
+        "latitude": 59.4840447503919,
+        "longitude": 18.3041885915859
     },
     {
         "id": "199009303",
@@ -546,8 +546,8 @@
         "streetAddress": "Näsvägen 100",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.4664225411297,
-        "longitude": 18.2880030431092
+        "latitude": 59.465297091252,
+        "longitude": 18.287982304426
     },
     {
         "id": "199009314",
@@ -579,8 +579,8 @@
         "streetAddress": "Slussbrovägen 18",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.4871842914609,
-        "longitude": 18.2847470991102
+        "latitude": 59.4874576798679,
+        "longitude": 18.2834115022443
     },
     {
         "id": "199009317",
@@ -656,8 +656,8 @@
         "streetAddress": "Solskiftesvägen 8",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.5008358216617,
-        "longitude": 18.3026511674693
+        "latitude": 59.5016045921403,
+        "longitude": 18.3033008303159
     },
     {
         "id": "199009324",
@@ -678,8 +678,8 @@
         "streetAddress": "Sjökarbyvägen 22",
         "municipalityCode": "0117",
         "extraInfo": null,
-        "latitude": 59.5000252301656,
-        "longitude": 18.3164279570015
+        "latitude": 59.5003030369534,
+        "longitude": 18.3170747786259
     },
     {
         "id": "199009338",
@@ -8070,8 +8070,8 @@
         "streetAddress": "Bygdegårdsvägen 2",
         "municipalityCode": "0187",
         "extraInfo": null,
-        "latitude": 59.3747052087081,
-        "longitude": 18.4030395629612
+        "latitude": 59.374902684722,
+        "longitude": 18.4036438903494
     },
     {
         "id": "191756492",
@@ -8092,8 +8092,8 @@
         "streetAddress": "Dammvägen 2",
         "municipalityCode": "0187",
         "extraInfo": null,
-        "latitude": 59.4143318854192,
-        "longitude": 18.3096752641062
+        "latitude": 59.4141999621718,
+        "longitude": 18.3094762897912
     },
     {
         "id": "191756494",
@@ -8169,8 +8169,8 @@
         "streetAddress": "Kapellgatan 4",
         "municipalityCode": "0187",
         "extraInfo": null,
-        "latitude": 59.4030769702986,
-        "longitude": 18.3499099291641
+        "latitude": 59.4029246393664,
+        "longitude": 18.3497083652604
     },
     {
         "id": "191756501",
@@ -45838,7 +45838,7 @@
     },
     {
         "id": "4430028",
-        "name": "Gullänget, Korsningen Björnavägen/Krokstavägen",
+        "name": "Björnavägen",
         "secondaryName": null,
         "propertyNumber": "KROKSTA 18:1",
         "streetAddress": "Björnavägen",

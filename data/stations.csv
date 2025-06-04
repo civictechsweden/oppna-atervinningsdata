@@ -24,20 +24,20 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 99157,Ekebyvägen,Teknikvägen,"VALLENTUNA-EKEBY 2:154, VALLENTUNA-EKEBY 2:239","Ekebyvägen 157-201, 186 34",0115,,59.54781,18.06614
 99235,Gamla Väsbyvägen,,VALLENTUNA-VÄSBY 1:1,"Gamla Väsbyvägen 2, Sörgården, 186 31",0115,,59.53687,18.06175
 99247,Tallåsvägen,,BÄLLSTA 2:807,"Tallåsvägen 16, 186 51",0115,,59.51192,18.06795
-199009288,"ÅVS Margretelunds Centrum, Favvan",,Tråsättra 1:852,Muskötvägen 28,0117,,59.4718839946937,18.3318110565993
-199009289,ÅVS Färjelägret Ljusterö,,Mörtsunda 1:2,Ljusterövägen 1,0117,,59.540042794134,18.5925557399594
-199009290,ÅVS Rallaren/Jysk m.m.,,Runö 7:114,Rallarvägen 8,0117,,59.482304440039,18.2814271701923
-199009291,ÅVS Festplats Granliden,,Bolby 1:290,Linanäsvägen 49,0117,,59.4840342371856,18.5384993538163
+199009288,"ÅVS Margretelunds Centrum, Favvan",,Tråsättra 1:852,Muskötvägen 28,0117,,59.4718839498573,18.3318110385189
+199009289,ÅVS Färjelägret Ljusterö,,Mörtsunda 1:2,Ljusterövägen 1,0117,,59.5417470707416,18.5921053226447
+199009290,ÅVS Rallaren/Jysk m.m.,,Runö 7:114,Rallarvägen 8,0117,,59.4823046100185,18.2814274363006
+199009291,ÅVS Festplats Granliden,,Bolby 1:290,Linanäsvägen 49,0117,,59.4840342286457,18.5384992477955
 199009292,ÅVS Skärgårdsstan P-plats IP,,Översättra 1:5,Översättravägen 21,0117,,59.4916768049012,18.3825248425185
-199009293,ÅVS Svinninge; etableringsytan nära handeln,,Svinninge 7:194,Svinningevägen 78 B,0117,,59.4491254918723,18.2669169618654
+199009293,ÅVS Svinninge; etableringsytan nära handeln,,Svinninge 7:194,Svinningevägen 78 B,0117,,59.4483978142584,18.2648035872026
 199009294,ÅVS Rydbo Station,,Rydboholm 11:1,Brovallsvägen/Björkvägen,0117,,59.465589447926,18.1841212304797
 199009295,ÅVS Flaggfabriken,,Berga 6:296,Stationsvägen 24,0117,,59.4757919460685,18.3081372886998
 199009296,ÅVS Brännbackens (ÅVC),,Skeppsbol 1:72,Brännbacksvägen,0117,,59.5065740641435,18.3747963088811
 199009297,ÅVS Manfred Bondes Väg P-plats,,Tråsättra 1:14,Manfred Bondes Väg,0117,,59.4694787218009,18.3519002054301
-199009298,ÅVS Lastbilsparkeringen,,Hacksta 2:134,Storängsvägen 24,0117,,59.4860850390543,18.2957854831511
-199009299,ÅVS Korsgärdesvägen/över vägen från Willys,,Runö 7:263,Korsgärdesvägen 8,0117,,59.4900297546454,18.2771734763092
+199009298,ÅVS Lastbilsparkeringen,,Hacksta 2:134,Storängsvägen 24,0117,,59.4860848959132,18.2957852701203
+199009299,ÅVS Korsgärdesvägen/över vägen från Willys,,Runö 7:263,Korsgärdesvägen 8,0117,,59.4897821536547,18.2778987230537
 199009301,LIP Lerviksvägen 1,,Brevik 1:2,Lerviksvägen 1,0117,,59.4546599526156,18.3705454097797
-199009302,LIP Bergavägen 24,,Berga 6:222,Bergavägen 24,0117,,59.4839753618292,18.3041734440361
+199009302,LIP Bergavägen 24,,Berga 6:222,Bergavägen 24,0117,,59.4840447503919,18.3041885915859
 199009303,LIP Infart till Björnhuvud Ridcenter Gamla Dyviksvägen,,Lillnäs 1:122,Dyviksvägen 150,0117,,59.5381044783997,18.524330253834
 199009304,LIP Frejvägen/Sigurdsvägen,,Täljö 5:1,Frejvägen/Sigurdsvägen,0117,,59.4654972404101,18.2461411725223
 199009305,LIP Gårdslötsvägen/Norra Gårdslötsvägen,,Ättarö 1:6,Gårdslötsvägen/Norra Gårdslötsvägen,0117,,59.4709215996721,18.3809142977833
@@ -48,19 +48,19 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 199009310,LIP Murkelvägen vändplan,,Skånsta 4:1,Murkelvägen,0117,,59.4918692324948,18.3349584192922
 199009311,LIP Murkelvägen mitten,,Skånsta 3:1,Murkelvägen,0117,,59.4981260886313,18.34213343746
 199009312,LIP Roslagsvägen/Rialavägen,,Mälby 9:1,Roslagsvägen/Rialavägen,0117,,59.5595052362194,18.5584290604822
-199009313,LIP Runö Kursgård,,Näs 7:3,Näsvägen 100,0117,,59.4664225411297,18.2880030431092
+199009313,LIP Runö Kursgård,,Näs 7:3,Näsvägen 100,0117,,59.465297091252,18.287982304426
 199009314,LIP Skogsfågelvägen/Kungsfågelvägen,,Tråsättra 1:10,Skogsfågelvägen/Kungsfågelvägen,0117,,59.4745346836858,18.3353531507955
 199009315,LIP Solskiftesvägen (i början),,Sjökarby 1:1,Solskiftesvägen,0117,,59.5036478095662,18.307676049349
-199009316,LIP Slussbrovägen 18 parkering,,Runö 7:60,Slussbrovägen 18,0117,,59.4871842914609,18.2847470991102
+199009316,LIP Slussbrovägen 18 parkering,,Runö 7:60,Slussbrovägen 18,0117,,59.4874576798679,18.2834115022443
 199009317,LIP Spånlötsvägen 4,,Sjökarby 2:1,Spånlötsvägen 4,0117,,59.4979329870065,18.3101398044003
 199009318,LIP Storängsvägen 19 P-plats vid trappan,,Hacksta 1:49,Storängsvägen 19,0117,,59.4849667283261,18.2959954186116
 199009319,LIP Svartgarnsvägen/Ardennervägen,,Svartgarn 2:1,Svartgarnsvägen/Ardennervägen,0117,,59.4427692391934,18.2743304885866
 199009320,LIP Sörahemsvägen,,Söra 1:182,Sörahemsvägen,0117,,59.4782820655601,18.3156411102829
 199009321,LIP Trevebovägen (parkering mittemot 94),,Åkerstorp 31:1,Trevebovägen,0117,,59.4970062001586,18.2810974093959
 199009322,LIP Västra Banvägen (mittemot 22),,Tuna 3:79,Västra Banvägen,0117,,59.4767949641446,18.3041554776962
-199009323,LIP Solskiftesvägen 8,,Smedby 19:553,Solskiftesvägen 8,0117,,59.5008358216617,18.3026511674693
+199009323,LIP Solskiftesvägen 8,,Smedby 19:553,Solskiftesvägen 8,0117,,59.5016045921403,18.3033008303159
 199009324,LIP Tråsättravägen/Malmstigen  ,,Margretelund 1:14,Tråsättravägen/Malmstigen ,0117,,59.4628552420207,18.3402725966794
-199009325,LIP Sjökarbyvägen 22,,Sjökarby 1:76,Sjökarbyvägen 22,0117,,59.5000252301656,18.3164279570015
+199009325,LIP Sjökarbyvägen 22,,Sjökarby 1:76,Sjökarbyvägen 22,0117,,59.5003030369534,18.3170747786259
 199009338,ÅVS Åkersberga IP (Kungsängen),,Tuna 3:1,Andromedavägen/Österskärsvägen,0117,,59.4738727664209,18.2937151998917
 199009339,LIP Runöbacken (160) vändplan,,Runö 7:108,Runöbacken 160,0117,,59.4826994002946,18.2854039166248
 199009340,LIP Slussbrovägen 49 vändplan,,Runö 7:108,Slussbrovägen 49,0117,,59.4902168264858,18.2811246422332
@@ -732,16 +732,16 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 8815,Bo Gärde,,Lidingö 5:175,Gröstavägen på parkering vid Bo skola,0186,,59.37472,18.155
 99034,Gåshaga (parkering vid stationen),,Ångturbinen 2,Värdshusvägen 9,0186,,59.35694,18.22806
 191756490,"ÅVS Färjeläge Vaxholm, busshållplats, Rindö",,Rindö 2:256,Rindövägen,0187,,59.4043582974206,18.3666204844889
-191756491,ÅVS Tynningö-bygdegården,,Tynningö 1:605,Bygdegårdsvägen 2,0187,,59.3747052087081,18.4030395629612
+191756491,ÅVS Tynningö-bygdegården,,Tynningö 1:605,Bygdegårdsvägen 2,0187,,59.374902684722,18.4036438903494
 191756492,ÅVS Resarövägen/Löjviksvägen parkering,,Ytterby 4:583,Löjviksvägen 18,0187,,59.4250656573625,18.329202543723
-191756493,"ÅVS Kullön, Naturresarvat, parkeringen",,Kullö 1:4,Dammvägen 2,0187,,59.4143318854192,18.3096752641062
+191756493,"ÅVS Kullön, Naturresarvat, parkeringen",,Kullö 1:4,Dammvägen 2,0187,,59.4141999621718,18.3094762897912
 191756494,ÅVS Pålsundsvägen/Karl Martinsväg,,Vaxön 1:26,Pålsundsvägen 5,0187,,59.4028442993414,18.3259113869347
 191756495,"LIP Ändhållplats Överby, Resarö",,Överby 29:49,Överbyslingan,0187,,59.4366237003439,18.3121053414411
 191756496,LIP Eriksövägen/Petersbergsvägen,,Vaxön 1:14,Eriksövägen/Petersbergsvägen,0187,,59.4047633736326,18.3254535745434
 191756497,LIP Karl Martins Väg 20-22,,Vaxön 1:26,Karl Martins Väg 26,0187,,59.4035290183018,18.3198557385932
 191756498,LIP Norrhamnsplan (Fiskaregatan 16),,Vaxön 1:81,Norrbergshamnen,0187,,59.4047945313074,18.3514532000153
 191756499,LIP Kungsgatan/Pilgatan,,Vaxön 1:81,Kungsgatan/Pilgatan,0187,,59.4031374194396,18.3429959498474
-191756500,LIP Vaxholm Vårdcentral,,Domaren 15,Kapellgatan 4,0187,,59.4030769702986,18.3499099291641
+191756500,LIP Vaxholm Vårdcentral,,Domaren 15,Kapellgatan 4,0187,,59.4029246393664,18.3497083652604
 191756501,ÅVS Rindö hamn,,Rindö 3:378,Västra Kasernvägen 1,0187,,59.3940286042966,18.4288836481915
 191756502,ÅVS Blynäsvägen/Eriksövägen parkering,,Vaxön 1:81,Snäckvägen 2,0187,,59.405610542071,18.3212289389809
 191756503,ÅVS Biografen/Parkgrillen,,Vaxön 1:81,Hamngatan 31,0187,,59.4044176877365,18.3464858629349
@@ -4166,7 +4166,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430025,"Domsjö, Fotbollsplan",,DOMSJÖ 31:1,Gamla Domsjövägen,2284,,63.2602356043027,18.7107735504791
 4430026,"Bjästa, Läkarstationen",,BJÄSTA 43:5,Tonvägen,2284,,63.2005412459792,18.5002424704042
 4430027,"Gideå, Gideå Livs P-plats",,NORRGISSJÖ 5:51,Bergforsvägen,2284,,63.4815137353008,18.9725686186684
-4430028,"Gullänget, Korsningen Björnavägen/Krokstavägen",,KROKSTA 18:1,Björnavägen,2284,,63.3160495187337,18.6937597217145
+4430028,Björnavägen,,KROKSTA 18:1,Björnavägen,2284,,63.3160495187337,18.6937597217145
 4430029,"Bonässund, Rogers Pizzeria P-plats",,NEDERÖN 1:11,Bonäsvägen,2284,,63.2585875360207,18.77793480702
 4430030,"Trehörningsjö, Coop P-plats",,TREHÖRNINGSJÖ 1:359,Centralgatan,2284,,63.693775602441,18.8664828374958
 4430031,"Flärke, Hembyggsgården Flärke",,ÅVS,Flärkemon,2284,,63.5759132694495,19.0396207085924
