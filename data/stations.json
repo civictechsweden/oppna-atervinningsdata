@@ -12067,6 +12067,61 @@
         "longitude": 15.77667
     },
     {
+        "id": "7038653",
+        "name": "Viberga COOP",
+        "secondaryName": null,
+        "propertyNumber": "HÅRSTORP 2:12",
+        "streetAddress": "Skäggebyvägen 27",
+        "municipalityCode": "0562",
+        "extraInfo": null,
+        "latitude": 58.7011927967224,
+        "longitude": 15.815560774582
+    },
+    {
+        "id": "7038654",
+        "name": "Dunderbacken",
+        "secondaryName": null,
+        "propertyNumber": "HÅRSTORP 3:110",
+        "streetAddress": "Dunderbacksvägen 41",
+        "municipalityCode": "0562",
+        "extraInfo": null,
+        "latitude": 58.7100110324321,
+        "longitude": 15.8117367153787
+    },
+    {
+        "id": "7038655",
+        "name": "Ängslyckan",
+        "secondaryName": null,
+        "propertyNumber": "ÄNGSLYCKAN 1",
+        "streetAddress": "Södra Storängsvägen 48",
+        "municipalityCode": "0562",
+        "extraInfo": null,
+        "latitude": 58.7060739692308,
+        "longitude": 15.8026619000284
+    },
+    {
+        "id": "7038656",
+        "name": "Östermalmshallen COOP",
+        "secondaryName": null,
+        "propertyNumber": "KJUSORNA 13",
+        "streetAddress": "Norra Storängsvägen 2",
+        "municipalityCode": "0562",
+        "extraInfo": null,
+        "latitude": 58.7089508718334,
+        "longitude": 15.7930197979486
+    },
+    {
+        "id": "7038661",
+        "name": "Bergslagshallen COOP",
+        "secondaryName": null,
+        "propertyNumber": "BILEN 3",
+        "streetAddress": "Bergslagsvägen 20",
+        "municipalityCode": "0562",
+        "extraInfo": null,
+        "latitude": 58.7063359276336,
+        "longitude": 15.7665691339696
+    },
+    {
         "id": "8",
         "name": "Viggestorp",
         "secondaryName": "",
@@ -35163,8 +35218,8 @@
         "streetAddress": "Ravinvägen ",
         "municipalityCode": "1715",
         "extraInfo": "",
-        "latitude": 59.494214986892565,
-        "longitude": 13.325524238458689
+        "latitude": 59.4978633,
+        "longitude": 13.3188176
     },
     {
         "id": "171502",
@@ -35174,8 +35229,8 @@
         "streetAddress": "Arvikavägen ",
         "municipalityCode": "1715",
         "extraInfo": "",
-        "latitude": 59.518786186039925,
-        "longitude": 13.22215110198882
+        "latitude": 59.5204378,
+        "longitude": 13.2268239
     },
     {
         "id": "171503",
@@ -35218,8 +35273,8 @@
         "streetAddress": "Stenåsvägen ",
         "municipalityCode": "1715",
         "extraInfo": "",
-        "latitude": 59.50014060019459,
-        "longitude": 13.342685811772881
+        "latitude": 59.5020583,
+        "longitude": 13.3399732
     },
     {
         "id": "171507",
@@ -35229,8 +35284,8 @@
         "streetAddress": "Lersäter",
         "municipalityCode": "1715",
         "extraInfo": "",
-        "latitude": 59.50007403503552,
-        "longitude": 13.283363772454235
+        "latitude": 59.5006653,
+        "longitude": 13.2995588
     },
     {
         "id": "171508",

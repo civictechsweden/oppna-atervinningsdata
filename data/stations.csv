@@ -1096,6 +1096,11 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 5,Östermalm ST1,,,Norrmalmvägen/Villavägen,0562,Samtliga förpackningsslag samt tidningar och batterier,58.71139,15.78528
 6,Norrmalm,,,Kanalgatan,0562,Samtliga förpackningsslag samt tidningar och batterier,58.71278,15.77389
 7,Nyhem,,,Oxhagsvägen 1,0562,Samtliga förpackningsslag samt tidningar och batterier,58.70139,15.77667
+7038653,Viberga COOP,,HÅRSTORP 2:12,Skäggebyvägen 27,0562,,58.7011927967224,15.815560774582
+7038654,Dunderbacken,,HÅRSTORP 3:110,Dunderbacksvägen 41,0562,,58.7100110324321,15.8117367153787
+7038655,Ängslyckan,,ÄNGSLYCKAN 1,Södra Storängsvägen 48,0562,,58.7060739692308,15.8026619000284
+7038656,Östermalmshallen COOP,,KJUSORNA 13,Norra Storängsvägen 2,0562,,58.7089508718334,15.7930197979486
+7038661,Bergslagshallen COOP,,BILEN 3,Bergslagsvägen 20,0562,,58.7063359276336,15.7665691339696
 8,Viggestorp,,,Fridhemsvägen/ Husarvägen,0562,Samtliga förpackningsslag samt tidningar och batterier,58.70111,15.75278
 9,Bergslagshallen Coop,,,Bergslagsvägen 20,0562,Samtliga förpackningsslag samt tidningar och batterier,58.70639,15.76611
 100471,ÅVS Vallastaden,,.,Paradisgatan,0580,,58.3924987388412,15.5882023523693
@@ -3195,13 +3200,13 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 7540,Samlingslokalen,,SLÖTA 4:71, ,1499,,58.09944,13.63167
 7541,Industrigatan,,ALVARED 4:164,,1499,,58.02417,13.56889
 7542,Gudhem,,AMBJÖRNTORP 2:18, Torbjörntorpsvägen,1499,,58.22556,13.56722
-171501,Dalliden,,,Ravinvägen ,1715,,59.494214986892565,13.325524238458689
-171502,Fagerås,,,Arvikavägen ,1715,,59.518786186039925,13.22215110198882
+171501,Dalliden,,,Ravinvägen ,1715,,59.4978633,13.3188176
+171502,Fagerås,,,Arvikavägen ,1715,,59.5204378,13.2268239
 171503,Kil Centrum,,,Magasingatan,1715,,59.504705496560476,13.318294548540987
 171504,Mon ,,,Mogatan ,1715,,59.50935416881583,13.335832643797186
 171505,Willys ,,,Skogsvägen 41,1715,,59.50013980081291,13.316225631594474
-171506,Norra Stenåsen,,,Stenåsvägen ,1715,,59.50014060019459,13.342685811772881
-171507,Sunnanåvägen ,,,Lersäter,1715,,59.50007403503552,13.283363772454235
+171506,Norra Stenåsen,,,Stenåsvägen ,1715,,59.5020583,13.3399732
+171507,Sunnanåvägen ,,,Lersäter,1715,,59.5006653,13.2995588
 171508,ICA,,,Storgatan ,1715,,59.503790050517374,13.313530058877395
 171509,ÅVC,,,Värmevägen ,1715,,59.50855087199831,13.287706652841306
 13419,Lunden(ÅVC),,LUNDEN 1:60,,1730,,59.77194,12.18944
