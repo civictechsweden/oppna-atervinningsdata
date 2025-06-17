@@ -18942,17 +18942,6 @@
         "longitude": 18.5127828816525
     },
     {
-        "id": "16010",
-        "name": "Ronehamnsvägen",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Rone Ronehamnsvägen 44",
-        "municipalityCode": "0980",
-        "extraInfo": "",
-        "latitude": 57.1790242654421,
-        "longitude": 18.4804954942164
-    },
-    {
         "id": "16010-B",
         "name": "Ronehamn Hamnen",
         "secondaryName": "",
@@ -45783,10 +45772,10 @@
     },
     {
         "id": "4430000",
-        "name": "Gottne, Infart till reningsverket",
+        "name": "Gottnevägen  ",
         "secondaryName": null,
         "propertyNumber": "GOTTNE 8:14",
-        "streetAddress": "Gottnevägen",
+        "streetAddress": "Gottnevägen   ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.4271002579013,
