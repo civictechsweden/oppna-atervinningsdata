@@ -1969,6 +1969,8 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 28695,Återvinningsstation Ulrikedalsvägen Lund,,ULRIKEDAL 1,Ulrikedal,1281,,55.6983640357605,13.2055587792595
 29303,Återvinningsstation Norra Järnvägsgatan Veberöd,,TRAVERSEN 8,Norra Järnvägsgatan,1281,,55.6369296213676,13.4926075750854
 31606,Återvinningsstation Östratorns byväg Lund,,Östra Torn 27:7,Östratorns Byväg,1281,,55.7101449562851,13.2229461555121
+42246,Återvinningsstation Stadsparkgatan,,INNERSTADEN 3:32,Stadsparksgatan,1281,,55.6995410773272,13.1812644801484
+42354,Återvinningsstation Annedalsvägen ,,VÄSTER 7:1,Annedalsvägen,1281,,55.7138565973457,13.167457723355
 15301,Parkeringen ID 15301,,Parkeringen ID 15301,Kolgatan,1282,,55.865,12.82694
 15302,Borstahusen ID 15302,,Borstahusen ID 15302,Skepparvägen,1282,,55.89667,12.81333
 15303,ID 15303,,ID 15303,Verktygsvägen,1282,,55.88139,12.94889
@@ -2347,7 +2349,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 61966,Hantverkaregatan / vid OK,,,Hantverkaregatan vid OK,1415,,58.075338,11.839163
 61967,Hasselbacken,,,Hasselbacken,1415,,58.061961,11.844914
 61968,Novavägen / Jörlandagården,,,Novavägen 1,1415,,57.986173,11.829692
-61969,Kristinedals förskola,,,Kristinedalsvägen 4,1415,,58.064359,11.834239
+61969,Kristinedals förskola,,,Kristinedalsvägen 4,1415,,58.064669,11.833465
 61970,Kyrkenorum,,,Kyrkenorum,1415,,58.056137,11.864949
 61971,"Södra vägen, P-plats",,,"Södra vägen, P-plats",1415,,58.06885,11.821728
 61972,Kläpp ÅVC,,,Kläpp,1415,Tillgänglig under öppettiderna för Kläpp ÅVC,58.0908,11.849326

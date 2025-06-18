@@ -21670,6 +21670,28 @@
         "longitude": 13.2229461555121
     },
     {
+        "id": "42246",
+        "name": "Återvinningsstation Stadsparkgatan",
+        "secondaryName": null,
+        "propertyNumber": "INNERSTADEN 3:32",
+        "streetAddress": "Stadsparksgatan",
+        "municipalityCode": "1281",
+        "extraInfo": null,
+        "latitude": 55.6995410773272,
+        "longitude": 13.1812644801484
+    },
+    {
+        "id": "42354",
+        "name": "Återvinningsstation Annedalsvägen ",
+        "secondaryName": null,
+        "propertyNumber": "VÄSTER 7:1",
+        "streetAddress": "Annedalsvägen",
+        "municipalityCode": "1281",
+        "extraInfo": null,
+        "latitude": 55.7138565973457,
+        "longitude": 13.167457723355
+    },
+    {
         "id": "15301",
         "name": "Parkeringen ID 15301",
         "secondaryName": null,
@@ -25835,8 +25857,8 @@
         "streetAddress": "Kristinedalsvägen 4",
         "municipalityCode": "1415",
         "extraInfo": "",
-        "latitude": 58.064359,
-        "longitude": 11.834239
+        "latitude": 58.064669,
+        "longitude": 11.833465
     },
     {
         "id": "61970",
