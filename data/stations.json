@@ -11506,17 +11506,6 @@
         "longitude": 17.02444
     },
     {
-        "id": "16829",
-        "name": "ÅVS Trafikplats Gorsinge",
-        "secondaryName": "16829",
-        "propertyNumber": "GORSINGE 1:1",
-        "streetAddress": "Kvartsgatan ",
-        "municipalityCode": "0486",
-        "extraInfo": "",
-        "latitude": 59.32917,
-        "longitude": 17.01778
-    },
-    {
         "id": "17187",
         "name": "ÅVS Stallarholmen",
         "secondaryName": "17187",
@@ -30140,17 +30129,6 @@
         "longitude": 11.92667
     },
     {
-        "id": "248781",
-        "name": "ÅVS 12166 Briljantgatan 22  ",
-        "secondaryName": "",
-        "propertyNumber": "JÄRNBROTT 164:9",
-        "streetAddress": "Briljantgatan 22  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.64861,
-        "longitude": 11.90194
-    },
-    {
         "id": "248782",
         "name": "ÅVS 12167 Smaragdgatan 4  ",
         "secondaryName": "",
@@ -47188,6 +47166,28 @@
         "extraInfo": null,
         "latitude": 64.4340566776822,
         "longitude": 15.5879530796163
+    },
+    {
+        "id": "115188",
+        "name": "Tåsjöedet",
+        "secondaryName": null,
+        "propertyNumber": "TÅSJÖ KAPELLJORD 1:1",
+        "streetAddress": "Tåsjö",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.160337195921,
+        "longitude": 16.0289457256916
+    },
+    {
+        "id": "115189",
+        "name": "Hillsand",
+        "secondaryName": null,
+        "propertyNumber": "HILLSAND 1:112",
+        "streetAddress": "Hillsand",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.1211792922487,
+        "longitude": 15.2897315692913
     },
     {
         "id": "11605",
