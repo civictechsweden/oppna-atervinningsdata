@@ -1299,7 +1299,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 9515,Bakom möbelaffären,,9515,Karsåsvägen,0682,,57.5075,14.69667
 9517,Odengatan 29,,9517,Odengatan 29,0682,,57.7825,14.79944
 9518,Marknadsplatsen,,9518,Esplanadgatan,0682,,57.70056,14.47722
-9519,Jönköpingsvägen 37,,9519,Jönköpingsvägen 37,0682,,57.70306,14.46889
+9519,Jönköpingsvägen 37,,9519,Jönköpingsvägen 37,0682,,57.703274,14.46789
 9520,Möbelvägen,,9520,Möbelvägen 5 5),0682,,57.61583,14.59528
 9521,Mickel Göings Väg,,9521,Mickel Göings Väg,0682,,57.55972,14.70083
 9523,Bagareliden 2,,9523,Bagareliden 2,0682,,57.57722,14.45917
@@ -4392,7 +4392,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4415930,ÅVS Granö,11273,GRANÖ 1:62,Åvs Granö Skolvägen 18 ,2404,,64.24778,19.31833
 12873,"Åkullsjön, Vindelvägen",,Åkullsjön 2:24,Vindelvägen,2409,,64.265853,20.4885
 12874,"Ånäset, Industriområde",,Nybyn 4:24,Snickarvägen,2409,,64.279612,21.058072
-17645,Fagerliden ÅVC ,,Edfastmark 7:242,Fagerliden 1,2409,,64.222204,20.860807
 4268,Bygdeå,,Skinnarbyn 4:9,Stenmyrvägen,2409,,64.057808,20.851657
 4270,Överklinten 3,,Överklinten 3:82,Ytterklintvägen 10,2409,,64.243531,20.661504
 4271,"Robertsfors,vid  busstation",,Lärkan 2,Bakom Coop,2409,,64.192874,20.846558
@@ -4762,7 +4761,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 240,Norra svartbyn,,Svartbyn 6:12,Fårhagsvägen,2582,,65.8078193051024,21.763475522985
 250,Flarken,,Vibbyn 3:21,Flarken,2582,,65.8114300644574,21.8791863145681
 300,Heden ,,Heden 6:47,Glimmervägen,2582,,65.8160451569058,21.5839657595523
-310,Degerbäcken,,Degerbäcken 18:1,Degerbäckens by 47 C,2582,,65.8585050177047,21.4097725871742
+310,Degerbäcken,,DEGERBÄCKEN 18:1,Degerbäckens by 47 C,2582,,65.8585050177047,21.4097725871742
 320,Brännberg,,BRÄNNBERG 100:2,Brännberg,2582,,65.7849892419624,21.2263474410706
 400,Svartbjörnsbyn,,Svartbjörsbyn 10:32,Krusvägen,2582,,65.852392320104,21.700885396887
 410,Buddbygården,,Buddbyn 3:46,Gamla buddbyvägen,2582,,65.879526008989,21.6881876325847
@@ -4782,7 +4781,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 750,Harads ÅVC,,HARADS 8:74,Bergvägen/Edeforsvägen,2582,,66.0974902899831,20.9436375306561
 760,Bodträskfors,,HARADS 15:11,Bodträskfors,2582,,66.0891650478671,20.9021832594931
 800,Bodsvedjan,,Bodsvedjan 1:14,Slipvägen,2582,,65.8014921293556,21.6887479350819
-810,Bodforsen,,Bodforsen 2:25,Bodforsen,2582,,65.8083870529912,21.6669665705047
+810,Bodforsen,,BODFORSEN 2:25,Bodforsen,2582,,65.8083870529912,21.6669665705047
 820,"Unbyn, avloppsreningsverket",,Unbyn 14:12,Unbyn,2582,,65.7133541181859,21.7630053868285
 830,Mockträsk,,Mockträsk 2:13,Mockträsk,2582,,65.726531557967,21.6028637802265
 11908,"Kiruna, Ahos Park",,Östermalm 7:2,Mäster Palmsgatan,2584,,67.85333,20.25

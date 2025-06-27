@@ -14307,8 +14307,8 @@
         "streetAddress": "Jönköpingsvägen 37",
         "municipalityCode": "0682",
         "extraInfo": null,
-        "latitude": 57.70306,
-        "longitude": 14.46889
+        "latitude": 57.703274,
+        "longitude": 14.46789
     },
     {
         "id": "9520",
@@ -48323,17 +48323,6 @@
         "longitude": 21.058072
     },
     {
-        "id": "17645",
-        "name": "Fagerliden ÅVC ",
-        "secondaryName": "",
-        "propertyNumber": "Edfastmark 7:242",
-        "streetAddress": "Fagerliden 1",
-        "municipalityCode": "2409",
-        "extraInfo": "",
-        "latitude": 64.222204,
-        "longitude": 20.860807
-    },
-    {
         "id": "4268",
         "name": "Bygdeå",
         "secondaryName": "",
@@ -52396,7 +52385,7 @@
         "id": "310",
         "name": "Degerbäcken",
         "secondaryName": null,
-        "propertyNumber": "Degerbäcken 18:1",
+        "propertyNumber": "DEGERBÄCKEN 18:1",
         "streetAddress": "Degerbäckens by 47 C",
         "municipalityCode": "2582",
         "extraInfo": null,
@@ -52616,7 +52605,7 @@
         "id": "810",
         "name": "Bodforsen",
         "secondaryName": null,
-        "propertyNumber": "Bodforsen 2:25",
+        "propertyNumber": "BODFORSEN 2:25",
         "streetAddress": "Bodforsen",
         "municipalityCode": "2582",
         "extraInfo": null,
