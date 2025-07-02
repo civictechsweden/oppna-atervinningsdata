@@ -1651,7 +1651,7 @@
     },
     {
         "id": "96683",
-        "name": "8101 Mickelbergsvägen Mitt Emot Nr 386",
+        "name": "ÅVS 8101 Mickelbergsvägen Mitt Emot Nr 386",
         "secondaryName": null,
         "propertyNumber": "JAKOBSLUND 2:40",
         "streetAddress": "Mickelbergsvägen",
@@ -35289,7 +35289,18 @@
     },
     {
         "id": "171509",
-        "name": "ÅVC",
+        "name": "Utanför Återvinningcentral",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Volymvägen",
+        "municipalityCode": "1715",
+        "extraInfo": "",
+        "latitude": 59.5070501,
+        "longitude": 13.2924126
+    },
+    {
+        "id": "171511",
+        "name": "Återvinningcentral ",
         "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Värmevägen ",
@@ -46083,7 +46094,7 @@
         "name": "Centrum, Vegagatan/E4:an",
         "secondaryName": null,
         "propertyNumber": "ÖRNSKÖLDSVIK 8:24",
-        "streetAddress": "Vegagatan",
+        "streetAddress": "Vegagatan ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.2920594581503,
