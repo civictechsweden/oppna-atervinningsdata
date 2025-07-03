@@ -8834,7 +8834,7 @@
     },
     {
         "id": "96633",
-        "name": "9506 Marstavägen/Mariebergsvägen",
+        "name": "ÅVS 9506 Marstavägen/Mariebergsvägen",
         "secondaryName": null,
         "propertyNumber": "MARSTA 5:70",
         "streetAddress": "Marstavägen/Mariebergsvägen",
@@ -38311,6 +38311,17 @@
         "extraInfo": null,
         "latitude": 59.1442582644726,
         "longitude": 15.6621034949133
+    },
+    {
+        "id": "86019",
+        "name": "Adolfsberg - Ristipp ÅVS",
+        "secondaryName": null,
+        "propertyNumber": "NIKOLAI 3:227",
+        "streetAddress": "Bergavägen",
+        "municipalityCode": "1880",
+        "extraInfo": null,
+        "latitude": 59.23537862848,
+        "longitude": 15.1849186418553
     },
     {
         "id": "26554",
