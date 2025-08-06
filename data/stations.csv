@@ -1142,23 +1142,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 3034,ÅVS Idrottsplatsen Västerlösa,,.,Spärringevägen,0580,,58.4215993468858,15.3393212123077
 99049,ÅVS Folkets Park Kupolen,,.,Malmslättsvägen Valla,0580,,58.4073401073876,15.5888635857395
 99054,ÅVS Maxi stormarknad öster Tornby,,.,Grytstorpsgatan,0580,,58.4315116519979,15.5939557004594
-54374,Returpunkt Norrköping,,,Fridhemsvägen 7,0581,,58.599793,16.145472
-54391,Returpunkt Åby,,,Hydraulvägen 10,0581,,58.653928,16.171813
-54392,Returpunkt Krokek,,,Sjöviksvägen 161,0581,,58.686679,16.343189
-54410,Returpunkt Skärblacka,,,Förrådsvägen 2 ,0581,,58.582628,15.922436
-54416,Returpunkt Östra Husby,,,Företagsgården Östra Husby,0581,,58.569936,16.536891
-54437,City Gross,,,Malmgatan 41,0581,,58.617378,16.172864
-54438,Klockartorpet Valthornet,,,Torsten Fogelqvist Gata 120,0581,,58.577023,16.130546
-54439,Jursla,,,Lillsjövägen 4A,0581,,58.654714,16.16221
-54440,Krokek Resecentrum,,,Krokek Resecentrum ,0581,,58.672631,16.363105
-54441,Lindö,,,Aktergatan 4,0581,,58.60151,16.246646
-54442,Vilbergen Centrum,,,Urbergsgatan 99,0581,,58.570517,16.17106
-54443,Åby Centrum,,,Åbymovägen 1,0581,,58.664489,16.180405
-54444,ICA Skärblacka,,,Skogängsvägen 13,0581,,58.575924,15.937745
-54445,Abel Beckers gata,,,Abel Beckers gata 3,0581,,58.593505,16.163901
-54446,Stortorget,,,Stortorget 1,0581,,58.586667,16.196724
-54447,Arkösund,,,Arkösundsvägen 543,0581,,58.490493,16.935911
-54453,ICA Klockaretorpet,,,Folkborgsvägen 1,0581,,58.581688,16.142229
 11971,Kvartsvägen Bråstorp,,Bråstorp 1:8,Kvartsvägen,0583,,58.558075,15.037386
 14487,Mariebergsskolan,,Råssnäs 2:28,Agneshögsgatan,0583,,58.539425,14.996992
 14908,Grusparkeringen-Österstad ,,Österstad 6:71,Allévägen,0583,,58.517523,15.177127
@@ -4766,7 +4749,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 400,Svartbjörnsbyn,,SVARTBJÖRSBYN 10:32,Krusvägen,2582,,65.852392320104,21.700885396887
 410,Buddbygården,,BUDDBYN 3:46,Gamla buddbyvägen,2582,,65.879526008989,21.6881876325847
 420,Sandträsk,,Sandträsk 1:71,Sandträsk,2582,,66.1232996609265,21.3421547593594
-430,Lakaträsk,,Djupsjö 3:98,Lakaträsk 216,2582,,66.2766027906736,21.1238630391801
+430,Lakaträsk,,DJUPSJÖ 3:98,Lakaträsk 216,2582,,66.2766027906736,21.1238630391801
 500,Fruktvägen,,SÄVAST 17:4,Fruktvägen 2,2582,,65.7726073766545,21.7399392385734
 510,Teknikvägen,,Sävast 23:11,Teknikvägen,2582,,65.7566565644442,21.7577857089133
 600,Boden ÅVC,,SVARTBJÖRSBYN 2:53,Brännkläppen 2,2582,,65.8498057259584,21.7395045944411
