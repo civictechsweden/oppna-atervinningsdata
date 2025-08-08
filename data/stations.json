@@ -38644,14 +38644,14 @@
     },
     {
         "id": "18837",
-        "name": "Oxelbergsgatan",
+        "name": "Bergrumsvägen",
         "secondaryName": "",
-        "propertyNumber": "BREGÅRDEN 2:31",
-        "streetAddress": "Oxelbergsgatan",
+        "propertyNumber": "KARLSKOGA BOFORS 1:19",
+        "streetAddress": "Bergrumsvägen",
         "municipalityCode": "1883",
         "extraInfo": "Karlskoga",
-        "latitude": 59.326122,
-        "longitude": 14.530523
+        "latitude": 59.32792,
+        "longitude": 14.53517
     },
     {
         "id": "18838",
@@ -47993,17 +47993,6 @@
         "longitude": 19.31333
     },
     {
-        "id": "4415988",
-        "name": "ÅVS Lögdeå",
-        "secondaryName": "9233",
-        "propertyNumber": "LÖGDEÅ 16:1",
-        "streetAddress": "Åvs Lögdeå Aspeåvägen 7 ",
-        "municipalityCode": "2401",
-        "extraInfo": "",
-        "latitude": 63.54861,
-        "longitude": 19.38444
-    },
-    {
         "id": "4415989",
         "name": "ÅVS Gräsmyr",
         "secondaryName": "9230",
@@ -48937,17 +48926,6 @@
         "extraInfo": "",
         "latitude": 63.93778,
         "longitude": 20.16167
-    },
-    {
-        "id": "4415907",
-        "name": "ÅVS Tomtebo Coop",
-        "secondaryName": "17238",
-        "propertyNumber": "FÄLTSPATEN 2",
-        "streetAddress": "Åvs Tomtebo Mineralvägen 7 ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.81111,
-        "longitude": 20.33139
     },
     {
         "id": "4415908",
@@ -52121,7 +52099,7 @@
         "id": "200",
         "name": "Manhem",
         "secondaryName": null,
-        "propertyNumber": "Erikslund 11:1",
+        "propertyNumber": "ERIKSLUND 11:1",
         "streetAddress": "Manhemsgatan",
         "municipalityCode": "2582",
         "extraInfo": null,
@@ -52440,7 +52418,7 @@
         "id": "830",
         "name": "Mockträsk",
         "secondaryName": null,
-        "propertyNumber": "Mockträsk 2:13",
+        "propertyNumber": "MOCKTRÄSK 2:13",
         "streetAddress": "Mockträsk",
         "municipalityCode": "2582",
         "extraInfo": null,
