@@ -2124,7 +2124,7 @@
     },
     {
         "id": "96792",
-        "name": "Stationen kommer att stängas under vecka 36 -- ÅVS 7274  Ica Maxi",
+        "name": "ÅVS 7274  Ica Maxi -- Stationen kommer att stängas under vecka 36",
         "secondaryName": null,
         "propertyNumber": "KUMLA GÅRD 1",
         "streetAddress": "Kumla gårdsväg 30",
@@ -21932,17 +21932,6 @@
         "extraInfo": null,
         "latitude": 55.7169445762156,
         "longitude": 13.5284388129102
-    },
-    {
-        "id": "108219",
-        "name": "1010 TOFTAHOLM - BORTTAGEN OKTOBER 2024",
-        "secondaryName": null,
-        "propertyNumber": "ÖRTOFTA 15:35",
-        "streetAddress": "KAMPANJEVÄGEN",
-        "municipalityCode": "1285",
-        "extraInfo": null,
-        "latitude": 55.7846037199616,
-        "longitude": 13.26653274309
     },
     {
         "id": "121516",
