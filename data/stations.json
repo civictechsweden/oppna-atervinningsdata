@@ -18396,7 +18396,7 @@
         "name": "Köpingsvik",
         "secondaryName": null,
         "propertyNumber": "TINGS ENE 1:14 113522",
-        "streetAddress": "Köpingevägen",
+        "streetAddress": "Köpingevägen   ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 56.8818258060559,
@@ -49443,17 +49443,6 @@
         "extraInfo": "",
         "latitude": 63.83806,
         "longitude": 20.16333
-    },
-    {
-        "id": "4415979",
-        "name": "ÅVS Umedalen Kullavägen",
-        "secondaryName": "11009",
-        "propertyNumber": "BACKEN 6:1",
-        "streetAddress": "Åvs Umedalen Umedalsallén/Kullavägen 92 ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.84417,
-        "longitude": 20.16111
     },
     {
         "id": "4415980",
