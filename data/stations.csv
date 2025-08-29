@@ -846,6 +846,20 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 988277,ÅVS 1646 Runhällen f.d. Järnvägsområdet,,Österbo 1:22,F.d. Järnvägsområdet,0331,,60.0257513493815,16.8223701903956
 988278,ÅVS 1647 Stationsgatan 29,,Nora Prästgård 2:216,Stationsgatan 29,0331,,60.1577524440898,16.9293620291149
 988279,ÅVS 1648 Ösbyvägen,,Ösby 1:31,Ösbyvägen,0331,,59.902821921396,17.0625655412049
+9000826,ÅVS Edvalla,,,Edvalla iskällarvägen 1,0360,Öppet dygnet runt,60.53495,17.87936
+9000827,ÅVS Lidl Tierp,,,Gävlevägen 36,0360,Öppet dygnet runt,60.34295,17.50952
+9000828,ÅVS Gammelgården Tierp,,,Parkgatan 8,0360,Öppet dygnet runt,60.34919,17.5107
+9000829,ÅVS Kyrkbyn,,,Backbrovägen 2,0360,Öppet dygnet runt,60.30038,17.46689
+9000830,ÅVS Tobo,,,Skolvägen 1,0360,Öppet dygnet runt,60.2588,17.65121
+9000831,ÅVS Månkarbo,,,Månkarbovägen 31,0360,Öppet dygnet runt,60.22843,17.46214
+9000832,ÅVS Mehedeby,,,Riksvägen 29,0360,Öppet dygnet runt,60.44921,17.40554
+9000833,ÅVS Söderfors,,,Nygatan 18 D,0360,Öppet dygnet runt,60.38858,17.2435
+9000834,ÅVS Örbyhus,,,Bruksvägen 8 A,0360,Öppet dygnet runt,60.22557,17.70574
+9000835,ÅVS Skärplinge,,,Ol-anders väg 1,0360,Öppet dygnet runt,60.47098,17.76034
+9000836,ÅVS ÅVC Skärplinge,,,Gävlevägen 50,0360,Öppettider finns på temab.tierp.se,60.48021,17.75366
+9000837,ÅVS Karlholmsbruk,,,Nöttövägen 1,0360,Öppet dygnet runt,60.51972,17.62553
+9000838,ÅVS ÅVC Söderfors,,,Västermalmsvägen 36,0360,Öppettider finns på temab.tierp.se,60.39244,17.2311
+9000839,ÅVS ÅVC Gatmot,,,Gåvastbo 102,0360,Öppettider finns på temab.tierp.se,60.29092,17.57717
 4061348,ICA Almunge,,LILLA VÄSBY 1:34,LILLA VÄSBY 108,0380,,59.8697032436534,18.070708511333
 4061350,"Björklinge centrum, Parkering",,BJÖRKLINGE 2:4,NÄRA SÖDRA LÅNGÅSVÄGEN 2,0380,,60.0288099684533,17.5525315639305
 4061351,"Bälinge centrum, Matöppet Träffköp",,BÄLINGE-EKEBY 1:179,NÄRA KLOCKARBOLSVÄGEN 14,0380,,59.9466573759129,17.5327172140625
@@ -4147,7 +4161,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430014,"Må, Utanför grindarna till Må ÅVC",,ÅVS,Returvägen,2284,,63.3024955013646,18.7619446957413
 4430016,"Sidensjö, Brandstation",,SIDENSJÖ PRÄSTBORD 1:60,Angermannus Väg ,2284,,63.2975878414257,18.2862467767287
 4430017,"Sund, Korsningen Droskgränd/Sundsvägen",,SUND 1:33,Droskgränd ,2284,,63.2667322881182,18.6892550380036
-4430018,"Bredbyn, Fannbyvägen",,BREDBYN 20:29,Fannbyvägen,2284,,63.4494985708244,18.115142401032
+4430018,"Bredbyn, Fannbyvägen",,BREDBYN 20:29,Fannbyvägen ,2284,,63.4494985708244,18.115142401032
 4430022,"Långviksmon, fd Järnvägsstation",,BJÖRNA-LÅNGVIKEN 1:71,Lomvägen ,2284,,63.6312397320351,18.6930969706709
 4430024,"Skorped, Fotbollsplan Väg 908",,SKORPED 1:6,Skorpedsvägen ,2284,,63.3840658730566,17.8491051226783
 4430025,Gamla Domsjövägen  ,,DOMSJÖ 31:1,Gamla Domsjövägen   ,2284,,63.2602356043027,18.7107735504791
@@ -4163,7 +4177,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430035,"Solberg, Vid vändplanen",,SOLBERG 1:196,Hässjevägen,2284,,63.7882410780422,17.6326934019486
 4430036,"Lungvik, Korsningen Järvhagavägen/Järvstagatan",,JÄRVHAGA 2,Järvhagavägen ,2284,,63.284463605271,18.746572279482
 4430037,"Björna, Korsningen Björkvägen/Husumvägen",,ÅVS,Björkvägen ,2284,,63.5454299851143,18.6106135518395
-4430038,"Mellansel, Coop P-plats",,MELLANSEL 1:103,Centrumgatan,2284,,63.4261942667778,18.3093440022727
+4430038,"Mellansel, Coop P-plats",,MELLANSEL 1:103,Centrumgatan ,2284,,63.4261942667778,18.3093440022727
 4430039,"Hemling, Hemlings Lanthandel",,BJÖRNA-HEMLING 17:2,Hemling,2284,,63.6511115485544,18.5460875436477
 4430040,"Hörnett, Bredvid ST1",,HÖRNETT 47:1,Hörneborgsvägen,2284,,63.272287353438,18.6936258055391
 4430041,"Själevad, Coop P-plats",,ÖVERSJÄLA 14:4,Karlslundsvägen ,2284,,63.2947784201676,18.6235675432865
@@ -4174,7 +4188,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430047,"Centrum, Vegagatan/E4:an",,ÖRNSKÖLDSVIK 8:24,Vegagatan ,2284,,63.2920594581503,18.7212354515156
 4430049,"Åsdalen, Vid vändplanen",,ÖRNSKÖLDSVIK 3:1,Västra Dalgatan ,2284,,63.2942157772864,18.7002812564755
 4430050,"Husum, Isbanan",,DOMBÄCK 1:161,Wibergsvägen ,2284,,63.3347180097447,19.1461947132429
-4430051,"Örnsköldsvik, Mellan Ångermanlandsgatan 10 och 12",,RENEN 1,Ångermanlandsgatan,2284,,63.2976746518179,18.717282183933
+4430051,"Örnsköldsvik, Mellan Ångermanlandsgatan 10 och 12",,RENEN 1,Ångermanlandsgatan ,2284,,63.2976746518179,18.717282183933
 4430054,"Trysunda, Vid Kajen",,ÅVS,Trysunda,2284,,63.1383320021086,18.7879315914414
 4430055,"Ulvön, Framför båthuset",,ÅVS,Fjären,2284,,63.0489184621271,18.6386494693419
 4430056,"Ulvön, Vid reningsverket",,ÅVS,Ulvö Hamngata 210,2284,,63.0192093663985,18.6452596462563
@@ -4425,7 +4439,9 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 74567,Järnvägsgatan,,Baksjönäs 1:1,Järnvägsgatan 16,2462,,64.6218255,16.6539007
 76543,Gränsgatan,,Baksjönäs 1:1,Gränsgatan 2,2462,,64.617154,16.662827
 81234,Lövliden,,Lövliden 1:86,Lövliden 100,2462,,64.64829,16.60644
+81452,Vojmån,,Nyliden 1:20,Vojmån 5,2462,,64.792533,16.796814
 82349,Tallåsvägen,,Hemmanet 23,Tallåsvägen 28,2462,,64.624003,16.666728
+84789,Meselefors,,Vilhelminaskogen 1:1,Meselefors 303,2462,,64.43429,16.787375
 99128,Saxnäs,,Saxnäs 1:54,Saxnäs 36B,2462,,64.97,15.34833
 65000088562,ÅVS VULKEN,,ÅSELE 2:194,ADAMSGATAN 1,2463,,64.1625599884061,17.3461986473012
 65000088563,ÅVS DAGISET ,,ÅSELE 2:194,FÅGELSTIGEN / HEDVÄGEN 0,2463,,64.1587736518577,17.343435498574

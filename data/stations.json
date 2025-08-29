@@ -9317,6 +9317,160 @@
         "longitude": 17.0625655412049
     },
     {
+        "id": "9000826",
+        "name": "ÅVS Edvalla",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Edvalla iskällarvägen 1",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.53495,
+        "longitude": 17.87936
+    },
+    {
+        "id": "9000827",
+        "name": "ÅVS Lidl Tierp",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Gävlevägen 36",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.34295,
+        "longitude": 17.50952
+    },
+    {
+        "id": "9000828",
+        "name": "ÅVS Gammelgården Tierp",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Parkgatan 8",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.34919,
+        "longitude": 17.5107
+    },
+    {
+        "id": "9000829",
+        "name": "ÅVS Kyrkbyn",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Backbrovägen 2",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.30038,
+        "longitude": 17.46689
+    },
+    {
+        "id": "9000830",
+        "name": "ÅVS Tobo",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Skolvägen 1",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.2588,
+        "longitude": 17.65121
+    },
+    {
+        "id": "9000831",
+        "name": "ÅVS Månkarbo",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Månkarbovägen 31",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.22843,
+        "longitude": 17.46214
+    },
+    {
+        "id": "9000832",
+        "name": "ÅVS Mehedeby",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Riksvägen 29",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.44921,
+        "longitude": 17.40554
+    },
+    {
+        "id": "9000833",
+        "name": "ÅVS Söderfors",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Nygatan 18 D",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.38858,
+        "longitude": 17.2435
+    },
+    {
+        "id": "9000834",
+        "name": "ÅVS Örbyhus",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Bruksvägen 8 A",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.22557,
+        "longitude": 17.70574
+    },
+    {
+        "id": "9000835",
+        "name": "ÅVS Skärplinge",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Ol-anders väg 1",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.47098,
+        "longitude": 17.76034
+    },
+    {
+        "id": "9000836",
+        "name": "ÅVS ÅVC Skärplinge",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Gävlevägen 50",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppettider finns på temab.tierp.se",
+        "latitude": 60.48021,
+        "longitude": 17.75366
+    },
+    {
+        "id": "9000837",
+        "name": "ÅVS Karlholmsbruk",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Nöttövägen 1",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppet dygnet runt",
+        "latitude": 60.51972,
+        "longitude": 17.62553
+    },
+    {
+        "id": "9000838",
+        "name": "ÅVS ÅVC Söderfors",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Västermalmsvägen 36",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppettider finns på temab.tierp.se",
+        "latitude": 60.39244,
+        "longitude": 17.2311
+    },
+    {
+        "id": "9000839",
+        "name": "ÅVS ÅVC Gatmot",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Gåvastbo 102",
+        "municipalityCode": "0360",
+        "extraInfo": "Öppettider finns på temab.tierp.se",
+        "latitude": 60.29092,
+        "longitude": 17.57717
+    },
+    {
         "id": "4061348",
         "name": "ICA Almunge",
         "secondaryName": null,
@@ -45632,7 +45786,7 @@
         "name": "Bredbyn, Fannbyvägen",
         "secondaryName": null,
         "propertyNumber": "BREDBYN 20:29",
-        "streetAddress": "Fannbyvägen",
+        "streetAddress": "Fannbyvägen ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.4494985708244,
@@ -45808,7 +45962,7 @@
         "name": "Mellansel, Coop P-plats",
         "secondaryName": null,
         "propertyNumber": "MELLANSEL 1:103",
-        "streetAddress": "Centrumgatan",
+        "streetAddress": "Centrumgatan ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.4261942667778,
@@ -45929,7 +46083,7 @@
         "name": "Örnsköldsvik, Mellan Ångermanlandsgatan 10 och 12",
         "secondaryName": null,
         "propertyNumber": "RENEN 1",
-        "streetAddress": "Ångermanlandsgatan",
+        "streetAddress": "Ångermanlandsgatan ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.2976746518179,
@@ -48686,6 +48840,17 @@
         "longitude": 16.60644
     },
     {
+        "id": "81452",
+        "name": "Vojmån",
+        "secondaryName": "",
+        "propertyNumber": "Nyliden 1:20",
+        "streetAddress": "Vojmån 5",
+        "municipalityCode": "2462",
+        "extraInfo": "",
+        "latitude": 64.792533,
+        "longitude": 16.796814
+    },
+    {
         "id": "82349",
         "name": "Tallåsvägen",
         "secondaryName": "",
@@ -48695,6 +48860,17 @@
         "extraInfo": "",
         "latitude": 64.624003,
         "longitude": 16.666728
+    },
+    {
+        "id": "84789",
+        "name": "Meselefors",
+        "secondaryName": "",
+        "propertyNumber": "Vilhelminaskogen 1:1",
+        "streetAddress": "Meselefors 303",
+        "municipalityCode": "2462",
+        "extraInfo": "",
+        "latitude": 64.43429,
+        "longitude": 16.787375
     },
     {
         "id": "99128",
