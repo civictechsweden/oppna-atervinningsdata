@@ -24204,7 +24204,7 @@
         "name": "",
         "secondaryName": null,
         "propertyNumber": "Holmen 1:11",
-        "streetAddress": "Källsjö Kyrka, Nösslingevägen 2",
+        "streetAddress": "Källsjö Kyrka",
         "municipalityCode": "1382",
         "extraInfo": null,
         "latitude": 57.2131932201888,
@@ -24212,14 +24212,14 @@
     },
     {
         "id": "7505",
-        "name": "Köinge Lantmännen, Larsbovägen",
+        "name": null,
         "secondaryName": null,
-        "propertyNumber": "Köinge 5:52",
-        "streetAddress": "Köinge Lantmännen, Larsbovägen 4",
+        "propertyNumber": "Köinge 5:46",
+        "streetAddress": "Köinge Lantmännen, Östervägen 9",
         "municipalityCode": "1382",
         "extraInfo": null,
-        "latitude": 57.0645884526111,
-        "longitude": 12.6460539750173
+        "latitude": 57.0642311837226,
+        "longitude": 12.646403619351
     },
     {
         "id": "7506",
