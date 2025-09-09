@@ -2134,17 +2134,6 @@
         "longitude": 17.7983027555822
     },
     {
-        "id": "96792",
-        "name": "Stationen kommer att stängas under vecka 36",
-        "secondaryName": null,
-        "propertyNumber": "KUMLA GÅRD 1",
-        "streetAddress": "Kumla gårdsväg 30 ÅVS 7274  Ica Maxi",
-        "municipalityCode": "0127",
-        "extraInfo": null,
-        "latitude": 59.2365964317576,
-        "longitude": 17.8297028665145
-    },
-    {
         "id": "96796",
         "name": "ÅVS 7291  Vid Närbutik",
         "secondaryName": null,
@@ -18484,7 +18473,7 @@
         "name": "Föra",
         "secondaryName": null,
         "propertyNumber": "FÖRA S:4 113522",
-        "streetAddress": "Föra 88  ",
+        "streetAddress": "Föra 88 ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 57.0141521716378,
