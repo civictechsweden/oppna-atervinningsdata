@@ -46377,7 +46377,7 @@
     },
     {
         "id": "230511",
-        "name": "GÄLLÖ ÅVC",
+        "name": "ÅVC GÄLLÖ",
         "secondaryName": "",
         "propertyNumber": "GÄLLÖN 1:9",
         "streetAddress": "INDUSTRIOMRÅDET 111",
@@ -47345,7 +47345,7 @@
     },
     {
         "id": "232602",
-        "name": "KLÖVSJÖ, PREEM",
+        "name": "KLÖVSJÖ BY",
         "secondaryName": "",
         "propertyNumber": "KLÖVSJÖ 5:12",
         "streetAddress": "BYVÄGEN",
@@ -47598,14 +47598,14 @@
     },
     {
         "id": "236107",
-        "name": "GT GÅRDEN T F FRÅN CENTRUMHUSET",
+        "name": "COOP VEMDALEN",
         "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 42:90",
-        "streetAddress": "CENTRUMGATAN 20",
+        "propertyNumber": "VEMDALENS KYRKBY 32:72",
+        "streetAddress": "ÅSGATAN 4",
         "municipalityCode": "2361",
         "extraInfo": "",
-        "latitude": 62.449079,
-        "longitude": 13.863621
+        "latitude": 62.44915,
+        "longitude": 13.85914
     },
     {
         "id": "236108",
@@ -47707,6 +47707,17 @@
         "longitude": 13.536556
     },
     {
+        "id": "236117",
+        "name": "BJÖRNRIKE BJÖRNVÄGEN/RENSTIGEN",
+        "secondaryName": "",
+        "propertyNumber": "VEMDALENS KYRKBY 43:104",
+        "streetAddress": "BJÖRNRIKE BJÖRNVÄGEN/RENSTIGEN",
+        "municipalityCode": "2361",
+        "extraInfo": "",
+        "latitude": 62.417438,
+        "longitude": 13.945651
+    },
+    {
         "id": "236118",
         "name": "ÅVC MYRSTACKEN",
         "secondaryName": "",
@@ -47762,15 +47773,37 @@
         "longitude": 13.970065
     },
     {
-        "id": "236124",
-        "name": "SANDVÄGEN",
+        "id": "236123",
+        "name": "KLOCKARFJÄLLET",
         "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "",
+        "propertyNumber": "VEMDALENS KYRKBY 69:1",
+        "streetAddress": "VEMDALSSKALET KLOCKARFJÄLLSVÄGEN",
         "municipalityCode": "2361",
         "extraInfo": "",
-        "latitude": 62.036067,
-        "longitude": 14.377712
+        "latitude": 62.493126,
+        "longitude": 13.928985
+    },
+    {
+        "id": "236124",
+        "name": "SKALSPASSET",
+        "secondaryName": "",
+        "propertyNumber": "VEMDALENS KYRKBY 54:24",
+        "streetAddress": "SKALSPASSVÄGEN 1",
+        "municipalityCode": "2361",
+        "extraInfo": "",
+        "latitude": 62.493611,
+        "longitude": 13.939724
+    },
+    {
+        "id": "236125",
+        "name": "RIPFJÄLLET",
+        "secondaryName": "",
+        "propertyNumber": "VEMDALENS KYRKBY 88:104",
+        "streetAddress": "SKALFJÄLLSVÄGEN 4",
+        "municipalityCode": "2361",
+        "extraInfo": "",
+        "latitude": 62.482761,
+        "longitude": 14.036963
     },
     {
         "id": "236126",
@@ -47782,6 +47815,39 @@
         "extraInfo": "",
         "latitude": 62.573604,
         "longitude": 12.223682
+    },
+    {
+        "id": "236127",
+        "name": "BJÖRNRIKE BJÖRNVÄGEN/LOSTIGEN",
+        "secondaryName": "",
+        "propertyNumber": "VEMDALENS KYRKBY 43:11",
+        "streetAddress": "BJÖRNRIKE BJÖRNVÄGEN/LOSTIGEN",
+        "municipalityCode": "2361",
+        "extraInfo": "",
+        "latitude": 62.420803,
+        "longitude": 13.952973
+    },
+    {
+        "id": "236128",
+        "name": "BJÖRNRIKE SLALOMVÄGEN",
+        "secondaryName": "",
+        "propertyNumber": "VEMDALENS KYRKBY 43:105",
+        "streetAddress": "BJÖRNRIKE SLALOMVÄGEN",
+        "municipalityCode": "2361",
+        "extraInfo": "",
+        "latitude": 62.426292,
+        "longitude": 13.950058
+    },
+    {
+        "id": "236129",
+        "name": "BJÖRNRIKECENTRAT",
+        "secondaryName": "",
+        "propertyNumber": "VEMDALENS KYRKBY 43:11",
+        "streetAddress": "BJÖRNRIKE VESSELSTIGEN/BJÖRNVÄGEN",
+        "municipalityCode": "2361",
+        "extraInfo": "",
+        "latitude": 62.423452,
+        "longitude": 13.953118
     },
     {
         "id": "236130",
@@ -47807,7 +47873,7 @@
     },
     {
         "id": "236132",
-        "name": "LILLHÄRDALS ÅVC",
+        "name": " ÅVC LILLHÄRDAL",
         "secondaryName": "",
         "propertyNumber": "LILLHÄRDALS KYKRBY 9:3",
         "streetAddress": "HÄRJULFSVÄGEN  11",
@@ -47818,7 +47884,7 @@
     },
     {
         "id": "236133",
-        "name": "YTTERHOGDALS ÅVC",
+        "name": "ÅVC YTTERHOGDAL",
         "secondaryName": "",
         "propertyNumber": "YTTERHOGDALS-ÖSTANSJÖ 2:60",
         "streetAddress": "KVARNVÄGEN",
@@ -47837,6 +47903,17 @@
         "extraInfo": "",
         "latitude": 62.481727,
         "longitude": 13.975556
+    },
+    {
+        "id": "236135",
+        "name": "DOLLARSTORE SVEG",
+        "secondaryName": "",
+        "propertyNumber": "SSVEG&:5",
+        "streetAddress": "SANDVÄGEN",
+        "municipalityCode": "2361",
+        "extraInfo": "",
+        "latitude": 62.03601,
+        "longitude": 14.37778
     },
     {
         "id": "1000300",
