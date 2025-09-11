@@ -21616,7 +21616,7 @@
     },
     {
         "id": "31606",
-        "name": "Återvinningsstation Östratorns byväg Lund",
+        "name": "Återvinningsstation Östratorns Byväg Lund",
         "secondaryName": null,
         "propertyNumber": "Östra Torn 27:7",
         "streetAddress": "Östratorns Byväg",
@@ -21627,7 +21627,7 @@
     },
     {
         "id": "42246",
-        "name": "Återvinningsstation Stadsparkgatan",
+        "name": "Återvinningsstation Stadsparkgatan Lund",
         "secondaryName": null,
         "propertyNumber": "INNERSTADEN 3:32",
         "streetAddress": "Stadsparksgatan",
@@ -21638,7 +21638,7 @@
     },
     {
         "id": "42354",
-        "name": "Återvinningsstation Annedalsvägen ",
+        "name": "Återvinningsstation Annedalsvägen Lund",
         "secondaryName": null,
         "propertyNumber": "VÄSTER 7:1",
         "streetAddress": "Annedalsvägen",
@@ -47930,7 +47930,7 @@
         "id": "1000301",
         "name": "Rödövägen/Arnljots väg",
         "secondaryName": null,
-        "propertyNumber": "Valla 11:2",
+        "propertyNumber": "VALLA 11:2",
         "streetAddress": "Rödövägen/Arnljots väg",
         "municipalityCode": "2380",
         "extraInfo": null,
@@ -47964,18 +47964,18 @@
         "name": "Genvalla",
         "secondaryName": null,
         "propertyNumber": "GENVALLA 2:38",
-        "streetAddress": "GENVALLA 150",
+        "streetAddress": "Genvalla 245",
         "municipalityCode": "2380",
         "extraInfo": null,
-        "latitude": 63.1552842343044,
-        "longitude": 14.5179625780083
+        "latitude": 63.1477554422085,
+        "longitude": 14.5241995467928
     },
     {
         "id": "1000305",
         "name": "Häggenås ",
         "secondaryName": null,
         "propertyNumber": "HÄGGESTA 1:59",
-        "streetAddress": "GUSTAF RYDSTEDS VÄG",
+        "streetAddress": "Gustaf Rystedts väg",
         "municipalityCode": "2380",
         "extraInfo": null,
         "latitude": 63.3911417089151,
