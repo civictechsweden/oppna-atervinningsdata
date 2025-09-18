@@ -14927,6 +14927,17 @@
         "longitude": 15.2725
     },
     {
+        "id": "57536",
+        "name": "Ingatorps Återvinningscentral",
+        "secondaryName": null,
+        "propertyNumber": "57536",
+        "streetAddress": "Eksjövägen 1",
+        "municipalityCode": "0686",
+        "extraInfo": null,
+        "latitude": 57.659514,
+        "longitude": 14.996894
+    },
+    {
         "id": "629",
         "name": "Mitt emot Bruza Timber",
         "secondaryName": null,
@@ -45827,10 +45838,10 @@
     },
     {
         "id": "4430025",
-        "name": "Gamla Domsjövägen  ",
+        "name": "Domsjö, Fotbollsplan",
         "secondaryName": null,
         "propertyNumber": "DOMSJÖ 31:1",
-        "streetAddress": "Gamla Domsjövägen   ",
+        "streetAddress": "Gamla Domsjövägen ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.2602356043027,
