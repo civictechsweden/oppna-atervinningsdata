@@ -6,7 +6,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 11046,"Runby, Bromsbodavägen",,,Bromsbodavägen,0114,,59.5262857254527,17.888449423627844
 11048,Västra pendlarparkeringen,,,Ladbrovägen,0114,,59.52025121868098,17.897411262211325
 11049,Maria Krantzons väg,,,Maria Krantzons väg,0114,,59.51838519780815,17.92921964895709
-11050,Wik,,,Virastigen,0114,,59.534059,17.935217
+11050,Wik,,,Viravägen 2,0114,,59.534059,17.935217
 15657,Smedby ÅVC (Endast tillgänglig under ÅVC:ns öppettider),,,Karins väg 2,0114,,59.503011540411784,17.918545016201136
 16248,Skarvängskroken/Harva,,,Harvavägen/Runsavägen,0114,,59.51630397822975,17.852701849340907
 16478,Sandavägen/Breddenvägen,,,Sandavägen 51,0114,,59.511766606117725,17.950509538015517
@@ -612,7 +612,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 587360,Återvinningsstation 16573,,ULVSUNDA 1:1,Spångavägen 84,0180,,59.3497405291736,17.9285717309984
 587433,Återvinningsstation 18007,,ÖSTERMALM 3:62,Banérgatan 9,0180,,59.3334244382135,18.0917394489286
 13851,Bragevägen,,Bragevägen,Bragevägen,0181,,59.2119132122455,17.6302879143999
-13852,Balticvägen,,Balticvägen,Balticvägen,0181,,59.176085610228,17.6517465999081
+13852,Balticvägen,,Balticvägen,Balticvägen,0181,,59.1756533734483,17.6524543832964
 13853,Kolonigatan,,Kolonigatan,Kolonigatan,0181,,59.1894023559584,17.6197431650872
 13854,Väpnarevägen,,Väpnarevägen,Väpnarevägen,0181,,59.2011973961895,17.590799603977
 13855,Kakelvägen,,Kakelvägen,Kakelvägen,0181,,59.2107615781682,17.5837033778568
@@ -1455,7 +1455,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 95479,Fabriksvägen,Rottne,Södra Rottne 7:77,Fabriksvägen 16,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,57.01878795,14.89639825
 95481,Granvägen/Södertullsvägen,BRAÅS,Mörkaskog 1:74,Granvägen/Södertullsvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,57.05830625,15.05115299
 95482,,Växjö,Växjö 12:10,Torparängsvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.85449119,14.80531435
-95483,Pinnmovägen (norremark),Växjö,Växjö 9:34,Pinnmovägen 9,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.90412748,14.84093295
 95484,Väg 122 (gamla bygdegården),VÄSTRA NÖBBELE,Värends-Nöbbele 1:4,Bygdegården 1,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.6926677,15.01727156
 95487,Furuby ÅVS,Furuby,Furuby 5:3,Kalmarvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,56.85773842,15.042348
 95489,Åby ÅVC,Tjureda,Åbyfors 2:1,Västragårdsvägen,0780,Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se,57.0158835,14.77213402
@@ -4165,13 +4164,13 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430017,"Sund, Korsningen Droskgränd/Sundsvägen",,SUND 1:33,Droskgränd ,2284,,63.2668728382676,18.6889516734455
 4430018,"Bredbyn, Fannbyvägen",,BREDBYN 20:29,Fannbyvägen ,2284,,63.4497265184729,18.1151345266622
 4430022,"Långviksmon, fd Järnvägsstation",,BJÖRNA-LÅNGVIKEN 1:71,Lomvägen ,2284,,63.6313354963675,18.6929837592847
-4430024,"Skorped, Fotbollsplan Väg 908",,SKORPED 1:6,Skorpedsvägen ,2284,,63.3840658730566,17.8491051226783
+4430024,"Skorped, Fotbollsplan Väg 908",,SKORPED 1:6,Skorpedsvägen ,2284,,63.3840259679623,17.8490769545785
 4430025,"Domsjö, Fotbollsplan",,DOMSJÖ 31:1,Gamla Domsjövägen ,2284,,63.2615004779872,18.7104532294918
 4430026,"Bjästa, Läkarstationen",,BJÄSTA 43:5,Tonvägen,2284,,63.2004867191679,18.4998455212671
 4430027,"Gideå, Gideå Livs P-plats",,NORRGISSJÖ 5:51,Bergforsvägen,2284,,63.481483083364,18.9725035680639
 4430028,Björnavägen  ,,KROKSTA 18:1,Björnavägen   ,2284,,63.3167824621953,18.6920951014367
 4430029,"Bonässund, Rogers Pizzeria P-plats",,NEDERÖN 1:11,Bonäsvägen,2284,,63.2585606141098,18.7779746025046
-4430030,"Trehörningsjö, Coop P-plats",,TREHÖRNINGSJÖ 1:359,Centralgatan,2284,,63.693775602441,18.8664828374958
+4430030,"Trehörningsjö, Coop P-plats",,TREHÖRNINGSJÖ 1:359,Centralgatan,2284,,63.6938783364051,18.8664716757731
 4430031,"Flärke, Hembyggsgården Flärke",,ÅVS,Flärkemon,2284,,63.5759132694495,19.0396207085924
 4430032,"Gimåt, Grönområde vid bron",,GIMÅT 1:63,Gimåtvägen,2284,,63.3155600284279,18.7048130316866
 4430033,"Överhörnäs, Granitvägen",,ÖVERHÖRNÄS 2:8,Granitvägen ,2284,,63.2879440348527,18.5563470774469

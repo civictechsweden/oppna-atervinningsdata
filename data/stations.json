@@ -81,7 +81,7 @@
         "name": "Wik",
         "secondaryName": "",
         "propertyNumber": "",
-        "streetAddress": "Virastigen",
+        "streetAddress": "Viravägen 2",
         "municipalityCode": "0114",
         "extraInfo": "",
         "latitude": 59.534059,
@@ -6750,8 +6750,8 @@
         "streetAddress": "Balticvägen",
         "municipalityCode": "0181",
         "extraInfo": null,
-        "latitude": 59.176085610228,
-        "longitude": 17.6517465999081
+        "latitude": 59.1756533734483,
+        "longitude": 17.6524543832964
     },
     {
         "id": "13853",
@@ -16014,17 +16014,6 @@
         "extraInfo": "Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se",
         "latitude": 56.85449119,
         "longitude": 14.80531435
-    },
-    {
-        "id": "95483",
-        "name": "Pinnmovägen (norremark)",
-        "secondaryName": "Växjö",
-        "propertyNumber": "Växjö 9:34",
-        "streetAddress": "Pinnmovägen 9",
-        "municipalityCode": "0780",
-        "extraInfo": "Kontakt: Södra smålands avfall och Miljö  0470-599500  info@ssam.se",
-        "latitude": 56.90412748,
-        "longitude": 14.84093295
     },
     {
         "id": "95484",
@@ -45833,8 +45822,8 @@
         "streetAddress": "Skorpedsvägen ",
         "municipalityCode": "2284",
         "extraInfo": null,
-        "latitude": 63.3840658730566,
-        "longitude": 17.8491051226783
+        "latitude": 63.3840259679623,
+        "longitude": 17.8490769545785
     },
     {
         "id": "4430025",
@@ -45899,8 +45888,8 @@
         "streetAddress": "Centralgatan",
         "municipalityCode": "2284",
         "extraInfo": null,
-        "latitude": 63.693775602441,
-        "longitude": 18.8664828374958
+        "latitude": 63.6938783364051,
+        "longitude": 18.8664716757731
     },
     {
         "id": "4430031",
