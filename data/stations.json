@@ -3278,28 +3278,6 @@
         "longitude": 18.2380200244191
     },
     {
-        "id": "11028",
-        "name": "Kungsängens kyrkby",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Kungsvägen 20",
-        "municipalityCode": "0139",
-        "extraInfo": "",
-        "latitude": 59.48415462759858,
-        "longitude": 17.75534722466095
-    },
-    {
-        "id": "11029",
-        "name": "Tibble Torg, Coop",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Hjortronvägen",
-        "municipalityCode": "0139",
-        "extraInfo": "",
-        "latitude": 59.48518326842846,
-        "longitude": 17.733873002078653
-    },
-    {
         "id": "11030",
         "name": "Vändplats",
         "secondaryName": "",
@@ -10791,28 +10769,6 @@
         "longitude": 16.7822198905464
     },
     {
-        "id": "12533",
-        "name": "Jogersö camping",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Jogersövägen 15",
-        "municipalityCode": "0481",
-        "extraInfo": "Ej året om.",
-        "latitude": 58.66667,
-        "longitude": 17.05639
-    },
-    {
-        "id": "12534",
-        "name": "Gästhamnen",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Strandvägen 1",
-        "municipalityCode": "0481",
-        "extraInfo": "Ej året om.",
-        "latitude": 58.66361,
-        "longitude": 17.10278
-    },
-    {
         "id": "17742",
         "name": "Näsuddsvägen",
         "secondaryName": "",
@@ -10866,17 +10822,6 @@
         "extraInfo": "",
         "latitude": 58.67639,
         "longitude": 17.08694
-    },
-    {
-        "id": "9622",
-        "name": "Hamnbron",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Torggatan 10",
-        "municipalityCode": "0481",
-        "extraInfo": "",
-        "latitude": 58.66861,
-        "longitude": 17.10389
     },
     {
         "id": "9623",
@@ -11268,7 +11213,7 @@
         "name": "ÅVS Kjula",
         "secondaryName": "16841",
         "propertyNumber": "KJULAÅS 8:53",
-        "streetAddress": "Kvarnvägen 2",
+        "streetAddress": "Kyrkovägen 2",
         "municipalityCode": "0484",
         "extraInfo": "",
         "latitude": 59.38333,

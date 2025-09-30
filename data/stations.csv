@@ -297,8 +297,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 16974,ÅVS Brakmarsvägen Tyresö,,Raksta 1:3,Brakmarsv 22  Sortering ljuskällor,0138,,59.2251942605564,18.3015616490946
 17145,ÅVS Nyforsvägen/Myggdalsvägen Tyresö,,Bollmora 2:1,Nyforsv/Myggdalsv Sortering ljuskällor,0138,,59.2267189884146,18.2606270162311
 17207,ÅVS Myggdalsvägen/Hajstigen Tyresö,,Bollmora 2:1,Myggdalsv/Hajstigen Sortering ljuskällor,0138,,59.242345972263,18.2380200244191
-11028,Kungsängens kyrkby,,,Kungsvägen 20,0139,,59.48415462759858,17.75534722466095
-11029,"Tibble Torg, Coop",,,Hjortronvägen,0139,,59.48518326842846,17.733873002078653
 11030,Vändplats,,,Finnstabergsvägen,0139,,59.517843911260144,17.64976974275293
 12419,P-Plats,,,Hallonvägen 26-48,0139,,59.48919971079022,17.73064507084051
 12420,Grusplanen ridhuset Prästtorp,,,Enköpingsvägen,0139,,59.49382590478396,17.684217153797686
@@ -980,14 +978,11 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 9476,SJÖSA,,VALSTA 3:4,Sjösa Industriområde 1,0480,,58.7824486516736,17.1011019845876
 9477,STAVSJÖ,,STAVSJÖ 2:66,Gamla Stavsjövägen 1 ÅVS,0480,,58.7245918631015,16.4271379345344
 99006,STIGTOMTA,,TÄNGSTA 1:1,Tängstavägen 2 ÅVS,0480,,58.804999903467,16.7822198905464
-12533,Jogersö camping,,,Jogersövägen 15,0481,Ej året om.,58.66667,17.05639
-12534,Gästhamnen,,,Strandvägen 1,0481,Ej året om.,58.66361,17.10278
 17742,Näsuddsvägen,,,Näsuddsvägen,0481,,58.68056,17.04528
 9615,Tempo,,,Sundstigen 1,0481,,58.67611,17.065
 9616,Ramdalen,,,Björntorpsvägen 2,0481,,58.67222,17.07694
 9620,Återvinningscentralen,,,Föreningsgatan 43,0481,,58.67722,17.11472
 9621,Frösängsgården,,,Frösängsvägen 1,0481,,58.67639,17.08694
-9622,Hamnbron,,,Torggatan 10,0481,,58.66861,17.10389
 9623,Coop,,,Torggatan 1,0481,,58.67194,17.09778
 048212751,Brogetorp,,.,Januarivägen,0482,,59.0650000025898,16.5983300040535
 048212752,Grönviksvägen,,.,Grönviksvägen,0482,,59.1563899989572,16.5036099967037
@@ -1023,7 +1018,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 04836972,Vallavägen/Stockholmsvägen,,.,Vallavägen/Stockholmsvägen,0483,,58.9975000019431,16.2172200065138
 16215,ÅVS Slagsta,16215,SLAGSTA 1:1,Orkestervägen ,0484,,59.39972,16.47389
 16805,ÅVS Torshargs IP,16805,TORSHÄLLA 5:8,Germundsgatan ,0484,,59.4225,16.48778
-16841,ÅVS Kjula,16841,KJULAÅS 8:53,Kvarnvägen 2,0484,,59.38333,16.67722
+16841,ÅVS Kjula,16841,KJULAÅS 8:53,Kyrkovägen 2,0484,,59.38333,16.67722
 17142,ÅVS Skiftinge,17142,DIRIGENTEN 5,Skiftinge Centrum ,0484,,59.39028,16.53722
 17443,ÅVS COOP Tuna Park,17443,GODSET 1,Albertina Nyströms Väg 4,0484,,59.37389,16.46889
 17554,ÅVS Väsbyholm,17554,TORSHÄLLA-VÄSBY 1:149,Väsbyholmsvägen ,0484,,59.44333,16.45111
