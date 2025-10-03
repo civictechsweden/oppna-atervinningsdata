@@ -35806,7 +35806,7 @@
     },
     {
         "id": "1764 08",
-        "name": "Coop",
+        "name": "Pekås",
         "secondaryName": "",
         "propertyNumber": "Grönberg 1:224",
         "streetAddress": "",
@@ -44988,17 +44988,6 @@
         "extraInfo": null,
         "latitude": 62.4092405466084,
         "longitude": 17.2848683594728
-    },
-    {
-        "id": "107449",
-        "name": "Haga Tivolivägen",
-        "secondaryName": null,
-        "propertyNumber": "NORRMALM 1:1",
-        "streetAddress": "ÅVS Tivolivägen 18",
-        "municipalityCode": "2281",
-        "extraInfo": null,
-        "latitude": 62.3973160742275,
-        "longitude": 17.3178729420249
     },
     {
         "id": "107450",
