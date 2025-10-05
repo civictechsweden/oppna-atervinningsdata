@@ -6908,6 +6908,17 @@
         "longitude": 17.6554022459687
     },
     {
+        "id": "60390",
+        "name": "Oxbacksgatan",
+        "secondaryName": null,
+        "propertyNumber": "Oxbacksgatan",
+        "streetAddress": "Oxbacksgatan ÅVS",
+        "municipalityCode": "0181",
+        "extraInfo": null,
+        "latitude": 59.1955802662238,
+        "longitude": 17.6221588223957
+    },
+    {
         "id": "12205",
         "name": "Landåvägen",
         "secondaryName": null,
@@ -35607,17 +35618,6 @@
         "longitude": 13.505652
     },
     {
-        "id": "3116983",
-        "name": "SUNNMANS VÄG (SINGEL - FÄRGAT GLAS)",
-        "secondaryName": null,
-        "propertyNumber": "MUNKFORS 9:35",
-        "streetAddress": "SUNNMANSVÄG 4",
-        "municipalityCode": "1762",
-        "extraInfo": null,
-        "latitude": 59.8331088072473,
-        "longitude": 13.5398888723727
-    },
-    {
         "id": "3135730",
         "name": "ÅVS MUNKFORS HEDEN (FD CENTRUM)",
         "secondaryName": null,
@@ -44988,6 +44988,17 @@
         "extraInfo": null,
         "latitude": 62.4092405466084,
         "longitude": 17.2848683594728
+    },
+    {
+        "id": "107449",
+        "name": "Haga Tivolivägen",
+        "secondaryName": null,
+        "propertyNumber": "NORRMALM 1:1",
+        "streetAddress": "ÅVS Tivolivägen 18",
+        "municipalityCode": "2281",
+        "extraInfo": null,
+        "latitude": 62.3973160742275,
+        "longitude": 17.3178729420249
     },
     {
         "id": "107450",
