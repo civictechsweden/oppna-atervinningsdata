@@ -36069,17 +36069,6 @@
         "longitude": 13.5465745
     },
     {
-        "id": "4025680",
-        "name": "Lorensberg",
-        "secondaryName": "2269",
-        "propertyNumber": "LORENSBERG 1:1",
-        "streetAddress": "Fogdemyrsgatan/Olsätersgatan ",
-        "municipalityCode": "1780",
-        "extraInfo": "",
-        "latitude": 59.4004711,
-        "longitude": 13.5388284
-    },
-    {
         "id": "4025681",
         "name": "Herrhagen",
         "secondaryName": "2271",
@@ -51322,8 +51311,8 @@
         "streetAddress": "BÄCKVÄGEN 9",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.6358047278678,
-        "longitude": 22.2361768533077
+        "latitude": 65.640267905228,
+        "longitude": 22.2339203952882
     },
     {
         "id": "9811886",
@@ -51432,8 +51421,8 @@
         "streetAddress": "MJÖLKUDDSVÄGEN 6",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.5982492805965,
-        "longitude": 22.1346662500541
+        "latitude": 65.6020822195664,
+        "longitude": 22.1312264406241
     },
     {
         "id": "9811899",
@@ -51553,8 +51542,8 @@
         "streetAddress": "SÖRSIDAN 2",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.8499455088442,
-        "longitude": 22.2755487530568
+        "latitude": 65.8496306680834,
+        "longitude": 22.2767505158569
     },
     {
         "id": "9811910",
@@ -51597,8 +51586,8 @@
         "streetAddress": "KLUBBVÄGEN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.5304839132928,
-        "longitude": 21.7845906487355
+        "latitude": 65.53201077533,
+        "longitude": 21.7886037116069
     },
     {
         "id": "9811914",
@@ -51630,8 +51619,8 @@
         "streetAddress": "BÄLINGEVÄGEN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.6224342151478,
-        "longitude": 21.9107966537719
+        "latitude": 65.6307760984269,
+        "longitude": 21.9254118309825
     },
     {
         "id": "9811917",
@@ -51663,8 +51652,8 @@
         "streetAddress": "SUNDOMSVÄGEN 488",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.7728019994878,
-        "longitude": 22.2634616705403
+        "latitude": 65.7694056944133,
+        "longitude": 22.2651022418613
     },
     {
         "id": "9811921",
@@ -51707,8 +51696,8 @@
         "streetAddress": "VITÅSKATAN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.9311490332311,
-        "longitude": 22.4223394136949
+        "latitude": 65.9302238254741,
+        "longitude": 22.4245766953748
     },
     {
         "id": "9811925",
@@ -51795,8 +51784,8 @@
         "streetAddress": "GAMLA HÖGSÖVÄGEN",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.8993595326152,
-        "longitude": 22.4475958787248
+        "latitude": 65.8989455027025,
+        "longitude": 22.4469106642446
     },
     {
         "id": "9811933",
@@ -51880,11 +51869,11 @@
         "name": "SMÅBÅTSHAMNEN",
         "secondaryName": null,
         "propertyNumber": "SVARTÖSTADEN 13:32",
-        "streetAddress": "SJÖFARTSGATAN 17",
+        "streetAddress": "FINNSKÄRSGATAN 2",
         "municipalityCode": "2580",
         "extraInfo": null,
-        "latitude": 65.5623022249801,
-        "longitude": 22.1925950725308
+        "latitude": 65.5601052181751,
+        "longitude": 22.1968166672311
     },
     {
         "id": "040106",
