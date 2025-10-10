@@ -627,7 +627,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 13891,Höglandsvägen,,Höglandsvägen,Höglandsvägen,0181,,59.1960255985237,17.6499586833515
 13897,Fornhöjdsvägen,,Fornhöjdsvägen,Fornhöjdsvägen,0181,,59.1951569504978,17.6666903783072
 13914,Trollsjövägen,,Trollsjövägen,Trollsjövägen,0181,,59.1479564382642,17.6554022459687
-60390,Oxbacksgatan,,Oxbacksgatan,Oxbacksgatan ÅVS,0181,,59.1955802662238,17.6221588223957
+60390,Oxbacksgatan,,Oxbacksgatan,Oxbacksgatan,0181,,59.1955802662238,17.6221588223957
 12205,Landåvägen,,.,Landåvägen Vändplats,0182,,59.3172520292621,18.1696194444248
 12206,Trillans tidningshus,,.,Trillans väg 1,0182,,59.3174348154607,18.1730374951043
 12207,Diligensvägen 38- 72,,SICKLAÖN 14:1,Diligensvägen vändplats vid garaget 38 72,0182,,59.3155296346094,18.1730024241181
@@ -4150,8 +4150,8 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 223220,"Rödsta ÅVC, ÅVS",,.,Skällmyran 101,2283,,63.1500490622013,17.1912826963967
 223222,"Edsbackens ÅVC, ÅVS",,.,Edsbacken 125,2283,,63.7069361762193,16.7896643521868
 4429983,Må återvinningscentral,,MÅ 1:3,Returvägen 9,2284,,63.3019655947241,18.7677073373502
-4430000,Gottnevägen  ,,GOTTNE 8:14,Gottnevägen   ,2284,,63.4270653686055,18.4273346895443
-4430001,Örtagårdsvägen,,SVARTBY 2:237,Örtagårdsvägen,2284,,63.3093500709525,18.751515880794
+4430000,"Gottne, Infart till reningsverket",,GOTTNE 8:14,Gottnevägen   ,2284,,63.4270653686055,18.4273346895443
+4430001,"Svartby, Korsningen Örtagårdsvägen/Arnäsvägen",,SVARTBY 2:237,Örtagårdsvägen,2284,,63.3093500709525,18.751515880794
 4430014,"Må, Utanför grindarna till Må ÅVC",,ÅVS,Returvägen,2284,,63.3024955013646,18.7619446957413
 4430016,"Sidensjö, Brandstation",,SIDENSJÖ PRÄSTBORD 1:60,Angermannus Väg ,2284,,63.2975879062935,18.2862667137455
 4430017,"Sund, Korsningen Droskgränd/Sundsvägen",,SUND 1:33,Droskgränd ,2284,,63.2668728382676,18.6889516734455

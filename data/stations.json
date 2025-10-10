@@ -6912,7 +6912,7 @@
         "name": "Oxbacksgatan",
         "secondaryName": null,
         "propertyNumber": "Oxbacksgatan",
-        "streetAddress": "Oxbacksgatan ÅVS",
+        "streetAddress": "Oxbacksgatan",
         "municipalityCode": "0181",
         "extraInfo": null,
         "latitude": 59.1955802662238,
@@ -45662,7 +45662,7 @@
     },
     {
         "id": "4430000",
-        "name": "Gottnevägen  ",
+        "name": "Gottne, Infart till reningsverket",
         "secondaryName": null,
         "propertyNumber": "GOTTNE 8:14",
         "streetAddress": "Gottnevägen   ",
@@ -45673,7 +45673,7 @@
     },
     {
         "id": "4430001",
-        "name": "Örtagårdsvägen",
+        "name": "Svartby, Korsningen Örtagårdsvägen/Arnäsvägen",
         "secondaryName": null,
         "propertyNumber": "SVARTBY 2:237",
         "streetAddress": "Örtagårdsvägen",
