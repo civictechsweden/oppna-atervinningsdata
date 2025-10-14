@@ -165,6 +165,17 @@
         "longitude": 18.22809
     },
     {
+        "id": "11119",
+        "name": "Oxelgatan",
+        "secondaryName": "Oxelgatan vändplats",
+        "propertyNumber": "VALLENTUNA-ÅBY 1:94",
+        "streetAddress": "Oxelgatan, 186 48",
+        "municipalityCode": "0115",
+        "extraInfo": "",
+        "latitude": 59.53103,
+        "longitude": 18.08568
+    },
+    {
         "id": "11120",
         "name": "Vallentuna Centrum ",
         "secondaryName": "Centrumparkeringen",
@@ -18517,7 +18528,7 @@
         "name": "Borgholm",
         "secondaryName": null,
         "propertyNumber": "SMÖRBLOMMAN 24 113522",
-        "streetAddress": "Hammarvägen 10 ",
+        "streetAddress": "Hammarvägen 10  ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 56.8801241595467,
