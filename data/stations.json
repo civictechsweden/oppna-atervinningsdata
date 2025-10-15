@@ -18495,7 +18495,7 @@
         "name": "Rälla",
         "secondaryName": null,
         "propertyNumber": "HÖGSRUM 5:134 113522",
-        "streetAddress": "Gullvivevägen  ",
+        "streetAddress": "Gullvivevägen   ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 56.7723238315503,
@@ -36067,6 +36067,17 @@
         "extraInfo": "",
         "latitude": 59.4117334,
         "longitude": 13.5465745
+    },
+    {
+        "id": "4025680",
+        "name": "Lorensberg",
+        "secondaryName": "2269",
+        "propertyNumber": "LORENSBERG 1:1",
+        "streetAddress": "Fogdemyrsgatan/Olsätersgatan ",
+        "municipalityCode": "1780",
+        "extraInfo": "",
+        "latitude": 59.4004711,
+        "longitude": 13.5388284
     },
     {
         "id": "4025681",
