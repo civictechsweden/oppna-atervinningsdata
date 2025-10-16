@@ -44979,17 +44979,6 @@
         "longitude": 17.2848683594728
     },
     {
-        "id": "107449",
-        "name": "Haga Tivolivägen",
-        "secondaryName": null,
-        "propertyNumber": "NORRMALM 1:1",
-        "streetAddress": "ÅVS Tivolivägen 18",
-        "municipalityCode": "2281",
-        "extraInfo": null,
-        "latitude": 62.3973160742275,
-        "longitude": 17.3178729420249
-    },
-    {
         "id": "107450",
         "name": "Indal Tempo",
         "secondaryName": null,
@@ -45046,7 +45035,7 @@
     },
     {
         "id": "107455",
-        "name": "Sidsjö Vattenverket",
+        "name": "Sidsjö Fagerdalsparken",
         "secondaryName": null,
         "propertyNumber": "SÖDERMALM 1:65",
         "streetAddress": "ÅVS Sidsjövägen 39",
