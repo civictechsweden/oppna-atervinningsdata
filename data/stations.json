@@ -2289,7 +2289,7 @@
     },
     {
         "id": "97209",
-        "name": "ÅVS 7318 Stängt tillfälligt mellan v17-v48",
+        "name": "ÅVS 7318 Stängt tillfälligt mellan v17-v1 2026",
         "secondaryName": null,
         "propertyNumber": "TULLINGE 19:287",
         "streetAddress": "Tullingebergsvägen 2",
@@ -35605,6 +35605,17 @@
         "extraInfo": "",
         "latitude": 59.344093,
         "longitude": 13.505652
+    },
+    {
+        "id": "3116983",
+        "name": "SUNNMANS VÄG (SINGEL - FÄRGAT GLAS)",
+        "secondaryName": null,
+        "propertyNumber": "MUNKFORS 9:35",
+        "streetAddress": "SUNNMANSVÄG 4",
+        "municipalityCode": "1762",
+        "extraInfo": null,
+        "latitude": 59.8331088072473,
+        "longitude": 13.5398888723727
     },
     {
         "id": "3135730",
