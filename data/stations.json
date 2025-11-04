@@ -18528,7 +18528,7 @@
         "name": "Borgholm",
         "secondaryName": null,
         "propertyNumber": "SMÖRBLOMMAN 24 113522",
-        "streetAddress": "Hammarvägen 10 ",
+        "streetAddress": "Hammarvägen 10  ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 56.8801241595467,
@@ -46641,7 +46641,7 @@
     },
     {
         "id": "115059",
-        "name": "Jorm Skoterinfo",
+        "name": "Jorm Skoterinfo, CUS",
         "secondaryName": null,
         "propertyNumber": "JORM 1:311",
         "streetAddress": "Jormvattnet",
@@ -46652,7 +46652,7 @@
     },
     {
         "id": "115060",
-        "name": "Lidsjöberg Handel",
+        "name": "Lidsjöberg CUS, Vildmarksaffären",
         "secondaryName": null,
         "propertyNumber": "LIDSJÖBERG 1:6",
         "streetAddress": "Lidsjöberg 105",
@@ -46696,7 +46696,7 @@
     },
     {
         "id": "115070",
-        "name": "Gäddede Brogatan",
+        "name": "Gäddede Brogatan CUS",
         "secondaryName": null,
         "propertyNumber": "GÄDDEDE 1:318",
         "streetAddress": "Brogatan 22",
@@ -46707,7 +46707,7 @@
     },
     {
         "id": "115073",
-        "name": "Brattbäcken vid gamla skolan",
+        "name": "Brattbäcken CUS, vid gamla skolan",
         "secondaryName": null,
         "propertyNumber": "BRATTBÄCKEN 1:150",
         "streetAddress": "Brattbäcken 895",
@@ -46729,7 +46729,7 @@
     },
     {
         "id": "115103",
-        "name": "Näsviken golfbanan",
+        "name": "Näsviken golfbanan CUS",
         "secondaryName": null,
         "propertyNumber": "STRÖMS-NÄSET 1:217",
         "streetAddress": "Näsviken golfbanan",
@@ -46740,7 +46740,7 @@
     },
     {
         "id": "115104",
-        "name": "Kakuåsen",
+        "name": "Kakuåsen, CUS",
         "secondaryName": null,
         "propertyNumber": "KAKUÅSEN 1:160",
         "streetAddress": "Kakuåsen",
@@ -46751,7 +46751,7 @@
     },
     {
         "id": "115105",
-        "name": "Backe Vattentornet",
+        "name": "Backe Vattentornet CUS",
         "secondaryName": null,
         "propertyNumber": "BACKE 1:147",
         "streetAddress": "Vattentornet",
@@ -46773,7 +46773,7 @@
     },
     {
         "id": "115108",
-        "name": "Lövvik",
+        "name": "Lövvik CUS",
         "secondaryName": null,
         "propertyNumber": "LÖVVIK 1:27",
         "streetAddress": "Lövvik",
@@ -46784,7 +46784,7 @@
     },
     {
         "id": "115109",
-        "name": "Lövberga",
+        "name": "Lövberga CUS",
         "secondaryName": null,
         "propertyNumber": "LÖVBERGA 1:78",
         "streetAddress": "Lövberga",
@@ -46795,7 +46795,7 @@
     },
     {
         "id": "115111",
-        "name": "Gäddede Södra",
+        "name": "Gäddede Södra CUS",
         "secondaryName": null,
         "propertyNumber": "GÄDDEDE 1:380",
         "streetAddress": "Strömsvägen",
@@ -46806,7 +46806,7 @@
     },
     {
         "id": "115112",
-        "name": "Rossön Gamla Reningsverket",
+        "name": "Rossön CUS Näsvägen, gamla reningsverket",
         "secondaryName": null,
         "propertyNumber": "BODUM 1:45",
         "streetAddress": "Näsvägen",
@@ -46817,7 +46817,7 @@
     },
     {
         "id": "115123",
-        "name": "Strömvallen",
+        "name": "Strömvallen CUS",
         "secondaryName": null,
         "propertyNumber": "GRELSGÅRD 3:47",
         "streetAddress": "Ramselevägen",
@@ -46828,7 +46828,7 @@
     },
     {
         "id": "115124",
-        "name": "Strand",
+        "name": "Strand CUS",
         "secondaryName": null,
         "propertyNumber": "STRAND 2:28",
         "streetAddress": "Strand",
@@ -46839,7 +46839,7 @@
     },
     {
         "id": "115125",
-        "name": "Vängel",
+        "name": "Vängel CUS",
         "secondaryName": null,
         "propertyNumber": "VÄNGEL 1:37",
         "streetAddress": "Vängel 240",
@@ -46850,7 +46850,7 @@
     },
     {
         "id": "115126",
-        "name": "Gåxsjö Tallgläntan",
+        "name": "Gåxsjö Tallgläntan, CUS",
         "secondaryName": null,
         "propertyNumber": "GÅXSJÖ 2:80",
         "streetAddress": "Lomåsen 110",
@@ -46861,7 +46861,7 @@
     },
     {
         "id": "115127",
-        "name": "Yxskaftkälen Bygdegården",
+        "name": "Yxskaftkälen Bygdegården, CUS",
         "secondaryName": null,
         "propertyNumber": "YXSKAFTKÄLEN 1:41",
         "streetAddress": "Yxskaftkälen 540",
@@ -46883,7 +46883,7 @@
     },
     {
         "id": "115129",
-        "name": "Siljeåsen",
+        "name": "Siljeåsen CUS",
         "secondaryName": null,
         "propertyNumber": "SILJEÅSEN 1:25",
         "streetAddress": "Siljeåsen",
@@ -46894,7 +46894,7 @@
     },
     {
         "id": "115130",
-        "name": "Järvsand",
+        "name": "Järvsand CUS",
         "secondaryName": null,
         "propertyNumber": "JÄRVSAND 1:75",
         "streetAddress": "Järvsand 360",
@@ -46905,7 +46905,7 @@
     },
     {
         "id": "115131",
-        "name": "Östra Havsnäs",
+        "name": "Östra Havsnäs CUS",
         "secondaryName": null,
         "propertyNumber": "HAVSNÄS 1:257",
         "streetAddress": "Östra Havsnäs 325",
@@ -46916,7 +46916,7 @@
     },
     {
         "id": "115132",
-        "name": "Södra Öhn",
+        "name": "Södra Öhn, CUS",
         "secondaryName": null,
         "propertyNumber": "TULLINGSÅS 7:67",
         "streetAddress": "Bredkälsflon 120",
@@ -46927,7 +46927,7 @@
     },
     {
         "id": "115133",
-        "name": "Västertåsjö",
+        "name": "Västertåsjö CUS",
         "secondaryName": null,
         "propertyNumber": "VÄSTERTÅSJÖ 1:88",
         "streetAddress": "Västertåsjö 340",
@@ -46938,7 +46938,7 @@
     },
     {
         "id": "115134",
-        "name": "Fagerdal",
+        "name": "Fagerdal CUS",
         "secondaryName": null,
         "propertyNumber": "GISSELÅS 2:62",
         "streetAddress": "Fagerdal",
@@ -46949,7 +46949,7 @@
     },
     {
         "id": "115160",
-        "name": "Alanäs",
+        "name": "Alanäs CUS",
         "secondaryName": null,
         "propertyNumber": "ALANÄSET 2:1",
         "streetAddress": "Alanäs",
@@ -46960,7 +46960,7 @@
     },
     {
         "id": "115161",
-        "name": "Ringvattnet",
+        "name": "Ringvattnet CUS",
         "secondaryName": null,
         "propertyNumber": "RINGVATTNET 1:61",
         "streetAddress": "Ringvattnet",
@@ -46971,7 +46971,7 @@
     },
     {
         "id": "115162",
-        "name": "Hallviken",
+        "name": "Hallviken CUS",
         "secondaryName": null,
         "propertyNumber": "HAMMERDALS-SVEDJE 1:1",
         "streetAddress": "Hallviken",
@@ -46982,7 +46982,7 @@
     },
     {
         "id": "115163",
-        "name": "Tullingsås",
+        "name": "Tullingsås CUS",
         "secondaryName": null,
         "propertyNumber": "TULLINGSÅS 7:15",
         "streetAddress": "Tullingsås 210",
@@ -46993,7 +46993,7 @@
     },
     {
         "id": "115164",
-        "name": "Bredkälen",
+        "name": "Bredkälen CUS",
         "secondaryName": null,
         "propertyNumber": "BREDKÄLEN 1:70",
         "streetAddress": "Bredkälen 170",
@@ -47015,7 +47015,7 @@
     },
     {
         "id": "115167",
-        "name": "Färjsundet",
+        "name": "Färjsundet CUS",
         "secondaryName": null,
         "propertyNumber": "TÄXAN 2:28",
         "streetAddress": "Färjsundet 115",
@@ -47026,7 +47026,7 @@
     },
     {
         "id": "115168",
-        "name": "Lorås",
+        "name": "Lorås CUS",
         "secondaryName": null,
         "propertyNumber": "LORÅS 2:24",
         "streetAddress": "Lorås 210",
@@ -47037,7 +47037,7 @@
     },
     {
         "id": "115169",
-        "name": "Rudsjö",
+        "name": "Rudsjö CUS",
         "secondaryName": null,
         "propertyNumber": "RUDSJÖN 1:25",
         "streetAddress": "Rudsjö 115",
@@ -47048,7 +47048,7 @@
     },
     {
         "id": "115170",
-        "name": "Ringvägen",
+        "name": "Rossön CUS, Ringvägen",
         "secondaryName": null,
         "propertyNumber": "ORRNÄS 4:5",
         "streetAddress": "Ringvägen",
@@ -47059,7 +47059,7 @@
     },
     {
         "id": "115179",
-        "name": "Backe Reningsverket",
+        "name": "Backe Reningsverket CUS",
         "secondaryName": null,
         "propertyNumber": "FJÄLLSJÖ-SUNNANSJÖ 2:23",
         "streetAddress": "Sunnansjö 330",
@@ -47070,7 +47070,7 @@
     },
     {
         "id": "115181",
-        "name": "Stora Blåsjön Östra",
+        "name": "Stora Blåsjön Östra, CUS",
         "secondaryName": null,
         "propertyNumber": "STORA BLÅSJÖN 2:8",
         "streetAddress": "Stora Blåsjön",
@@ -47081,7 +47081,7 @@
     },
     {
         "id": "115184",
-        "name": "Backe Kyrkvägen",
+        "name": "Backe Kyrkvägen CUS",
         "secondaryName": null,
         "propertyNumber": "BACKE 29:1",
         "streetAddress": "Kyrkvägen",
@@ -47103,7 +47103,7 @@
     },
     {
         "id": "115188",
-        "name": "Tåsjöedet",
+        "name": "Tåsjöedet CUS",
         "secondaryName": null,
         "propertyNumber": "TÅSJÖ KAPELLJORD 1:1",
         "streetAddress": "Tåsjö",
@@ -47122,6 +47122,72 @@
         "extraInfo": null,
         "latitude": 64.1211792922487,
         "longitude": 15.2897315692913
+    },
+    {
+        "id": "115197",
+        "name": "Stora Blåsjön Västra, CUS",
+        "secondaryName": null,
+        "propertyNumber": "STORA BLÅSJÖN 2:9",
+        "streetAddress": "Stora Blåsjön",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.8331871039214,
+        "longitude": 14.0764584972306
+    },
+    {
+        "id": "115200",
+        "name": "Ankarvattnet CUS",
+        "secondaryName": null,
+        "propertyNumber": "ANKARVATTNET 1:1",
+        "streetAddress": "Ankarvattnet",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.8737761968237,
+        "longitude": 14.239192143533
+    },
+    {
+        "id": "115201",
+        "name": "Ede CUS",
+        "secondaryName": null,
+        "propertyNumber": "EDE 14:1",
+        "streetAddress": "Ede 725",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.5463221793515,
+        "longitude": 15.4130960207888
+    },
+    {
+        "id": "115202",
+        "name": "Kilen CUS",
+        "secondaryName": null,
+        "propertyNumber": "KILEN 1:19",
+        "streetAddress": "Kilen 115",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.4469597328508,
+        "longitude": 15.2720476477208
+    },
+    {
+        "id": "115203",
+        "name": "Junsternäs CUS",
+        "secondaryName": null,
+        "propertyNumber": "JUNSTERNÄSET 1:1",
+        "streetAddress": "Junsternäset 220",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.5535768892505,
+        "longitude": 14.1411556395458
+    },
+    {
+        "id": "115204",
+        "name": "Sikåssågen CUS",
+        "secondaryName": null,
+        "propertyNumber": "SIKÅS 7:37",
+        "streetAddress": "Sikås sågvägen",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.6237370178472,
+        "longitude": 15.2016033234084
     },
     {
         "id": "11605",
