@@ -18407,7 +18407,7 @@
         "name": "Bredsättra",
         "secondaryName": null,
         "propertyNumber": "BREDSÄTTRA 5:14 100919",
-        "streetAddress": "Håpvägen 2 ",
+        "streetAddress": "Håpvägen 2  ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 56.8435356154181,
@@ -18451,7 +18451,7 @@
         "name": "Källa",
         "secondaryName": null,
         "propertyNumber": "VI 3:6 113522",
-        "streetAddress": "Wij 3 ",
+        "streetAddress": "Wij 3  ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 57.1199496389176,
@@ -25939,7 +25939,7 @@
     },
     {
         "id": "59130",
-        "name": "Heås ÅVC",
+        "name": "ÅVS Heås ÅVC",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Budalsvägen 157",
@@ -49234,6 +49234,17 @@
         "extraInfo": "",
         "latitude": 63.80361,
         "longitude": 20.35583
+    },
+    {
+        "id": "4415910",
+        "name": "ÅVS Ikea",
+        "secondaryName": "16449",
+        "propertyNumber": "MARKNADSPLATSEN S:1",
+        "streetAddress": "Åvs Ikea Marknadsgatan ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.808522,
+        "longitude": 20.257072
     },
     {
         "id": "4415912",
