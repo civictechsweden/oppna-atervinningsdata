@@ -2228,7 +2228,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 15140,"Bösarp, Skällingevägen",,Skällinge-Bösarp 2:3,"Bösarp, skällingevägen",1383,,57.183482655037,12.4170296535903
 15804,Veddige ÅVS,,Veddige 33:3,Veddige ÅVC,1383,,57.2581240611495,12.3145145076739
 16109,Bua idrottsplats,,Bua 10:248,"Bua idrottsplats, Kustroddarevägen",1383,,57.2297184284945,12.1248526700939
-16175,"ICA Hajen, Monarkvägen",,Hajen 1,"ICA Hajen, Monarkvägen",1383,,57.1157233506406,12.2585783030306
+16175,"ICA Hajen, Monarkvägen",,Hajen 10,"ICA Hajen, Monarkvägen",1383,,57.1157233506406,12.2585783030306
 17161,Holmagärde ÅVC,,Eldstaden 12,Holmagärde ÅVC,1383,,57.1195340362529,12.3027464620356
 17327,Tvååker ÅVC,,Tvååker 24:2,Tvååker ÅVC,1383,,57.0420882484799,12.3889301453156
 17678,"Limabacka, Virkesvägen",,Värö-backa 17:3,"Limabacka, Virkesvägen",1383,,57.2401478076384,12.1876298551764
@@ -4065,8 +4065,8 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 32,"Vivsta, Varvsgatan",,VIVSTA 1:55,Varvsgatan (22),2262,,62.486027,17.328014
 34,"Västansjö, Järnvägen",,VÄSTANSJÖ 3:4,Västansjö  (402),2262,,62.531467,17.579319
 65,"Nyvivsta,",,VIVSTA 7:1,Nygatan (25),2262,,62.493115,17.335758
-71,Timrå (ÅVC),,Vivstamon 1:72,Svetsarvägen 9,2262,,62.502942,17.31448
-81,"Vivsta, Bovägen",,VIVSTA 3:91,Bovägen (3),2262,,62.48947,17.327587
+71,"Vivsta, Bovägen",,VIVSTA 3:91,Bovägen (3),2262,,62.48947,17.327587
+81,Timrå (ÅVC),,Vivstamon 1:72,Svetsarvägen 9,2262,,62.502942,17.31448
 95,"Ljustorp, byggdegård / affär",,ÖPPOM 4:6,Öppom 110,2262,,62.618439,17.341165
 98,"Sörberge, Cirkelvägen",,BÖLE 1:150,Cirkelvägen,2262,,62.504969,17.373867
 13252,Härnösand (ÅVC),,Baldershage 7,Jägaregatan 9,2280,,62.62944,17.90917

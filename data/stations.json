@@ -24522,7 +24522,7 @@
         "id": "16175",
         "name": "ICA Hajen, Monarkvägen",
         "secondaryName": null,
-        "propertyNumber": "Hajen 1",
+        "propertyNumber": "Hajen 10",
         "streetAddress": "ICA Hajen, Monarkvägen",
         "municipalityCode": "1383",
         "extraInfo": null,
@@ -44727,17 +44727,6 @@
     },
     {
         "id": "71",
-        "name": "Timrå (ÅVC)",
-        "secondaryName": "",
-        "propertyNumber": "Vivstamon 1:72",
-        "streetAddress": "Svetsarvägen 9",
-        "municipalityCode": "2262",
-        "extraInfo": "",
-        "latitude": 62.502942,
-        "longitude": 17.31448
-    },
-    {
-        "id": "81",
         "name": "Vivsta, Bovägen",
         "secondaryName": "",
         "propertyNumber": "VIVSTA 3:91",
@@ -44746,6 +44735,17 @@
         "extraInfo": "",
         "latitude": 62.48947,
         "longitude": 17.327587
+    },
+    {
+        "id": "81",
+        "name": "Timrå (ÅVC)",
+        "secondaryName": "",
+        "propertyNumber": "Vivstamon 1:72",
+        "streetAddress": "Svetsarvägen 9",
+        "municipalityCode": "2262",
+        "extraInfo": "",
+        "latitude": 62.502942,
+        "longitude": 17.31448
     },
     {
         "id": "95",
