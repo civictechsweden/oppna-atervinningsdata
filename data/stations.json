@@ -23661,17 +23661,6 @@
         "longitude": 12.926059
     },
     {
-        "id": "4322372",
-        "name": "1518",
-        "secondaryName": "",
-        "propertyNumber": "Eketånga 3:204",
-        "streetAddress": "Lars Montins Väg",
-        "municipalityCode": "1380",
-        "extraInfo": "",
-        "latitude": 56.660067,
-        "longitude": 12.804962
-    },
-    {
         "id": "4322373",
         "name": "1522",
         "secondaryName": "",
@@ -47807,14 +47796,14 @@
     },
     {
         "id": "236123",
-        "name": "KLOCKARFJÄLLET",
+        "name": "SKOTERAVLASTNINGSPLATSEN",
         "secondaryName": "",
-        "propertyNumber": "VEMDALENS KYRKBY 69:1",
-        "streetAddress": "VEMDALSSKALET KLOCKARFJÄLLSVÄGEN",
+        "propertyNumber": "FUNÄSDALEN 27:8",
+        "streetAddress": "SÖROMSJÖN",
         "municipalityCode": "2361",
         "extraInfo": "",
-        "latitude": 62.493126,
-        "longitude": 13.928985
+        "latitude": 69.41358,
+        "longitude": 13.311
     },
     {
         "id": "236124",
@@ -47941,7 +47930,7 @@
         "id": "236135",
         "name": "DOLLARSTORE SVEG",
         "secondaryName": "",
-        "propertyNumber": "SSVEG&:5",
+        "propertyNumber": "SVEG 6:5",
         "streetAddress": "SANDVÄGEN",
         "municipalityCode": "2361",
         "extraInfo": "",
