@@ -183,7 +183,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6779,ÅVS 7292,,Rotemannen S:1,Albyvägen 15,0127,,59.2391073057404,17.8513245331713
 89752,ÅVS 13308  Vändplan,,HALLUNDA 4:34,Vetevägen 13,0127,,59.2465818874017,17.8250403798835
 95478,ÅVS 16031 ÅVC Skyttbrink,,SKYTTBRINK 21,Himmelsbodavägen 19,0127,,59.1963200179769,17.8691775514873
-95935,ÅVS 16032 ÅVC Fittja,,FITTJA 17:1,Hallundavägen 4,0127,,59.2514427381663,17.8575484560329
+95935,ÅVS 16032 ÅVC Fittja,,FITTJA 17:1,Hallundavägen 4,0127,,59.2508099285789,17.855267389347
 96424,ÅVS 15839  Grusplan/parkering,,TUMBA 8:535,Kolonistigen/harbrovägen,0127,,59.1948088007942,17.8545657505231
 96753,ÅVS 7280  Hallunda,,KORNET 2,Kornvägen,0127,,59.2471172437188,17.829347337207
 96759,ÅVS 7317  Tullinge,,TULLINGE 21:44,Smedvägen/Pålamalmsvägen,0127,,59.2020342784669,17.9248247127879
@@ -288,7 +288,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 10883,ÅVS Vendelsövägen Tyresö,,Kumla 69:44,Vendelsövägen 17,0138,,59.2291800630121,18.1987989800288
 10885,ÅVS Tegvägen/Gudobroleden,,Näsby 50:1,Tegv/Gudöbroleden Sortering ljuskällor,0138,,59.2136451662725,18.2077950064769
 10888,ÅVS Bollmoravägen/Lindalsvägen Tyresö,,Kumla 3:1264,Bollmorav/Lindalsv,0138,,59.2421899250849,18.1971224888894
-10890,ÅVS Breviksvägen/Tegelbruksvägen Tyresö,,Trinntorp 1:1,Breviksv/Tegelbruksv Sortering ljusk.,0138,,59.22762157463,18.3536190904265
+10890,ÅVS Breviksvägen/Tegelbruksvägen Tyresö,,Trinntorp 1:1,Rödhakevägen 24 Sortering ljusk.,0138,,59.22762157463,18.3536190904265
 12220,ÅVS Öringe Strandväg Tyresö,,Gimmersta 1:1,Öringe Strandv Sortering ljuskällor,0138,,59.2480414602652,18.2593000969367
 15569,ÅVS Strömfallsvägen 73 Tyresö,,Strömfallet 9,Strömfallsvägen 73,0138,,59.245661019231,18.2509581968353
 15926,ÅVS Lagergrens väg/ vid Sporthall Tyresö,,Tyresö 1:544,Lagergrens v Sortering ljuskällor,0138,,59.2417385300722,18.2856226266089
@@ -1673,7 +1673,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 14996,ÅVS ICA Supermarket,Vimmerby,SLAKTAREN 6,Falkängsgatan Vimmerby,0884,,57.66361,15.85472
 15393,ÅVS Vimmerby Återvinningscentral,Vimmerby,VIMMERBY 3:1,Snokebovägen 410 Vimmerby,0884,,57.69389,15.87667
 4343259,Bredsättra,,BREDSÄTTRA 5:14 100919,Håpvägen 2  ,0885,,56.8435356154181,16.7948044689667
-4343260,Byxelkrok,,BYXELKROK 1:1 101040,Neptunivägen 9 ,0885,,57.328152675103,17.0078196683301
+4343260,Byxelkrok,,BYXELKROK 1:1 101040,Neptunivägen 9  ,0885,,57.328152675103,17.0078196683301
 4343261,Böda,,BÖDA 1:25 101091,Gamla Landsvägen 28 ,0885,,57.2420297974477,17.0617285956791
 4343262,Föra,,FÖRA S:4 113522,Föra 88 ,0885,,57.0141521716378,16.8653207491813
 4343263,Källa,,VI 3:6 113522,Wij 3  ,0885,,57.1199496389176,16.9638312500572

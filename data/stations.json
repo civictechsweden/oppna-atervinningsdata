@@ -2031,8 +2031,8 @@
         "streetAddress": "Hallundavägen 4",
         "municipalityCode": "0127",
         "extraInfo": null,
-        "latitude": 59.2514427381663,
-        "longitude": 17.8575484560329
+        "latitude": 59.2508099285789,
+        "longitude": 17.855267389347
     },
     {
         "id": "96424",
@@ -3183,7 +3183,7 @@
         "name": "ÅVS Breviksvägen/Tegelbruksvägen Tyresö",
         "secondaryName": null,
         "propertyNumber": "Trinntorp 1:1",
-        "streetAddress": "Breviksv/Tegelbruksv Sortering ljusk.",
+        "streetAddress": "Rödhakevägen 24 Sortering ljusk.",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.22762157463,
@@ -18418,7 +18418,7 @@
         "name": "Byxelkrok",
         "secondaryName": null,
         "propertyNumber": "BYXELKROK 1:1 101040",
-        "streetAddress": "Neptunivägen 9 ",
+        "streetAddress": "Neptunivägen 9  ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 57.328152675103,
