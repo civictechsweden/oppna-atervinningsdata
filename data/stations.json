@@ -12503,8 +12503,8 @@
         "streetAddress": "Himnavägen 151",
         "municipalityCode": "0580",
         "extraInfo": null,
-        "latitude": 58.4274204418424,
-        "longitude": 15.7825759234462
+        "latitude": 58.4278810761042,
+        "longitude": 15.781131355483
     },
     {
         "id": "2942",
@@ -45453,7 +45453,7 @@
     },
     {
         "id": "223204",
-        "name": "Edsele affären ÅVS",
+        "name": "Edsele Affären Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Ödsgårdsvägen 4",
@@ -45464,7 +45464,7 @@
     },
     {
         "id": "223205",
-        "name": "Helgum stationsområdet ÅVS",
+        "name": "Helgum Stationsområdet Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Centrumvägen 18",
@@ -45475,7 +45475,7 @@
     },
     {
         "id": "223206",
-        "name": "Junsele OK/Q8 ÅVS",
+        "name": "Junsele Ok/Q8 Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Köpmangatan 4",
@@ -45486,10 +45486,10 @@
     },
     {
         "id": "223207",
-        "name": "Långsele ÅVS",
+        "name": "Långsele Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
-        "streetAddress": "Stationsgatan 2 a",
+        "streetAddress": "Stationsgatan 2 A",
         "municipalityCode": "2283",
         "extraInfo": null,
         "latitude": 63.1771654386827,
@@ -45497,7 +45497,7 @@
     },
     {
         "id": "223208",
-        "name": "Näsåker macken ÅVS",
+        "name": "Näsåker Macken Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Storgatan 47",
@@ -45508,7 +45508,7 @@
     },
     {
         "id": "223209",
-        "name": "Ramsele busstation ÅVS",
+        "name": "Ramsele Busstation Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Nipvägen 4",
@@ -45519,7 +45519,7 @@
     },
     {
         "id": "223210",
-        "name": "Resele, Myre IP ÅVS",
+        "name": "Resele, Myre Ip Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Myre 221",
@@ -45530,7 +45530,7 @@
     },
     {
         "id": "223211",
-        "name": "Sollefteå Gärdesgatan ÅVS",
+        "name": "Sollefteå Gärdesgatan Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Gärdesgatan 48",
@@ -45541,7 +45541,7 @@
     },
     {
         "id": "223212",
-        "name": "Sollefteå stora Coop ÅVS",
+        "name": "Sollefteå Stora Coop Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Storgatan 80",
@@ -45552,7 +45552,7 @@
     },
     {
         "id": "223213",
-        "name": "Sollefteå Nipvallen ÅVS",
+        "name": "Sollefteå Nipvallen Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Nipvallavägen 2",
@@ -45563,7 +45563,7 @@
     },
     {
         "id": "223214",
-        "name": "Sollefteå Circle K ÅVS",
+        "name": "Sollefteå Circle K Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Långgatan 21",
@@ -45596,7 +45596,7 @@
     },
     {
         "id": "223217",
-        "name": "Remsle ICA Nära ÅVS",
+        "name": "Remsle Ica Nära Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Norra Ådalsvägen 63",
@@ -45607,7 +45607,7 @@
     },
     {
         "id": "223218",
-        "name": "ICA Kvantum ÅVS",
+        "name": "Ica Kvantum Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Hågesta 227",
@@ -45618,7 +45618,7 @@
     },
     {
         "id": "223219",
-        "name": "Undrom bensinstation ÅVS",
+        "name": "Undrom Bensinstation Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Undrom 143",
@@ -45629,7 +45629,7 @@
     },
     {
         "id": "223220",
-        "name": "Rödsta ÅVC, ÅVS",
+        "name": "Rödsta Åvc, Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Skällmyran 101",
@@ -45640,7 +45640,7 @@
     },
     {
         "id": "223222",
-        "name": "Edsbackens ÅVC, ÅVS",
+        "name": "Edsbackens Åvc, Åvs",
         "secondaryName": null,
         "propertyNumber": ".",
         "streetAddress": "Edsbacken 125",
