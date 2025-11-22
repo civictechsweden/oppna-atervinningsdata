@@ -11847,17 +11847,6 @@
         "longitude": 15.646271
     },
     {
-        "id": "15599",
-        "name": "ÅVS FREBYVÄGEN 5 ÅVC",
-        "secondaryName": null,
-        "propertyNumber": "TIMMERÖ 3:5",
-        "streetAddress": "FREBYÄGEN 5 ÅVC",
-        "municipalityCode": "0560",
-        "extraInfo": null,
-        "latitude": 58.1989693747819,
-        "longitude": 15.0649253146039
-    },
-    {
         "id": "17643",
         "name": "ÅVS BLÅVIKSVÄGEN",
         "secondaryName": null,
@@ -47989,8 +47978,8 @@
         "streetAddress": "Genvalla 245",
         "municipalityCode": "2380",
         "extraInfo": null,
-        "latitude": 63.1477554422085,
-        "longitude": 14.5241995467928
+        "latitude": 63.1553207635459,
+        "longitude": 14.5179346509582
     },
     {
         "id": "1000305",
