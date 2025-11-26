@@ -36058,17 +36058,6 @@
         "longitude": 13.5465745
     },
     {
-        "id": "4025680",
-        "name": "Lorensberg",
-        "secondaryName": "2269",
-        "propertyNumber": "LORENSBERG 1:1",
-        "streetAddress": "Fogdemyrsgatan/Olsätersgatan ",
-        "municipalityCode": "1780",
-        "extraInfo": "",
-        "latitude": 59.4004711,
-        "longitude": 13.5388284
-    },
-    {
         "id": "4025681",
         "name": "Herrhagen",
         "secondaryName": "2271",
@@ -49201,6 +49190,17 @@
         "extraInfo": "",
         "latitude": 63.93778,
         "longitude": 20.16167
+    },
+    {
+        "id": "4415907",
+        "name": "ÅVS Tomtebo Coop",
+        "secondaryName": "17238",
+        "propertyNumber": "FÄLTSPATEN 2",
+        "streetAddress": "Åvs Tomtebo Mineralvägen 7 ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.81111,
+        "longitude": 20.33139
     },
     {
         "id": "4415908",
