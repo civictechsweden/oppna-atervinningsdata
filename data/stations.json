@@ -9504,6 +9504,17 @@
         "longitude": 17.5327172140625
     },
     {
+        "id": "4061352",
+        "name": "Gunsta, Trädgårdsmästeriet",
+        "secondaryName": null,
+        "propertyNumber": "ÄRNEVI 1:7",
+        "streetAddress": "NÄRA FRAMTIDSVÄGEN 1",
+        "municipalityCode": "0380",
+        "extraInfo": null,
+        "latitude": 59.8545401018504,
+        "longitude": 17.8272558394241
+    },
+    {
         "id": "4061353",
         "name": "Oxsätra, Handlarn",
         "secondaryName": null,
@@ -9568,17 +9579,6 @@
         "extraInfo": null,
         "latitude": 59.8254086284679,
         "longitude": 17.6186406121831
-    },
-    {
-        "id": "4061360",
-        "name": "Västertorg Coop",
-        "secondaryName": null,
-        "propertyNumber": "ERIKSBERG 1:4",
-        "streetAddress": "NÄRA VÄSTERTORG 3",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.8408428191889,
-        "longitude": 17.603196723464
     },
     {
         "id": "4061362",
@@ -9653,7 +9653,7 @@
         "propertyNumber": "RAMSJÖ 3:8",
         "streetAddress": "NÄRA RAMSJÖVÄGEN",
         "municipalityCode": "0380",
-        "extraInfo": "För öppettider, se www.uppsalavatten.se",
+        "extraInfo": null,
         "latitude": 60.0411058609038,
         "longitude": 17.5488339308676
     },
@@ -9664,7 +9664,7 @@
         "propertyNumber": "ULTUNA 2:25",
         "streetAddress": "NÄRA ELFRIDA ANDREÉS VÄG",
         "municipalityCode": "0380",
-        "extraInfo": "För öppettider, se www.uppsalavatten.se",
+        "extraInfo": null,
         "latitude": 59.811723619575,
         "longitude": 17.6350400276709
     },
@@ -9675,7 +9675,7 @@
         "propertyNumber": "LIBROBÄCK 4:8",
         "streetAddress": "SÖDERFORSGATAN 7",
         "municipalityCode": "0380",
-        "extraInfo": "För öppettider, se www.uppsalavatten.se",
+        "extraInfo": null,
         "latitude": 59.8786265046823,
         "longitude": 17.5948829446437
     },
@@ -9686,7 +9686,7 @@
         "propertyNumber": "BÄLINGE-LÖVSTA 11:1",
         "streetAddress": "NÄRA TÅRPILSVÄGEN 25",
         "municipalityCode": "0380",
-        "extraInfo": "För öppettider, se www.uppsalavatten.se",
+        "extraInfo": null,
         "latitude": 59.9605492042159,
         "longitude": 17.5807838980174
     },
@@ -9697,7 +9697,7 @@
         "propertyNumber": "VAKSALA-NORRBY 5:1",
         "streetAddress": "ARKGATAN 14",
         "municipalityCode": "0380",
-        "extraInfo": "För öppettider, se www.uppsalavatten.se",
+        "extraInfo": null,
         "latitude": 59.8558387795741,
         "longitude": 17.7201274227992
     },
@@ -9708,7 +9708,7 @@
         "propertyNumber": "STORVRETA 47:411",
         "streetAddress": "ÄRENTUNAVÄGEN 2 A",
         "municipalityCode": "0380",
-        "extraInfo": "För öppettider, se www.uppsalavatten.se",
+        "extraInfo": null,
         "latitude": 59.9643877307702,
         "longitude": 17.697489674847
     },
@@ -9741,7 +9741,7 @@
         "propertyNumber": "GRÄN 2:2",
         "streetAddress": "GRÄN HOVGÅRDEN 20",
         "municipalityCode": "0380",
-        "extraInfo": "För öppettider, se www.uppsalavatten.se",
+        "extraInfo": null,
         "latitude": 59.9278458692439,
         "longitude": 17.7751883060483
     },
@@ -9812,6 +9812,17 @@
         "longitude": 18.2662416313799
     },
     {
+        "id": "4061391",
+        "name": "Bärby hage",
+        "secondaryName": null,
+        "propertyNumber": "TUNA BACKAR 1:1",
+        "streetAddress": "NÄRA BÄRBYGATAN 7",
+        "municipalityCode": "0380",
+        "extraInfo": null,
+        "latitude": 59.8814394057742,
+        "longitude": 17.6208454855253
+    },
+    {
         "id": "4061394",
         "name": "Ekeby fotbollsplaner",
         "secondaryName": null,
@@ -9821,6 +9832,28 @@
         "extraInfo": null,
         "latitude": 59.8469283376637,
         "longitude": 17.6087685615437
+    },
+    {
+        "id": "4061395",
+        "name": "Storvreta Solstrålevägen",
+        "secondaryName": null,
+        "propertyNumber": "FULLERÖ 42:5",
+        "streetAddress": "SOLSTRÅLEVÄGEN 22",
+        "municipalityCode": "0380",
+        "extraInfo": null,
+        "latitude": 59.9497854787206,
+        "longitude": 17.6981036506842
+    },
+    {
+        "id": "4061396",
+        "name": "Gränbystaden norra",
+        "secondaryName": null,
+        "propertyNumber": "BRILLINGE 8:1",
+        "streetAddress": "TAKPANNEGATAN 25",
+        "municipalityCode": "0380",
+        "extraInfo": null,
+        "latitude": 59.8867990762256,
+        "longitude": 17.6693651595328
     },
     {
         "id": "4061397",
