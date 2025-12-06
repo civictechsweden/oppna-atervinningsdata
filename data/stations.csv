@@ -1143,7 +1143,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 2965,ÅVS Johannelunds centrum,,.,Skogslyckegatan,0580,,58.3971796384114,15.6611865566962
 2967,ÅVS ICA Skillingen,,.,Riksdalergatan 2,0580,,58.3826229489097,15.6516217012994
 2972,ÅVS ICA Malmslätt centrum,,.,Allévägen,0580,,58.4132822433477,15.5207320280233
-2993,ÅVS Skäggetorps centrum,,.,Skäggetorps Centrum 10,0580,,58.4267673786054,15.5832573066102
+2993,ÅVS Skäggetorps centrum,,.,Skäggetorp Centrum 10,0580,,58.4267673786054,15.5832573066102
 3000,ÅVS Bergdalsgatan,,.,Bergdalsgatan,0580,,58.4026454669843,15.6327492118982
 3010,ÅVS Cloettavallen,,.,Evastigen,0580,,58.5068034286843,15.5031005232808
 3013,ÅVS Förskolan Maspelösa,,.,Maspelösa 7,0580,,58.4920318986009,15.4224725135249
@@ -2334,22 +2334,22 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6210,,,Öckerö,Öckerö färjeläge,1407,,57.71028,11.65861
 6211,,,Hälsö,Hälsö hamn,1407,,57.73194,11.65583
 6212,,,Öckerö,"Kärrsvik ÅVC, Öckerö",1407,,57.71083,11.65361
-61963,Hantverkaregatan / Rödklövervägen,,,Hantverkaregatan / Rödklövervägen,1415,,58.067444,11.852453
-61964,Fotbollsplanen i Svenshögen,,,Fotbollsplanen i Svenshögen,1415,Belysningen kommer att ses över under 2025,58.13887,11.944162
-61965,Pressarevägen / Hallerna skola,,,Pressarevägen,1415,,58.049418,11.838377
-61966,Hantverkaregatan / vid OK,,,Hantverkaregatan vid OK,1415,,58.075338,11.839163
-61967,Hasselbacken,,,Hasselbacken,1415,,58.061961,11.844914
-61968,Novavägen / Jörlandagården,,,Novavägen 1,1415,,57.986173,11.829692
-61969,Kristinedals förskola,,,Kristinedalsvägen 4,1415,,58.064669,11.833465
-61970,Kyrkenorum,,,Kyrkenorum,1415,,58.056137,11.864949
-61971,"Södra vägen, P-plats",,,"Södra vägen, P-plats",1415,,58.06885,11.821728
-61972,Kläpp ÅVC,,,Kläpp,1415,Tillgänglig under öppettiderna för Kläpp ÅVC,58.0908,11.849326
-61973,Kvarnbergsvägen / Solgårdsdalen,,,Kvarnbergsvägen,1415,,58.059408,11.822687
-61974,Stora vägen,,,"Stora vägen, Stora Höga",1415,Belysningen kommer att ses över under 2025,58.010139,11.829998
-61975,Västerlandavägen,,,Västerlandavägen,1415,,58.078563,11.948316
-61976,Willys,,,Strandvägen 35,1415,,58.075279,11.820364
-61977,Uppfart Stripplekärr,,,Uppfart Stripplekärr,1415,,58.100157,11.846748
-62273,Stora Höga ÅVC,,,Brålandsvägen 18 A,1415,Tillgänglig under öppettiderna för Stora Höga ÅVC,58.015235,11.836853
+61963,Hantverkaregatan / Rödklövervägen,,,Hantverkaregatan / Rödklövervägen,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.067444,11.852453
+61964,Fotbollsplanen i Svenshögen,,,Fotbollsplanen i Svenshögen,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.13887,11.944162
+61965,Pressarevägen / Hallerna skola,,,Pressarevägen,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.049418,11.838377
+61966,Hantverkaregatan / vid OK,,,Hantverkaregatan vid OK,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.075338,11.839163
+61967,Hasselbacken,,,Hasselbacken,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.061961,11.844914
+61968,Novavägen / Jörlandagården,,,Novavägen 1,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",57.986173,11.829692
+61969,Kristinedals förskola,,,Kristinedalsvägen 4,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.064669,11.833465
+61970,Kyrkenorum,,,Kyrkenorum,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.056137,11.864949
+61971,"Södra vägen, P-plats",,,"Södra vägen, P-plats",1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.06885,11.821728
+61972,Kläpp ÅVC,,,Kläpp,1415,"Tillgänglig under öppettiderna för Kläpp ÅVC. Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.0908,11.849326
+61973,Kvarnbergsvägen / Solgårdsdalen,,,Kvarnbergsvägen,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.059408,11.822687
+61974,Stora vägen,,,"Stora vägen, Stora Höga",1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.010139,11.829998
+61975,Västerlandavägen,,,Västerlandavägen,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.078563,11.948316
+61976,Willys,,,Strandvägen 35,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.075279,11.820364
+61977,Uppfart Stripplekärr,,,Uppfart Stripplekärr,1415,"Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.100157,11.846748
+62273,Stora Höga ÅVC,,,Brålandsvägen 18 A,1415,"Tillgänglig under öppettiderna för Stora Höga ÅVC. Under jul- och nyårshelgerna kommer det att bli fler tömningar, ibland på andra dagar än ordinarie schema.",58.015235,11.836853
 59122,Almö Livs,,.,Mällbyvägen 1,1419,,58.0627426196778,11.7499221575518
 59123,Ica Nära Höviksnäs,,.,Höviksnäsvägen 2,1419,,58.0376763953707,11.7326454460094
 59124,PK Konserv Klädesholmen,,.,Rytterholmen 1,1419,,57.9491968991253,11.5495437824214
@@ -4805,6 +4805,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 17175,"Kiruna, Tarfalaparkeringen",,Tarfala 1,Tarfalavägen 4,2584,,67.83818,20.290024
 17723,"Kiruna, Coop Föraregatan",,Bagaren 16,Föraregatan 45,2584,,67.865306,20.225706
 8449,"Karesuando, Reningsverket",,Karesuando 23:2,Reningsverket,2584,,68.43944,22.46667
+8450,"Kiruna, Höstgatan",,Tuolluvaara 1:1,Höstgatan,2584,,67.85292,20.287535
 8451,"Kiruna, Movägen",,Lombolo 12:1,Movägen,2584,,67.83806,20.26
 8452,"Kiruna, Mangigatan",,Jordschataren 15,Mangigatan 23,2584,,67.85472,20.23
 8456,"Kiruna, Schouggatan",,Bolaget 11:2,Schouggatan,2584,,67.845147,20.238259
