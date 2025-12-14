@@ -18484,7 +18484,7 @@
         "name": "Löt",
         "secondaryName": null,
         "propertyNumber": "PALMELUND 4:9 113522",
-        "streetAddress": "Bygdegårdsvägen 2  ",
+        "streetAddress": "Bygdegårdsvägen 2 ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 56.9169598982552,
@@ -18528,7 +18528,7 @@
         "name": "Sandvik",
         "secondaryName": null,
         "propertyNumber": "STENNINGE 4:6 113522",
-        "streetAddress": "Östra Alvarvägen 27  ",
+        "streetAddress": "Östra Alvarvägen 27 ",
         "municipalityCode": "0885",
         "extraInfo": null,
         "latitude": 57.0772604410065,
@@ -24418,6 +24418,17 @@
         "extraInfo": null,
         "latitude": 57.1408470927498,
         "longitude": 12.2879365733954
+    },
+    {
+        "id": "11153",
+        "name": "Ica Nära Läjet",
+        "secondaryName": null,
+        "propertyNumber": "Tvååkers-Ås 1:103",
+        "streetAddress": "Ica Nära Läjet",
+        "municipalityCode": "1383",
+        "extraInfo": null,
+        "latitude": 57.0561488739208,
+        "longitude": 12.2974834273928
     },
     {
         "id": "11157",
