@@ -462,7 +462,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585232,Återvinningsstation 16300,,REKRYTEN 6,Valhallavägen 192  ,0180,,59.3375518177617,18.1037714623302
 585234,Återvinningsstation 16292,,SÖDRA HAMMARBYHAMNEN 1:37,Hästholmsvägen/Henriksdalsvägen  ,0180,,59.3115073012241,18.1064754913139
 585235,Återvinningsstation 14755,,JÄVERÖ 1,Värmlandsvägen 101 B,0180,,59.2478026362354,18.0845324650896
-585236,Återvinningsstation 16102,,DOMKRAFTEN 10,Vingåkersplan 12,0180,,59.2748381244274,18.0292843324925
+585236,Återvinningsstation 16102,,DOMKRAFTEN 10,Vingåkersplan 12  ,0180,,59.2748381244274,18.0292843324925
 585237,Återvinningsstation 10128,,BARKSKEPPET 1,Fregattvägen 28 ,0180,,59.3138836448514,18.0056197245026
 585238,Återvinningsstation 16101,,HALMSJÖN 1,Vättersvägen 24  ,0180,,59.2958433087521,18.059068964375
 585239,Återvinningsstation 16100,,KLOTEN 2,Åmänningevägen 64 ,0180,,59.2964755046896,18.0416799151312
@@ -480,7 +480,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585257,Återvinningsstation 15721,,SKRIVMASKINEN 8,Solleftegatan 5  ,0180,,59.3581075867572,17.8882506967117
 585258,Återvinningsstation 15719,,RIDDARSPORREN 24,Frejgatan 61  ,0180,,59.3454676782358,18.0497934865475
 585259,Återvinningsstation 15718,,ÄSSJAN 11,Dalagatan 55  ,0180,,59.3462472200971,18.0410485868706
-585261,Återvinningsstation 15703,,HAMMARBYHÖJDEN 1:1,Garagevägen 11 ,0180,,59.2927679254925,18.0952620636238
+585261,Återvinningsstation 15703,,HAMMARBYHÖJDEN 1:1,Garagevägen 11  ,0180,,59.2927679254925,18.0952620636238
 585263,Återvinningsstation 10129,,BOTTENSTOCKEN 8,Gröndalsvägen 126 ,0180,,59.3149052130694,17.9971670668452
 585264,Återvinningsstation 10131,,NATTUGGLAN 14,Västgötagatan 5 ,0180,,59.3133269493573,18.0710640763686
 585265,Återvinningsstation 10132,,NORRMALM 5:1,Tantogatan 12 ,0180,,59.3116611024554,18.0513332421436
@@ -491,7 +491,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585270,Återvinningsstation 10138,,IASON 1,Mälartorget 17 ,0180,,59.3229184790173,18.0690288550278
 585272,Återvinningsstation 10139,,LINET 1,Eriksdalsgatan 40 ,0180,,59.3063432997909,18.0684480906098
 585273,Återvinningsstation 10143,,SÖDERMALM 9:1,Älvsborgsgatan 6 ,0180,,59.263142144553,18.1235185079063
-585275,Återvinningsstation 10146,,VASASTADEN 2:100,Tegnérgatan 27 ,0180,,59.3399652562263,18.0602592119566
+585275,Återvinningsstation 10146,,VASASTADEN 2:100,Tegnérgatan 27  ,0180,,59.3399652562263,18.0602592119566
 585276,Återvinningsstation 10147,,GETINGEN 14,Sveavägen 143,0180,,59.3498607129197,18.0490791930999
 585277,Återvinningsstation 15672,,POKALEN 3,Vikingagatan 27  ,0180,,59.3432747689866,18.0336399060016
 585279,Återvinningsstation 15502,,GUBBÄNGEN 1:1,Ramvägen 23 ,0180,,59.2636722493818,18.0894784551507
@@ -516,7 +516,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585303,Återvinningsstation 15028,,VÄSTBERGA 1:1,Elsa Brändströms Gata 62  ,0180,,59.2878126180204,17.9641868658573
 585304,Återvinningsstation 15015,,KONDUKTRISEN 7,Ugglemossvägen 61  ,0180,,59.2934621058361,17.946497179744
 585305,Återvinningsstation 15014,,HÄGERSTENSÅSEN 1:2,Bäckvägen 130 ,0180,,59.3001390943076,17.9816001131885
-585307,Återvinningsstation 15011,,ACCEPTEN 1,Tornedalsgatan 4 ,0180,,59.3662875847598,17.883647639333
+585307,Återvinningsstation 15011,,ACCEPTEN 1,Tornedalsgatan 4  ,0180,,59.3662875847598,17.883647639333
 585308,Återvinningsstation 15009,,FABRIKEN 29,Folkskolegatan 16  ,0180,,59.3165382844003,18.0306580962875
 585309,Återvinningsstation 15008,,KÄRRSPIRAN 1,Björnmossevägen 5,0180,,59.3789173285803,17.8482676145936
 585310,Återvinningsstation 14822,,BECKASINEN 14,Valhallavägen 16  ,0180,,59.3491263673715,18.0619992171311
@@ -1797,7 +1797,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 17218,Vikhemsområdet,,HEMMESTORP 3:21 ,"Vikhemsvägen, P-plats",1230,,55.63127,13.197607
 17219,Borggårdsallén,,BORGGÅRD 1:4  ,"Borggårdsallén, vid P-plats",1230,,55.65064,13.205562
 17220,Staffansvallen P-plats,,STANSTORP 1:6 ,Kronoslättsvägen,1230,,55.6342,13.212012
-17259,"Banvallsvägen, Hjärup",,STANSTORP 1:109 ,TILLFÄLLIGT STÄNGD,1230,,55.675273,13.13952
+17259,"Banvallsvägen, Hjärup",,STANSTORP 1:109 ,Banvallsvägen,1230,,55.675273,13.13952
 17739,Parkallén,,STORA UPPÅKRA 5:10 ,Parkallén,1230,,55.67111,13.14638
 17740,P-plats Järnvägskrogen,,STANSTORP 5:1 ,Järnvägsgatan,1230,,55.64138,13.21666
 17741,P-plats mitt emot Reningsverket,,BORGGÅRD 1:4 ,Sliparevägen,1230,,55.65416,13.21277
@@ -2923,7 +2923,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 1017,1017 Fiskebäckskil,,1017 Fiskebäckskil,1017 Fiskebäckskil,1484,,58.239107319573,11.4615679923297
 1018,1018 Åvc Skaftö,,1018 Åvc Skaftö,1018 Åvc Skaftö,1484,,58.2140394046707,11.438218620405
 1019,1019 Grundsund,,1019 Grundsund,1019 Grundsund,1484,,58.2148920489318,11.423071860735
-6003417,Hogstorp,148520,BERGA 2:33,Hogstorp 300,1485,,58.39417,11.75861
+6003417,Hogstorp,148520,BERGA 2:33,Stora Bergavägen Åvs ,1485,,58.39417,11.75861
 6006919,Torp köpcentrum,148515,HEDKÄRR ,Hedkärr Åvs ,1485,,58.35083,11.80278
 6006923,Östrabo 1.,148508,HÖKEN 7,Erik Dahlbergsgatan Åvs ,1485,,58.35194,11.94472
 6014246,Bleket,148518,BLEKET 1:47,Vargstigen Åvs ,1485,,58.36611,11.93694
@@ -4484,6 +4484,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4415908,ÅVS Holmsund Brandstationen,16853,HOLMSUND 4:1,Åvs Holmsund Brandstationen Stenhuggareg ,2480,,63.71556,20.36722
 4415909,ÅVS Tomtebo Tomtebovägen,16852,TOMTEBO 2:1,Åvs Tomtebo Tomtebovägen/Näckens Väg ,2480,,63.80361,20.35583
 4415910,ÅVS Ikea,16449,MARKNADSPLATSEN S:1,Åvs Ikea Marknadsgatan ,2480,,63.808522,20.257072
+4415911,ÅVS Marieberg,16369,STADSLIDEN 2:4,Åvs Marieberg Älgvägen 3 ,2480,,63.84444,20.32972
 4415912,ÅVS Innertavle,16107,INNERTAVLE 17:3,Åvs Innertavle Gamla Sågentomten ,2480,,63.81083,20.38972
 4415913,ÅVS Hörnefors Hantverkareg,15978,HÖRNEÅ 8:459,Åvs Hörnefors Hantverkaregatan ,2480,,63.63167,19.90778
 4415914,ÅVS Ersboda Stora Coop,15331,SINGELN 1,Åvs Ersboda Formvägen 4 ,2480,,63.85,20.30139
