@@ -24168,7 +24168,7 @@
     },
     {
         "id": "7504",
-        "name": "",
+        "name": "Källsjö Kyrka",
         "secondaryName": null,
         "propertyNumber": "Holmen 1:11",
         "streetAddress": "Källsjö Kyrka",
@@ -24179,7 +24179,7 @@
     },
     {
         "id": "7505",
-        "name": null,
+        "name": "Köinge Lantmännen, Östervägen 9",
         "secondaryName": null,
         "propertyNumber": "Köinge 5:46",
         "streetAddress": "Köinge Lantmännen, Östervägen 9",
@@ -24421,10 +24421,10 @@
     },
     {
         "id": "11153",
-        "name": "Ica Nära Läjet",
+        "name": "Läjet, Ica Nära",
         "secondaryName": null,
         "propertyNumber": "Tvååkers-Ås 1:103",
-        "streetAddress": "Ica Nära Läjet",
+        "streetAddress": "Läjet, Ica Nära",
         "municipalityCode": "1383",
         "extraInfo": null,
         "latitude": 57.0561488739208,
@@ -52889,10 +52889,10 @@
     },
     {
         "id": "8450",
-        "name": "Kiruna, Höstgatan",
+        "name": "Kiruna, Vårvintervägen",
         "secondaryName": "",
         "propertyNumber": "Tuolluvaara 1:1",
-        "streetAddress": "Höstgatan",
+        "streetAddress": "Vårvintervägen",
         "municipalityCode": "2584",
         "extraInfo": "",
         "latitude": 67.85292,
