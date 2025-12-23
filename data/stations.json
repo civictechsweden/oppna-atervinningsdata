@@ -3026,7 +3026,7 @@
     },
     {
         "id": "10868",
-        "name": "ÅVS Granängsringen/Granängsvägen",
+        "name": "ÅVS Granängsringen/Granängsvägen Tyresö",
         "secondaryName": null,
         "propertyNumber": "Bollmora 2:1",
         "streetAddress": "Granängsringen/Granängsvägen",
@@ -3070,10 +3070,10 @@
     },
     {
         "id": "10872",
-        "name": "ÅVS Sikvägen 27-29/Siklöjevägen Tyresö",
+        "name": "ÅVS Sikvägen/Siklöjevägen 7 Tyresö",
         "secondaryName": null,
         "propertyNumber": "Bollmora 2:1",
-        "streetAddress": "Sikvägen 27-29/Siklöjevägen",
+        "streetAddress": "Sikvägen/Siklöjevägen 7",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.2486787414825,
@@ -3103,10 +3103,10 @@
     },
     {
         "id": "10875",
-        "name": "ÅVS Alléplan",
+        "name": "ÅVS Vendelsövägen 49 Tyresö",
         "secondaryName": null,
         "propertyNumber": "Kumla 69:26",
-        "streetAddress": "Alléplan Sortering ljuskällor",
+        "streetAddress": "Vendelsövägen 49 Sortering ljuskällor",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.2242380055332,
@@ -3125,10 +3125,10 @@
     },
     {
         "id": "10878",
-        "name": "ÅVS Granängsringen 25",
+        "name": "ÅVS Granängsringen 25-26 Tyresö",
         "secondaryName": null,
         "propertyNumber": "Näsby 4:1469",
-        "streetAddress": "Granängsringen 20-25",
+        "streetAddress": "Granängsringen 25-26",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.234933012892,
@@ -3172,7 +3172,7 @@
         "name": "ÅVS Bollmoravägen/Lindalsvägen Tyresö",
         "secondaryName": null,
         "propertyNumber": "Kumla 3:1264",
-        "streetAddress": "Bollmorav/Lindalsv",
+        "streetAddress": "Bollmoravägen/Lindalsvägen",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.2421899250849,
@@ -3183,7 +3183,7 @@
         "name": "ÅVS Breviksvägen/Tegelbruksvägen Tyresö",
         "secondaryName": null,
         "propertyNumber": "Trinntorp 1:1",
-        "streetAddress": "Rödhakevägen 24 Sortering ljusk.",
+        "streetAddress": "Breviksv/Tegelbrukv Sortering ljusk.",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.22762157463,
@@ -3191,10 +3191,10 @@
     },
     {
         "id": "12220",
-        "name": "ÅVS Öringe Strandväg Tyresö",
+        "name": "ÅVS Öringe Strandväg 4 Tyresö",
         "secondaryName": null,
         "propertyNumber": "Gimmersta 1:1",
-        "streetAddress": "Öringe Strandv Sortering ljuskällor",
+        "streetAddress": "Öringe Strandv 4 Sortering ljuskällor",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.2480414602652,
@@ -3235,7 +3235,7 @@
     },
     {
         "id": "16519",
-        "name": "ÅVS Bollmora Allé Tyresö",
+        "name": "ÅVS Bollmora Allé/Rimfrostgränd Tyresö",
         "secondaryName": null,
         "propertyNumber": "Bollmora 2:1",
         "streetAddress": "Bollmora Allé Sortering ljuskällor",
@@ -5977,7 +5977,7 @@
         "name": "Återvinningsstation 14754",
         "secondaryName": null,
         "propertyNumber": "BAKBORDET 1",
-        "streetAddress": "Perstorpsvägen 77",
+        "streetAddress": "Perstorpsvägen 77  ",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.2560884584625,
@@ -21021,6 +21021,17 @@
         "longitude": 13.0586100031292
     },
     {
+        "id": "185105",
+        "name": "ÅVS Beijers park",
+        "secondaryName": "",
+        "propertyNumber": "Glidflygplanet 1",
+        "streetAddress": "Calle Ljungbecks gata 121",
+        "municipalityCode": "1280",
+        "extraInfo": "",
+        "latitude": 55.6086805,
+        "longitude": 13.0542097
+    },
+    {
         "id": "185106",
         "name": "ÅVS Håkanstorp",
         "secondaryName": "Malmö",
@@ -21173,17 +21184,6 @@
         "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5422199987924,
         "longitude": 12.919439994109
-    },
-    {
-        "id": "185120",
-        "name": "ÅVS Nils Perssons Plan",
-        "secondaryName": "Malmö",
-        "propertyNumber": "Innerstaden 10:94",
-        "streetAddress": "Mariedalsvägen",
-        "municipalityCode": "1280",
-        "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
-        "latitude": 55.5975000000832,
-        "longitude": 12.9830600006391
     },
     {
         "id": "185122",
@@ -21393,6 +21393,17 @@
         "extraInfo": "Kontakt: VA SYD 040-635 10 00 kund@vasyd.se",
         "latitude": 55.5908300023587,
         "longitude": 12.9774999953588
+    },
+    {
+        "id": "185142",
+        "name": "ÅVS Limhamns Sjöstad",
+        "secondaryName": "",
+        "propertyNumber": "Limhamn 11:277",
+        "streetAddress": "Geijersgatan 2",
+        "municipalityCode": "1280",
+        "extraInfo": "",
+        "latitude": 55.5917058,
+        "longitude": 12.9376703
     },
     {
         "id": "185143",
