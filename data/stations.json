@@ -3048,7 +3048,7 @@
     },
     {
         "id": "10870",
-        "name": "FNI Krusbodavägen/Lummergången Tyresö",
+        "name": "ÅVS FNI Krusbodavägen/Lummergången Tyresö",
         "secondaryName": null,
         "propertyNumber": "Bollmora 2:1",
         "streetAddress": "Krusbodav/Lummerg Sortering ljuskällor",
@@ -3191,7 +3191,7 @@
     },
     {
         "id": "12220",
-        "name": "FNI Öringe Strandväg 4 Tyresö",
+        "name": "ÅVS FNI Öringe Strandväg 4 Tyresö",
         "secondaryName": null,
         "propertyNumber": "Gimmersta 1:1",
         "streetAddress": "Öringe Strandv 4 Sortering ljuskällor",
@@ -3268,7 +3268,7 @@
     },
     {
         "id": "17145",
-        "name": "FNI Nyforsvägen/Myggdalsvägen Tyresö",
+        "name": "ÅVS FNI Nyforsvägen/Myggdalsvägen Tyresö",
         "secondaryName": null,
         "propertyNumber": "Bollmora 2:1",
         "streetAddress": "Nyforsv/Myggdalsv Sortering ljuskällor",
@@ -3279,7 +3279,7 @@
     },
     {
         "id": "17207",
-        "name": "FNI Myggdalsvägen/Hajstigen Tyresö",
+        "name": "ÅVS FNI Myggdalsvägen/Hajstigen Tyresö",
         "secondaryName": null,
         "propertyNumber": "Bollmora 2:1",
         "streetAddress": "Myggdalsv/Hajstigen Sortering ljuskällor",
@@ -4569,7 +4569,7 @@
         "name": "Återvinningsstation 17068",
         "secondaryName": null,
         "propertyNumber": "DOPFUNTEN 1",
-        "streetAddress": "Sköndalsvägen 88 ",
+        "streetAddress": "Sköndalsvägen 88  ",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.2544657374113,
@@ -5493,7 +5493,7 @@
         "name": "Återvinningsstation 10152",
         "secondaryName": null,
         "propertyNumber": "STOLMAKAREN 14",
-        "streetAddress": "Luntmakargatan 80 ",
+        "streetAddress": "Luntmakargatan 80",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3426747401298,
@@ -6703,7 +6703,7 @@
         "name": "Återvinningsstation 18007",
         "secondaryName": null,
         "propertyNumber": "ÖSTERMALM 3:62",
-        "streetAddress": "Banérgatan 9  ",
+        "streetAddress": "Banérgatan 9",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3334244382135,
@@ -11625,17 +11625,6 @@
         "extraInfo": "",
         "latitude": 59.38444,
         "longitude": 17.03944
-    },
-    {
-        "id": "10327",
-        "name": "ÅVS Sundbyvägen",
-        "secondaryName": "10327",
-        "propertyNumber": "TORULV 3",
-        "streetAddress": "Sundbyvägen ",
-        "municipalityCode": "0486",
-        "extraInfo": "",
-        "latitude": 59.38139,
-        "longitude": 17.04917
     },
     {
         "id": "10330",
@@ -46014,10 +46003,10 @@
     },
     {
         "id": "4430050",
-        "name": "Husum, Isbanan",
+        "name": "Wibergsvägen  ",
         "secondaryName": null,
         "propertyNumber": "DOMBÄCK 1:161",
-        "streetAddress": "Wibergsvägen ",
+        "streetAddress": "Wibergsvägen   ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.3347635300613,

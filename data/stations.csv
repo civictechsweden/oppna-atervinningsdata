@@ -276,7 +276,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 99283,ÅVS 7985 Elhus Åbyinfarten,,ÅBY 1:27,Ringvägen/Åbyinfarten,0136,,59.1261936950801,18.1072363170325
 10868,ÅVS Granängsringen/Granängsvägen Tyresö,,Bollmora 2:1,Granängsringen/Granängsvägen,0138,,59.2381260785598,18.2284597610866
 10869,ÅVS Kyrkogränd/Myggdalsvägen Tyresö,,Bollmora 2:585,Kyrkogränd/Myggdalsvägen,0138,,59.2440537538412,18.2318287802651
-10870,FNI Krusbodavägen/Lummergången Tyresö,,Bollmora 2:1,Krusbodav/Lummerg Sortering ljuskällor,0138,,59.2336149630043,18.2458596671529
+10870,ÅVS FNI Krusbodavägen/Lummergången Tyresö,,Bollmora 2:1,Krusbodav/Lummerg Sortering ljuskällor,0138,,59.2336149630043,18.2458596671529
 10871,ÅVS Pluggvägen Tyresö,,Bollmora 2:403,Pluggvägen,0138,,59.241142386137,18.2283923264651
 10872,ÅVS Sikvägen/Siklöjevägen 7 Tyresö,,Bollmora 2:1,Sikvägen/Siklöjevägen 7,0138,,59.2486787414825,18.235733286571
 10873,ÅVS Fornuddsvägen/Fornuddsparken Tyresö,,Kumla 3:1103,Fornuddsv/Fornuddsp Sortering ljuskällor,0138,,59.2201946940354,18.1925829421327
@@ -289,15 +289,15 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 10885,ÅVS Tegvägen/Gudobroleden,,Näsby 50:1,Tegv/Gudöbroleden Sortering ljuskällor,0138,,59.2136451662725,18.2077950064769
 10888,ÅVS Bollmoravägen/Lindalsvägen Tyresö,,Kumla 3:1264,Bollmoravägen/Lindalsvägen,0138,,59.2421899250849,18.1971224888894
 10890,ÅVS Breviksvägen/Tegelbruksvägen Tyresö,,Trinntorp 1:1,Breviksv/Tegelbrukv Sortering ljusk.,0138,,59.22762157463,18.3536190904265
-12220,FNI Öringe Strandväg 4 Tyresö,,Gimmersta 1:1,Öringe Strandv 4 Sortering ljuskällor,0138,,59.2480414602652,18.2593000969367
+12220,ÅVS FNI Öringe Strandväg 4 Tyresö,,Gimmersta 1:1,Öringe Strandv 4 Sortering ljuskällor,0138,,59.2480414602652,18.2593000969367
 15569,ÅVS Strömfallsvägen 73 Tyresö,,Strömfallet 9,Strömfallsvägen 73,0138,,59.245661019231,18.2509581968353
 15926,ÅVS Lagergrens väg/ vid Sporthall Tyresö,,Tyresö 1:544,Lagergrens v Sortering ljuskällor,0138,,59.2417385300722,18.2856226266089
 16476,ÅVS Energivägen Tyresö,,Bollmora 2:1,Energivägen 6,0138,,59.2462471721059,18.2448465783439
 16519,ÅVS Bollmora Allé/Rimfrostgränd Tyresö,,Bollmora 2:1,Bollmora Allé Sortering ljuskällor,0138,,59.2462747581595,18.2245713364822
 16926,ÅVS Basilikagränd Tyresö,,Näsby 4:1469,Basilikagränd Sortering ljuskällor,0138,,59.2319442551454,18.2317466216813
 16974,ÅVS Brakmarsvägen Tyresö,,Raksta 1:3,Brakmarsv 22  Sortering ljuskällor,0138,,59.2251942605564,18.3015616490946
-17145,FNI Nyforsvägen/Myggdalsvägen Tyresö,,Bollmora 2:1,Nyforsv/Myggdalsv Sortering ljuskällor,0138,,59.2267189884146,18.2606270162311
-17207,FNI Myggdalsvägen/Hajstigen Tyresö,,Bollmora 2:1,Myggdalsv/Hajstigen Sortering ljuskällor,0138,,59.242345972263,18.2380200244191
+17145,ÅVS FNI Nyforsvägen/Myggdalsvägen Tyresö,,Bollmora 2:1,Nyforsv/Myggdalsv Sortering ljuskällor,0138,,59.2267189884146,18.2606270162311
+17207,ÅVS FNI Myggdalsvägen/Hajstigen Tyresö,,Bollmora 2:1,Myggdalsv/Hajstigen Sortering ljuskällor,0138,,59.242345972263,18.2380200244191
 11030,Vändplats,,,Finnstabergsvägen,0139,,59.517843911260144,17.64976974275293
 12419,P-Plats,,,Hallonvägen 26-48,0139,,59.48919971079022,17.73064507084051
 12420,Grusplanen ridhuset Prästtorp,,,Enköpingsvägen,0139,,59.49382590478396,17.684217153797686
@@ -414,7 +414,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585166,Återvinningsstation 17201,,PELARBACKEN MINDRE 23,Kapellgränd 7  ,0180,,59.3160082912335,18.0743472704079
 585167,Återvinningsstation 17122,,BODHOLMEN 1,Ängsholmsgränd 63  ,0180,,59.2754495187766,17.8825249186816
 585168,Återvinningsstation 17109,,PIEDESTALEN 3,Maltesholmsvägen 144  ,0180,,59.3603334115701,17.8331042435763
-585169,Återvinningsstation 17068,,DOPFUNTEN 1,Sköndalsvägen 88 ,0180,,59.2544657374113,18.1156502227575
+585169,Återvinningsstation 17068,,DOPFUNTEN 1,Sköndalsvägen 88  ,0180,,59.2544657374113,18.1156502227575
 585170,Återvinningsstation 16966,,VAGNHALLEN 8,Jämtlandsgatan 123 ,0180,,59.3558070232583,17.8789216352735
 585172,Återvinningsstation 16957,,ÄNGSHOLMEN 1,Ängsholmsgränd 6 ,0180,,59.2755498536728,17.880022789572
 585173,Återvinningsstation 16943,,STORA KATRINEBERG 16,Liljeholmsstranden 5 ,0180,,59.3140926440461,18.0272411278066
@@ -498,7 +498,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585280,Återvinningsstation 15501,,TRANEBERG 1:1,Vidängsvägen 22  ,0180,,59.3370266901381,17.9788541162696
 585282,Återvinningsstation 15499,,VÄGGEN 28,Sparreholmsvägen 29 ,0180,,59.2829904395227,18.0426887244856
 585283,Återvinningsstation 10151,,OXEN MINDRE 35,Luntmakargatan 28 ,0180,,59.3382408097873,18.062513873893
-585284,Återvinningsstation 10152,,STOLMAKAREN 14,Luntmakargatan 80 ,0180,,59.3426747401298,18.0585327687869
+585284,Återvinningsstation 10152,,STOLMAKAREN 14,Luntmakargatan 80,0180,,59.3426747401298,18.0585327687869
 585285,Återvinningsstation 10154,,KADETTEN 2,Rörstrandsgatan 64  ,0180,,59.3432652791843,18.0267074726662
 585286,Återvinningsstation 15486,,SÖDERMALM 4:1,Torkel Knutssonsgatan 10  ,0180,,59.3189563886124,18.0563826364154
 585288,Återvinningsstation 10174,,FALKHOLMEN 5,Falkholmsgränd 41 ,0180,,59.2793316865408,17.8966720239619
@@ -608,7 +608,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 587341,Återvinningsstation 18006,,NORRMALM 4:58,Östra Järnvägsgatan 24  ,0180,,59.3338283820986,18.0544831568735
 587348,Återvinningsstation 18005,,ÖSTERMALM 2:118,Artillerigatan 11  ,0180,,59.3335736624085,18.0805610663273
 587360,Återvinningsstation 16573,,ULVSUNDA 1:1,Koloniföreningen Linnea,0180,,59.3497405291736,17.9285717309984
-587433,Återvinningsstation 18007,,ÖSTERMALM 3:62,Banérgatan 9  ,0180,,59.3334244382135,18.0917394489286
+587433,Återvinningsstation 18007,,ÖSTERMALM 3:62,Banérgatan 9,0180,,59.3334244382135,18.0917394489286
 587972,Återvinningsstation 18010,,SKARPNÄCKS GÅRD 1:1,Rusthållarvägen 155,0180,,59.2734465771415,18.1343106849628
 13851,Bragevägen,,Bragevägen,Bragevägen,0181,,59.2119132122455,17.6302879143999
 13852,Balticvägen,,Balticvägen,Balticvägen,0181,,59.1756533734483,17.6524543832964
@@ -1056,7 +1056,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 10323,ÅVS Vårdcentralen,10323,STRÄNGNÄS 3:1,Urban Hjärnes Väg ,0486,,59.36722,17.02556
 10325,ÅVS Vasavallen,10325,STRÄNGNÄS 2:1,Olivehällsvägen 2 ,0486,,59.37583,17.00806
 10326,ÅVS Abborrberget,10326,ASPÖ-SUNDBY 1:72,Mälarvägen ,0486,,59.38444,17.03944
-10327,ÅVS Sundbyvägen,10327,TORULV 3,Sundbyvägen ,0486,,59.38139,17.04917
 10330,ÅVS ICA Joker,10330,ÅKERS STYCKEBRUK 1:465,Lohes Väg ,0486,,59.25528,17.10333
 15480,ÅVS Nygatan,15480,STRÄNGNÄS 2:1,Nygatan ,0486,,59.37639,17.02444
 17187,ÅVS Stallarholmen,17187,YTTERSELÖ-ÖSTA 8:1,Överselövägen ,0486,,59.36889,17.2
@@ -4182,7 +4181,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430046,"Valhalla, Torsvägen",,ÖRNSKÖLDSVIK 6:1,Torsvägen ,2284,,63.2991478292701,18.7268909908352
 4430047,"Centrum, Vegagatan/E4:an",,ÖRNSKÖLDSVIK 8:24,Vegagatan ,2284,,63.29214024014,18.7214347101053
 4430049,"Åsdalen, Vid vändplanen",,ÖRNSKÖLDSVIK 3:1,Västra Dalgatan ,2284,,63.2942157772864,18.7002812564755
-4430050,"Husum, Isbanan",,DOMBÄCK 1:161,Wibergsvägen ,2284,,63.3347635300613,19.145955775091
+4430050,Wibergsvägen  ,,DOMBÄCK 1:161,Wibergsvägen   ,2284,,63.3347635300613,19.145955775091
 4430051,"Örnsköldsvik, Mellan Ångermanlandsgatan 10 och 12",,RENEN 1,Ångermanlandsgatan ,2284,,63.2981222590354,18.7174447297656
 4430054,"Trysunda, Vid Kajen",,ÅVS,Trysunda,2284,,63.1383320021086,18.7879315914414
 4430055,"Ulvön, Framför båthuset",,ÅVS,Fjären,2284,,63.0489184621271,18.6386494693419
