@@ -2289,7 +2289,7 @@
     },
     {
         "id": "97209",
-        "name": "ÅVS 7318 Stängt tillfälligt mellan v17-v1 2026",
+        "name": "ÅVS 7318 Tillfälligt Stängt",
         "secondaryName": null,
         "propertyNumber": "TULLINGE 19:287",
         "streetAddress": "Tullingebergsvägen 2",
@@ -4030,7 +4030,7 @@
         "name": "Återvinningsstation 10022",
         "secondaryName": null,
         "propertyNumber": "HÖGAFFELN 18",
-        "streetAddress": "Stockholmsvägen 3 ",
+        "streetAddress": "Stockholmsvägen 3",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.286174247052,
@@ -35751,7 +35751,7 @@
     },
     {
         "id": "1764 02",
-        "name": "Hemköp",
+        "name": "Orrby",
         "secondaryName": "",
         "propertyNumber": "Orrby 1:24",
         "streetAddress": "",
@@ -35806,7 +35806,7 @@
     },
     {
         "id": "1764 08",
-        "name": "Pekås",
+        "name": "Centrum",
         "secondaryName": "",
         "propertyNumber": "Grönberg 1:224",
         "streetAddress": "",
@@ -47232,6 +47232,28 @@
         "extraInfo": null,
         "latitude": 64.0535350979252,
         "longitude": 15.5461629820847
+    },
+    {
+        "id": "115223",
+        "name": "Valåbränna",
+        "secondaryName": null,
+        "propertyNumber": "SIL 1:5",
+        "streetAddress": "Fjällsjösil 170",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.7592511062124,
+        "longitude": 16.4540710669813
+    },
+    {
+        "id": "115224",
+        "name": "Silsjönäs",
+        "secondaryName": null,
+        "propertyNumber": "FJÄLLSJÖ-SUNNANSJÖ 2:13",
+        "streetAddress": "Silsjönäs 195",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.77770319789,
+        "longitude": 16.3968845257117
     },
     {
         "id": "11605",
