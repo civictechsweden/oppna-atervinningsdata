@@ -144,7 +144,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6377,ÅVS 8131 ÅVC Skogås,,TRANSISTORN 4,Storvretsvägen 18,0126,,59.2258318216834,18.1348131935056
 6520,ÅVS 8122 Elhus Skeppsmyreparken,,STUVSTA GÅRD 1:1,Renvägen/Norra Parkvägen,0126,,59.2488856312891,17.9939794346196
 89915,ÅVS 8127 Vid Rondell,,MYRÄNGEN 1:24,Myrängsvägen 65,0126,,59.2437986564028,18.0231429192098
-91962,ÅVS 8073 Sörskogen ***TILLFÄLLIGT STÄNGD PGA MASTARBETE****,,SÖRSKOGEN 1:1,Tryffelvägen,0126,,59.2259733387843,17.9915320789027
+91962,ÅVS 8073 Sörskogen ***TILLFÄLLIGT STÄNGD TOM 30/1 PGA MASTARBETE****,,SÖRSKOGEN 1:1,Tryffelvägen,0126,,59.2259733387843,17.9915320789027
 92907,ÅVS 16241 Glimmervägen/Lännavägen,,BALINGSNÄS 1:5,Glimmervägen 2,0126,,59.2273997634444,18.0002130648199
 94255,ÅVS 8116 Coop Extra,,KYNÄS 2:10,Ågestavägen 1,0126,,59.2512190400875,18.0120100722578
 94573,ÅVS 8134 Parkering vid Etydgränd,,NYTORP 4:30,Mörtviksvägen,0126,,59.2251239337394,18.1555246114392
@@ -1333,10 +1333,10 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 147908,Stationsgatan - Järnvägsgatan,,Korsberga-Löneberg 3:48,Stationsgatan - Järnvägsgatan,0685,,57.3008240443866,15.1240136108774
 147909,Emåvägen - Stationsgatan,,Ökna-Kvill 1:304,Emåvägen - Stationsgatan,0685,,57.4076917133445,15.4985228168519
 147910,Simhallen Myresjö,,Myresjö 2:39,Vetlandavägen 12,0685,,57.3856318680934,14.9684832474062
-147911,Näshults IP,,Näshult 2:30,Serarp Sjölund 4,0685,,57.2716695818884,15.3730644092374
+147911,,,Näshult 2:14,Näshultsvägen 23,0685,,57.2663934020859,15.3830867631985
 147912,Reningsverket,,Ramkvilla 2:54,Återvändsgränd 8,0685,,57.2058578075249,14.9493891392582
 147913,Väg mot Bo,,Stenberga Stom 1:9,Stenberga,0685,,57.3238519269091,15.4224041008203
-147914,Idrottsplatsen,,Tjustkulle 1:1,Storgatan,0685,,57.4393723524364,15.0693096279006
+147914,Idrottsplatsen Hydro Arena,,Tjustkulle 1:1,Storgatan,0685,,57.4393723524364,15.0693096279006
 147915,Nära Rikets Sal,,Pukaregården 1:1,Skånegatan,0685,,57.4195633755494,15.0698726626727
 147916,P-plats Gymnasiet,,Mogärde 20:1,Norrvägen,0685,,57.4335816981581,15.0788286432186
 147917,Missionsgatan - Hagalundsgatan,,Brunnsgård 6:2,Missionsgatan - Hagalundsgatan,0685,,57.4308810551828,15.0936984624651
@@ -4290,6 +4290,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 115207,Jorm Skola,,JORM 1:163,Jormvattnet 955,2313,,64.7325213773174,14.0193468088125
 115208,Raftsjöhöjden,,RAFTSJÖHÖJDEN 1:12,Raftsjöhöjden 315,2313,,63.615595102173,15.0050703054466
 115209,Kyrktåsjö Fotbollsplan,,KARBÄCKEN 1:108,Kyrktåsjö,2313,,64.2302941000764,15.8846216722591
+115210,Vågdalen,,VÅGDALEN 1:76,Vågdalen 460,2313,,63.797759777832,15.7049965344074
 115211,Alavattnet,,ALAVATTNET 1:59,Alavattnet,2313,,64.0535350979252,15.5461629820847
 115223,Valåbränna,,SIL 1:5,Fjällsjösil 170,2313,,63.7592511062124,16.4540710669813
 115224,Silsjönäs,,FJÄLLSJÖ-SUNNANSJÖ 2:13,Silsjönäs 195,2313,,63.77770319789,16.3968845257117
@@ -4450,9 +4451,13 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 11251,Malgovik,,Malgovik 1:96,Malgovik 70,2462,,64.63917,16.35917
 11256,Bergbacka,,Bergbacka 1:86,Solgårdsgatan 1,2462,,64.633411,16.644797
 11259,Baksjöstrand,,Baksjönäs 1:1,Baksjöstrandsvägen 6,2462,,64.62667,16.6725
+16034,Stalon,,Allmänningsskogen 1:1,Stalon 53,2462,,64.93943,15.86175
+17353,Saxnäs ÅVC,Saxnäs ÅVC,Saxnäs S:5,Nedre Saxnäs 9,2462,,64.96539,15.39239
+17354,Dikanäs ÅVC,Dikanäs ÅVC,Dikanäs 1:30,Matsdalsvägen 36,2462,,65.24419,15.9878
+17355,Vilhelmina ÅVC,Vilhelmina ÅVC,Fabriken 1,Vilhelmina ÅVC,2462,,64.61468,16.6637666
+17356,Företagsmottagning,Kontakt 0950-104 75,Kuusakoski Sverige AB,"Kuusakoski Sverige AB, 0950-104 75",2462,,64.61655,16.6612754
 17435,Kittelfjäll,,Kittelfjäll 1:534,"Fjälltorget, Kittelfjäll 211",2462,,65.25028,15.50167
 17640,Klimpfjäll,,Klimpfjäll 3:1,Klimpfjäll 5,2462,,65.06278,14.79972
-72345,Volgsjövägen,,Granberg 1:2,Volgsjövägen 71,2462,,64.6172609,16.6807082
 74567,Järnvägsgatan,,Baksjönäs 1:1,Järnvägsgatan 16,2462,,64.6218255,16.6539007
 76543,Gränsgatan,,Baksjönäs 1:1,Gränsgatan 2,2462,,64.617154,16.662827
 81234,Lövliden,,Lövliden 1:86,Lövliden 100,2462,,64.64829,16.60644

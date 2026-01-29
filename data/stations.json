@@ -1596,7 +1596,7 @@
     },
     {
         "id": "91962",
-        "name": "ÅVS 8073 Sörskogen ***TILLFÄLLIGT STÄNGD PGA MASTARBETE****",
+        "name": "ÅVS 8073 Sörskogen ***TILLFÄLLIGT STÄNGD TOM 30/1 PGA MASTARBETE****",
         "secondaryName": null,
         "propertyNumber": "SÖRSKOGEN 1:1",
         "streetAddress": "Tryffelvägen",
@@ -14675,14 +14675,14 @@
     },
     {
         "id": "147911",
-        "name": "Näshults IP",
+        "name": null,
         "secondaryName": null,
-        "propertyNumber": "Näshult 2:30",
-        "streetAddress": "Serarp Sjölund 4",
+        "propertyNumber": "Näshult 2:14",
+        "streetAddress": "Näshultsvägen 23",
         "municipalityCode": "0685",
         "extraInfo": null,
-        "latitude": 57.2716695818884,
-        "longitude": 15.3730644092374
+        "latitude": 57.2663934020859,
+        "longitude": 15.3830867631985
     },
     {
         "id": "147912",
@@ -14708,7 +14708,7 @@
     },
     {
         "id": "147914",
-        "name": "Idrottsplatsen",
+        "name": "Idrottsplatsen Hydro Arena",
         "secondaryName": null,
         "propertyNumber": "Tjustkulle 1:1",
         "streetAddress": "Storgatan",
@@ -47201,6 +47201,17 @@
         "longitude": 15.8846216722591
     },
     {
+        "id": "115210",
+        "name": "Vågdalen",
+        "secondaryName": null,
+        "propertyNumber": "VÅGDALEN 1:76",
+        "streetAddress": "Vågdalen 460",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.797759777832,
+        "longitude": 15.7049965344074
+    },
+    {
         "id": "115211",
         "name": "Alavattnet",
         "secondaryName": null,
@@ -48961,6 +48972,61 @@
         "longitude": 16.6725
     },
     {
+        "id": "16034",
+        "name": "Stalon",
+        "secondaryName": "",
+        "propertyNumber": "Allmänningsskogen 1:1",
+        "streetAddress": "Stalon 53",
+        "municipalityCode": "2462",
+        "extraInfo": "",
+        "latitude": 64.93943,
+        "longitude": 15.86175
+    },
+    {
+        "id": "17353",
+        "name": "Saxnäs ÅVC",
+        "secondaryName": "Saxnäs ÅVC",
+        "propertyNumber": "Saxnäs S:5",
+        "streetAddress": "Nedre Saxnäs 9",
+        "municipalityCode": "2462",
+        "extraInfo": "",
+        "latitude": 64.96539,
+        "longitude": 15.39239
+    },
+    {
+        "id": "17354",
+        "name": "Dikanäs ÅVC",
+        "secondaryName": "Dikanäs ÅVC",
+        "propertyNumber": "Dikanäs 1:30",
+        "streetAddress": "Matsdalsvägen 36",
+        "municipalityCode": "2462",
+        "extraInfo": "",
+        "latitude": 65.24419,
+        "longitude": 15.9878
+    },
+    {
+        "id": "17355",
+        "name": "Vilhelmina ÅVC",
+        "secondaryName": "Vilhelmina ÅVC",
+        "propertyNumber": "Fabriken 1",
+        "streetAddress": "Vilhelmina ÅVC",
+        "municipalityCode": "2462",
+        "extraInfo": "",
+        "latitude": 64.61468,
+        "longitude": 16.6637666
+    },
+    {
+        "id": "17356",
+        "name": "Företagsmottagning",
+        "secondaryName": "Kontakt 0950-104 75",
+        "propertyNumber": "Kuusakoski Sverige AB",
+        "streetAddress": "Kuusakoski Sverige AB, 0950-104 75",
+        "municipalityCode": "2462",
+        "extraInfo": "",
+        "latitude": 64.61655,
+        "longitude": 16.6612754
+    },
+    {
         "id": "17435",
         "name": "Kittelfjäll",
         "secondaryName": "",
@@ -48981,17 +49047,6 @@
         "extraInfo": "",
         "latitude": 65.06278,
         "longitude": 14.79972
-    },
-    {
-        "id": "72345",
-        "name": "Volgsjövägen",
-        "secondaryName": "",
-        "propertyNumber": "Granberg 1:2",
-        "streetAddress": "Volgsjövägen 71",
-        "municipalityCode": "2462",
-        "extraInfo": "",
-        "latitude": 64.6172609,
-        "longitude": 16.6807082
     },
     {
         "id": "74567",
