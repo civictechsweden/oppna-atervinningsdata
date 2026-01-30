@@ -144,7 +144,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6377,ÅVS 8131 ÅVC Skogås,,TRANSISTORN 4,Storvretsvägen 18,0126,,59.2258318216834,18.1348131935056
 6520,ÅVS 8122 Elhus Skeppsmyreparken,,STUVSTA GÅRD 1:1,Renvägen/Norra Parkvägen,0126,,59.2488856312891,17.9939794346196
 89915,ÅVS 8127 Vid Rondell,,MYRÄNGEN 1:24,Myrängsvägen 65,0126,,59.2437986564028,18.0231429192098
-91962,ÅVS 8073 Sörskogen ***TILLFÄLLIGT STÄNGD TOM 30/1 PGA MASTARBETE****,,SÖRSKOGEN 1:1,Tryffelvägen,0126,,59.2259733387843,17.9915320789027
+91962,ÅVS 8073 Sörskogen,,SÖRSKOGEN 1:1,Tryffelvägen,0126,,59.2259733387843,17.9915320789027
 92907,ÅVS 16241 Glimmervägen/Lännavägen,,BALINGSNÄS 1:5,Glimmervägen 2,0126,,59.2273997634444,18.0002130648199
 94255,ÅVS 8116 Coop Extra,,KYNÄS 2:10,Ågestavägen 1,0126,,59.2512190400875,18.0120100722578
 94573,ÅVS 8134 Parkering vid Etydgränd,,NYTORP 4:30,Mörtviksvägen,0126,,59.2251239337394,18.1555246114392
@@ -591,7 +591,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 586756,Återvinningsstation 10032,,LAGNÖ 20,Värmlandsvägen 410 ,0180,,59.2445798112585,18.0790836796647
 586809,Återvinningsstation 17510,,TORSÖ 3,Forshagagatan 1 ,0180,,59.2461995497953,18.0888435119825
 586810,Återvinningsstation 17658,,FASTE 5,Spånga Stationsväg 39 ,0180,,59.3817936622278,17.9000925225689
-586811,Återvinningsstation 17552,,NORRMANNEN 7,Björnsonsgatan 138 ,0180,,59.3488735250341,17.8799881513719
+586811,Återvinningsstation 17552,,NORRMANNEN 7,Björnsonsgatan 138,0180,,59.3488735250341,17.8799881513719
 586812,Återvinningsstation 17542,,ENEN 24,Tellusborgsvägen 56 ,0180,,59.3018134316094,18.0053096396945
 587032,Återvinningsstation 15676,,FORMEN 5,Tomtebogatan 6,0180,,59.3413901397185,18.0362336387342
 587033,Återvinningsstation 10203,,BRUKSBÄRAREN 3,Skebokvarnsvägen 159 ,0180,,59.2666131834166,18.0363295917622
@@ -910,7 +910,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 988320,ÅVS 655 Lastbilsparkeringen (f.d. Hummelsta Livs),,Tillinge-Hummelsta 1:61,Åsundavägen 7,0381,,59.6272099279133,16.9481911923953
 988321,ÅVS 17738 Torggatan/Långgatan,,Kryddgården 6:3,Långgatan,0381,,59.6384717862856,17.0718261182514
 988322,"ÅVS 665 Närbutiken, Lillkyrka",,Hässlinge 1:27,Prästvägen 2,0381,,59.560543231156,17.2464189484213
-988323,"ÅVS 666 OKQ8, Skolsta",,Skolsta 12:1,Grillbyvägen 27,0381,,59.6604660552315,17.2406368428466
 988324,"ÅVS 667 Örsundsbro, bakom ICA",,Örsundsbro 1:1,Enköpingsvägen 9 -11,0381,,59.7353849196537,17.311024320249
 988364,ÅVS 99091 Ny mitt emot Dollarstore,,Romberga 23:31,Malmagatan,0381,,59.6534803584824,17.0879797484592
 550404,Nära Ingo Tankstation,,Gammelbyn 1:70,Gammelbygatan 16,0382,,60.2598437218915,18.3649609053143
@@ -4150,7 +4149,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4429983,Må återvinningscentral,,MÅ 1:3,Returvägen 9,2284,,63.3019655947241,18.7677073373502
 4430000,"Gottne, Infart till reningsverket",,GOTTNE 8:14,Gottnevägen   ,2284,,63.4270653686055,18.4273346895443
 4430001,"Svartby, Korsningen Örtagårdsvägen/Arnäsvägen",,SVARTBY 2:237,Örtagårdsvägen ,2284,,63.3093500709525,18.751515880794
-4430014,"Må, Utanför grindarna till Må ÅVC",,ÅVS,Returvägen,2284,,63.3024955013646,18.7619446957413
+4430014,Returvägen  ,,ÅVS,Returvägen   ,2284,,63.3024955013646,18.7619446957413
 4430016,"Sidensjö, Brandstation",,SIDENSJÖ PRÄSTBORD 1:60,Angermannus Väg ,2284,,63.2975879062935,18.2862667137455
 4430017,Droskgränd  ,,SUND 1:33,Droskgränd   ,2284,,63.2668728382676,18.6889516734455
 4430018,"Bredbyn, Fannbyvägen",,BREDBYN 20:29,Fannbyvägen ,2284,,63.4497265184729,18.1151345266622
@@ -4457,7 +4456,8 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 17355,Vilhelmina ÅVC,Vilhelmina ÅVC,Fabriken 1,Vilhelmina ÅVC,2462,,64.61468,16.6637666
 17356,Företagsmottagning,Kontakt 0950-104 75,Kuusakoski Sverige AB,"Kuusakoski Sverige AB, 0950-104 75",2462,,64.61655,16.6612754
 17435,Kittelfjäll,,Kittelfjäll 1:534,"Fjälltorget, Kittelfjäll 211",2462,,65.25028,15.50167
-17640,Klimpfjäll,,Klimpfjäll 3:1,Klimpfjäll 5,2462,,65.06278,14.79972
+17640,Klimpfjäll,,Klimpfjäll 3:1,Klimpfjäll 5,2462,,65.06205,14.8009434
+72345,Tjärnvallen,,Granberg 1:2,Volgsjövägen 71,2462,,64.61765,16.6796177
 74567,Järnvägsgatan,,Baksjönäs 1:1,Järnvägsgatan 16,2462,,64.6218255,16.6539007
 76543,Gränsgatan,,Baksjönäs 1:1,Gränsgatan 2,2462,,64.617154,16.662827
 81234,Lövliden,,Lövliden 1:86,Lövliden 100,2462,,64.64829,16.60644
