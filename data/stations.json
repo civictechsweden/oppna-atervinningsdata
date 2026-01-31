@@ -9900,6 +9900,17 @@
         "longitude": 17.6965105986769
     },
     {
+        "id": "4062493",
+        "name": "Gränby ÅVC",
+        "secondaryName": null,
+        "propertyNumber": "BRILLINGE 10:1",
+        "streetAddress": "IDUNS VÄG 100",
+        "municipalityCode": "0380",
+        "extraInfo": null,
+        "latitude": 59.8866806822742,
+        "longitude": 17.6642271907955
+    },
+    {
         "id": "988229",
         "name": "ÅVS 13325 Värmeverket",
         "secondaryName": null,
@@ -36265,17 +36276,6 @@
         "extraInfo": "",
         "latitude": 59.3902922,
         "longitude": 13.4841286
-    },
-    {
-        "id": "4025701",
-        "name": "Kronoparken",
-        "secondaryName": "99151",
-        "propertyNumber": "TRIBUNEN 1",
-        "streetAddress": "Gustaf Frödings Gata 8",
-        "municipalityCode": "1780",
-        "extraInfo": "",
-        "latitude": 59.4006539,
-        "longitude": 13.5907786
     },
     {
         "id": "4025702",
