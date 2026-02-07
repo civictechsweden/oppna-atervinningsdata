@@ -2170,56 +2170,56 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 12,Skottorp,,,Gamla Banvallen,1381,,56.45038,12.95755
 13,Vallberga,,,Maskingatan,1381,,56.47113,13.02826
 14,Skummeslöv,,,Stora Strandvägen,1381,,56.46017,12.92644
-15624,Sandladan ÅVC,,Arvidstorp 1:39,Sandladan ÅVC,1382,,56.9108914558243,12.4646479202912
-16378,Morups IP Spännavägen,,Morup 20:2,Morups IP Spännavägen,1382,,56.9757669749855,12.3978219414278
-17263,Långaveka skola,,Långaveka 4:1,"Långaveka 126, Långaveka skola",1382,,56.9356595076805,12.3745945547687
-17499,"Älvsered, Falkenbergsvägen 10",,Toppered 1:207,"Älvsered, Falkenbergsvägen 10",1382,,57.2393199266903,12.8589790669049
-2401,"Stafsinge strand, sommarlustvägens parkering",,VÄSTRA GÄRDET 2:1,Stafsinge strand,1382,,56.8976663153168,12.458453738051
-2407,"Glommen, Rosendalsvägen",,.,"Glommen, Rosendalsvägen",1382,,56.9571522603952,12.36118000341
-7489,"Slätten, Fredens väg",,Slätten 1:1,"Slätten, Fredens väg",1382,,56.8956777100032,12.5287221192939
-7490,"Hjortsberg, Hjortvägen",,Hjortsberg 4:1,"Hjortsberg, Hjortvägen",1382,,56.884933998251,12.5142618636235
-7491,"Gamla Coop, Klockaregatan 27",,Spettet 1,Klockaregatan 27 Gamla Coop,1382,,56.9094665615083,12.4913181764666
-7495,Sanddynevägen/Strandridaregatan,,Västra Gärdet 2:1,Sanddynevägen,1382,,56.8954838555942,12.4810234846148
-7500,Gällared Hagabergsvägen,,Gällared 8:1,Gällared Hagabergsvägen,1382,,57.0995871911733,12.8326302243534
-7501,"Heberg, Gamla vägen",,Heberg 3:12,"Heberg, Gamla vägen 12",1382,,56.8784744365265,12.6312854713436
-7504,Källsjö Kyrka,,Holmen 1:11,Källsjö Kyrka,1382,,57.2131932201888,12.6479337071104
-7505,"Köinge Lantmännen, Östervägen 9",,Köinge 5:46,"Köinge Lantmännen, Östervägen 9",1382,,57.0642311837226,12.646403619351
-7506,"Ljungby, Lastadsvägen",,Ljungby-Bergagård 1:5,"Ljungby, Lastadsvägen 1",1382,,56.9809009922747,12.5767786316112
-7507,Långasand strandparkering,,Risarp S:2,Långasand strandparkering,1382,,56.8336836888768,12.5952373132329
-7508,"Långås, Potatisvägen",,Morups-Ry 1:88,"Långås, Potatisvägen 2",1382,,56.9723831993415,12.4520231948041
-7510,"Okome, Bygdegården",,Okome 3:26,"Okome, Ätraforsvägen 28",1382,,57.0526094609331,12.6912429849779
-7512,Skogstorp parkering,,Skogstorp 4:148,"Skogstorp parkering, Violvägen",1382,,56.9122220101367,12.4366362562837
-7513,Skrea stationsväg,,Skrea 23:3,Skrea stationsväg,1382,,56.8861286146104,12.5616879042671
-7514,Slöinge Lantmannaföreningen,,Slöinge 1:20,Slöinge Lantmannaföreningen,1382,,56.8527409259773,12.6870367861601
-7516,"Ullared ÅVC, Hedemovägen",,Ullared 2:205,"Ullared ÅVC, Hedemovägen 3",1382,,57.1299183552638,12.718891247903
-7517,Vessigebro Järnvägsgatan,,Kärreberg 3:137,Vessigebro Järnvägsgatan,1382,,56.9832556424918,12.6547722945466
-7518,Vinbergs samhälle idrottshallen,,Töringe 7:19,Vinbergs samhälle idrottshallen,1382,,56.9477326703923,12.5454538687657
-7519,Årstad mittemot skolan,,Årstad 28:2,Årstad mittemot skolan,1382,,56.9142020851957,12.6742104254943
-7521,Ätran Timmervägen,,Esered 1:216,Ätran Timmervägen,1382,,57.1206855618859,12.9436005215566
+15624,Sandladan ÅVC,,Arvidstorp 1:39,ÅVS Sandladan ÅVC,1382,,56.9108914558243,12.4646479202912
+16378,Morups IP Spännavägen,,Morup 20:2,ÅVS Morups IP Spännavägen,1382,,56.9757669749855,12.3978219414278
+17263,Långaveka skola,,Långaveka 4:1,"ÅVS Långaveka 126, Långaveka skola",1382,,56.9356595076805,12.3745945547687
+17499,"Älvsered, Falkenbergsvägen 10",,Toppered 1:207,"ÅVS Älvsered, Falkenbergsvägen 10",1382,,57.2393199266903,12.8589790669049
+2401,"Stafsinge strand, sommarlustvägens parkering",,VÄSTRA GÄRDET 2:1,ÅVS Stafsinge strand,1382,,56.8976663153168,12.458453738051
+2407,"Glommen, Rosendalsvägen",,.,"ÅVS Glommen, Rosendalsvägen",1382,,56.9571522603952,12.36118000341
+7489,"Slätten, Fredens väg",,Slätten 1:1,"ÅVS Slätten, Fredens väg",1382,,56.8956777100032,12.5287221192939
+7490,"Hjortsberg, Hjortvägen",,Hjortsberg 4:1,"ÅVS Hjortsberg, Hjortvägen",1382,,56.884933998251,12.5142618636235
+7491,"Gamla Coop, Klockaregatan 27",,Spettet 1,ÅVS Klockaregatan 27 Gamla Coop,1382,,56.9094665615083,12.4913181764666
+7495,Sanddynevägen/Strandridaregatan,,Västra Gärdet 2:1,ÅVS Sanddynevägen,1382,,56.8954838555942,12.4810234846148
+7500,Gällared Hagabergsvägen,,Gällared 8:1,ÅVS Gällared Hagabergsvägen,1382,,57.0995871911733,12.8326302243534
+7501,"Heberg, Gamla vägen",,Heberg 3:12,"ÅVS Heberg, Gamla vägen 12",1382,,56.8784744365265,12.6312854713436
+7504,Källsjö Kyrka,,Holmen 1:11,ÅVS Källsjö Kyrka,1382,,57.2131932201888,12.6479337071104
+7505,"Köinge Lantmännen, Östervägen 9",,Köinge 5:46,"ÅVS Köinge Lantmännen, Östervägen 9",1382,,57.0642311837226,12.646403619351
+7506,"Ljungby, Lastadsvägen",,Ljungby-Bergagård 1:5,"ÅVS Ljungby, Lastadsvägen 1",1382,,56.9809009922747,12.5767786316112
+7507,Långasand strandparkering,,Risarp S:2,ÅVS Långasand strandparkering,1382,,56.8336836888768,12.5952373132329
+7508,"Långås, Potatisvägen",,Morups-Ry 1:88,"ÅVS Långås, Potatisvägen 2",1382,,56.9723831993415,12.4520231948041
+7510,"Okome, Bygdegården",,Okome 3:26,"ÅVS Okome, Ätraforsvägen 28",1382,,57.0526094609331,12.6912429849779
+7512,Skogstorp parkering,,Skogstorp 4:148,"ÅVS Skogstorp parkering, Violvägen",1382,,56.9122220101367,12.4366362562837
+7513,Skrea stationsväg,,Skrea 23:3,ÅVS Skrea stationsväg,1382,,56.8861286146104,12.5616879042671
+7514,Slöinge Lantmannaföreningen,,Slöinge 1:20,ÅVS Slöinge Lantmannaföreningen,1382,,56.8527409259773,12.6870367861601
+7516,"Ullared ÅVC, Hedemovägen",,Ullared 2:205,"ÅVS Ullared ÅVC, Hedemovägen 3",1382,,57.1299183552638,12.718891247903
+7517,Vessigebro Järnvägsgatan,,Kärreberg 3:137,ÅVS Vessigebro Järnvägsgatan,1382,,56.9832556424918,12.6547722945466
+7518,Vinbergs samhälle idrottshallen,,Töringe 7:19,ÅVS Vinbergs samhälle idrottshallen,1382,,56.9477326703923,12.5454538687657
+7519,Årstad mittemot skolan,,Årstad 28:2,ÅVS Årstad mittemot skolan,1382,,56.9142020851957,12.6742104254943
+7521,Ätran Timmervägen,,Esered 1:216,ÅVS Ätran Timmervägen,1382,,57.1206855618859,12.9436005215566
 99284,"Olofsbo Tempo, Havsvägen",,Olofsbo 3:214,"Olofsbo Tempo, Havsvägen 23",1382,,56.9171947135423,12.3910474461915
-11140,Derome Ica Supermarket,,Åsby 9:5,Derome Ica Supermarket,1383,,57.2358090614347,12.3183676003045
-11143,Hunnestad Ica Nära,,Hunnestad 14:10,Hunnestad Ica Nära,1383,,57.1016674315811,12.3569140472497
-11145,"Kungsäter, Kungsäter Livs",,Österby 1:47,"Kungsäter, Kungsäter Livs",1383,,57.3040950351529,12.5620808535257
-11147,Rolfstorp Ica Supermarket,,Rolfstorp 20:3,Rolfstorp Ica Supermarket,1383,,57.1457483869501,12.4530792630484
-11148,"Skällinge, Idrottsvägen",,Skällinge 1:2,"Skällinge, Idrottsvägen",1383,,57.1796196444002,12.4650878931003
-11150,Tofta Mejerivägen,,Tofta 8:16,Tofta Mejerivägen,1383,,57.1745866154016,12.300821509013
-11151,Träslövsläge,,Tvååkers-Ås 2:30,Träslövsläge,1383,,57.0538781103481,12.2857201677719
-11152,"Trönninge Äng, P-plats",,Trönninge 7:14,Trönninge,1383,,57.1408470927498,12.2879365733954
-11153,"Läjet, Ica Nära",,Tvååkers-Ås 1:103,"Läjet, Ica Nära",1383,,57.0561488739208,12.2974834273928
-11157,Östervi IP,,Getakärr 4:1,"Östervi IP, Engelbrektsgatan 115",1383,,57.1059509400053,12.2827197347309
-11164,Danska vägen,,Freden 1,Danska vägen,1383,,57.099050659589,12.2560817650845
-11168,Norra vägen,,Renen 14,Norra vägen,1383,,57.1112786315491,12.2509769993692
-11170,"Willys, Träslövsvägen 56",,Tolken 11,"Träslövsvägen 56, Willys",1383,,57.102260323938,12.2686811015568
-11171,Stockrosgatan,,Getakärr 4:1,Stockrosgatan,1383,,57.1109936241923,12.2843739068459
-11172,Stenåsavägen,,Getakärr 2:21,Stenåsavägen,1383,,57.1211341806862,12.2711394878771
-15136,"Getterön, Östra Hamnvägen",,Getakärr 9:6,"Getterön, Östra Hamnvägen",1383,,57.1213872170248,12.2506903509173
-15140,"Bösarp, Skällingevägen",,Skällinge-Bösarp 2:3,"Bösarp, skällingevägen",1383,,57.183482655037,12.4170296535903
-15804,Veddige ÅVS,,Veddige 33:3,Veddige ÅVC,1383,,57.2581240611495,12.3145145076739
-16109,Bua idrottsplats,,Bua 10:248,"Bua idrottsplats, Kustroddarevägen",1383,,57.2297184284945,12.1248526700939
-16175,"ICA Hajen, Monarkvägen",,Hajen 10,"ICA Hajen, Monarkvägen",1383,,57.1157233506406,12.2585783030306
-17161,Holmagärde ÅVC,,Eldstaden 12,Holmagärde ÅVC,1383,,57.1195340362529,12.3027464620356
-17327,Tvååker ÅVC,,Tvååker 24:2,Tvååker ÅVC,1383,,57.0420882484799,12.3889301453156
-17678,"Limabacka, Virkesvägen",,Värö-backa 17:3,"Limabacka, Virkesvägen",1383,,57.2401478076384,12.1876298551764
+11140,Derome Ica Supermarket,,Åsby 9:5,ÅVS Derome Ica Supermarket,1383,,57.2358090614347,12.3183676003045
+11143,Hunnestad Ica Nära,,Hunnestad 14:10,ÅVS Hunnestad Ica Nära,1383,,57.1016674315811,12.3569140472497
+11145,"Kungsäter, Kungsäter Livs",,Österby 1:47,"ÅVS Kungsäter, Kungsäter Livs",1383,,57.3040950351529,12.5620808535257
+11147,Rolfstorp Ica Supermarket,,Rolfstorp 20:3,ÅVS Rolfstorp Ica Supermarket,1383,,57.1457483869501,12.4530792630484
+11148,"Skällinge, Idrottsvägen",,Skällinge 1:2,"ÅVS Skällinge, Idrottsvägen",1383,,57.1796196444002,12.4650878931003
+11150,Tofta Mejerivägen,,Tofta 8:16,ÅVS Tofta Mejerivägen,1383,,57.1745866154016,12.300821509013
+11151,Träslövsläge,,Tvååkers-Ås 2:30,ÅVS Träslövsläge,1383,,57.0538781103481,12.2857201677719
+11152,"Trönninge Äng, P-plats",,Trönninge 7:14,ÅVS Trönninge,1383,,57.1408470927498,12.2879365733954
+11153,"Läjet, Ica Nära",,Tvååkers-Ås 1:103,"ÅVS Läjet, Ica Nära",1383,,57.0561488739208,12.2974834273928
+11157,Östervi IP,,Getakärr 4:1,"ÅVS Östervi IP, Engelbrektsgatan 115",1383,,57.1059509400053,12.2827197347309
+11164,Danska vägen,,Freden 1,ÅVS Danska vägen,1383,,57.099050659589,12.2560817650845
+11168,Norra vägen,,Renen 14,ÅVS Norra vägen,1383,,57.1112786315491,12.2509769993692
+11170,"Willys, Träslövsvägen 56",,Tolken 11,"ÅVS Träslövsvägen 56, Willys",1383,,57.102260323938,12.2686811015568
+11171,Stockrosgatan,,Getakärr 4:1,ÅVS Stockrosgatan,1383,,57.1109936241923,12.2843739068459
+11172,Stenåsavägen,,Getakärr 2:21,ÅVS Stenåsavägen,1383,,57.1211341806862,12.2711394878771
+15136,"Getterön, Östra Hamnvägen",,Getakärr 9:6,"ÅVS Getterön, Östra Hamnvägen",1383,,57.1213872170248,12.2506903509173
+15140,"Bösarp, Skällingevägen",,Skällinge-Bösarp 2:3,"ÅVS Bösarp, Skällingevägen",1383,,57.183482655037,12.4170296535903
+15804,Veddige ÅVS,,Veddige 33:3,ÅVS Veddige ÅVC,1383,,57.2581240611495,12.3145145076739
+16109,Bua idrottsplats,,Bua 10:248,"ÅVS Bua idrottsplats, Kustroddarevägen",1383,,57.2297184284945,12.1248526700939
+16175,"ICA Hajen, Monarkvägen",,Hajen 10,"ÅVS ICA Hajen, Monarkvägen",1383,,57.1157233506406,12.2585783030306
+17161,Holmagärde ÅVC,,Eldstaden 12,ÅVS Holmagärde ÅVC,1383,,57.1195340362529,12.3027464620356
+17327,Tvååker ÅVC,,Tvååker 24:2,ÅVS Tvååker ÅVC,1383,,57.0420882484799,12.3889301453156
+17678,"Limabacka, Virkesvägen",,Värö-backa 17:3,"ÅVS Limabacka, Virkesvägen",1383,,57.2401478076384,12.1876298551764
 2402,"Båtfjordens hamn, Bua",,Bua 10:248,"Båtfjordens hamn, Bua",1383,,57.2405991415013,12.1167724949918
 2405,Getteröns Marina,,Getterön 2:1,Getteröns Marina,1383,,57.112836027538,12.2262803213106
 202415132,Onsala Gottskär Klaraplan Parkering,,Skällared 2:101,Kells Hage,1384,,57.3900864390456,12.0163394178085
