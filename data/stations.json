@@ -2537,8 +2537,8 @@
         "streetAddress": "Gaffelseglet 41",
         "municipalityCode": "0136",
         "extraInfo": null,
-        "latitude": 59.1865344593594,
-        "longitude": 18.1399493325927
+        "latitude": 59.1812011900487,
+        "longitude": 18.1360277535908
     },
     {
         "id": "6338",
@@ -6307,7 +6307,7 @@
         "name": "Återvinningsstation 10248",
         "secondaryName": null,
         "propertyNumber": "ENSKEDE GÅRD 1:1",
-        "streetAddress": "Gullmarsvägen 7 ",
+        "streetAddress": "Gullmarsvägen 7",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.2985644358023,
@@ -9219,7 +9219,7 @@
     },
     {
         "id": "988268",
-        "name": "ÅVS 16056 Ol-Jansvägen",
+        "name": "ÅVS 16056 Ol-Jansvägen Östervåla Heby",
         "secondaryName": null,
         "propertyNumber": "Hov 4:1",
         "streetAddress": "Ol-Jansvägen",
@@ -9230,7 +9230,7 @@
     },
     {
         "id": "988271",
-        "name": "ÅVS 1640 Forsbovägen",
+        "name": "ÅVS 1640 Forsbovägen Harbo Heby",
         "secondaryName": null,
         "propertyNumber": "Forsbo 1:66",
         "streetAddress": "Forsbovägen",
@@ -9241,7 +9241,7 @@
     },
     {
         "id": "988272",
-        "name": "ÅVS 1641 Bangatan-Brogatan P-plats",
+        "name": "ÅVS 1641 Bangatan-Brogatan P-plats Heby",
         "secondaryName": null,
         "propertyNumber": "Heby 3:20",
         "streetAddress": "Bangatan-Brogatan",
@@ -9252,7 +9252,7 @@
     },
     {
         "id": "988273",
-        "name": "ÅVS 1642 Stationsvägen",
+        "name": "ÅVS 1642 Stationsvägen Heby",
         "secondaryName": null,
         "propertyNumber": "Västerlövsta Prästgård 1:13",
         "streetAddress": "Stationsvägen",
@@ -9263,7 +9263,7 @@
     },
     {
         "id": "988274",
-        "name": "ÅVS 1644 Affären Lunda Handel",
+        "name": "ÅVS 1644 Affären Lunda Handel Huddungeby Heby",
         "secondaryName": null,
         "propertyNumber": "Huddungeby 1:14",
         "streetAddress": "Affären Lunda Handel",
@@ -9274,7 +9274,7 @@
     },
     {
         "id": "988276",
-        "name": "ÅVS 1645 Brunkullsvägen",
+        "name": "ÅVS 1645 Brunkullsvägen Morgongåva Heby",
         "secondaryName": null,
         "propertyNumber": "Stora Ramsjö 2:3",
         "streetAddress": "Brunkullsvägen",
@@ -9285,7 +9285,7 @@
     },
     {
         "id": "988277",
-        "name": "ÅVS 1646 Runhällen f.d. Järnvägsområdet",
+        "name": "ÅVS 1646 f.d. Järnvägsområdet Runhällen Heby",
         "secondaryName": null,
         "propertyNumber": "Österbo 1:22",
         "streetAddress": "F.d. Järnvägsområdet",
@@ -9296,7 +9296,7 @@
     },
     {
         "id": "988278",
-        "name": "ÅVS 1647 Stationsgatan 29",
+        "name": "ÅVS 1647 Stationsgatan 29 Tärnsjö Heby",
         "secondaryName": null,
         "propertyNumber": "Nora Prästgård 2:216",
         "streetAddress": "Stationsgatan 29",
@@ -9307,7 +9307,7 @@
     },
     {
         "id": "988279",
-        "name": "ÅVS 1648 Ösbyvägen",
+        "name": "ÅVS 1648 Ösbyvägen Vittinge Heby",
         "secondaryName": null,
         "propertyNumber": "Ösby 1:31",
         "streetAddress": "Ösbyvägen",
@@ -9769,7 +9769,7 @@
     },
     {
         "id": "988229",
-        "name": "ÅVS 13325 Värmeverket",
+        "name": "ÅVS 13325 Värmeverket Enköping",
         "secondaryName": null,
         "propertyNumber": "Galgvreten 2:35",
         "streetAddress": "Fabriksgatan 6",
@@ -9780,7 +9780,7 @@
     },
     {
         "id": "988235",
-        "name": "ÅVS 14457 Verkmästaregatan",
+        "name": "ÅVS 14457 Verkmästaregatan Enköping",
         "secondaryName": null,
         "propertyNumber": "Romberga 3:2",
         "streetAddress": "Verkmästaregatan 5",
@@ -9791,7 +9791,7 @@
     },
     {
         "id": "988239",
-        "name": "ÅVS 14950 Haga Slott",
+        "name": "ÅVS 14950 Haga Slott Enköping",
         "secondaryName": null,
         "propertyNumber": "Haga 9:6",
         "streetAddress": "Tessin D Ä Allé 36",
@@ -9813,7 +9813,7 @@
     },
     {
         "id": "988266",
-        "name": "ÅVS 15931 Lantmännen",
+        "name": "ÅVS 15931 Lantmännen Fjärdhundra Enköping",
         "secondaryName": null,
         "propertyNumber": "Mällersta 3:1",
         "streetAddress": "Stora vägen 20",
@@ -9824,7 +9824,7 @@
     },
     {
         "id": "988283",
-        "name": "ÅVS 16978 Haga Slott, Hållplats Haga vändslinga",
+        "name": "ÅVS 16978 Haga Slott, Hållplats Haga vändslinga Enköping",
         "secondaryName": null,
         "propertyNumber": "Haga 9:6",
         "streetAddress": "Natt Och Dags Allé 53",
@@ -9835,7 +9835,7 @@
     },
     {
         "id": "988318",
-        "name": "ÅVS 652 P-plats, f.d.  Fanna-kiosken",
+        "name": "ÅVS 652 P-plats, f.d.  Fanna-kiosken Enköping",
         "secondaryName": null,
         "propertyNumber": "Fanna 15:13",
         "streetAddress": "Fannagatan 23",
@@ -9846,7 +9846,7 @@
     },
     {
         "id": "988319",
-        "name": "ÅVS 653 Bangatan/Brunnsgatan",
+        "name": "ÅVS 653 Bangatan/Brunnsgatan Grillby Enköping",
         "secondaryName": null,
         "propertyNumber": "Grillby 80:3",
         "streetAddress": "Bangatan 19",
@@ -9857,7 +9857,7 @@
     },
     {
         "id": "988320",
-        "name": "ÅVS 655 Lastbilsparkeringen (f.d. Hummelsta Livs)",
+        "name": "ÅVS 655 Lastbilsparkeringen (f.d. Hummelsta Livs) Enköping",
         "secondaryName": null,
         "propertyNumber": "Tillinge-Hummelsta 1:61",
         "streetAddress": "Åsundavägen 7",
@@ -9868,7 +9868,7 @@
     },
     {
         "id": "988321",
-        "name": "ÅVS 17738 Torggatan/Långgatan",
+        "name": "ÅVS 17738 Torggatan/Långgatan Enköping",
         "secondaryName": null,
         "propertyNumber": "Kryddgården 6:3",
         "streetAddress": "Långgatan",
@@ -9879,7 +9879,7 @@
     },
     {
         "id": "988322",
-        "name": "ÅVS 665 Närbutiken, Lillkyrka",
+        "name": "ÅVS 665 Närbutiken, Lillkyrka Enköping",
         "secondaryName": null,
         "propertyNumber": "Hässlinge 1:27",
         "streetAddress": "Prästvägen 2",
@@ -9890,7 +9890,7 @@
     },
     {
         "id": "988324",
-        "name": "ÅVS 667 Örsundsbro, bakom ICA",
+        "name": "ÅVS 667 , bakom ICA Örsundsbro Enköping",
         "secondaryName": null,
         "propertyNumber": "Örsundsbro 1:1",
         "streetAddress": "Enköpingsvägen 9 -11",
@@ -9901,7 +9901,7 @@
     },
     {
         "id": "988364",
-        "name": "ÅVS 99091 Ny mitt emot Dollarstore",
+        "name": "ÅVS 99091 Ny mitt emot Dollarstore Enköping",
         "secondaryName": null,
         "propertyNumber": "Romberga 23:31",
         "streetAddress": "Malmagatan",
@@ -38864,7 +38864,7 @@
     },
     {
         "id": "988313",
-        "name": "ÅVS 4516 Bernshammar, Affärsplan",
+        "name": "ÅVS 4516 Bernshammar, Affärsplan Kolsva Skinnskatteberg",
         "secondaryName": null,
         "propertyNumber": "Bernshammar 1:1",
         "streetAddress": "Bernshammar, Affärsplan",
@@ -38875,7 +38875,7 @@
     },
     {
         "id": "988314",
-        "name": "ÅVS 4517 Färna, Svinhuset",
+        "name": "ÅVS 4517 Färna, Svinhuset Skinnskatteberg",
         "secondaryName": null,
         "propertyNumber": "Färna 2:20",
         "streetAddress": "Fåfängans väg",
@@ -38897,7 +38897,7 @@
     },
     {
         "id": "988316",
-        "name": "ÅVS 4519 Skateparken vid Skinnskattebergs station",
+        "name": "ÅVS 4519 Skateparken vid station Skinnskattebergs",
         "secondaryName": null,
         "propertyNumber": "Prästgården 1:61",
         "streetAddress": "Centralvägen 12",
@@ -38919,7 +38919,7 @@
     },
     {
         "id": "988191",
-        "name": "ÅVS 10460 Konsum p-plats",
+        "name": "ÅVS 10460 Konsum p-plats Ramnäs Surahammar",
         "secondaryName": null,
         "propertyNumber": "Ramnäs Kyrkby 1:93",
         "streetAddress": "Hammarvägen 30",
@@ -38930,7 +38930,7 @@
     },
     {
         "id": "988192",
-        "name": "ÅVS 10462 Parkeringen",
+        "name": "ÅVS 10462 Parkeringen Surahammar",
         "secondaryName": null,
         "propertyNumber": "Surahammar 9:720",
         "streetAddress": "Torsgatan/Omvägen",
@@ -38941,7 +38941,7 @@
     },
     {
         "id": "988193",
-        "name": "ÅVS 10464 Skogslundshallen",
+        "name": "ÅVS 10464 Skogslundshallen Surahammar",
         "secondaryName": null,
         "propertyNumber": "Surahammar 9:285",
         "streetAddress": "Borevägen 12",
@@ -38952,7 +38952,7 @@
     },
     {
         "id": "988194",
-        "name": "ÅVS 10465 Kv Mården",
+        "name": "ÅVS 10465 Kv Mården Surahammar",
         "secondaryName": null,
         "propertyNumber": "Surahammar 10:429",
         "streetAddress": "Österängsvägen",
@@ -38963,7 +38963,7 @@
     },
     {
         "id": "988195",
-        "name": "ÅVS 10466 Odonvägen/Musikvägen",
+        "name": "ÅVS 10466 Odonvägen/Musikvägen Surahammar",
         "secondaryName": null,
         "propertyNumber": "Surahammar 10:581",
         "streetAddress": "Musikvägen",
@@ -38974,7 +38974,7 @@
     },
     {
         "id": "988196",
-        "name": "ÅVS 10469 Virsbo/Krönet",
+        "name": "ÅVS 10469 Virsbo/Krönet Virsbo Surahammar",
         "secondaryName": null,
         "propertyNumber": "Virsbo 2:73",
         "streetAddress": "Jägargatan 37",
@@ -38985,7 +38985,7 @@
     },
     {
         "id": "988223",
-        "name": "ÅVS 12472 Virsbo/Dynabacken",
+        "name": "ÅVS 12472 Virsbo/Dynabacken Virsbo Surahammar",
         "secondaryName": null,
         "propertyNumber": "Nordanö 1:2",
         "streetAddress": "Dynavägen",
@@ -38996,7 +38996,7 @@
     },
     {
         "id": "988224",
-        "name": "ÅVS 12473 Virsbo Gammelby",
+        "name": "ÅVS 12473 Virsbo Gammelby Virsbo Surahammar",
         "secondaryName": null,
         "propertyNumber": "Virsbo 3:22",
         "streetAddress": "Färnebovägen",
@@ -39018,7 +39018,7 @@
     },
     {
         "id": "988264",
-        "name": "ÅVS 15828 Ramnäs nya, vid busslingan",
+        "name": "ÅVS 15828 Ramnäs nya, vid busslingan Ramnäs Surahammar",
         "secondaryName": null,
         "propertyNumber": "Ramnäs Kyrkby 1:190",
         "streetAddress": "Sergeantvägen",
@@ -39029,7 +39029,7 @@
     },
     {
         "id": "988284",
-        "name": "ÅVS 17066 Seglingsberg",
+        "name": "ÅVS 17066 Seglingsberg Ramnäs Surahammar",
         "secondaryName": null,
         "propertyNumber": "Ramnäs Bruk 2:11",
         "streetAddress": "Hökebovägen/Seglingsbergs Gård",
@@ -39051,7 +39051,7 @@
     },
     {
         "id": "988285",
-        "name": "ÅVS 17131 Valskog",
+        "name": "ÅVS 17131 Valskog Valskog Kungsör",
         "secondaryName": null,
         "propertyNumber": "Lådberga 1:50",
         "streetAddress": "Västerlånggatan 2",
@@ -39062,7 +39062,7 @@
     },
     {
         "id": "988343",
-        "name": "ÅVS 8575 Kungsringen",
+        "name": "ÅVS 8575 Kungsringen Kungsör",
         "secondaryName": null,
         "propertyNumber": "Kungsör 3:1",
         "streetAddress": "Torsgatan/Kungsringen",
@@ -39073,7 +39073,7 @@
     },
     {
         "id": "988345",
-        "name": "ÅVS 8582 Skillingeaffären",
+        "name": "ÅVS 8582 Skillingeaffären Kungsör",
         "secondaryName": null,
         "propertyNumber": "Skillinge 2:140",
         "streetAddress": "Malmbergsvägen/Ängsvägen",
@@ -39084,7 +39084,7 @@
     },
     {
         "id": "989808",
-        "name": "ÅVS 8583 Kungsringen/Fågelvägen 2 E",
+        "name": "ÅVS 8583 Kungsringen/Fågelvägen 2 E Kungsör",
         "secondaryName": null,
         "propertyNumber": "Kungsör 3:1",
         "streetAddress": "Kungsringen/Fågelvägen 2 E",
@@ -39095,7 +39095,7 @@
     },
     {
         "id": "988232",
-        "name": "ÅVS 1429 Motionscentrum",
+        "name": "ÅVS 1429 Motionscentrum Hallstahammar",
         "secondaryName": null,
         "propertyNumber": "Tuna 1:21",
         "streetAddress": "Gråstensvägen 2",
@@ -39106,7 +39106,7 @@
     },
     {
         "id": "988233",
-        "name": "ÅVS 1435 Surbrunnsvägen",
+        "name": "ÅVS 1435 Surbrunnsvägen Hallstahammar",
         "secondaryName": null,
         "propertyNumber": "Tuna 1:92",
         "streetAddress": "Surbrunnsvägen 1",
@@ -39117,7 +39117,7 @@
     },
     {
         "id": "988234",
-        "name": "ÅVS 1439 Bergsgatan",
+        "name": "ÅVS 1439 Bergsgatan Kolbäck Hallstahammar",
         "secondaryName": null,
         "propertyNumber": "Vänsta 1:102",
         "streetAddress": "Bergsgatan 5",
@@ -39128,7 +39128,7 @@
     },
     {
         "id": "988238",
-        "name": "ÅVS 14906 Usterstavägen",
+        "name": "ÅVS 14906 Usterstavägen Hallstahammar",
         "secondaryName": null,
         "propertyNumber": "Frössvi 4:1",
         "streetAddress": "Usterstavägen",
@@ -39139,7 +39139,7 @@
     },
     {
         "id": "988252",
-        "name": "ÅVS 15328 Djursjukhusvägen",
+        "name": "ÅVS 15328 Djursjukhusvägen Strömsholm Hallstahammar",
         "secondaryName": null,
         "propertyNumber": "Strömsholm 8:1",
         "streetAddress": "Djursjukhusvägen",
@@ -39161,7 +39161,7 @@
     },
     {
         "id": "988281",
-        "name": "ÅVS 16721 P-Plats Idrottsplatsen",
+        "name": "ÅVS 16721 P-Plats Idrottsplatsen Hallstahammar",
         "secondaryName": null,
         "propertyNumber": "Eldsboda 1:250",
         "streetAddress": "Östra Trollebovägen",
@@ -39171,19 +39171,8 @@
         "longitude": 16.2274459269321
     },
     {
-        "id": "988325",
-        "name": "ÅVS 6965 F.d. AMU Center",
-        "secondaryName": null,
-        "propertyNumber": "Nirvana 1",
-        "streetAddress": "Videvägen 3",
-        "municipalityCode": "1961",
-        "extraInfo": null,
-        "latitude": 59.6156716037827,
-        "longitude": 16.2472988797588
-    },
-    {
         "id": "988326",
-        "name": "ÅVS 6968 HFAB's",
+        "name": "ÅVS 6968 HFAB's Hallstahammar",
         "secondaryName": null,
         "propertyNumber": "Växeln 7",
         "streetAddress": "Trädgårdsgatan 8",
@@ -39205,7 +39194,7 @@
     },
     {
         "id": "988354",
-        "name": "ÅVS 9221 Karbenning station",
+        "name": "ÅVS 9221 Karbenning station Karbenning/Norberg",
         "secondaryName": null,
         "propertyNumber": "Bennebo 4:13",
         "streetAddress": "Stationen",
@@ -39216,7 +39205,7 @@
     },
     {
         "id": "988355",
-        "name": "ÅVS 9222 Kärrgruvan Matbutik",
+        "name": "ÅVS 9222 Matbutik Kärrgruvan/Norberg",
         "secondaryName": null,
         "propertyNumber": "Kallmora 2:11",
         "streetAddress": "Hedemoravägen 51",
@@ -39227,7 +39216,7 @@
     },
     {
         "id": "988356",
-        "name": "ÅVS 9223 Malmheden Skallberget IP",
+        "name": "ÅVS 9223 Malmheden Skallberget IP Norberg",
         "secondaryName": null,
         "propertyNumber": "Stutbo 1:23",
         "streetAddress": "Rönningstorpsvägen/Gamla Banan",
@@ -39238,7 +39227,7 @@
     },
     {
         "id": "988358",
-        "name": "ÅVS 9226 Kornettgatan 15-19",
+        "name": "ÅVS 9226 Kornettgatan 15-19 Norberg",
         "secondaryName": null,
         "propertyNumber": "Resedan 2",
         "streetAddress": "Kornettgatan 15 -19",
@@ -39249,7 +39238,7 @@
     },
     {
         "id": "988359",
-        "name": "ÅVS 9227 Ringvägen 8",
+        "name": "ÅVS 9227 Ringvägen 8 Norberg",
         "secondaryName": null,
         "propertyNumber": "Almen 2",
         "streetAddress": "Ringvägen 8",
@@ -39260,7 +39249,7 @@
     },
     {
         "id": "988197",
-        "name": "ÅVS 11419 Coop Stjärnan, Bjurhovda",
+        "name": "ÅVS 11419 Coop Stjärnan, Bjurhovda Västerås",
         "secondaryName": null,
         "propertyNumber": "Forntiden 1",
         "streetAddress": "Bjurhovdagatan 3",
@@ -39271,7 +39260,7 @@
     },
     {
         "id": "988198",
-        "name": "ÅVS 11420 Brandthovda, bussvändplats",
+        "name": "ÅVS 11420 Brandthovda, bussvändplats Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 3:68",
         "streetAddress": "Järnåldersgatan",
@@ -39282,7 +39271,7 @@
     },
     {
         "id": "988199",
-        "name": "ÅVS 11426 Tingslidens IP",
+        "name": "ÅVS 11426 Tingslidens IP Dingtuna Västerås",
         "secondaryName": null,
         "propertyNumber": "Östjädra 1:246",
         "streetAddress": "Häradsvägen",
@@ -39293,7 +39282,7 @@
     },
     {
         "id": "988200",
-        "name": "ÅVS 11432 Haga, ICA Supermarket",
+        "name": "ÅVS 11432 Haga, ICA Supermarket Västerås",
         "secondaryName": null,
         "propertyNumber": "Skyttegillet 1",
         "streetAddress": "Hästhovsgatan",
@@ -39304,7 +39293,7 @@
     },
     {
         "id": "988201",
-        "name": "ÅVS 11437 Hökåsen, Klimatvägen/Åsenlundsvägen",
+        "name": "ÅVS 11437 , Klimatvägen/Åsenlundsvägen Hökåsen Västerås",
         "secondaryName": null,
         "propertyNumber": "Alvesta 3:270",
         "streetAddress": "Klimatvägen/Åsenlundsvägen",
@@ -39315,7 +39304,7 @@
     },
     {
         "id": "988202",
-        "name": "ÅVS 11440 Klockartorpet, Statoilmacken",
+        "name": "ÅVS 11440 , Statoilmacken Klockartorpet Västerås",
         "secondaryName": null,
         "propertyNumber": "Fanjunkaren 4",
         "streetAddress": "Knektgatan",
@@ -39326,7 +39315,7 @@
     },
     {
         "id": "988203",
-        "name": "ÅVS 11442 Kärsta, Fycklinge",
+        "name": "ÅVS 11442 Kärsta, Fycklinge Västerås",
         "secondaryName": null,
         "propertyNumber": "Kärsta 1:30",
         "streetAddress": "Kärstavägen",
@@ -39337,7 +39326,7 @@
     },
     {
         "id": "988204",
-        "name": "ÅVS 11445 Malmaberg, Hemköp",
+        "name": "ÅVS 11445 Malmaberg, Hemköp Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 3:12",
         "streetAddress": "Gunnilbogatan",
@@ -39348,7 +39337,7 @@
     },
     {
         "id": "988205",
-        "name": "ÅVS 11446 Blåsboplan",
+        "name": "ÅVS 11446 Blåsboplan Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 1:16",
         "streetAddress": "Vasagatan, Stora parkeringen",
@@ -39359,7 +39348,7 @@
     },
     {
         "id": "988206",
-        "name": "ÅVS 11450 Skultunabod/Miljöbod Rönnby, Bandygatan",
+        "name": "ÅVS 11450 Skultunabod/Miljöbod Rönnby, Bandygatan Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 4:79",
         "streetAddress": "Bandygatan 60",
@@ -39370,7 +39359,7 @@
     },
     {
         "id": "988207",
-        "name": "ÅVS 11451 Rönnby",
+        "name": "ÅVS 11451 Rönnby Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 4:79",
         "streetAddress": "Löpargatan/Rönnbyvägen",
@@ -39381,7 +39370,7 @@
     },
     {
         "id": "988208",
-        "name": "ÅVS 11452 Rönnby centrum, vändplan",
+        "name": "ÅVS 11452 Rönnby centrum, vändplan Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 4:79",
         "streetAddress": "Kulstötargatan",
@@ -39392,7 +39381,7 @@
     },
     {
         "id": "988209",
-        "name": "ÅVS 11453 Barkarö, Norra Infarten ",
+        "name": "ÅVS 11453 Barkarö, Norra Infarten Västerås",
         "secondaryName": null,
         "propertyNumber": "Barkaröby 15:196",
         "streetAddress": "Barkarö Bygata",
@@ -39403,7 +39392,7 @@
     },
     {
         "id": "988210",
-        "name": "ÅVS 11457 Skälby IP",
+        "name": "ÅVS 11457 Skälby IP Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 2:50",
         "streetAddress": "Skönsbogatan",
@@ -39414,7 +39403,7 @@
     },
     {
         "id": "988212",
-        "name": "ÅVS 11459 Skälby, Vändplan",
+        "name": "ÅVS 11459 Skälby, Vändplan Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 2:50",
         "streetAddress": "Kummelgårdsgatan",
@@ -39425,7 +39414,7 @@
     },
     {
         "id": "988213",
-        "name": "ÅVS 11465 Tortuna, Handeln/Qstar",
+        "name": "ÅVS 11465 Tortuna, Handeln/Qstar Västerås",
         "secondaryName": null,
         "propertyNumber": "Bollsta 1:4",
         "streetAddress": "Johan Törnströms väg",
@@ -39502,7 +39491,7 @@
     },
     {
         "id": "988220",
-        "name": "ÅVS 11480 Containerplats",
+        "name": "ÅVS 11480 Gryta Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 4:46",
         "streetAddress": "Gladiolgatan/Anemonvägen",
@@ -39513,7 +39502,7 @@
     },
     {
         "id": "988222",
-        "name": "ÅVS 11935 Talltorp",
+        "name": "ÅVS 11935 Talltorp Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 3:59",
         "streetAddress": "Talltorpsgatan",
@@ -39524,7 +39513,7 @@
     },
     {
         "id": "988236",
-        "name": "ÅVS 14551 Sigfrid Edströms gata 6",
+        "name": "ÅVS 14551 Sigfrid Edströms gata 6 Västerås",
         "secondaryName": null,
         "propertyNumber": "Lugnet 1",
         "streetAddress": "Sigfrid Edströms gata 26 -36",
@@ -39535,7 +39524,7 @@
     },
     {
         "id": "988237",
-        "name": "ÅVS 14741 ICA Supermarket Grytan ",
+        "name": "ÅVS 14741 ICA Supermarket Grytan Västerås",
         "secondaryName": null,
         "propertyNumber": "Idet 1",
         "streetAddress": "Norrleden/Grytavägen 1",
@@ -39546,7 +39535,7 @@
     },
     {
         "id": "988253",
-        "name": "ÅVS 15329 Hälla shopping parkeringen",
+        "name": "ÅVS 15329 Hälla shopping parkeringen Västerås",
         "secondaryName": null,
         "propertyNumber": "Köpmannen 6",
         "streetAddress": "Stockholmsvägen",
@@ -39557,7 +39546,7 @@
     },
     {
         "id": "988254",
-        "name": "ÅVS 15334 Asarnas väg",
+        "name": "ÅVS 15334 Asarnas väg Irsta Västerås ",
         "secondaryName": null,
         "propertyNumber": "Ullvi 3:640",
         "streetAddress": "Asarnas väg",
@@ -39568,9 +39557,9 @@
     },
     {
         "id": "988265",
-        "name": "ÅVS 15875 IKEA Erikslund",
+        "name": "ÅVS 15875 IKEA Erikslund Västerås",
         "secondaryName": null,
-        "propertyNumber": "Domkraften S:1",
+        "propertyNumber": "Domkraften S:1 S:1",
         "streetAddress": "Domkraftsgatan 2",
         "municipalityCode": "1980",
         "extraInfo": null,
@@ -39579,7 +39568,7 @@
     },
     {
         "id": "988267",
-        "name": "ÅVS 16011 Munga",
+        "name": "ÅVS 16011 Munga Västerås",
         "secondaryName": null,
         "propertyNumber": "Sjöbo 2:1",
         "streetAddress": "Sjöbovägen/Glimmervägen",
@@ -39590,7 +39579,7 @@
     },
     {
         "id": "988275",
-        "name": "ÅVS 16440 Tillberga",
+        "name": "ÅVS 16440 Tillberga Västerås",
         "secondaryName": null,
         "propertyNumber": "Hubbo-Sörby 2:14",
         "streetAddress": "Kvarnbacksvägen 2",
@@ -39601,7 +39590,7 @@
     },
     {
         "id": "988280",
-        "name": "ÅVS 16649 Stallhagen, Järnvägen",
+        "name": "ÅVS 16649 Stallhagen, Järnvägen Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 2:70",
         "streetAddress": "Nedre Hyttvägen",
@@ -39612,7 +39601,7 @@
     },
     {
         "id": "988282",
-        "name": "ÅVS 16884 ICA Supermarket Skultuna",
+        "name": "ÅVS 16884 ICA Supermarket Skultuna Västerås",
         "secondaryName": null,
         "propertyNumber": "Kvarnbacka 3:84",
         "streetAddress": "Krongjutarvägen",
@@ -39623,7 +39612,7 @@
     },
     {
         "id": "988287",
-        "name": "ÅVS 17340 Ymergatan/Sveaborgsvägen",
+        "name": "ÅVS 17340 Ymergatan/Sveaborgsvägen Irsta Västerås",
         "secondaryName": null,
         "propertyNumber": "Ullvi 3:640",
         "streetAddress": "Ymergatan 1",
@@ -39634,7 +39623,7 @@
     },
     {
         "id": "988361",
-        "name": "ÅVS 99070 Vattentornet",
+        "name": "ÅVS 99070 Vattentornet Västerås",
         "secondaryName": null,
         "propertyNumber": "Västerås 4:91",
         "streetAddress": "Nansengatan",
@@ -39722,7 +39711,7 @@
     },
     {
         "id": "988225",
-        "name": "ÅVS 12516 Åkrahallen",
+        "name": "ÅVS 12516 Åkrahallen Sala",
         "secondaryName": null,
         "propertyNumber": "Gnejsen 1",
         "streetAddress": "Berggatan 13",
@@ -39733,7 +39722,7 @@
     },
     {
         "id": "988226",
-        "name": "ÅVS 12517 Nordstedtsgatan",
+        "name": "ÅVS 12517 Nordstedtsgatan Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:4",
         "streetAddress": "Nordstedtsgatan",
@@ -39744,7 +39733,7 @@
     },
     {
         "id": "988227",
-        "name": "ÅVS 12518 Persdalsgatan",
+        "name": "ÅVS 12518 Persdalsgatan Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:1",
         "streetAddress": "Persdalsgatan",
@@ -39755,7 +39744,7 @@
     },
     {
         "id": "988228",
-        "name": "ÅVS 12519 Norrberg",
+        "name": "ÅVS 12519 Norrberg Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:8",
         "streetAddress": "Långgatan",
@@ -39766,7 +39755,7 @@
     },
     {
         "id": "988240",
-        "name": "ÅVS 15060 Broddbo Södra",
+        "name": "ÅVS 15060 Broddbo Södra Sala",
         "secondaryName": null,
         "propertyNumber": "Broddbo 6:1",
         "streetAddress": "Broddbovägen",
@@ -39777,7 +39766,7 @@
     },
     {
         "id": "988241",
-        "name": "ÅVS 15061 Broddbo Norra",
+        "name": "ÅVS 15061 Broddbo Norra Sala",
         "secondaryName": null,
         "propertyNumber": "Stadsskogen 2:1",
         "streetAddress": "Roslingvägen",
@@ -39788,7 +39777,7 @@
     },
     {
         "id": "988242",
-        "name": "ÅVS 15067 Hebovägen",
+        "name": "ÅVS 15067 Hebovägen Ransta",
         "secondaryName": null,
         "propertyNumber": "Kärrbäcksbo 1:28",
         "streetAddress": "Hebovägen",
@@ -39799,7 +39788,7 @@
     },
     {
         "id": "988243",
-        "name": "ÅVS 15074 Loftvägen",
+        "name": "ÅVS 15074 Loftvägen Sala",
         "secondaryName": null,
         "propertyNumber": "Silvergruvan 1:1",
         "streetAddress": "Loftvägen",
@@ -39810,7 +39799,7 @@
     },
     {
         "id": "988244",
-        "name": "ÅVS 15075 Hagaberg S",
+        "name": "ÅVS 15075 Hagaberg S Sala",
         "secondaryName": null,
         "propertyNumber": "Silvergruvan 1:12",
         "streetAddress": "Bronäsgatan",
@@ -39821,7 +39810,7 @@
     },
     {
         "id": "988245",
-        "name": "ÅVS 15076 Skuggan 3",
+        "name": "ÅVS 15076 Skuggan 3 Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:1",
         "streetAddress": "Banelundsgatan",
@@ -39832,7 +39821,7 @@
     },
     {
         "id": "988246",
-        "name": "ÅVS 15078 Ransta, Österby",
+        "name": "ÅVS 15078 Ransta, Österby Ransta",
         "secondaryName": null,
         "propertyNumber": "Kumla-Västerby 2:124",
         "streetAddress": "Stationsvägen",
@@ -39843,7 +39832,7 @@
     },
     {
         "id": "988247",
-        "name": "ÅVS 15079 Ransta, Västerby",
+        "name": "ÅVS 15079 Ransta, Västerby Sala",
         "secondaryName": null,
         "propertyNumber": "Kumla-Västerby 2:81",
         "streetAddress": "Västerbyvägen",
@@ -39854,7 +39843,7 @@
     },
     {
         "id": "988248",
-        "name": "ÅVS 15080 Ransta By",
+        "name": "ÅVS 15080 Ransta By Ransta",
         "secondaryName": null,
         "propertyNumber": "Ransta 2:29",
         "streetAddress": "Ransta By",
@@ -39865,7 +39854,7 @@
     },
     {
         "id": "988249",
-        "name": "ÅVS 15081 Möklinta Norra",
+        "name": "ÅVS 15081 Möklinta Norra Möklinta",
         "secondaryName": null,
         "propertyNumber": "Möklinta Klockargård 1:1",
         "streetAddress": "Sportvägen",
@@ -39876,7 +39865,7 @@
     },
     {
         "id": "988286",
-        "name": "ÅVS 17302 Vintergatan/Ängshagen",
+        "name": "ÅVS 17302 Vintergatan/Ängshagen Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:14",
         "streetAddress": "Vintergatan",
@@ -39887,7 +39876,7 @@
     },
     {
         "id": "988289",
-        "name": "ÅVS 4309 Emmylundsgatan",
+        "name": "ÅVS 4309 Emmylundsgatan Sala",
         "secondaryName": null,
         "propertyNumber": "Verdandi 20",
         "streetAddress": "Emmylundsgatan",
@@ -39898,7 +39887,7 @@
     },
     {
         "id": "988290",
-        "name": "ÅVS 4311 Hedåker, Jordbrovägen (bredvid omstart)",
+        "name": "ÅVS 4311 Hedåker, Jordbrovägen (bredvid omstart) Västerfärnebo Hedåker",
         "secondaryName": null,
         "propertyNumber": "Hedåker 1:74",
         "streetAddress": "Hedåker, Jordbrovägen",
@@ -39909,7 +39898,7 @@
     },
     {
         "id": "988291",
-        "name": "ÅVS 4313 Kila, pumpstation vattenverket",
+        "name": "ÅVS 4313 Kila, pumpstation vattenverket Sala",
         "secondaryName": null,
         "propertyNumber": "Tullsta 3:9",
         "streetAddress": "Lindgårdsvägen",
@@ -39920,7 +39909,7 @@
     },
     {
         "id": "988292",
-        "name": "ÅVS 4314 Kumla Kyrkby, Bivägen",
+        "name": "ÅVS 4314 Kumla Kyrkby, Bivägen Sala",
         "secondaryName": null,
         "propertyNumber": "Åsgården 1:1",
         "streetAddress": "Bivägen",
@@ -39931,7 +39920,7 @@
     },
     {
         "id": "988293",
-        "name": "ÅVS 4315 Kungsängen, Östra Tulegatan",
+        "name": "ÅVS 4315 Kungsängen, Östra Tulegatan Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:13",
         "streetAddress": "Östra Tulegatan",
@@ -39942,7 +39931,7 @@
     },
     {
         "id": "988294",
-        "name": "ÅVS 4316 Möklinta, Bygdegården",
+        "name": "ÅVS 4316 Möklinta, Bygdegården Möklinta",
         "secondaryName": null,
         "propertyNumber": "Möklinta-Skräddarbo 1:20",
         "streetAddress": "Bygdegårdsvägen/Galoppvägen",
@@ -39953,7 +39942,7 @@
     },
     {
         "id": "988295",
-        "name": "ÅVS 4317 Ransta, Affären/Tempo",
+        "name": "ÅVS 4317 Ransta, Affären/Tempo Ransta",
         "secondaryName": null,
         "propertyNumber": "Kumla-Västerby 8:5",
         "streetAddress": "Kärrbäcksbovägen 2",
@@ -39964,7 +39953,7 @@
     },
     {
         "id": "988296",
-        "name": "ÅVS 4318 Rosshyttan, fd affären",
+        "name": "ÅVS 4318 , fd affären Rosshyttan Västerfärnebo",
         "secondaryName": null,
         "propertyNumber": "Rosshyttan 1:95",
         "streetAddress": "Rosshyttan, fd affären",
@@ -39975,7 +39964,7 @@
     },
     {
         "id": "988297",
-        "name": "ÅVS 4319 Almgatan",
+        "name": "ÅVS 4319 Almgatan Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:63",
         "streetAddress": "Aspgatan/Almgatan",
@@ -39986,7 +39975,7 @@
     },
     {
         "id": "988298",
-        "name": "ÅVS 4321 Busstorget",
+        "name": "ÅVS 4321 Busstorget Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:5",
         "streetAddress": "Silosgatan",
@@ -39997,7 +39986,7 @@
     },
     {
         "id": "988299",
-        "name": "ÅVS 4322 Skuggan 2",
+        "name": "ÅVS 4322 Skuggan 2 Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:1",
         "streetAddress": "Floragatan 1",
@@ -40008,7 +39997,7 @@
     },
     {
         "id": "988300",
-        "name": "ÅVS 4323 P-plats Posten",
+        "name": "ÅVS 4323 P-plats Posten Sala",
         "secondaryName": null,
         "propertyNumber": "Färgaren 8",
         "streetAddress": "Gillegatan",
@@ -40019,7 +40008,7 @@
     },
     {
         "id": "988301",
-        "name": "ÅVS 4324 Turbo",
+        "name": "ÅVS 4324 Turbo Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:15",
         "streetAddress": "Gruvvägen",
@@ -40030,7 +40019,7 @@
     },
     {
         "id": "988302",
-        "name": "ÅVS 4326 Hagaberg N",
+        "name": "ÅVS 4326 Hagaberg N Sala",
         "secondaryName": null,
         "propertyNumber": "Silvergruvan 1:1",
         "streetAddress": "Nybergsgatan",
@@ -40041,7 +40030,7 @@
     },
     {
         "id": "988303",
-        "name": "ÅVS 4327 Mamrekiosken",
+        "name": "ÅVS 4327 Mamrekiosken Sala",
         "secondaryName": null,
         "propertyNumber": "Teglet 5",
         "streetAddress": "Hyttvägen",
@@ -40052,7 +40041,7 @@
     },
     {
         "id": "988304",
-        "name": "ÅVS 4328 Coop Extra",
+        "name": "ÅVS 4328 Coop Extra Sala",
         "secondaryName": null,
         "propertyNumber": "Tränaren 11",
         "streetAddress": "Bergslagsgatan/Kungsgatan",
@@ -40063,7 +40052,7 @@
     },
     {
         "id": "988305",
-        "name": "ÅVS 4329 Måns-Olsvägen",
+        "name": "ÅVS 4329 Måns-Olsvägen Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:2",
         "streetAddress": "Måns-Olsvägen",
@@ -40074,7 +40063,7 @@
     },
     {
         "id": "988306",
-        "name": "ÅVS 4330 SJ Park",
+        "name": "ÅVS 4330 SJ Park Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:5",
         "streetAddress": "Silogatan",
@@ -40085,7 +40074,7 @@
     },
     {
         "id": "988307",
-        "name": "ÅVS 4331 Skuggan 1",
+        "name": "ÅVS 4331 Skuggan 1 Sala",
         "secondaryName": null,
         "propertyNumber": "Kristina 4:1",
         "streetAddress": "Skugganvägen",
@@ -40096,7 +40085,7 @@
     },
     {
         "id": "988308",
-        "name": "ÅVS 4332 Stampersvägen/Kil-Maris väg",
+        "name": "ÅVS 4332 Stampersvägen/Kil-Maris väg Sala",
         "secondaryName": null,
         "propertyNumber": "Silvergruvan 1:455",
         "streetAddress": "Stampersvägen",
@@ -40107,7 +40096,7 @@
     },
     {
         "id": "988309",
-        "name": "ÅVS 4335 Saladamm, SJ lastkaj",
+        "name": "ÅVS 4335 Saladamm, SJ lastkaj Saladamm",
         "secondaryName": null,
         "propertyNumber": "Åby 3:40",
         "streetAddress": "Åbyvägen",
@@ -40118,7 +40107,7 @@
     },
     {
         "id": "988310",
-        "name": "ÅVS 4336 Salbohed, affären",
+        "name": "ÅVS 4336 Salbohed, affären Salbohed",
         "secondaryName": null,
         "propertyNumber": "Sörsalbo 4:5",
         "streetAddress": "Kopparbergsvägen/Salbohed, affären",
@@ -40129,7 +40118,7 @@
     },
     {
         "id": "988311",
-        "name": "ÅVS 4337 Sätrabrunn, Kvarnbacken",
+        "name": "ÅVS 4337 Sätrabrunn, Kvarnbacken Sätra brunn",
         "secondaryName": null,
         "propertyNumber": "Sätra 1:69",
         "streetAddress": "Sätrabrunn, Kvarnbacken",
@@ -40140,7 +40129,7 @@
     },
     {
         "id": "988312",
-        "name": "ÅVS 4340 Västerfärnebo, Björkgården",
+        "name": "ÅVS 4340 Västerfärnebo, Björkgården Västerfärnebo",
         "secondaryName": null,
         "propertyNumber": "Islingby 14:1",
         "streetAddress": "Björkgården Västerfärnebo Norbergsvägen 13",
@@ -40162,7 +40151,7 @@
     },
     {
         "id": "988337",
-        "name": "ÅVS 751 ICA Centrum, p-plats",
+        "name": "ÅVS 751 ICA Centrum, p-plats Fagersta",
         "secondaryName": null,
         "propertyNumber": "Värmaren 6",
         "streetAddress": "Järntorget 1",
@@ -40173,7 +40162,7 @@
     },
     {
         "id": "988338",
-        "name": "ÅVS 752 P-plats Coop Extra",
+        "name": "ÅVS 752 P-plats Coop Extra Fagersta",
         "secondaryName": null,
         "propertyNumber": "Fagersta 3:52",
         "streetAddress": "Stationsvägen 18",
@@ -40184,7 +40173,7 @@
     },
     {
         "id": "988339",
-        "name": "ÅVS 754 P-plats Coop Nära",
+        "name": "ÅVS 754 P-plats Coop Nära Fagersta",
         "secondaryName": null,
         "propertyNumber": "Daggkåpan 2",
         "streetAddress": "Norrbyvägen 11",
@@ -40195,7 +40184,7 @@
     },
     {
         "id": "988340",
-        "name": "ÅVS 755 Oti Krog, Statoil",
+        "name": "ÅVS 755 Oti Krog, Statoil Fagersta",
         "secondaryName": null,
         "propertyNumber": "Hedkärra 12:117",
         "streetAddress": "Oti Vägskäl 1",
@@ -40206,7 +40195,7 @@
     },
     {
         "id": "988341",
-        "name": "ÅVS 756 Metropol",
+        "name": "ÅVS 756 Metropol Fagersta",
         "secondaryName": null,
         "propertyNumber": "Gladan 2",
         "streetAddress": "Stövargränd 2",
@@ -40217,7 +40206,7 @@
     },
     {
         "id": "988342",
-        "name": "ÅVS 759 Paby's verkstad",
+        "name": "ÅVS 759 Paby's verkstad Ängelsberg Fagersta",
         "secondaryName": null,
         "propertyNumber": "Ängelsberg 1:21",
         "streetAddress": "Gamla Banan 1",
@@ -40228,7 +40217,7 @@
     },
     {
         "id": "991712",
-        "name": "ÅVS 760 Sjövägen/Sloghagsvägen Simbadet",
+        "name": "ÅVS 760 Sjövägen/Sloghagsvägen Simbadet Fagersta",
         "secondaryName": null,
         "propertyNumber": "Fagersta Västanfors 11:74",
         "streetAddress": "Sjövägen/Sloghagsvägen",
@@ -40239,7 +40228,7 @@
     },
     {
         "id": "988221",
-        "name": "ÅVS 11918 Kolsva, P-plats",
+        "name": "ÅVS 11918 , P-plats Kolsva Köping",
         "secondaryName": null,
         "propertyNumber": "Bergtorpet 17:1",
         "streetAddress": "Odensvivägen",
@@ -40272,7 +40261,7 @@
     },
     {
         "id": "988347",
-        "name": "ÅVS 8603 P-plats Folkets Park",
+        "name": "ÅVS 8603 P-plats Folkets Park Köping",
         "secondaryName": null,
         "propertyNumber": "Östanås 1:1",
         "streetAddress": "Östanåsgatan",
@@ -40283,7 +40272,7 @@
     },
     {
         "id": "988348",
-        "name": "ÅVS 8607 P-plats Big Inn",
+        "name": "ÅVS 8607 P-plats Big Inn Köping",
         "secondaryName": null,
         "propertyNumber": "Försäljaren 2",
         "streetAddress": "Ringvägen",
@@ -40294,7 +40283,7 @@
     },
     {
         "id": "988349",
-        "name": "ÅVS 8610 Mälartorget",
+        "name": "ÅVS 8610 Mälartorget Köping",
         "secondaryName": null,
         "propertyNumber": "Kungsängen 2:72",
         "streetAddress": "Kungsängen",
@@ -40305,7 +40294,7 @@
     },
     {
         "id": "988351",
-        "name": "ÅVS 8613 Odensvigården",
+        "name": "ÅVS 8613 Odensvigården Köping",
         "secondaryName": null,
         "propertyNumber": "Odensvi Prästgård 3:5",
         "streetAddress": "Odensvi",
@@ -40316,7 +40305,7 @@
     },
     {
         "id": "988352",
-        "name": "ÅVS 8616 Tunadalsparkeringen",
+        "name": "ÅVS 8616 Tunadalsparkeringen Köping",
         "secondaryName": null,
         "propertyNumber": "Innerstaden 1:1",
         "streetAddress": "Tunadalsgatan",
@@ -40327,7 +40316,7 @@
     },
     {
         "id": "988353",
-        "name": "ÅVS 8618 Zigenarbacken IP",
+        "name": "ÅVS 8618 Zigenarbacken IP Köping",
         "secondaryName": null,
         "propertyNumber": "Östanås 1:1",
         "streetAddress": "Västeråsvägen",
@@ -40338,7 +40327,7 @@
     },
     {
         "id": "988360",
-        "name": "ÅVS 99007 Elundskolan",
+        "name": "ÅVS 99007 Elundskolan Köping",
         "secondaryName": null,
         "propertyNumber": "Östanås 1:2",
         "streetAddress": "Fridnäsvägen",
@@ -40349,7 +40338,7 @@
     },
     {
         "id": "988362",
-        "name": "ÅVS 99084 Byjorden, p-plats",
+        "name": "ÅVS 99084 Byjorden, p-plats Köping",
         "secondaryName": null,
         "propertyNumber": "Alf 18",
         "streetAddress": "Scheelegatan",
@@ -40360,7 +40349,7 @@
     },
     {
         "id": "988363",
-        "name": "ÅVS 99086 Fylgiaplatsen",
+        "name": "ÅVS 99086 Fylgiaplatsen Köping",
         "secondaryName": null,
         "propertyNumber": "Innerstaden 1:38",
         "streetAddress": "Västra Långgatan",
@@ -40371,7 +40360,7 @@
     },
     {
         "id": "988327",
-        "name": "ÅVS 7026 Stiwemas P-plats",
+        "name": "ÅVS 7026 Stiwemas P-plats Arboga",
         "secondaryName": null,
         "propertyNumber": "Prästgärdet 2:1",
         "streetAddress": "Stationsgatan 1",
@@ -40393,7 +40382,7 @@
     },
     {
         "id": "988329",
-        "name": "ÅVS 7028 Vilstahallen p-plats",
+        "name": "ÅVS 7028 Vilstahallen p-plats Arboga",
         "secondaryName": null,
         "propertyNumber": "Nästkvarn 2:1",
         "streetAddress": "Jädersvägen",
@@ -40404,7 +40393,7 @@
     },
     {
         "id": "988330",
-        "name": "ÅVS 7029 Hällbacksvägen p-plats",
+        "name": "ÅVS 7029 Hällbacksvägen p-plats Arboga",
         "secondaryName": null,
         "propertyNumber": "Strömsnäs 1:1",
         "streetAddress": "Hällbacksvägen",
@@ -40415,7 +40404,7 @@
     },
     {
         "id": "988331",
-        "name": "ÅVS 7030 Medborgarhuset",
+        "name": "ÅVS 7030 Medborgarhuset Arboga",
         "secondaryName": null,
         "propertyNumber": "Sturestaden 3:1",
         "streetAddress": "Gråmunkegränd",
@@ -40426,7 +40415,7 @@
     },
     {
         "id": "988332",
-        "name": "ÅVS 7031 ICA Asplunds Livs, p-plats",
+        "name": "ÅVS 7031 ICA Asplunds Livs, p-plats Arboga",
         "secondaryName": null,
         "propertyNumber": "Strömsnäs 1:1",
         "streetAddress": "Västermovägen 18",
@@ -40437,7 +40426,7 @@
     },
     {
         "id": "988333",
-        "name": "ÅVS 7033 Lungers handel",
+        "name": "ÅVS 7033 Lungers handel Arboga",
         "secondaryName": null,
         "propertyNumber": "Lunger 2:124",
         "streetAddress": "Norra Lunger",
@@ -40448,7 +40437,7 @@
     },
     {
         "id": "988334",
-        "name": "ÅVS 7034 Tegelvretsvägen",
+        "name": "ÅVS 7034 Tegelvretsvägen Arboga",
         "secondaryName": null,
         "propertyNumber": "Norra Skogen 1:36",
         "streetAddress": "Tegelvretsvägen",
@@ -40459,7 +40448,7 @@
     },
     {
         "id": "988335",
-        "name": "ÅVS 7036 Fårtallen, invid g:a E18",
+        "name": "ÅVS 7036 Fårtallen, invid g:a E18 Götlunda Arboga",
         "secondaryName": null,
         "propertyNumber": "Holmsätter 1:29",
         "streetAddress": "Kyrkvägen",
@@ -40470,7 +40459,7 @@
     },
     {
         "id": "988336",
-        "name": "ÅVS 7037 P-plats Hembygdsgård",
+        "name": "ÅVS 7037 P-plats Hembygdsgård Medåker Arboga",
         "secondaryName": null,
         "propertyNumber": "Tåby 1:12",
         "streetAddress": "Tåbyvägen",
@@ -45541,10 +45530,10 @@
     },
     {
         "id": "4430018",
-        "name": "Bredbyn, Fannbyvägen",
+        "name": "Fannbyvägen  ",
         "secondaryName": null,
         "propertyNumber": "BREDBYN 20:29",
-        "streetAddress": "Fannbyvägen ",
+        "streetAddress": "Fannbyvägen   ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.4497265184729,
@@ -45662,10 +45651,10 @@
     },
     {
         "id": "4430033",
-        "name": "Överhörnäs, Granitvägen",
+        "name": "Granitvägen  ",
         "secondaryName": null,
         "propertyNumber": "ÖVERHÖRNÄS 2:8",
-        "streetAddress": "Granitvägen ",
+        "streetAddress": "Granitvägen   ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.2879440348527,
@@ -45739,10 +45728,10 @@
     },
     {
         "id": "4430040",
-        "name": "Hörnett, Bredvid ST1",
+        "name": "Hörneborgsvägen  ",
         "secondaryName": null,
         "propertyNumber": "HÖRNETT 47:1",
-        "streetAddress": "Hörneborgsvägen",
+        "streetAddress": "Hörneborgsvägen   ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.272287353438,
@@ -47089,6 +47078,28 @@
         "extraInfo": null,
         "latitude": 63.77770319789,
         "longitude": 16.3968845257117
+    },
+    {
+        "id": "115225",
+        "name": "CUS Skalbäcksstugan",
+        "secondaryName": null,
+        "propertyNumber": "KÄRRNÄSET S:1",
+        "streetAddress": "Kärrnäset 285",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.9544481784796,
+        "longitude": 15.2177108003249
+    },
+    {
+        "id": "115237",
+        "name": "CUS Grenås",
+        "secondaryName": null,
+        "propertyNumber": ".",
+        "streetAddress": "Grenås 305",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.6197694827843,
+        "longitude": 15.4214211498881
     },
     {
         "id": "11605",

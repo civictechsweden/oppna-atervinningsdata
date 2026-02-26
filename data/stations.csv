@@ -229,7 +229,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 2061568,ÅVS 15342 Vid parkering,,VENDELSÖ 3:2132,Vendelsö skolväg 9,0136,,59.198869809345,18.1928175306893
 2096521,ÅVS 16752 Mittemot Ringvägen 100,,ÅBY 1:27,Ringvägen,0136,,59.1281332453425,18.1091778936697
 2115831,ÅVS 17215 Ornö,,SUNDBY 7:1,Ornövägen/breviksvägen,0136,,59.0761032284247,18.3938254118931
-2147037,ÅVS 17489 Parkeringen,,TÄCKERÅKER 1:192,Gaffelseglet 41,0136,,59.1865344593594,18.1399493325927
+2147037,ÅVS 17489 Parkeringen,,TÄCKERÅKER 1:192,Gaffelseglet 41,0136,,59.1812011900487,18.1360277535908
 6338,ÅVS 15565 ÅVC Jordbro,,HANINGE ÅBY 1:219,Rörvägen 23,0136,,59.1443590880088,18.1078518202611
 94957,ÅVS 7924 Dubbelstation,,DALARÖ 7:1,Dalarö kanalbro,0136,,59.1378077677842,18.4163418243812
 95666,ÅVS 7925  Vid Affären,,GUDÖ 3:296,Tutviksvägen / gudöbroleden vendelsö,0136,,59.2103676899808,18.209454778142
@@ -572,7 +572,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585375,Återvinningsstation 12839,,TIMGLASET 2,Bärbogränd 2 ,0180,,59.2713010621915,18.0426107871625
 585376,Återvinningsstation 10244,,BALUNGEN 3,Siljansvägen 75  ,0180,,59.2993313363711,18.0413727872214
 585377,Återvinningsstation 12827,,VEGA 3,Kungstensgatan 47 ,0180,,59.3405182478222,18.0543102445112
-585378,Återvinningsstation 10248,,ENSKEDE GÅRD 1:1,Gullmarsvägen 7 ,0180,,59.2985644358023,18.0782012360229
+585378,Återvinningsstation 10248,,ENSKEDE GÅRD 1:1,Gullmarsvägen 7,0180,,59.2985644358023,18.0782012360229
 585379,Återvinningsstation 10251,,NIPPERSKRINET 9,Älvsjövägen 90 ,0180,,59.2848556444964,17.9928722182846
 585380,Återvinningsstation 16588,,SOLHEM 16:1,Dagsverksvägen 244 ,0180,,59.3778157621835,17.9067271283392
 585381,Återvinningsstation 10254,,SAXOFONISTEN 1,Svartlösavägen 240 ,0180,,59.2657119715281,17.9769565761871
@@ -837,15 +837,15 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 99180,"Ängby Park, Vändplan vid Folkets Park",,,Gredelbyleden/Apelsinvägen 75,0330,,59.72448425513508,17.775912535773845
 988259,ÅVS 15580 Återbruket Heby,,Horrsta 4:36,Industrivägen 11,0331,,59.9349067105254,16.8601026688346
 988260,ÅVS 15581 Återbruket Östervåla,,Östervåla Prästgård 1:35,Zetterbergs väg 2,0331,,60.1746107417052,17.1826132023379
-988268,ÅVS 16056 Ol-Jansvägen,,Hov 4:1,Ol-Jansvägen,0331,,60.1842343606454,17.1684439923673
-988271,ÅVS 1640 Forsbovägen,,Forsbo 1:66,Forsbovägen,0331,,60.1067592628512,17.1973219552414
-988272,ÅVS 1641 Bangatan-Brogatan P-plats,,Heby 3:20,Bangatan-Brogatan,0331,,59.9391953917309,16.8643933035279
-988273,ÅVS 1642 Stationsvägen,,Västerlövsta Prästgård 1:13,Stationsvägen,0331,,59.940427255069,16.8490297336153
-988274,ÅVS 1644 Affären Lunda Handel,,Huddungeby 1:14,Affären Lunda Handel,0331,,60.049649393438,16.98315999421
-988276,ÅVS 1645 Brunkullsvägen,,Stora Ramsjö 2:3,Brunkullsvägen,0331,,59.9327716345871,16.9661237565963
-988277,ÅVS 1646 Runhällen f.d. Järnvägsområdet,,Österbo 1:22,F.d. Järnvägsområdet,0331,,60.0257513493815,16.8223701903956
-988278,ÅVS 1647 Stationsgatan 29,,Nora Prästgård 2:216,Stationsgatan 29,0331,,60.1577524440898,16.9293620291149
-988279,ÅVS 1648 Ösbyvägen,,Ösby 1:31,Ösbyvägen,0331,,59.902821921396,17.0625655412049
+988268,ÅVS 16056 Ol-Jansvägen Östervåla Heby,,Hov 4:1,Ol-Jansvägen,0331,,60.1842343606454,17.1684439923673
+988271,ÅVS 1640 Forsbovägen Harbo Heby,,Forsbo 1:66,Forsbovägen,0331,,60.1067592628512,17.1973219552414
+988272,ÅVS 1641 Bangatan-Brogatan P-plats Heby,,Heby 3:20,Bangatan-Brogatan,0331,,59.9391953917309,16.8643933035279
+988273,ÅVS 1642 Stationsvägen Heby,,Västerlövsta Prästgård 1:13,Stationsvägen,0331,,59.940427255069,16.8490297336153
+988274,ÅVS 1644 Affären Lunda Handel Huddungeby Heby,,Huddungeby 1:14,Affären Lunda Handel,0331,,60.049649393438,16.98315999421
+988276,ÅVS 1645 Brunkullsvägen Morgongåva Heby,,Stora Ramsjö 2:3,Brunkullsvägen,0331,,59.9327716345871,16.9661237565963
+988277,ÅVS 1646 f.d. Järnvägsområdet Runhällen Heby,,Österbo 1:22,F.d. Järnvägsområdet,0331,,60.0257513493815,16.8223701903956
+988278,ÅVS 1647 Stationsgatan 29 Tärnsjö Heby,,Nora Prästgård 2:216,Stationsgatan 29,0331,,60.1577524440898,16.9293620291149
+988279,ÅVS 1648 Ösbyvägen Vittinge Heby,,Ösby 1:31,Ösbyvägen,0331,,59.902821921396,17.0625655412049
 9000826,ÅVS Edvalla,,,Edvalla iskällarvägen 1,0360,Öppet dygnet runt,60.53495,17.87936
 9000827,ÅVS Lidl Tierp,,,Gävlevägen 36,0360,Öppet dygnet runt,60.34295,17.50952
 9000828,ÅVS Gammelgården Tierp,,,Parkgatan 8,0360,Öppet dygnet runt,60.34919,17.5107
@@ -887,19 +887,19 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 4061398,Luthagen Fyrisskolan,,LUTHAGEN 1:4,NÄRA GÖTGATAN 23,0380,,59.8663088640725,17.6227919296258
 4061399,Boländerna Stadium,,FYRISLUND S:1,NÄRA RAPSGATAN 5D,0380,,59.849700198192,17.6931231508828
 4061400,Vilan Ica Sävja,,NÅNTUNA 5:45,NÄRA VILANVÄGEN 2,0380,,59.8207417309838,17.6965105986769
-988229,ÅVS 13325 Värmeverket,,Galgvreten 2:35,Fabriksgatan 6,0381,,59.6459478816946,17.0725473256982
-988235,ÅVS 14457 Verkmästaregatan,,Romberga 3:2,Verkmästaregatan 5,0381,,59.6501980080408,17.0694512401893
-988239,ÅVS 14950 Haga Slott,,Haga 9:6,Tessin D Ä Allé 36,0381,,59.6027259982825,17.0505181812822
+988229,ÅVS 13325 Värmeverket Enköping,,Galgvreten 2:35,Fabriksgatan 6,0381,,59.6459478816946,17.0725473256982
+988235,ÅVS 14457 Verkmästaregatan Enköping,,Romberga 3:2,Verkmästaregatan 5,0381,,59.6501980080408,17.0694512401893
+988239,ÅVS 14950 Haga Slott Enköping,,Haga 9:6,Tessin D Ä Allé 36,0381,,59.6027259982825,17.0505181812822
 988256,ÅVS 15451 Återbruket Enköping,,Kryddgården 9:1,Kaptensgatan 21,0381,,59.6285413990431,17.0803099471806
-988266,ÅVS 15931 Lantmännen,,Mällersta 3:1,Stora vägen 20,0381,,59.7770177503902,16.9272418630215
-988283,"ÅVS 16978 Haga Slott, Hållplats Haga vändslinga",,Haga 9:6,Natt Och Dags Allé 53,0381,,59.6046943566941,17.0517807814471
-988318,"ÅVS 652 P-plats, f.d.  Fanna-kiosken",,Fanna 15:13,Fannagatan 23,0381,,59.6397908549943,17.1012787302248
-988319,ÅVS 653 Bangatan/Brunnsgatan,,Grillby 80:3,Bangatan 19,0381,,59.625987793132,17.2529057525356
-988320,ÅVS 655 Lastbilsparkeringen (f.d. Hummelsta Livs),,Tillinge-Hummelsta 1:61,Åsundavägen 7,0381,,59.6272099279133,16.9481911923953
-988321,ÅVS 17738 Torggatan/Långgatan,,Kryddgården 6:3,Långgatan,0381,,59.6384717862856,17.0718261182514
-988322,"ÅVS 665 Närbutiken, Lillkyrka",,Hässlinge 1:27,Prästvägen 2,0381,,59.560543231156,17.2464189484213
-988324,"ÅVS 667 Örsundsbro, bakom ICA",,Örsundsbro 1:1,Enköpingsvägen 9 -11,0381,,59.7353849196537,17.311024320249
-988364,ÅVS 99091 Ny mitt emot Dollarstore,,Romberga 23:31,Malmagatan,0381,,59.6534803584824,17.0879797484592
+988266,ÅVS 15931 Lantmännen Fjärdhundra Enköping,,Mällersta 3:1,Stora vägen 20,0381,,59.7770177503902,16.9272418630215
+988283,"ÅVS 16978 Haga Slott, Hållplats Haga vändslinga Enköping",,Haga 9:6,Natt Och Dags Allé 53,0381,,59.6046943566941,17.0517807814471
+988318,"ÅVS 652 P-plats, f.d.  Fanna-kiosken Enköping",,Fanna 15:13,Fannagatan 23,0381,,59.6397908549943,17.1012787302248
+988319,ÅVS 653 Bangatan/Brunnsgatan Grillby Enköping,,Grillby 80:3,Bangatan 19,0381,,59.625987793132,17.2529057525356
+988320,ÅVS 655 Lastbilsparkeringen (f.d. Hummelsta Livs) Enköping,,Tillinge-Hummelsta 1:61,Åsundavägen 7,0381,,59.6272099279133,16.9481911923953
+988321,ÅVS 17738 Torggatan/Långgatan Enköping,,Kryddgården 6:3,Långgatan,0381,,59.6384717862856,17.0718261182514
+988322,"ÅVS 665 Närbutiken, Lillkyrka Enköping",,Hässlinge 1:27,Prästvägen 2,0381,,59.560543231156,17.2464189484213
+988324,"ÅVS 667 , bakom ICA Örsundsbro Enköping",,Örsundsbro 1:1,Enköpingsvägen 9 -11,0381,,59.7353849196537,17.311024320249
+988364,ÅVS 99091 Ny mitt emot Dollarstore Enköping,,Romberga 23:31,Malmagatan,0381,,59.6534803584824,17.0879797484592
 550404,Nära Ingo Tankstation,,Gammelbyn 1:70,Gammelbygatan 16,0382,,60.2598437218915,18.3649609053143
 550407,Utanför Åvc Öregrund,,Öregrund 8:1,Bryggaregatan 6,0382,,60.3345351897448,18.4367669040887
 550408,Torpvägen Alunda,,Marma 1:67,Torpvägen,0382,,60.0652408195899,18.0772848438366
@@ -3532,77 +3532,76 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 316628,LINDESBERG SÖDRA MÅLE,,YXE 7:5,MÅLE 225,1885,,59.5187970143322,15.2174593703891
 316629,LINDESBERG BANVÄGEN,,HAGABERG 3:22,BANVÄGEN 25,1885,,59.6007474027466,15.2247352476271
 316634,KLOTEN,,,KLOTEN,1885,,59.89859,15.294704
-988313,"ÅVS 4516 Bernshammar, Affärsplan",,Bernshammar 1:1,"Bernshammar, Affärsplan",1904,,59.6694130756965,15.7708622857349
-988314,"ÅVS 4517 Färna, Svinhuset",,Färna 2:20,Fåfängans väg,1904,,59.7811845559793,15.8570307979052
+988313,"ÅVS 4516 Bernshammar, Affärsplan Kolsva Skinnskatteberg",,Bernshammar 1:1,"Bernshammar, Affärsplan",1904,,59.6694130756965,15.7708622857349
+988314,"ÅVS 4517 Färna, Svinhuset Skinnskatteberg",,Färna 2:20,Fåfängans väg,1904,,59.7811845559793,15.8570307979052
 988315,"ÅVS 4518 Qstar, Riddarhyttan",,Övre Uggelfors 3:2,Liensvägen 12,1904,,59.8087764989183,15.5391826696492
-988316,ÅVS 4519 Skateparken vid Skinnskattebergs station,,Prästgården 1:61,Centralvägen 12,1904,,59.8332761764524,15.6949492797204
+988316,ÅVS 4519 Skateparken vid station Skinnskattebergs,,Prästgården 1:61,Centralvägen 12,1904,,59.8332761764524,15.6949492797204
 988317,ÅVS 4522 Återbruket Skinnskatteberg,,Ämthyttan 4:52,Näsvägen,1904,,59.8317107436835,15.6817183646612
-988191,ÅVS 10460 Konsum p-plats,,Ramnäs Kyrkby 1:93,Hammarvägen 30,1907,,59.7738270843153,16.1953411868387
-988192,ÅVS 10462 Parkeringen,,Surahammar 9:720,Torsgatan/Omvägen,1907,,59.7081356505773,16.2201169166331
-988193,ÅVS 10464 Skogslundshallen,,Surahammar 9:285,Borevägen 12,1907,,59.7082585288059,16.2299464618743
-988194,ÅVS 10465 Kv Mården,,Surahammar 10:429,Österängsvägen,1907,,59.7132145316664,16.2341445097491
-988195,ÅVS 10466 Odonvägen/Musikvägen,,Surahammar 10:581,Musikvägen,1907,,59.6973954516353,16.242819542817
-988196,ÅVS 10469 Virsbo/Krönet,,Virsbo 2:73,Jägargatan 37,1907,,59.8741106182236,16.0613722319306
-988223,ÅVS 12472 Virsbo/Dynabacken,,Nordanö 1:2,Dynavägen,1907,,59.8713113219602,16.0475825520094
-988224,ÅVS 12473 Virsbo Gammelby,,Virsbo 3:22,Färnebovägen,1907,,59.8696769796229,16.0860162992542
+988191,ÅVS 10460 Konsum p-plats Ramnäs Surahammar,,Ramnäs Kyrkby 1:93,Hammarvägen 30,1907,,59.7738270843153,16.1953411868387
+988192,ÅVS 10462 Parkeringen Surahammar,,Surahammar 9:720,Torsgatan/Omvägen,1907,,59.7081356505773,16.2201169166331
+988193,ÅVS 10464 Skogslundshallen Surahammar,,Surahammar 9:285,Borevägen 12,1907,,59.7082585288059,16.2299464618743
+988194,ÅVS 10465 Kv Mården Surahammar,,Surahammar 10:429,Österängsvägen,1907,,59.7132145316664,16.2341445097491
+988195,ÅVS 10466 Odonvägen/Musikvägen Surahammar,,Surahammar 10:581,Musikvägen,1907,,59.6973954516353,16.242819542817
+988196,ÅVS 10469 Virsbo/Krönet Virsbo Surahammar,,Virsbo 2:73,Jägargatan 37,1907,,59.8741106182236,16.0613722319306
+988223,ÅVS 12472 Virsbo/Dynabacken Virsbo Surahammar,,Nordanö 1:2,Dynavägen,1907,,59.8713113219602,16.0475825520094
+988224,ÅVS 12473 Virsbo Gammelby Virsbo Surahammar,,Virsbo 3:22,Färnebovägen,1907,,59.8696769796229,16.0860162992542
 988262,ÅVS 15595 Återbruket Surahammar,,Surahammar 9:666,Stålvägen,1907,,59.7067132822791,16.2033907904413
-988264,"ÅVS 15828 Ramnäs nya, vid busslingan",,Ramnäs Kyrkby 1:190,Sergeantvägen,1907,,59.7697523642147,16.2069623027827
-988284,ÅVS 17066 Seglingsberg,,Ramnäs Bruk 2:11,Hökebovägen/Seglingsbergs Gård,1907,,59.8228569896407,16.1455740943574
+988264,"ÅVS 15828 Ramnäs nya, vid busslingan Ramnäs Surahammar",,Ramnäs Kyrkby 1:190,Sergeantvägen,1907,,59.7697523642147,16.2069623027827
+988284,ÅVS 17066 Seglingsberg Ramnäs Surahammar,,Ramnäs Bruk 2:11,Hökebovägen/Seglingsbergs Gård,1907,,59.8228569896407,16.1455740943574
 988230,ÅVS 13776 Återbruket Kungsör,,Kungsör 3:1,Fredsgatan 38,1960,,59.4301707436122,16.1159658450578
-988285,ÅVS 17131 Valskog,,Lådberga 1:50,Västerlånggatan 2,1960,,59.4417260134281,15.947917544801
-988343,ÅVS 8575 Kungsringen,,Kungsör 3:1,Torsgatan/Kungsringen,1960,,59.4175363330197,16.0978937462812
-988345,ÅVS 8582 Skillingeaffären,,Skillinge 2:140,Malmbergsvägen/Ängsvägen,1960,,59.4202745125775,16.113220915917
-989808,ÅVS 8583 Kungsringen/Fågelvägen 2 E,,Kungsör 3:1,Kungsringen/Fågelvägen 2 E,1960,,59.415640824594,16.0890090912349
-988232,ÅVS 1429 Motionscentrum,,Tuna 1:21,Gråstensvägen 2,1961,,59.6255505937946,16.2454294524788
-988233,ÅVS 1435 Surbrunnsvägen,,Tuna 1:92,Surbrunnsvägen 1,1961,,59.6112018399574,16.2359458166768
-988234,ÅVS 1439 Bergsgatan,,Vänsta 1:102,Bergsgatan 5,1961,,59.5612169404727,16.2233549153529
-988238,ÅVS 14906 Usterstavägen,,Frössvi 4:1,Usterstavägen,1961,,59.605932804211,16.2127770610394
-988252,ÅVS 15328 Djursjukhusvägen,,Strömsholm 8:1,Djursjukhusvägen,1961,,59.5252984484865,16.2436145670527
+988285,ÅVS 17131 Valskog Valskog Kungsör,,Lådberga 1:50,Västerlånggatan 2,1960,,59.4417260134281,15.947917544801
+988343,ÅVS 8575 Kungsringen Kungsör,,Kungsör 3:1,Torsgatan/Kungsringen,1960,,59.4175363330197,16.0978937462812
+988345,ÅVS 8582 Skillingeaffären Kungsör,,Skillinge 2:140,Malmbergsvägen/Ängsvägen,1960,,59.4202745125775,16.113220915917
+989808,ÅVS 8583 Kungsringen/Fågelvägen 2 E Kungsör,,Kungsör 3:1,Kungsringen/Fågelvägen 2 E,1960,,59.415640824594,16.0890090912349
+988232,ÅVS 1429 Motionscentrum Hallstahammar,,Tuna 1:21,Gråstensvägen 2,1961,,59.6255505937946,16.2454294524788
+988233,ÅVS 1435 Surbrunnsvägen Hallstahammar,,Tuna 1:92,Surbrunnsvägen 1,1961,,59.6112018399574,16.2359458166768
+988234,ÅVS 1439 Bergsgatan Kolbäck Hallstahammar,,Vänsta 1:102,Bergsgatan 5,1961,,59.5612169404727,16.2233549153529
+988238,ÅVS 14906 Usterstavägen Hallstahammar,,Frössvi 4:1,Usterstavägen,1961,,59.605932804211,16.2127770610394
+988252,ÅVS 15328 Djursjukhusvägen Strömsholm Hallstahammar,,Strömsholm 8:1,Djursjukhusvägen,1961,,59.5252984484865,16.2436145670527
 988258,ÅVS 15579 Återbruket Hallstahammar,,Svedvi Häradsallmänning 1:5,Hammarleden 32,1961,,59.6313919257311,16.1990931543869
-988281,ÅVS 16721 P-Plats Idrottsplatsen,,Eldsboda 1:250,Östra Trollebovägen,1961,,59.619849818067,16.2274459269321
-988325,ÅVS 6965 F.d. AMU Center,,Nirvana 1,Videvägen 3,1961,,59.6156716037827,16.2472988797588
-988326,ÅVS 6968 HFAB's,,Växeln 7,Trädgårdsgatan 8,1961,,59.6135232471,16.2352097724901
+988281,ÅVS 16721 P-Plats Idrottsplatsen Hallstahammar,,Eldsboda 1:250,Östra Trollebovägen,1961,,59.619849818067,16.2274459269321
+988326,ÅVS 6968 HFAB's Hallstahammar,,Växeln 7,Trädgårdsgatan 8,1961,,59.6135232471,16.2352097724901
 988261,ÅVS 15588 Återbruket Norberg,,Davidsbo 1:149,Svarvargatan 12,1962,,60.0544865250402,15.9324273028819
-988354,ÅVS 9221 Karbenning station,,Bennebo 4:13,Stationen,1962,,60.0365700430655,16.0715791906872
-988355,ÅVS 9222 Kärrgruvan Matbutik,,Kallmora 2:11,Hedemoravägen 51,1962,,60.0931728108882,15.9353083372195
-988356,ÅVS 9223 Malmheden Skallberget IP,,Stutbo 1:23,Rönningstorpsvägen/Gamla Banan,1962,,60.0617068439677,15.9418648933454
-988358,ÅVS 9226 Kornettgatan 15-19,,Resedan 2,Kornettgatan 15 -19,1962,,60.0699628167316,15.9307597501618
-988359,ÅVS 9227 Ringvägen 8,,Almen 2,Ringvägen 8,1962,,60.0629514247067,15.9180155016464
-988197,"ÅVS 11419 Coop Stjärnan, Bjurhovda",,Forntiden 1,Bjurhovdagatan 3,1980,,59.6234281042119,16.6017971274125
-988198,"ÅVS 11420 Brandthovda, bussvändplats",,Västerås 3:68,Järnåldersgatan,1980,,59.6184702280338,16.6144010328545
-988199,ÅVS 11426 Tingslidens IP,,Östjädra 1:246,Häradsvägen,1980,,59.5769582145704,16.3971695424276
-988200,"ÅVS 11432 Haga, ICA Supermarket",,Skyttegillet 1,Hästhovsgatan,1980,,59.6280983621281,16.5727419410177
-988201,"ÅVS 11437 Hökåsen, Klimatvägen/Åsenlundsvägen",,Alvesta 3:270,Klimatvägen/Åsenlundsvägen,1980,,59.6675739158773,16.5844322616331
-988202,"ÅVS 11440 Klockartorpet, Statoilmacken",,Fanjunkaren 4,Knektgatan,1980,,59.6143369116564,16.5761148210517
-988203,"ÅVS 11442 Kärsta, Fycklinge",,Kärsta 1:30,Kärstavägen,1980,,59.6751941704508,16.8387581876655
-988204,"ÅVS 11445 Malmaberg, Hemköp",,Västerås 3:12,Gunnilbogatan,1980,,59.6276699195553,16.5809107587377
-988205,ÅVS 11446 Blåsboplan,,Västerås 1:16,"Vasagatan, Stora parkeringen",1980,,59.6211398108812,16.5359778426996
-988206,"ÅVS 11450 Skultunabod/Miljöbod Rönnby, Bandygatan",,Västerås 4:79,Bandygatan 60,1980,,59.6442273320799,16.5107821643838
-988207,ÅVS 11451 Rönnby,,Västerås 4:79,Löpargatan/Rönnbyvägen,1980,,59.6534567271921,16.499764001414
-988208,"ÅVS 11452 Rönnby centrum, vändplan",,Västerås 4:79,Kulstötargatan,1980,,59.6479454578365,16.5061800664176
-988209,"ÅVS 11453 Barkarö, Norra Infarten ",,Barkaröby 15:196,Barkarö Bygata,1980,,59.5577538977858,16.5070715498693
-988210,ÅVS 11457 Skälby IP,,Västerås 2:50,Skönsbogatan,1980,,59.6003380247163,16.4492813207547
-988212,"ÅVS 11459 Skälby, Vändplan",,Västerås 2:50,Kummelgårdsgatan,1980,,59.5904827665148,16.4579164253053
-988213,"ÅVS 11465 Tortuna, Handeln/Qstar",,Bollsta 1:4,Johan Törnströms väg,1980,,59.6728700135412,16.7239156986984
+988354,ÅVS 9221 Karbenning station Karbenning/Norberg,,Bennebo 4:13,Stationen,1962,,60.0365700430655,16.0715791906872
+988355,ÅVS 9222 Matbutik Kärrgruvan/Norberg,,Kallmora 2:11,Hedemoravägen 51,1962,,60.0931728108882,15.9353083372195
+988356,ÅVS 9223 Malmheden Skallberget IP Norberg,,Stutbo 1:23,Rönningstorpsvägen/Gamla Banan,1962,,60.0617068439677,15.9418648933454
+988358,ÅVS 9226 Kornettgatan 15-19 Norberg,,Resedan 2,Kornettgatan 15 -19,1962,,60.0699628167316,15.9307597501618
+988359,ÅVS 9227 Ringvägen 8 Norberg,,Almen 2,Ringvägen 8,1962,,60.0629514247067,15.9180155016464
+988197,"ÅVS 11419 Coop Stjärnan, Bjurhovda Västerås",,Forntiden 1,Bjurhovdagatan 3,1980,,59.6234281042119,16.6017971274125
+988198,"ÅVS 11420 Brandthovda, bussvändplats Västerås",,Västerås 3:68,Järnåldersgatan,1980,,59.6184702280338,16.6144010328545
+988199,ÅVS 11426 Tingslidens IP Dingtuna Västerås,,Östjädra 1:246,Häradsvägen,1980,,59.5769582145704,16.3971695424276
+988200,"ÅVS 11432 Haga, ICA Supermarket Västerås",,Skyttegillet 1,Hästhovsgatan,1980,,59.6280983621281,16.5727419410177
+988201,"ÅVS 11437 , Klimatvägen/Åsenlundsvägen Hökåsen Västerås",,Alvesta 3:270,Klimatvägen/Åsenlundsvägen,1980,,59.6675739158773,16.5844322616331
+988202,"ÅVS 11440 , Statoilmacken Klockartorpet Västerås",,Fanjunkaren 4,Knektgatan,1980,,59.6143369116564,16.5761148210517
+988203,"ÅVS 11442 Kärsta, Fycklinge Västerås",,Kärsta 1:30,Kärstavägen,1980,,59.6751941704508,16.8387581876655
+988204,"ÅVS 11445 Malmaberg, Hemköp Västerås",,Västerås 3:12,Gunnilbogatan,1980,,59.6276699195553,16.5809107587377
+988205,ÅVS 11446 Blåsboplan Västerås,,Västerås 1:16,"Vasagatan, Stora parkeringen",1980,,59.6211398108812,16.5359778426996
+988206,"ÅVS 11450 Skultunabod/Miljöbod Rönnby, Bandygatan Västerås",,Västerås 4:79,Bandygatan 60,1980,,59.6442273320799,16.5107821643838
+988207,ÅVS 11451 Rönnby Västerås,,Västerås 4:79,Löpargatan/Rönnbyvägen,1980,,59.6534567271921,16.499764001414
+988208,"ÅVS 11452 Rönnby centrum, vändplan Västerås",,Västerås 4:79,Kulstötargatan,1980,,59.6479454578365,16.5061800664176
+988209,"ÅVS 11453 Barkarö, Norra Infarten Västerås",,Barkaröby 15:196,Barkarö Bygata,1980,,59.5577538977858,16.5070715498693
+988210,ÅVS 11457 Skälby IP Västerås,,Västerås 2:50,Skönsbogatan,1980,,59.6003380247163,16.4492813207547
+988212,"ÅVS 11459 Skälby, Vändplan Västerås",,Västerås 2:50,Kummelgårdsgatan,1980,,59.5904827665148,16.4579164253053
+988213,"ÅVS 11465 Tortuna, Handeln/Qstar Västerås",,Bollsta 1:4,Johan Törnströms väg,1980,,59.6728700135412,16.7239156986984
 988214,ÅVS 11474 Återbruket Bäckby,,Västerås 4:85,Bäckbyvägen/Hälleborgsvägen,1980,,59.6095615967309,16.4726317929907
 988215,ÅVS 11475 Återbruket Gryta,,Västerås 4:84,Returvägen 20,1980,,59.6643535261551,16.5491014038412
 988216,ÅVS 11476 Återbruket Hälla,,Bladbaggen 2,Ringborregatan,1980,,59.6082707695224,16.6066366480597
 988217,ÅVS 11477 Återbruket Skultuna,,Skultuna-Tibble 4:21,Tibblevägen,1980,,59.723641778389,16.4380894647849
 988218,ÅVS 11478 Återbruket Stenby,,Kraftledningen 7,Kraftlinjegatan 10,1980,,59.640717503087,16.5701027668256
 988219,ÅVS 11479 Återbruket Ängsgärdet,,Ängsgärdet 7,Malmabergsgatan,1980,,59.6168386612682,16.5643404208374
-988220,ÅVS 11480 Containerplats,,Västerås 4:46,Gladiolgatan/Anemonvägen,1980,,59.6545213608574,16.5409301632565
-988222,ÅVS 11935 Talltorp,,Västerås 3:59,Talltorpsgatan,1980,,59.6071292239343,16.6037337212657
-988236,ÅVS 14551 Sigfrid Edströms gata 6,,Lugnet 1,Sigfrid Edströms gata 26 -36,1980,,59.5982062254496,16.5044617759612
-988237,ÅVS 14741 ICA Supermarket Grytan ,,Idet 1,Norrleden/Grytavägen 1,1980,,59.6378967345444,16.5465118116009
-988253,ÅVS 15329 Hälla shopping parkeringen,,Köpmannen 6,Stockholmsvägen,1980,,59.5252984484865,16.2436145670527
-988254,ÅVS 15334 Asarnas väg,,Ullvi 3:640,Asarnas väg,1980,,59.6108851757166,16.6946372946704
-988265,ÅVS 15875 IKEA Erikslund,,Domkraften S:1,Domkraftsgatan 2,1980,,59.6082828345963,16.449797443071
-988267,ÅVS 16011 Munga,,Sjöbo 2:1,Sjöbovägen/Glimmervägen,1980,,59.7448846319537,16.5268672785646
-988275,ÅVS 16440 Tillberga,,Hubbo-Sörby 2:14,Kvarnbacksvägen 2,1980,,59.6885453392072,16.6172662040187
-988280,"ÅVS 16649 Stallhagen, Järnvägen",,Västerås 2:70,Nedre Hyttvägen,1980,,59.6001651102097,16.5342777646824
-988282,ÅVS 16884 ICA Supermarket Skultuna,,Kvarnbacka 3:84,Krongjutarvägen,1980,,59.7191672381622,16.427261615724
-988287,ÅVS 17340 Ymergatan/Sveaborgsvägen,,Ullvi 3:640,Ymergatan 1,1980,,59.6006336635704,16.6839125659135
-988361,ÅVS 99070 Vattentornet,,Västerås 4:91,Nansengatan,1980,,59.629738068496,16.5425260911341
+988220,ÅVS 11480 Gryta Västerås,,Västerås 4:46,Gladiolgatan/Anemonvägen,1980,,59.6545213608574,16.5409301632565
+988222,ÅVS 11935 Talltorp Västerås,,Västerås 3:59,Talltorpsgatan,1980,,59.6071292239343,16.6037337212657
+988236,ÅVS 14551 Sigfrid Edströms gata 6 Västerås,,Lugnet 1,Sigfrid Edströms gata 26 -36,1980,,59.5982062254496,16.5044617759612
+988237,ÅVS 14741 ICA Supermarket Grytan Västerås,,Idet 1,Norrleden/Grytavägen 1,1980,,59.6378967345444,16.5465118116009
+988253,ÅVS 15329 Hälla shopping parkeringen Västerås,,Köpmannen 6,Stockholmsvägen,1980,,59.5252984484865,16.2436145670527
+988254,ÅVS 15334 Asarnas väg Irsta Västerås ,,Ullvi 3:640,Asarnas väg,1980,,59.6108851757166,16.6946372946704
+988265,ÅVS 15875 IKEA Erikslund Västerås,,Domkraften S:1 S:1,Domkraftsgatan 2,1980,,59.6082828345963,16.449797443071
+988267,ÅVS 16011 Munga Västerås,,Sjöbo 2:1,Sjöbovägen/Glimmervägen,1980,,59.7448846319537,16.5268672785646
+988275,ÅVS 16440 Tillberga Västerås,,Hubbo-Sörby 2:14,Kvarnbacksvägen 2,1980,,59.6885453392072,16.6172662040187
+988280,"ÅVS 16649 Stallhagen, Järnvägen Västerås",,Västerås 2:70,Nedre Hyttvägen,1980,,59.6001651102097,16.5342777646824
+988282,ÅVS 16884 ICA Supermarket Skultuna Västerås,,Kvarnbacka 3:84,Krongjutarvägen,1980,,59.7191672381622,16.427261615724
+988287,ÅVS 17340 Ymergatan/Sveaborgsvägen Irsta Västerås,,Ullvi 3:640,Ymergatan 1,1980,,59.6006336635704,16.6839125659135
+988361,ÅVS 99070 Vattentornet Västerås,,Västerås 4:91,Nansengatan,1980,,59.629738068496,16.5425260911341
 988482,Skultunabod Vallonvägen 47,,Skultuna Prästgård 1:57,Vallonvägen 47,1980,,59.7127174631385,16.4345690328913
 988483,Skultunabod Björkängsvägen 12,,Skultuna-Tibble 2:2,Björkängsvägen 12,1980,,59.7157514254247,16.4363796117263
 988484,Skultunabod Mäster Jacobs Väg/Byhagsvägen 21,,Skultunaby 1:84,Mäster Jacobs Väg/Byhagsvägen 21,1980,,59.717049464956,16.4320225212578
@@ -3610,75 +3609,75 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 988486,Skultunabod Bruksgatan,,Kvarnbacka 3:101,Bruksgatan,1980,,59.7207524940994,16.4223026869313
 988487,Skultunabod Prästgärdsgatan,,Skädduga 12:1,Prästgärdsgatan,1980,,59.709543792931,16.4342810632475
 988488,Skultunabod Midvintergatan,,Skultuna Prästgård 1:1,Midvintergatan,1980,,59.711596963492,16.4276685431279
-988225,ÅVS 12516 Åkrahallen,,Gnejsen 1,Berggatan 13,1981,,59.9232077746969,16.5858155669904
-988226,ÅVS 12517 Nordstedtsgatan,,Kristina 4:4,Nordstedtsgatan,1981,,59.9203631970743,16.5948802283028
-988227,ÅVS 12518 Persdalsgatan,,Kristina 4:1,Persdalsgatan,1981,,59.9320769215884,16.5745027069118
-988228,ÅVS 12519 Norrberg,,Kristina 4:8,Långgatan,1981,,59.9201236299437,16.6250600113444
-988240,ÅVS 15060 Broddbo Södra,,Broddbo 6:1,Broddbovägen,1981,,59.9855027425714,16.476550438315
-988241,ÅVS 15061 Broddbo Norra,,Stadsskogen 2:1,Roslingvägen,1981,,59.9905775904685,16.4799313035992
-988242,ÅVS 15067 Hebovägen,,Kärrbäcksbo 1:28,Hebovägen,1981,,59.8113418030825,16.6235661377928
-988243,ÅVS 15074 Loftvägen,,Silvergruvan 1:1,Loftvägen,1981,,59.9195458295503,16.5619618212979
-988244,ÅVS 15075 Hagaberg S,,Silvergruvan 1:12,Bronäsgatan,1981,,59.9110143536915,16.5856606491809
-988245,ÅVS 15076 Skuggan 3,,Kristina 4:1,Banelundsgatan,1981,,59.9371337879922,16.5645108644862
-988246,"ÅVS 15078 Ransta, Österby",,Kumla-Västerby 2:124,Stationsvägen,1981,,59.8068243181809,16.6405415711636
-988247,"ÅVS 15079 Ransta, Västerby",,Kumla-Västerby 2:81,Västerbyvägen,1981,,59.8069115164516,16.6337108070125
-988248,ÅVS 15080 Ransta By,,Ransta 2:29,Ransta By,1981,,59.7872171897942,16.6162931502019
-988249,ÅVS 15081 Möklinta Norra,,Möklinta Klockargård 1:1,Sportvägen,1981,,60.0904765982723,16.5419886753674
-988286,ÅVS 17302 Vintergatan/Ängshagen,,Kristina 4:14,Vintergatan,1981,,59.9089686985297,16.6128415003623
-988289,ÅVS 4309 Emmylundsgatan,,Verdandi 20,Emmylundsgatan,1981,,59.9102583306015,16.6102576009793
-988290,"ÅVS 4311 Hedåker, Jordbrovägen (bredvid omstart)",,Hedåker 1:74,"Hedåker, Jordbrovägen",1981,,60.0232580347613,16.3313893048403
-988291,"ÅVS 4313 Kila, pumpstation vattenverket",,Tullsta 3:9,Lindgårdsvägen,1981,,59.8727114286355,16.5458487586005
-988292,"ÅVS 4314 Kumla Kyrkby, Bivägen",,Åsgården 1:1,Bivägen,1981,,59.8433426316689,16.6398423007747
-988293,"ÅVS 4315 Kungsängen, Östra Tulegatan",,Kristina 4:13,Östra Tulegatan,1981,,59.9151704810818,16.6102347908784
-988294,"ÅVS 4316 Möklinta, Bygdegården",,Möklinta-Skräddarbo 1:20,Bygdegårdsvägen/Galoppvägen,1981,,60.0829886406827,16.5439077540147
-988295,"ÅVS 4317 Ransta, Affären/Tempo",,Kumla-Västerby 8:5,Kärrbäcksbovägen 2,1981,,59.8123194998549,16.6379111973352
-988296,"ÅVS 4318 Rosshyttan, fd affären",,Rosshyttan 1:95,"Rosshyttan, fd affären",1981,,60.0690946824099,16.3534372187217
-988297,ÅVS 4319 Almgatan,,Kristina 4:63,Aspgatan/Almgatan,1981,,59.9318164449551,16.583299317654
-988298,ÅVS 4321 Busstorget,,Kristina 4:5,Silosgatan,1981,,59.9255514645242,16.6041187245649
-988299,ÅVS 4322 Skuggan 2,,Kristina 4:1,Floragatan 1,1981,,59.9354304906133,16.5714711285341
-988300,ÅVS 4323 P-plats Posten,,Färgaren 8,Gillegatan,1981,,59.9185761528385,16.6076859735164
-988301,ÅVS 4324 Turbo,,Kristina 4:15,Gruvvägen,1981,,59.9111018858875,16.5876813446579
-988302,ÅVS 4326 Hagaberg N,,Silvergruvan 1:1,Nybergsgatan,1981,,59.9133803670287,16.5793055365208
-988303,ÅVS 4327 Mamrekiosken,,Teglet 5,Hyttvägen,1981,,59.9269184820733,16.6116797011458
-988304,ÅVS 4328 Coop Extra,,Tränaren 11,Bergslagsgatan/Kungsgatan,1981,,59.9196140686064,16.6144293879732
-988305,ÅVS 4329 Måns-Olsvägen,,Kristina 4:2,Måns-Olsvägen,1981,,59.9281255075005,16.5711754524756
-988306,ÅVS 4330 SJ Park,,Kristina 4:5,Silogatan,1981,,59.9255442432316,16.6041042934342
-988307,ÅVS 4331 Skuggan 1,,Kristina 4:1,Skugganvägen,1981,,59.931399903551,16.5692410552431
-988308,ÅVS 4332 Stampersvägen/Kil-Maris väg,,Silvergruvan 1:455,Stampersvägen,1981,,59.9068396600315,16.5443898963184
-988309,"ÅVS 4335 Saladamm, SJ lastkaj",,Åby 3:40,Åbyvägen,1981,,59.9815486431244,16.6380783143401
-988310,"ÅVS 4336 Salbohed, affären",,Sörsalbo 4:5,"Kopparbergsvägen/Salbohed, affären",1981,,59.9099493467605,16.3472302936101
-988311,"ÅVS 4337 Sätrabrunn, Kvarnbacken",,Sätra 1:69,"Sätrabrunn, Kvarnbacken",1981,,59.864036490883,16.4332942800723
-988312,"ÅVS 4340 Västerfärnebo, Björkgården",,Islingby 14:1,Björkgården Västerfärnebo Norbergsvägen 13,1981,,59.9469387844376,16.2779233068514
+988225,ÅVS 12516 Åkrahallen Sala,,Gnejsen 1,Berggatan 13,1981,,59.9232077746969,16.5858155669904
+988226,ÅVS 12517 Nordstedtsgatan Sala,,Kristina 4:4,Nordstedtsgatan,1981,,59.9203631970743,16.5948802283028
+988227,ÅVS 12518 Persdalsgatan Sala,,Kristina 4:1,Persdalsgatan,1981,,59.9320769215884,16.5745027069118
+988228,ÅVS 12519 Norrberg Sala,,Kristina 4:8,Långgatan,1981,,59.9201236299437,16.6250600113444
+988240,ÅVS 15060 Broddbo Södra Sala,,Broddbo 6:1,Broddbovägen,1981,,59.9855027425714,16.476550438315
+988241,ÅVS 15061 Broddbo Norra Sala,,Stadsskogen 2:1,Roslingvägen,1981,,59.9905775904685,16.4799313035992
+988242,ÅVS 15067 Hebovägen Ransta,,Kärrbäcksbo 1:28,Hebovägen,1981,,59.8113418030825,16.6235661377928
+988243,ÅVS 15074 Loftvägen Sala,,Silvergruvan 1:1,Loftvägen,1981,,59.9195458295503,16.5619618212979
+988244,ÅVS 15075 Hagaberg S Sala,,Silvergruvan 1:12,Bronäsgatan,1981,,59.9110143536915,16.5856606491809
+988245,ÅVS 15076 Skuggan 3 Sala,,Kristina 4:1,Banelundsgatan,1981,,59.9371337879922,16.5645108644862
+988246,"ÅVS 15078 Ransta, Österby Ransta",,Kumla-Västerby 2:124,Stationsvägen,1981,,59.8068243181809,16.6405415711636
+988247,"ÅVS 15079 Ransta, Västerby Sala",,Kumla-Västerby 2:81,Västerbyvägen,1981,,59.8069115164516,16.6337108070125
+988248,ÅVS 15080 Ransta By Ransta,,Ransta 2:29,Ransta By,1981,,59.7872171897942,16.6162931502019
+988249,ÅVS 15081 Möklinta Norra Möklinta,,Möklinta Klockargård 1:1,Sportvägen,1981,,60.0904765982723,16.5419886753674
+988286,ÅVS 17302 Vintergatan/Ängshagen Sala,,Kristina 4:14,Vintergatan,1981,,59.9089686985297,16.6128415003623
+988289,ÅVS 4309 Emmylundsgatan Sala,,Verdandi 20,Emmylundsgatan,1981,,59.9102583306015,16.6102576009793
+988290,"ÅVS 4311 Hedåker, Jordbrovägen (bredvid omstart) Västerfärnebo Hedåker",,Hedåker 1:74,"Hedåker, Jordbrovägen",1981,,60.0232580347613,16.3313893048403
+988291,"ÅVS 4313 Kila, pumpstation vattenverket Sala",,Tullsta 3:9,Lindgårdsvägen,1981,,59.8727114286355,16.5458487586005
+988292,"ÅVS 4314 Kumla Kyrkby, Bivägen Sala",,Åsgården 1:1,Bivägen,1981,,59.8433426316689,16.6398423007747
+988293,"ÅVS 4315 Kungsängen, Östra Tulegatan Sala",,Kristina 4:13,Östra Tulegatan,1981,,59.9151704810818,16.6102347908784
+988294,"ÅVS 4316 Möklinta, Bygdegården Möklinta",,Möklinta-Skräddarbo 1:20,Bygdegårdsvägen/Galoppvägen,1981,,60.0829886406827,16.5439077540147
+988295,"ÅVS 4317 Ransta, Affären/Tempo Ransta",,Kumla-Västerby 8:5,Kärrbäcksbovägen 2,1981,,59.8123194998549,16.6379111973352
+988296,"ÅVS 4318 , fd affären Rosshyttan Västerfärnebo",,Rosshyttan 1:95,"Rosshyttan, fd affären",1981,,60.0690946824099,16.3534372187217
+988297,ÅVS 4319 Almgatan Sala,,Kristina 4:63,Aspgatan/Almgatan,1981,,59.9318164449551,16.583299317654
+988298,ÅVS 4321 Busstorget Sala,,Kristina 4:5,Silosgatan,1981,,59.9255514645242,16.6041187245649
+988299,ÅVS 4322 Skuggan 2 Sala,,Kristina 4:1,Floragatan 1,1981,,59.9354304906133,16.5714711285341
+988300,ÅVS 4323 P-plats Posten Sala,,Färgaren 8,Gillegatan,1981,,59.9185761528385,16.6076859735164
+988301,ÅVS 4324 Turbo Sala,,Kristina 4:15,Gruvvägen,1981,,59.9111018858875,16.5876813446579
+988302,ÅVS 4326 Hagaberg N Sala,,Silvergruvan 1:1,Nybergsgatan,1981,,59.9133803670287,16.5793055365208
+988303,ÅVS 4327 Mamrekiosken Sala,,Teglet 5,Hyttvägen,1981,,59.9269184820733,16.6116797011458
+988304,ÅVS 4328 Coop Extra Sala,,Tränaren 11,Bergslagsgatan/Kungsgatan,1981,,59.9196140686064,16.6144293879732
+988305,ÅVS 4329 Måns-Olsvägen Sala,,Kristina 4:2,Måns-Olsvägen,1981,,59.9281255075005,16.5711754524756
+988306,ÅVS 4330 SJ Park Sala,,Kristina 4:5,Silogatan,1981,,59.9255442432316,16.6041042934342
+988307,ÅVS 4331 Skuggan 1 Sala,,Kristina 4:1,Skugganvägen,1981,,59.931399903551,16.5692410552431
+988308,ÅVS 4332 Stampersvägen/Kil-Maris väg Sala,,Silvergruvan 1:455,Stampersvägen,1981,,59.9068396600315,16.5443898963184
+988309,"ÅVS 4335 Saladamm, SJ lastkaj Saladamm",,Åby 3:40,Åbyvägen,1981,,59.9815486431244,16.6380783143401
+988310,"ÅVS 4336 Salbohed, affären Salbohed",,Sörsalbo 4:5,"Kopparbergsvägen/Salbohed, affären",1981,,59.9099493467605,16.3472302936101
+988311,"ÅVS 4337 Sätrabrunn, Kvarnbacken Sätra brunn",,Sätra 1:69,"Sätrabrunn, Kvarnbacken",1981,,59.864036490883,16.4332942800723
+988312,"ÅVS 4340 Västerfärnebo, Björkgården Västerfärnebo",,Islingby 14:1,Björkgården Västerfärnebo Norbergsvägen 13,1981,,59.9469387844376,16.2779233068514
 988257,ÅVS 15575 Återbruket Fagersta,,Sundbo 7:13,Sänkmossevägen,1982,,59.9931035377142,15.855939707398
-988337,"ÅVS 751 ICA Centrum, p-plats",,Värmaren 6,Järntorget 1,1982,,60.0055274933439,15.7905472270343
-988338,ÅVS 752 P-plats Coop Extra,,Fagersta 3:52,Stationsvägen 18,1982,,60.0044783047985,15.7976264478408
-988339,ÅVS 754 P-plats Coop Nära,,Daggkåpan 2,Norrbyvägen 11,1982,,59.9977958439204,15.8162975878841
-988340,"ÅVS 755 Oti Krog, Statoil",,Hedkärra 12:117,Oti Vägskäl 1,1982,,59.9643306202735,15.7667965601383
-988341,ÅVS 756 Metropol,,Gladan 2,Stövargränd 2,1982,,60.0139351014658,15.7914651422682
-988342,ÅVS 759 Paby's verkstad,,Ängelsberg 1:21,Gamla Banan 1,1982,,59.9659496554139,16.0056541675432
-991712,ÅVS 760 Sjövägen/Sloghagsvägen Simbadet,,Fagersta Västanfors 11:74,Sjövägen/Sloghagsvägen,1982,,59.9831535604544,15.8278631961989
-988221,"ÅVS 11918 Kolsva, P-plats",,Bergtorpet 17:1,Odensvivägen,1983,,59.6022723663165,15.8460474735658
+988337,"ÅVS 751 ICA Centrum, p-plats Fagersta",,Värmaren 6,Järntorget 1,1982,,60.0055274933439,15.7905472270343
+988338,ÅVS 752 P-plats Coop Extra Fagersta,,Fagersta 3:52,Stationsvägen 18,1982,,60.0044783047985,15.7976264478408
+988339,ÅVS 754 P-plats Coop Nära Fagersta,,Daggkåpan 2,Norrbyvägen 11,1982,,59.9977958439204,15.8162975878841
+988340,"ÅVS 755 Oti Krog, Statoil Fagersta",,Hedkärra 12:117,Oti Vägskäl 1,1982,,59.9643306202735,15.7667965601383
+988341,ÅVS 756 Metropol Fagersta,,Gladan 2,Stövargränd 2,1982,,60.0139351014658,15.7914651422682
+988342,ÅVS 759 Paby's verkstad Ängelsberg Fagersta,,Ängelsberg 1:21,Gamla Banan 1,1982,,59.9659496554139,16.0056541675432
+991712,ÅVS 760 Sjövägen/Sloghagsvägen Simbadet Fagersta,,Fagersta Västanfors 11:74,Sjövägen/Sloghagsvägen,1982,,59.9831535604544,15.8278631961989
+988221,"ÅVS 11918 , P-plats Kolsva Köping",,Bergtorpet 17:1,Odensvivägen,1983,,59.6022723663165,15.8460474735658
 988263,ÅVS 15784 Återbruket Köping,,Kalltorp 2:7,Himmetavägen 2,1983,,59.5271996319504,15.9560181126959
 988346,"ÅVS 8600 Dalavägen/Bergslagsvägen, Kolsva",,Ekbacken 1:1,Dalavägen/Bergslagsvägen,1983,,59.5927105074116,15.8528507985355
-988347,ÅVS 8603 P-plats Folkets Park,,Östanås 1:1,Östanåsgatan,1983,,59.5193669604711,16.0049677867763
-988348,ÅVS 8607 P-plats Big Inn,,Försäljaren 2,Ringvägen,1983,,59.5221204831805,15.9762162726484
-988349,ÅVS 8610 Mälartorget,,Kungsängen 2:72,Kungsängen,1983,,59.4947598162502,16.0118126685518
-988351,ÅVS 8613 Odensvigården,,Odensvi Prästgård 3:5,Odensvi,1983,,59.5785198377939,15.9940007634113
-988352,ÅVS 8616 Tunadalsparkeringen,,Innerstaden 1:1,Tunadalsgatan,1983,,59.5149622581499,15.9934746583769
-988353,ÅVS 8618 Zigenarbacken IP,,Östanås 1:1,Västeråsvägen,1983,,59.5147436179691,16.0122142826734
-988360,ÅVS 99007 Elundskolan,,Östanås 1:2,Fridnäsvägen,1983,,59.5208527372772,16.0131846183502
-988362,"ÅVS 99084 Byjorden, p-plats",,Alf 18,Scheelegatan,1983,,59.5170244408261,15.9864871599051
-988363,ÅVS 99086 Fylgiaplatsen,,Innerstaden 1:38,Västra Långgatan,1983,,59.5107255170493,15.9948037790397
-988327,ÅVS 7026 Stiwemas P-plats,,Prästgärdet 2:1,Stationsgatan 1,1984,,59.397877916636,15.8539346810295
+988347,ÅVS 8603 P-plats Folkets Park Köping,,Östanås 1:1,Östanåsgatan,1983,,59.5193669604711,16.0049677867763
+988348,ÅVS 8607 P-plats Big Inn Köping,,Försäljaren 2,Ringvägen,1983,,59.5221204831805,15.9762162726484
+988349,ÅVS 8610 Mälartorget Köping,,Kungsängen 2:72,Kungsängen,1983,,59.4947598162502,16.0118126685518
+988351,ÅVS 8613 Odensvigården Köping,,Odensvi Prästgård 3:5,Odensvi,1983,,59.5785198377939,15.9940007634113
+988352,ÅVS 8616 Tunadalsparkeringen Köping,,Innerstaden 1:1,Tunadalsgatan,1983,,59.5149622581499,15.9934746583769
+988353,ÅVS 8618 Zigenarbacken IP Köping,,Östanås 1:1,Västeråsvägen,1983,,59.5147436179691,16.0122142826734
+988360,ÅVS 99007 Elundskolan Köping,,Östanås 1:2,Fridnäsvägen,1983,,59.5208527372772,16.0131846183502
+988362,"ÅVS 99084 Byjorden, p-plats Köping",,Alf 18,Scheelegatan,1983,,59.5170244408261,15.9864871599051
+988363,ÅVS 99086 Fylgiaplatsen Köping,,Innerstaden 1:38,Västra Långgatan,1983,,59.5107255170493,15.9948037790397
+988327,ÅVS 7026 Stiwemas P-plats Arboga,,Prästgärdet 2:1,Stationsgatan 1,1984,,59.397877916636,15.8539346810295
 988328,ÅVS 7027 Återbruket Arboga,,Karpen 1,Norra Ågatan 43,1984,,59.4011978386245,15.8857656526731
-988329,ÅVS 7028 Vilstahallen p-plats,,Nästkvarn 2:1,Jädersvägen,1984,,59.3943579944616,15.8325283476151
-988330,ÅVS 7029 Hällbacksvägen p-plats,,Strömsnäs 1:1,Hällbacksvägen,1984,,59.4003712221442,15.8260934085639
-988331,ÅVS 7030 Medborgarhuset,,Sturestaden 3:1,Gråmunkegränd,1984,,59.3954522472289,15.8385997183336
-988332,"ÅVS 7031 ICA Asplunds Livs, p-plats",,Strömsnäs 1:1,Västermovägen 18,1984,,59.3849360402026,15.8403277803027
-988333,ÅVS 7033 Lungers handel,,Lunger 2:124,Norra Lunger,1984,,59.3270893497632,15.6797728611822
-988334,ÅVS 7034 Tegelvretsvägen,,Norra Skogen 1:36,Tegelvretsvägen,1984,,59.4056978959231,15.8395654724209
-988335,"ÅVS 7036 Fårtallen, invid g:a E18",,Holmsätter 1:29,Kyrkvägen,1984,,59.352969005709,15.6669142047452
-988336,ÅVS 7037 P-plats Hembygdsgård,,Tåby 1:12,Tåbyvägen,1984,,59.4567940267954,15.7575636526186
+988329,ÅVS 7028 Vilstahallen p-plats Arboga,,Nästkvarn 2:1,Jädersvägen,1984,,59.3943579944616,15.8325283476151
+988330,ÅVS 7029 Hällbacksvägen p-plats Arboga,,Strömsnäs 1:1,Hällbacksvägen,1984,,59.4003712221442,15.8260934085639
+988331,ÅVS 7030 Medborgarhuset Arboga,,Sturestaden 3:1,Gråmunkegränd,1984,,59.3954522472289,15.8385997183336
+988332,"ÅVS 7031 ICA Asplunds Livs, p-plats Arboga",,Strömsnäs 1:1,Västermovägen 18,1984,,59.3849360402026,15.8403277803027
+988333,ÅVS 7033 Lungers handel Arboga,,Lunger 2:124,Norra Lunger,1984,,59.3270893497632,15.6797728611822
+988334,ÅVS 7034 Tegelvretsvägen Arboga,,Norra Skogen 1:36,Tegelvretsvägen,1984,,59.4056978959231,15.8395654724209
+988335,"ÅVS 7036 Fårtallen, invid g:a E18 Götlunda Arboga",,Holmsätter 1:29,Kyrkvägen,1984,,59.352969005709,15.6669142047452
+988336,ÅVS 7037 P-plats Hembygdsgård Medåker Arboga,,Tåby 1:12,Tåbyvägen,1984,,59.4567940267954,15.7575636526186
 14163,Ovanheden,,OVANHEDEN 4:9,Ovanheden,2021,,60.48028,14.00556
 15424,Vansbro Bäckdalen (ÅVC),,VANSBRO SNÖÅN 12:16,Bäckdalen 1,2021,,60.49639,14.16417
 5971,Dala-Järna,,MYRBACKA 21:9,Grötholnsväg,2021,,60.54556,14.37778
@@ -4139,7 +4138,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430014,Returvägen  ,,ÅVS,Returvägen   ,2284,,63.3024955013646,18.7619446957413
 4430016,"Sidensjö, Brandstation",,SIDENSJÖ PRÄSTBORD 1:60,Angermannus Väg ,2284,,63.2975879062935,18.2862667137455
 4430017,Droskgränd  ,,SUND 1:33,Droskgränd   ,2284,,63.2668728382676,18.6889516734455
-4430018,"Bredbyn, Fannbyvägen",,BREDBYN 20:29,Fannbyvägen ,2284,,63.4497265184729,18.1151345266622
+4430018,Fannbyvägen  ,,BREDBYN 20:29,Fannbyvägen   ,2284,,63.4497265184729,18.1151345266622
 4430022,"Långviksmon, fd Järnvägsstation",,BJÖRNA-LÅNGVIKEN 1:71,Lomvägen ,2284,,63.6313354963675,18.6929837592847
 4430024,"Skorped, Fotbollsplan Väg 908",,SKORPED 1:6,Skorpedsvägen ,2284,,63.3840259679623,17.8490769545785
 4430025,Gamla Domsjövägen  ,,DOMSJÖ 31:1,Gamla Domsjövägen   ,2284,,63.2615004779872,18.7104532294918
@@ -4150,14 +4149,14 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430030,"Trehörningsjö, Coop P-plats",,TREHÖRNINGSJÖ 1:359,Centralgatan,2284,,63.6938783364051,18.8664716757731
 4430031,"Flärke, Hembyggsgården Flärke",,ÅVS,Flärkemon,2284,,63.5759132694495,19.0396207085924
 4430032,"Gimåt, Grönområde vid bron",,GIMÅT 1:63,Gimåtvägen,2284,,63.3155600284279,18.7048130316866
-4430033,"Överhörnäs, Granitvägen",,ÖVERHÖRNÄS 2:8,Granitvägen ,2284,,63.2879440348527,18.5563470774469
+4430033,Granitvägen  ,,ÖVERHÖRNÄS 2:8,Granitvägen   ,2284,,63.2879440348527,18.5563470774469
 4430034,Hummelviksvägen  ,,HUMMELVIK 4:83,Hummelviksvägen   ,2284,,63.16802297077,18.5622043037917
 4430035,"Solberg, Vid vändplanen",,SOLBERG 1:196,Hässjevägen,2284,,63.7883266695126,17.6327549907192
 4430036,"Lungvik, Korsningen Järvhagavägen/Järvstagatan",,JÄRVHAGA 2,Järvhagavägen ,2284,,63.284499482048,18.7462334884717
 4430037,"Björna, Korsningen Björkvägen/Husumvägen",,ÅVS,Björkvägen ,2284,,63.5454299851143,18.6106135518395
 4430038,"Mellansel, Coop P-plats",,MELLANSEL 1:103,Centrumgatan ,2284,,63.4264709442699,18.3088791208029
 4430039,"Hemling, Hemlings Lanthandel",,BJÖRNA-HEMLING 17:2,Hemling,2284,,63.6510746808172,18.5460071676165
-4430040,"Hörnett, Bredvid ST1",,HÖRNETT 47:1,Hörneborgsvägen,2284,,63.272287353438,18.6936258055391
+4430040,Hörneborgsvägen  ,,HÖRNETT 47:1,Hörneborgsvägen   ,2284,,63.272287353438,18.6936258055391
 4430041,Karlslundsvägen  ,,ÖVERSJÄLA 14:4,Karlslundsvägen   ,2284,,63.2942842179646,18.6226925497482
 4430042,"Kubbe, Korsningen väg 348/1039",,KUBBE 7:26,Kubbe,2284,,63.5207933315434,18.0602899917977
 4430043,"Myckelgensjö, Korsningen väg 1035/984",,MYCKELGENSJÖ 5:17,Myckelgensjö,2284,,63.5783033296555,17.5939950038163
@@ -4280,6 +4279,8 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 115211,Alavattnet,,ALAVATTNET 1:59,Alavattnet,2313,,64.0535350979252,15.5461629820847
 115223,Valåbränna,,SIL 1:5,Fjällsjösil 170,2313,,63.7592511062124,16.4540710669813
 115224,Silsjönäs,,FJÄLLSJÖ-SUNNANSJÖ 2:13,Silsjönäs 195,2313,,63.77770319789,16.3968845257117
+115225,CUS Skalbäcksstugan,,KÄRRNÄSET S:1,Kärrnäset 285,2313,,63.9544481784796,15.2177108003249
+115237,CUS Grenås,,.,Grenås 305,2313,,63.6197694827843,15.4214211498881
 11605,Duved,,,Mångåvägen,2321,,63.39642,12.91402
 11607,"Hallen, vid ÅVC",,,Trägsta 109,2321,,63.17076,14.10955
 11608,Huså,,,"Husåvägen, vid reningsverket",2321,,63.48639,13.13694
