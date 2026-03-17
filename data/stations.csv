@@ -579,7 +579,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585382,Återvinningsstation 10278,,SERVISEN 8,Erik Dahlbergsgatan 43 ,0180,,59.3449511785695,18.0930461105369
 585383,Återvinningsstation 10257,,JUMPERN 2,Karossvägen 41 ,0180,,59.2868237674113,17.9799428660024
 585384,Återvinningsstation 10258,,KLARINETTEN 17,Herrängsvägen 112,0180,,59.2807544835909,17.960025732593
-585385,Återvinningsstation 10273,,KAMPEMENTET 4,Kampementsgatan 2 ,0180,,59.3464328179007,18.1025415212895
+585385,Återvinningsstation 10273,,KAMPEMENTET 4,Kampementsgatan 2,0180,,59.3464328179007,18.1025415212895
 585387,Återvinningsstation 10268,,ERIKSBERG 2,Runebergsgatan 1,0180,,59.3409047000674,18.0661667072739
 585389,Återvinningsstation 10260,,TAKRYTTAREN 1,Gimmerstavägen 2 ,0180,,59.2804158170286,18.0348024617862
 585390,Återvinningsstation 10261,,JULGRÖTEN 2,Annebodavägen 66 ,0180,,59.2875955472821,18.0267127272884
@@ -629,6 +629,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 13897,Fornhöjdsvägen,,Fornhöjdsvägen,Fornhöjdsvägen,0181,,59.1951569504978,17.6666903783072
 13914,Trollsjövägen,,Trollsjövägen,Trollsjövägen,0181,,59.1479564382642,17.6554022459687
 60390,Oxbacksgatan,,Oxbacksgatan,Oxbacksgatan,0181,,59.1955802662238,17.6221588223957
+018203,Älta KLC,,Älta 10:51,Örkroken 15,0182,,59.2519899999744,18.2047100040944
 12205,Landåvägen,,.,Landåvägen Vändplats,0182,,59.3172520292621,18.1696194444248
 12206,Trillans tidningshus,,.,Trillans väg 1,0182,,59.3174348154607,18.1730374951043
 12207,Diligensvägen 38- 72,,SICKLAÖN 14:1,Diligensvägen vändplats vid garaget 38 72,0182,,59.3155296346094,18.1730024241181
@@ -2208,7 +2209,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 11157,Östervi IP,,Getakärr 4:1,"ÅVS Östervi IP, Engelbrektsgatan 115",1383,,57.1059509400053,12.2827197347309
 11164,Danska vägen,,Freden 1,ÅVS Danska vägen,1383,,57.099050659589,12.2560817650845
 11168,Norra vägen,,Renen 14,ÅVS Norra vägen,1383,,57.1112786315491,12.2509769993692
-11170,"Willys, Träslövsvägen 56",,Tolken 11,"ÅVS Träslövsvägen 56, Willys",1383,,57.102260323938,12.2686811015568
+11170,"Willys, Träslövsvägen 56",,Tolken 11,"ÅVS Willys, Träslövsvägen 56",1383,,57.102260323938,12.2686811015568
 11171,Stockrosgatan,,Getakärr 4:1,ÅVS Stockrosgatan,1383,,57.1109936241923,12.2843739068459
 11172,Stenåsavägen,,Getakärr 2:21,ÅVS Stenåsavägen,1383,,57.1211341806862,12.2711394878771
 15136,"Getterön, Östra Hamnvägen",,Getakärr 9:6,"ÅVS Getterön, Östra Hamnvägen",1383,,57.1213872170248,12.2506903509173

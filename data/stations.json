@@ -6384,7 +6384,7 @@
         "name": "Återvinningsstation 10273",
         "secondaryName": null,
         "propertyNumber": "KAMPEMENTET 4",
-        "streetAddress": "Kampementsgatan 2 ",
+        "streetAddress": "Kampementsgatan 2",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3464328179007,
@@ -6928,6 +6928,17 @@
         "extraInfo": null,
         "latitude": 59.1955802662238,
         "longitude": 17.6221588223957
+    },
+    {
+        "id": "018203",
+        "name": "Älta KLC",
+        "secondaryName": null,
+        "propertyNumber": "Älta 10:51",
+        "streetAddress": "Örkroken 15",
+        "municipalityCode": "0182",
+        "extraInfo": null,
+        "latitude": 59.2519899999744,
+        "longitude": 18.2047100040944
     },
     {
         "id": "12205",
@@ -24303,7 +24314,7 @@
         "name": "Willys, Träslövsvägen 56",
         "secondaryName": null,
         "propertyNumber": "Tolken 11",
-        "streetAddress": "ÅVS Träslövsvägen 56, Willys",
+        "streetAddress": "ÅVS Willys, Träslövsvägen 56",
         "municipalityCode": "1383",
         "extraInfo": null,
         "latitude": 57.102260323938,
