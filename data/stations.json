@@ -37121,8 +37121,8 @@
         "streetAddress": "Odelbergsvägen ",
         "municipalityCode": "1862",
         "extraInfo": "",
-        "latitude": 59.231595,
-        "longitude": 14.445539
+        "latitude": 59.233339,
+        "longitude": 14.446877
     },
     {
         "id": "12758",
@@ -37137,25 +37137,25 @@
     },
     {
         "id": "12759",
-        "name": "Kanada",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Herrgårdsgatan",
+        "name": "Stora Valla",
+        "secondaryName": "Stora Valla",
+        "propertyNumber": "Stora valla 1:1",
+        "streetAddress": "Idrottsvägen",
         "municipalityCode": "1862",
         "extraInfo": "",
-        "latitude": 59.236839,
-        "longitude": 14.435824
+        "latitude": 59.237945,
+        "longitude": 14.441392
     },
     {
         "id": "12761",
         "name": "Sveagatan",
         "secondaryName": "",
         "propertyNumber": "Jannelund 21:1",
-        "streetAddress": "Sveagtan 3",
+        "streetAddress": "Sveagatan ",
         "municipalityCode": "1862",
         "extraInfo": "",
-        "latitude": 59.23423,
-        "longitude": 14.42691
+        "latitude": 59.234011,
+        "longitude": 14.426265
     },
     {
         "id": "13635",
@@ -37167,17 +37167,6 @@
         "extraInfo": "",
         "latitude": 59.255077,
         "longitude": 14.428104
-    },
-    {
-        "id": "16345",
-        "name": "Garagegatan",
-        "secondaryName": "",
-        "propertyNumber": "Agen 11:12",
-        "streetAddress": "Garagegatan 4",
-        "municipalityCode": "1862",
-        "extraInfo": "",
-        "latitude": 59.24282,
-        "longitude": 14.434922
     },
     {
         "id": "17291",
@@ -37192,8 +37181,8 @@
     },
     {
         "id": "580",
-        "name": "Källstigen",
-        "secondaryName": "Stora Valla",
+        "name": "Centrum",
+        "secondaryName": "",
         "propertyNumber": "Stora Valla 1:1",
         "streetAddress": "Sandgatan 21",
         "municipalityCode": "1862",
@@ -37202,26 +37191,15 @@
         "longitude": 14.440287
     },
     {
-        "id": "583",
-        "name": "Kristinagränd",
-        "secondaryName": "Jannelund",
-        "propertyNumber": "Jannelund 1:1",
-        "streetAddress": "Kristinagränd",
-        "municipalityCode": "1862",
-        "extraInfo": "",
-        "latitude": 59.234474,
-        "longitude": 14.430516
-    },
-    {
         "id": "584",
         "name": "Agen",
         "secondaryName": "Posten",
         "propertyNumber": "Agen 1:1",
-        "streetAddress": "Telegatan",
+        "streetAddress": "Postgatan",
         "municipalityCode": "1862",
         "extraInfo": "",
-        "latitude": 59.238705,
-        "longitude": 14.432122
+        "latitude": 59.238402,
+        "longitude": 14.43198
     },
     {
         "id": "588",
@@ -45497,10 +45475,10 @@
     },
     {
         "id": "4430001",
-        "name": "Svartby, Korsningen Örtagårdsvägen/Arnäsvägen",
+        "name": "Örtagårdsvägen  ",
         "secondaryName": null,
         "propertyNumber": "SVARTBY 2:237",
-        "streetAddress": "Örtagårdsvägen ",
+        "streetAddress": "Örtagårdsvägen   ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.3093500709525,
