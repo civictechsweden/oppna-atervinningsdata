@@ -2039,7 +2039,7 @@
         "name": "ÅVS 15839  Grusplan/parkering",
         "secondaryName": null,
         "propertyNumber": "TUMBA 8:535",
-        "streetAddress": "Kolonistigen/harbrovägen",
+        "streetAddress": "Kolonistigen/ Harbrovägen",
         "municipalityCode": "0127",
         "extraInfo": null,
         "latitude": 59.1948088007942,
@@ -2182,7 +2182,7 @@
         "name": "ÅVS 7358  Vid Veterinär",
         "secondaryName": null,
         "propertyNumber": "VÅRSTA 1:118",
-        "streetAddress": "Vårsta centrum",
+        "streetAddress": "Vårsta centrum Ringvägen",
         "municipalityCode": "0127",
         "extraInfo": null,
         "latitude": 59.1643989337091,
@@ -37147,6 +37147,17 @@
         "longitude": 14.441392
     },
     {
+        "id": "12760",
+        "name": "Orrstigen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Orrstigen",
+        "municipalityCode": "1862",
+        "extraInfo": "",
+        "latitude": 59.250767,
+        "longitude": 14.446307
+    },
+    {
         "id": "12761",
         "name": "Sveagatan",
         "secondaryName": "",
@@ -37167,6 +37178,17 @@
         "extraInfo": "",
         "latitude": 59.255077,
         "longitude": 14.428104
+    },
+    {
+        "id": "16345",
+        "name": "Garagegatan",
+        "secondaryName": "",
+        "propertyNumber": "Agen 11:12",
+        "streetAddress": "Garagegatan 4",
+        "municipalityCode": "1862",
+        "extraInfo": "",
+        "latitude": 59.24282,
+        "longitude": 14.434922
     },
     {
         "id": "17291",
@@ -47179,6 +47201,17 @@
         "longitude": 13.08745
     },
     {
+        "id": "14557",
+        "name": "Handöl",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Hanriis Café",
+        "municipalityCode": "2321",
+        "extraInfo": "",
+        "latitude": 63.25278,
+        "longitude": 12.45056
+    },
+    {
         "id": "14558",
         "name": "Månsåsen",
         "secondaryName": "",
@@ -47265,6 +47298,28 @@
         "extraInfo": "",
         "latitude": 63.27143,
         "longitude": 12.26435
+    },
+    {
+        "id": "17447",
+        "name": "Ica Björnänge",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Björnänge 825",
+        "municipalityCode": "2321",
+        "extraInfo": "",
+        "latitude": 63.378415,
+        "longitude": 13.152974
+    },
+    {
+        "id": "17467",
+        "name": "ÅVC Staa",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Staa 107",
+        "municipalityCode": "2321",
+        "extraInfo": "",
+        "latitude": 63.399528,
+        "longitude": 12.829426
     },
     {
         "id": "232601",
