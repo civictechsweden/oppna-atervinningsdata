@@ -1481,7 +1481,7 @@
         "streetAddress": "Tappströmsvägen 1",
         "municipalityCode": "0125",
         "extraInfo": null,
-        "latitude": 59.2910938218619,
+        "latitude": 59.2910938219055,
         "longitude": 17.8069941672297
     },
     {
@@ -6010,7 +6010,7 @@
         "name": "Återvinningsstation 14433",
         "secondaryName": null,
         "propertyNumber": "HERRÄNGENS BOLLPLAN 2",
-        "streetAddress": "Segeltorpsvägen 37 ",
+        "streetAddress": "Segeltorpsvägen 37",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.272950678458,
@@ -35058,7 +35058,7 @@
     },
     {
         "id": "17163",
-        "name": "Charlottenberg Nolby",
+        "name": "Charlottenberg Hökedalen",
         "secondaryName": "",
         "propertyNumber": "NOLBY 1:38",
         "streetAddress": "Hökedalsvägen 3",
@@ -36579,7 +36579,7 @@
         "name": "Arvika Sjukhuset Taserud",
         "secondaryName": "",
         "propertyNumber": "SJUKHUSET 1",
-        "streetAddress": "Ekvägen 8",
+        "streetAddress": "Akutinfarten",
         "municipalityCode": "1784",
         "extraInfo": "",
         "latitude": 59.66722,
@@ -47092,7 +47092,7 @@
     },
     {
         "id": "115225",
-        "name": "CUS Skalbäcksstugan",
+        "name": "Kärrnäset CUS Skalbäcksstugan",
         "secondaryName": null,
         "propertyNumber": "KÄRRNÄSET S:1",
         "streetAddress": "Kärrnäset 285",
