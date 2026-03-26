@@ -5042,7 +5042,7 @@
         "name": "Återvinningsstation 16468",
         "secondaryName": null,
         "propertyNumber": "SÅGEN 22",
-        "streetAddress": "Hornsgatan 182 ",
+        "streetAddress": "Hornsgatan 182",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3150911577495,
@@ -6065,7 +6065,7 @@
         "name": "Återvinningsstation 14412",
         "secondaryName": null,
         "propertyNumber": "SKRUBBHYVELN 4",
-        "streetAddress": "Kistvägen 6  ",
+        "streetAddress": "Kistvägen 6",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.2644913947073,
@@ -37180,6 +37180,17 @@
         "longitude": 14.428104
     },
     {
+        "id": "16310",
+        "name": "Station",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "StationSvägen",
+        "municipalityCode": "1862",
+        "extraInfo": "",
+        "latitude": 59.228326,
+        "longitude": 14.441752
+    },
+    {
         "id": "16345",
         "name": "Garagegatan",
         "secondaryName": "",
@@ -37189,6 +37200,17 @@
         "extraInfo": "",
         "latitude": 59.24282,
         "longitude": 14.434922
+    },
+    {
+        "id": "16346",
+        "name": "Lärarevägen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Lärarevägen",
+        "municipalityCode": "1862",
+        "extraInfo": "",
+        "latitude": 59.239742,
+        "longitude": 14.43249
     },
     {
         "id": "17291",
@@ -37255,6 +37277,17 @@
         "extraInfo": "",
         "latitude": 59.127378,
         "longitude": 14.521615
+    },
+    {
+        "id": "99178",
+        "name": "Gästrikegatan",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Gästrikegatan",
+        "municipalityCode": "1862",
+        "extraInfo": "",
+        "latitude": 59.253929,
+        "longitude": 14.435563
     },
     {
         "id": "214436",
@@ -45651,10 +45684,10 @@
     },
     {
         "id": "4430032",
-        "name": "Gimåt, Grönområde vid bron",
+        "name": "Gimåtvägen  ",
         "secondaryName": null,
         "propertyNumber": "GIMÅT 1:63",
-        "streetAddress": "Gimåtvägen",
+        "streetAddress": "Gimåtvägen   ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.3155600284279,
