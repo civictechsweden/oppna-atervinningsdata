@@ -376,7 +376,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585099,Återvinningsstation 10036,,LISÖ 1,Färnebogatan 66 ,0180,,59.2458468122506,18.0972497953578
 585100,Återvinningsstation 10038,,SVEDJELANDET 3,Vintrosagatan 15 ,0180,,59.2614774951223,18.0176021157403
 585101,Återvinningsstation 10039,,ÄLVSJÖ 1:1,Stjärnsundsgatan 2 ,0180,,59.2620071173367,18.0028712598059
-585102,Återvinningsstation 10040,,STRUTHATTEN 3,Glanshammarsgatan 34 ,0180,,59.2646256380564,18.0101051432788
+585102,Återvinningsstation 10040,,STRUTHATTEN 3,Glanshammarsgatan 34,0180,,59.2646256380564,18.0101051432788
 585104,Återvinningsstation 10042,,KÄRRTORP 1:6,Holmögaddsvägen 1 ,0180,,59.2829372011076,18.1151977317665
 585105,Återvinningsstation 10043,,HOVRÄTTSRÅDET 2,Fogdevägen 116 ,0180,,59.2768674270151,18.126969446315
 585106,Återvinningsstation 10044,,HAMMARBYHÖJDEN 1:1,Olaus Magnus Väg 36,0180,,59.2974175983497,18.0913274536303
@@ -861,22 +861,17 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 9000837,ÅVS Karlholmsbruk,,,Nöttövägen 1,0360,Öppet dygnet runt,60.51972,17.62553
 9000838,ÅVS ÅVC Söderfors,,,Västermalmsvägen 36,0360,Öppettider finns på temab.tierp.se,60.39244,17.2311
 9000839,ÅVS ÅVC Gatmot,,,Gåvastbo 102,0360,Öppettider finns på temab.tierp.se,60.29092,17.57717
-4061348,ICA Almunge,,LILLA VÄSBY 1:34,LILLA VÄSBY 108,0380,,59.8697032436534,18.070708511333
-4061350,"Björklinge centrum, Parkering",,BJÖRKLINGE 2:4,NÄRA SÖDRA LÅNGÅSVÄGEN 2,0380,,60.0288099684533,17.5525315639305
 4061351,"Bälinge centrum, Matöppet Träffköp",,BÄLINGE-EKEBY 1:179,NÄRA KLOCKARBOLSVÄGEN 14,0380,,59.9466573759129,17.5327172140625
 4061353,"Oxsätra, Handlarn",,OXSÄTRA 1:30,OXSÄTRA 29,0380,,60.0016770586061,17.3620544417967
 4061354,Ramstalund reningsverk,,RAMSTA-LUND 10:1,NÄRA KYRKÄNGSVÄGEN 4,0380,,59.7959196968408,17.4427645625174
 4061355,Skyttorps brandstation,,SKYTTORP 8:2,FLISVÄGEN 2,0380,,60.077662871636,17.7391503716793
-4061356,"Boländerna, Parkering Coop",,FYRISLUND 6:2,RAPSGATAN 1,0380,,59.8460822513259,17.6928478455462
 4061358,"Fålhagen, Willys",,FÅLHAGEN 1:34,NÄRA BJÖRKGATAN 4,0380,,59.8651368621082,17.6622490953112
 4061359,Svamptorget ICA Norby,,NORBY 31:53,NÄRA SVAMPTORGET 1,0380,,59.8254086284679,17.6186406121831
-4061362,Vattholma Tempo,,VATTHOLMA 5:2,MALMVÅGSVÄGEN 7,0380,,60.0172316717956,17.7337991826685
 4061364,Vänge förskola,,VÄNGE-TÄBY 1:1,NÄRA GAMLA SALAVÄGEN 76,0380,,59.8529102297422,17.4457998608118
 4061365,Ekeby Coop,,FLOGSTA 39:1,KÖPENHAMNSGATAN 2,0380,,59.8509853527305,17.6059225939498
 4061368,Tuna Livs,,BÖRSTA 13:1,BÖRSTA 114 B,0380,,60.0234191696147,18.0675915109342
 4061369,Stenhagen ICA Maxi,,BERTHÅGA 45:3,NATURSTENSVÄGEN 6,0380,,59.849832621616,17.5584133065327
 4061373,"Brantingsskolan, Parkering",,SALA BACKE 1:1,NÄRA HJALMAR BRANTINGSGATAN 37,0380,,59.8678356084417,17.6688423534532
-4061382,Gränby Willys,,BRILLINGE 7:1,RÅBYVÄGEN 91,0380,,59.8865064777723,17.6602449707637
 4061385,Liljefors torg Lidl,,GRÄNBY 10:1,LILJEFORS TORG 2,0380,,59.8707174378531,17.6559384164796
 4061386,Gnista ICA Maxi,,DANMARKS-KUMLA 9:1,VISTHUSVÄGEN 1,0380,,59.8431863488785,17.7127023267918
 4061387,Järlåsa brandstation,,LILLA SLÄSSBO 1:182,SALAVÄGEN 18,0380,,59.8870263297237,17.1925602705981
@@ -1794,38 +1789,38 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 52090771,15022 (Järnvägsgatan),,BILLESHOLMS GÅRD 1:192,Järnvägsgatan,1260,,56.053838233973,12.9767090417918
 52090784,17585 (Spannmålsgatan 18),,ELESTORP 6:71,Spannmålsgatan 18,1260,,56.0027806644272,12.9543656898293
 52090809,15675 (Verkstadsgatan 7),,BJUV 3:55,Verkstadsgatan 7,1260,,56.0757468544124,12.9346101128144
-221659,"Kyrkvägen Barsebäck, Barsebäcks kyrka",,,Kyrkvägen Barsebäck    ,1261,,55.77111,12.95611
-221660,"Pinhättevägen 11 Barsebäckshamn, P-plats",,,Pinhättevägen 11 Barsebäckshamn    ,1261,,55.75667,12.91028
-221661,"Dagstorpsvägen 275 Dösjebro, Järnvägsstationen",,,Dagstorpsvägen 275 Dösjebro,1261,,55.82361,13.03139
-221663,"Bruksgatan/Nygatan Kävlinge, Coop Extra",,,Bruksgatan/Nygatan Kävlinge,1261,,55.79056,13.10694
-221664,Träningsvägen 6 Kävlinge,,,Träningsvägen 6 Kävlinge,1261,,55.79917,13.10889
-221665,"Skönadalsvägen/Pulpetvägen Hofterup, Hofterup Centrum",,,Skönadalsvägen/Pulpetvägen Hofterup   ,1261,,55.80722,12.97972
-221666,"Floravägen 41 Kävlinge, utanför Kävlinge ÅVC",,,Floravägen 41 Kävlinge ,1261,,55.78972,13.09861
-221667,Gryvägen Kävlinge,,,Gryvägen Kävlinge,1261,,55.80472,13.10972
-221669,"Idrottshemsvägen Lilla Harrie, bakom Bygdegården",,,Idrottshemsvägen Lilla Harrie,1261,,55.79278,13.20611
-221670,Transportvägen/Kontorsvägen Löddeköpinge,,,Transportvägen/Kontorsvägen Löddeköpinge,1261,,55.76861,12.99833
-221671,Husarvägen Furulund,,,Husarvägen Furulund,1261,,55.77778,13.10306
-221672,Sockenvägen/Häradsvägen Furulund,,,Sockenvägen/Häradsvägen Furulund,1261,,55.77041,13.08596
-221711,Fäladsvägen Löddeköpinge,,,Fäladsvägen Löddeköpinge,1261,,55.75972,12.99444
-221656,Alfredshällsvägen Bjärred,,,Alfredshällsvägen Bjärred,1262,,55.7175,13.04
-221673,"Sandstensgatan Lomma, Konsum vid vårdcentralen ",,,Sandstensgatan    ,1262,,55.67417,13.06972
-221675,Svanetorpsvägen/Malmövägen Lomma,,,Svanetorpsvägen/Malmövägen Lomma,1262,,55.66389,13.09306
-221676,Mellanvångsvägen Bjärred,,,Mellanvångsvägen Bjärred,1262,,55.72556,13.0275
-221677,"Centrumgatan/Biblioteksgatan Bara, Bara Centrum",,,Centrumgatan/Biblioteksgatan Bara,1263,,55.57694,13.17722
-221678,Bökebergsvägen Holmeja,,,Bökebergsvägen Holmeja,1263,,55.555,13.27472
-221679,Lars Fyhrs väg Klågerup,,,Lars Fyhrs väg Klågerup,1263,,55.59333,13.235
-221680,"Gustav Österlins väg/Malmövägen Svedala, P-plats",,,Gustav Österlins väg/Malmövägen Svedala ,1263,,55.5125,13.2225
-221681,Sjödikenvägen Svedala,,,Sjödikenvägen Svedala,1263,,55.51861,13.23889
-221683,"Börringevägen 10 Svedala, NFU-skolan",,,Börringevägen 10 Svedala,1263,,55.5075,13.24417
-221684,"Organistgatan Svedala, vändzon",,,Organistgatan Svedala,1263,,55.51306,13.23
-221685,Norra Ellenborgsgatan Svedala,,,Norra Ellenborgsgatan Svedala,1263,,55.50861,13.25167
-221686,Gjuterigatan/Möllegatan Svedala,,,Gjuterigatan/Möllegatan Svedala,1263,,55.50889,13.23028
-221687,"Rännilsgatan Svedala, Svedala ÅVC",,,Rännilsgatan Svedala,1263,,55.505,13.22083
-221688,"Företagsgatan Svedala, Mc Donalds",,,Företagsgatan Svedala,1263,,55.51611,13.245
-221690,Byggmästaregatan Svedala,,,Byggmästaregatan Svedala,1263,,55.50167,13.24306
-221691,"Returgatan Bara, Bara väster",,,Returgatan Bara,1263,,55.5775,13.16722
-221692,Möllebergavägen Bara öster,,,Möllebergavägen Bara,1263,,55.57917,13.19139
-221693,Solskensgatan N Erlandsdal Svedala,,,Solskensgatan N Erlandsdal Svedala,1263,,55.52111,13.23167
+221659,"Kyrkvägen Barsebäck, Barsebäcks kyrka",Sysav 040-6351800 kundservice@sysav.se,,Kyrkvägen Barsebäck    ,1261,Sysav 040-6351800 kundservice@sysav.se,55.77111,12.95611
+221660,"Pinhättevägen 11 Barsebäckshamn, P-plats",Sysav 040-6351800 kundservice@sysav.se,,Pinhättevägen 11 Barsebäckshamn    ,1261,Sysav 040-6351800 kundservice@sysav.se,55.75667,12.91028
+221661,"Dagstorpsvägen 275 Dösjebro, Järnvägsstationen",Sysav 040-6351800 kundservice@sysav.se,,Dagstorpsvägen 275 Dösjebro,1261,Sysav 040-6351800 kundservice@sysav.se,55.82361,13.03139
+221663,"Bruksgatan/Nygatan Kävlinge, Coop Extra",Sysav 040-6351800 kundservice@sysav.se,,Bruksgatan/Nygatan Kävlinge,1261,Sysav 040-6351800 kundservice@sysav.se,55.79056,13.10694
+221664,Träningsvägen 6 Kävlinge,Sysav 040-6351800 kundservice@sysav.se,,Träningsvägen 6 Kävlinge,1261,Sysav 040-6351800 kundservice@sysav.se,55.79917,13.10889
+221665,"Skönadalsvägen/Pulpetvägen Hofterup, Hofterup Centrum",Sysav 040-6351800 kundservice@sysav.se,,Skönadalsvägen/Pulpetvägen Hofterup   ,1261,Sysav 040-6351800 kundservice@sysav.se,55.80722,12.97972
+221666,"Floravägen 41 Kävlinge, utanför Kävlinge ÅVC",Sysav 040-6351800 kundservice@sysav.se,,Floravägen 41 Kävlinge ,1261,Sysav 040-6351800 kundservice@sysav.se,55.78972,13.09861
+221667,Gryvägen Kävlinge,Sysav 040-6351800 kundservice@sysav.se,,Gryvägen Kävlinge,1261,Sysav 040-6351800 kundservice@sysav.se,55.80472,13.10972
+221669,"Idrottshemsvägen Lilla Harrie, bakom Bygdegården",Sysav 040-6351800 kundservice@sysav.se,,Idrottshemsvägen Lilla Harrie,1261,Sysav 040-6351800 kundservice@sysav.se,55.79278,13.20611
+221670,Transportvägen/Kontorsvägen Löddeköpinge,Sysav 040-6351800 kundservice@sysav.se,,Transportvägen/Kontorsvägen Löddeköpinge,1261,Sysav 040-6351800 kundservice@sysav.se,55.76861,12.99833
+221671,Husarvägen Furulund,Sysav 040-6351800 kundservice@sysav.se,,Husarvägen Furulund,1261,Sysav 040-6351800 kundservice@sysav.se,55.77778,13.10306
+221672,Sockenvägen/Häradsvägen Furulund,Sysav 040-6351800 kundservice@sysav.se,,Sockenvägen/Häradsvägen Furulund,1261,Sysav 040-6351800 kundservice@sysav.se,55.77041,13.08596
+221711,Fäladsvägen Löddeköpinge,Sysav 040-6351800 kundservice@sysav.se,,Fäladsvägen Löddeköpinge,1261,Sysav 040-6351800 kundservice@sysav.se,55.75972,12.99444
+221656,Alfredshällsvägen Bjärred,Sysav 040-6351800 kundservice@sysav.se,,Alfredshällsvägen Bjärred,1262,Sysav 040-6351800 kundservice@sysav.se,55.7175,13.04
+221673,"Sandstensgatan Lomma, Konsum vid vårdcentralen ",Sysav 040-6351800 kundservice@sysav.se,,Sandstensgatan    ,1262,Sysav 040-6351800 kundservice@sysav.se,55.67417,13.06972
+221675,Svanetorpsvägen/Malmövägen Lomma,Sysav 040-6351800 kundservice@sysav.se,,Svanetorpsvägen/Malmövägen Lomma,1262,Sysav 040-6351800 kundservice@sysav.se,55.66389,13.09306
+221676,Mellanvångsvägen Bjärred,Sysav 040-6351800 kundservice@sysav.se,,Mellanvångsvägen Bjärred,1262,Sysav 040-6351800 kundservice@sysav.se,55.72556,13.0275
+221677,"Centrumgatan/Biblioteksgatan Bara, Bara Centrum",Sysav 040-6351800 kundservice@sysav.se,,Centrumgatan/Biblioteksgatan Bara,1263,Sysav 040-6351800 kundservice@sysav.se,55.57694,13.17722
+221678,Bökebergsvägen Holmeja,Sysav 040-6351800 kundservice@sysav.se,,Bökebergsvägen Holmeja,1263,Sysav 040-6351800 kundservice@sysav.se,55.555,13.27472
+221679,Lars Fyhrs väg Klågerup,Sysav 040-6351800 kundservice@sysav.se,,Lars Fyhrs väg Klågerup,1263,Sysav 040-6351800 kundservice@sysav.se,55.59333,13.235
+221680,"Gustav Österlins väg/Malmövägen Svedala, P-plats",Sysav 040-6351800 kundservice@sysav.se,,Gustav Österlins väg/Malmövägen Svedala ,1263,Sysav 040-6351800 kundservice@sysav.se,55.5125,13.2225
+221681,Sjödikenvägen Svedala,Sysav 040-6351800 kundservice@sysav.se,,Sjödikenvägen Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.51861,13.23889
+221683,"Börringevägen 10 Svedala, NFU-skolan",Sysav 040-6351800 kundservice@sysav.se,,Börringevägen 10 Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.5075,13.24417
+221684,"Organistgatan Svedala, vändzon",Sysav 040-6351800 kundservice@sysav.se,,Organistgatan Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.51306,13.23
+221685,Norra Ellenborgsgatan Svedala,Sysav 040-6351800 kundservice@sysav.se,,Norra Ellenborgsgatan Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.50861,13.25167
+221686,Gjuterigatan/Möllegatan Svedala,Sysav 040-6351800 kundservice@sysav.se,,Gjuterigatan/Möllegatan Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.50889,13.23028
+221687,"Rännilsgatan Svedala, Svedala ÅVC",Sysav 040-6351800 kundservice@sysav.se,,Rännilsgatan Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.505,13.22083
+221688,"Företagsgatan Svedala, Mc Donalds",Sysav 040-6351800 kundservice@sysav.se,,Företagsgatan Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.51611,13.245
+221690,Byggmästaregatan Svedala,Sysav 040-6351800 kundservice@sysav.se,,Byggmästaregatan Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.50167,13.24306
+221691,"Returgatan Bara, Bara väster",Sysav 040-6351800 kundservice@sysav.se,,Returgatan Bara,1263,Sysav 040-6351800 kundservice@sysav.se,55.5775,13.16722
+221692,Möllebergavägen Bara öster,Sysav 040-6351800 kundservice@sysav.se,,Möllebergavägen Bara,1263,Sysav 040-6351800 kundservice@sysav.se,55.57917,13.19139
+221693,Solskensgatan N Erlandsdal Svedala,Sysav 040-6351800 kundservice@sysav.se,,Solskensgatan N Erlandsdal Svedala,1263,Sysav 040-6351800 kundservice@sysav.se,55.52111,13.23167
 11948,ÅVS Bingsmarken,,,Bingsmarkens camping,1264,,55.38639,13.50028
 12823,ÅVS Slimminge,,,Slimminge,1264,,55.50722,13.54861
 16851,ÅVS Rydsgård,,,Lars Mårtens väg,1264,,55.47389,13.59167
@@ -2976,13 +2971,10 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 013,Centrum Nornan,,,Södra Kyrkogatan 36,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.722042,12.944399
 014,Centrum Norrmalm,,,Hornsgatan 39,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.73306,12.94861
 015,Centrum Pinocchio,,,Österlånggatan 74,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.71639,12.94389
-016,Dalsjöfors Hansavägen,,,Hansavägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.72,13.11556
 017,Dalsjöfors Hjortrydsvägen,,,Hjortrydsvägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.72806,13.10194
 018,Dammsvedjan,,,Svedjegatan 15,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.69917,12.94278
 019,Dannike,,,Centrumvägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.68889,13.22639
 021,Ekås,,,Ekåsvägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.74278,12.89417
-022,Femskiftet,,,Roasjövägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.63028,13.025
-023,Fristad Påtorp,,,Hedagärdsvägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.82472,12.98694
 024,Fristad Åvc,,,Skalle,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.81472,13.01417
 025,Fristad Torget,,,Nya Kyrkvägen 6,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.82472,13.01222
 028,Gånghester,,,Stora Vägen 2,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.69778,13.02639
@@ -2995,11 +2987,9 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 036,Hässleholmen Marklandsgatan,,,Marklandsgatan 2,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.73139,12.97722
 037,Hässleholmen Solvarvsgatan,,,Solvarvsgatan,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.72472,12.97889
 038,Hässleholmen Våglängdsgatan,,,Våglängdsgatan 5,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.73083,12.98
-039,Kinnarumma,,,Byvägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.59889,12.87806
 040,Dalsjöfors Åvc,,,Ställvägen,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.715,13.085
 041,Knalleland Skaraborgsvägen,,,Skaraborgsvägen 33,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.73028,12.9375
 042,Knalleland Storknallen,,,Herrljungagatan,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.73444,12.94222
-043,Knalleland Bergslenagatan,,,Bergslenagatan 3,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.73167,12.93778
 044,Kristineberg,,,Lars Kaggsgatan,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.70583,12.94306
 046,Lundaskog,,,Göteborgsvägen 181,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.71472,12.86778
 047,Målsryd,,,Svenljungavägen 7,1490,"Se vad du kan sortera på varje station samt dess tömningsdagar i vår app ""Sortera med mera"", där kan du även felanmäla.",57.68222,13.05306
@@ -4157,7 +4147,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430034,Hummelviksvägen  ,,HUMMELVIK 4:83,Hummelviksvägen   ,2284,,63.1680252418828,18.5622120896248
 4430035,"Solberg, Vid vändplanen",,SOLBERG 1:196,Hässjevägen,2284,,63.7883222697576,17.632751046785
 4430036,Järvhagavägen  ,,JÄRVHAGA 2,Järvhagavägen   ,2284,,63.284499482048,18.7462334884717
-4430037,"Björna, Korsningen Björkvägen/Husumvägen",,ÅVS,Björkvägen ,2284,,63.5454299851143,18.6106135518395
+4430037,Björkvägen  ,,ÅVS,Björkvägen   ,2284,,63.5454299851143,18.6106135518395
 4430038,"Mellansel, Coop P-plats",,MELLANSEL 1:103,Centrumgatan ,2284,,63.4264709442699,18.3088791208029
 4430039,"Hemling, Hemlings Lanthandel",,BJÖRNA-HEMLING 17:2,Hemling,2284,,63.6510755508429,18.5460070604438
 4430040,Hörneborgsvägen  ,,HÖRNETT 47:1,Hörneborgsvägen   ,2284,,63.272287353438,18.6936258055391
