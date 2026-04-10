@@ -5908,7 +5908,7 @@
     },
     {
         "id": "585333",
-        "name": "Återvinningsstation 10240",
+        "name": "Återvinningsstation 10240 (Pausad)",
         "secondaryName": null,
         "propertyNumber": "BJUREN 2",
         "streetAddress": "Valla Torg 63",
@@ -9570,17 +9570,6 @@
         "longitude": 17.6059225939498
     },
     {
-        "id": "4061368",
-        "name": "Tuna Livs",
-        "secondaryName": null,
-        "propertyNumber": "BÖRSTA 13:1",
-        "streetAddress": "BÖRSTA 114 B",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 60.0234191696147,
-        "longitude": 18.0675915109342
-    },
-    {
         "id": "4061369",
         "name": "Stenhagen ICA Maxi",
         "secondaryName": null,
@@ -9612,17 +9601,6 @@
         "extraInfo": null,
         "latitude": 59.8707174378531,
         "longitude": 17.6559384164796
-    },
-    {
-        "id": "4061386",
-        "name": "Gnista ICA Maxi",
-        "secondaryName": null,
-        "propertyNumber": "DANMARKS-KUMLA 9:1",
-        "streetAddress": "VISTHUSVÄGEN 1",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.8431863488785,
-        "longitude": 17.7127023267918
     },
     {
         "id": "4061387",
@@ -9680,17 +9658,6 @@
         "longitude": 17.6087685615437
     },
     {
-        "id": "4061397",
-        "name": "Kungsgatan Willys",
-        "secondaryName": null,
-        "propertyNumber": "KUNGSÄNGEN 24:3",
-        "streetAddress": "KUNGSGATAN 95",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.8493490748372,
-        "longitude": 17.6582998254921
-    },
-    {
         "id": "4061398",
         "name": "Luthagen Fyrisskolan",
         "secondaryName": null,
@@ -9700,28 +9667,6 @@
         "extraInfo": null,
         "latitude": 59.8663088640725,
         "longitude": 17.6227919296258
-    },
-    {
-        "id": "4061399",
-        "name": "Boländerna Stadium",
-        "secondaryName": null,
-        "propertyNumber": "FYRISLUND S:1",
-        "streetAddress": "NÄRA RAPSGATAN 5D",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.849700198192,
-        "longitude": 17.6931231508828
-    },
-    {
-        "id": "4061400",
-        "name": "Vilan Ica Sävja",
-        "secondaryName": null,
-        "propertyNumber": "NÅNTUNA 5:45",
-        "streetAddress": "NÄRA VILANVÄGEN 2",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.8207417309838,
-        "longitude": 17.6965105986769
     },
     {
         "id": "988229",
