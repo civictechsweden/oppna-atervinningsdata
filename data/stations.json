@@ -4635,7 +4635,7 @@
         "name": "Återvinningsstation 16942",
         "secondaryName": null,
         "propertyNumber": "ÅRSTA 1:1",
-        "streetAddress": "Östbergabackarna 73 ",
+        "streetAddress": "Östbergabackarna 73",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.2886924586757,
@@ -37821,7 +37821,7 @@
         "id": "79477",
         "name": "Brevens Bruk ÅVS",
         "secondaryName": null,
-        "propertyNumber": "Breven 1:33",
+        "propertyNumber": "BREVEN 1:33",
         "streetAddress": "Smedvägen 1",
         "municipalityCode": "1880",
         "extraInfo": null,
@@ -45519,14 +45519,14 @@
     },
     {
         "id": "4430032",
-        "name": "Gimåtvägen  ",
+        "name": "Gimåtvägen",
         "secondaryName": null,
         "propertyNumber": "GIMÅT 1:63",
-        "streetAddress": "Gimåtvägen   ",
+        "streetAddress": "Gimåtvägen",
         "municipalityCode": "2284",
         "extraInfo": null,
-        "latitude": 63.3155600284279,
-        "longitude": 18.7048130316866
+        "latitude": 63.3173819566322,
+        "longitude": 18.7072641936866
     },
     {
         "id": "4430033",
