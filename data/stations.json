@@ -4844,7 +4844,7 @@
         "name": "Återvinningsstation 16647",
         "secondaryName": null,
         "propertyNumber": "BJÖRKLÅNGEN 1",
-        "streetAddress": "Sandfjärdsgatan 9 ",
+        "streetAddress": "Sandfjärdsgatan 9",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.2952613590495,
@@ -37235,160 +37235,6 @@
         "longitude": 14.7311087442934
     },
     {
-        "id": "214446",
-        "name": "BJÖRKSJÖN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "BJÖRKSJÖN 4:17",
-        "streetAddress": "BJÖRKSJÖN 14",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.8280467266894,
-        "longitude": 14.8077706961304
-    },
-    {
-        "id": "214447",
-        "name": "GRÄNGEN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "STORA HÄSTNÄS 1:19",
-        "streetAddress": "GRÄNGEN",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.7267872057658,
-        "longitude": 14.8403467094585
-    },
-    {
-        "id": "214448",
-        "name": "GRÄNGSHYTTAN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "GRÄNGSHYTTAN 1:32",
-        "streetAddress": "GRÄNGSHYTTAN",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.7247160487655,
-        "longitude": 14.7852757555107
-    },
-    {
-        "id": "214449",
-        "name": "KNUTHÖJDEN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "SÅNGSHYTTAN 1:143",
-        "streetAddress": "KNUTHÖJDEN",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.7886091217037,
-        "longitude": 14.4713758000248
-    },
-    {
-        "id": "214450",
-        "name": "NYGÅRD OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "HÄLLEFORS 9:1",
-        "streetAddress": "NYGÅRD",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.7574931453126,
-        "longitude": 14.474714105709
-    },
-    {
-        "id": "214451",
-        "name": "ROCKESHOLM OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "SKÄRTORP 3:1",
-        "streetAddress": "ROCKESHOLM",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.5327772749479,
-        "longitude": 14.6383299975323
-    },
-    {
-        "id": "214452",
-        "name": "SAXHYTTAN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "SAXHYTTAN S:3",
-        "streetAddress": "SAXHYTTAN",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.7416654678453,
-        "longitude": 14.4673690771249
-    },
-    {
-        "id": "214453",
-        "name": "SAXHYTTEFALLET OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "SVARTÄLVSTORP 1:1",
-        "streetAddress": "SAXHYTTEFALLET",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.7365781895999,
-        "longitude": 14.5191551962033
-    },
-    {
-        "id": "214454",
-        "name": "SIKFORS OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "HÄLLEFORS 9:1",
-        "streetAddress": "SIKFORS",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.8041662981427,
-        "longitude": 14.587220303001
-    },
-    {
-        "id": "214455",
-        "name": "SILVERGRUVAN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "HÄLLEFORS 9:1",
-        "streetAddress": "SILVERGRUVAN",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.8522205438096,
-        "longitude": 14.464158292659
-    },
-    {
-        "id": "214456",
-        "name": "SKÅLN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "SKÅLEN S:1",
-        "streetAddress": "SKÅLN",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.8369410524946,
-        "longitude": 14.618041518677
-    },
-    {
-        "id": "214457",
-        "name": "SÅNGSHYTTAN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "SAXHYTTAN 3:1",
-        "streetAddress": "SÅNGSHYTTAN",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.8186095152397,
-        "longitude": 14.4435942771
-    },
-    {
-        "id": "214458",
-        "name": "SÄVSJÖN OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "HÄLLEFORS 9:1",
-        "streetAddress": "SÄVSJÖN",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.9108331334958,
-        "longitude": 14.5477731908052
-    },
-    {
-        "id": "214459",
-        "name": "ÄLVESTORP OBS! PLATSEN UPPHÖR SOM INSAMLINGSPLATS FRÅN 2026-03-31",
-        "secondaryName": null,
-        "propertyNumber": "ÄLVESTORP 1:9",
-        "streetAddress": "ÄLVESTORP",
-        "municipalityCode": "1863",
-        "extraInfo": null,
-        "latitude": 59.6311078093475,
-        "longitude": 14.5602605080475
-    },
-    {
         "id": "415210",
         "name": "BÅNGBRO HERRGÅRDSVÄGEN",
         "secondaryName": null,
@@ -46267,7 +46113,7 @@
     },
     {
         "id": "115054",
-        "name": "Backe Hälsocentralen",
+        "name": "LIP Backe Hälsocentral",
         "secondaryName": null,
         "propertyNumber": "BACKE 15:1",
         "streetAddress": "Lasarettsvägen",
@@ -46289,7 +46135,7 @@
     },
     {
         "id": "115056",
-        "name": "Hammerdal Gamla Konsum",
+        "name": "LIP Hammerdal Gamla Konsum",
         "secondaryName": null,
         "propertyNumber": "HAMMERDAL 4:57",
         "streetAddress": "Storgatan",
@@ -46300,7 +46146,7 @@
     },
     {
         "id": "115057",
-        "name": "Hoting Folkets Hus",
+        "name": "LIP Hoting Folkets Hus",
         "secondaryName": null,
         "propertyNumber": "HOTING 2:337",
         "streetAddress": "Parkgatan",
@@ -46322,7 +46168,7 @@
     },
     {
         "id": "115059",
-        "name": "Jorm Skoterinfo, CUS",
+        "name": "CUS Jorm Skoterinfo",
         "secondaryName": null,
         "propertyNumber": "JORM 1:311",
         "streetAddress": "Jormvattnet",
@@ -46333,7 +46179,7 @@
     },
     {
         "id": "115060",
-        "name": "Lidsjöberg CUS, Vildmarksaffären",
+        "name": "CUS Lidsjöberg, Vildmarksaffären",
         "secondaryName": null,
         "propertyNumber": "LIDSJÖBERG 1:6",
         "streetAddress": "Lidsjöberg 105",
@@ -46377,7 +46223,7 @@
     },
     {
         "id": "115070",
-        "name": "Gäddede Brogatan CUS",
+        "name": "CUS Gäddede Brogatan",
         "secondaryName": null,
         "propertyNumber": "GÄDDEDE 1:318",
         "streetAddress": "Brogatan 22",
@@ -46388,7 +46234,7 @@
     },
     {
         "id": "115073",
-        "name": "Brattbäcken CUS, vid gamla skolan",
+        "name": "CUS Brattbäcken, vid gamla skolan",
         "secondaryName": null,
         "propertyNumber": "BRATTBÄCKEN 1:150",
         "streetAddress": "Brattbäcken 895",
@@ -46399,7 +46245,7 @@
     },
     {
         "id": "115101",
-        "name": "Blomstervägen",
+        "name": "LIP Blomstervägen",
         "secondaryName": null,
         "propertyNumber": "MASKROSEN 15",
         "streetAddress": "Blomstervägen",
@@ -46410,7 +46256,7 @@
     },
     {
         "id": "115103",
-        "name": "Näsviken golfbanan CUS",
+        "name": "CUS Näsviken golfbanan",
         "secondaryName": null,
         "propertyNumber": "STRÖMS-NÄSET 1:217",
         "streetAddress": "Näsviken golfbanan",
@@ -46421,7 +46267,7 @@
     },
     {
         "id": "115104",
-        "name": "Kakuåsen, CUS",
+        "name": "CUS Kakuåsen",
         "secondaryName": null,
         "propertyNumber": "KAKUÅSEN 1:160",
         "streetAddress": "Kakuåsen",
@@ -46432,7 +46278,7 @@
     },
     {
         "id": "115105",
-        "name": "Backe Vattentornet CUS",
+        "name": "CUS Backe Vattentornet",
         "secondaryName": null,
         "propertyNumber": "BACKE 1:147",
         "streetAddress": "Vattentornet",
@@ -46454,7 +46300,7 @@
     },
     {
         "id": "115108",
-        "name": "Lövvik CUS",
+        "name": "CUS Lövvik",
         "secondaryName": null,
         "propertyNumber": "LÖVVIK 1:27",
         "streetAddress": "Lövvik",
@@ -46465,7 +46311,7 @@
     },
     {
         "id": "115109",
-        "name": "Lövberga CUS",
+        "name": "CUS Lövberga",
         "secondaryName": null,
         "propertyNumber": "LÖVBERGA 1:78",
         "streetAddress": "Lövberga",
@@ -46476,7 +46322,7 @@
     },
     {
         "id": "115111",
-        "name": "Gäddede Södra CUS",
+        "name": "CUS Gäddede Södra",
         "secondaryName": null,
         "propertyNumber": "GÄDDEDE 1:380",
         "streetAddress": "Strömsvägen",
@@ -46487,7 +46333,7 @@
     },
     {
         "id": "115112",
-        "name": "Rossön CUS Näsvägen, gamla reningsverket",
+        "name": "CUS Rossön Näsvägen, gamla reningsverket",
         "secondaryName": null,
         "propertyNumber": "BODUM 1:45",
         "streetAddress": "Näsvägen",
@@ -46498,7 +46344,7 @@
     },
     {
         "id": "115123",
-        "name": "Strömvallen CUS",
+        "name": "CUS Strömvallen",
         "secondaryName": null,
         "propertyNumber": "GRELSGÅRD 3:47",
         "streetAddress": "Ramselevägen",
@@ -46509,7 +46355,7 @@
     },
     {
         "id": "115124",
-        "name": "Strand CUS",
+        "name": "CUS Strand",
         "secondaryName": null,
         "propertyNumber": "STRAND 2:28",
         "streetAddress": "Strand",
@@ -46520,7 +46366,7 @@
     },
     {
         "id": "115125",
-        "name": "Vängel CUS",
+        "name": "CUS Vängel",
         "secondaryName": null,
         "propertyNumber": "VÄNGEL 1:37",
         "streetAddress": "Vängel 240",
@@ -46531,7 +46377,7 @@
     },
     {
         "id": "115126",
-        "name": "Gåxsjö Tallgläntan, CUS",
+        "name": "CUS Gåxsjö Tallgläntan",
         "secondaryName": null,
         "propertyNumber": "GÅXSJÖ 2:80",
         "streetAddress": "Lomåsen 110",
@@ -46542,7 +46388,7 @@
     },
     {
         "id": "115127",
-        "name": "Yxskaftkälen Bygdegården, CUS",
+        "name": "CUS Yxskaftkälen Bygdegården",
         "secondaryName": null,
         "propertyNumber": "YXSKAFTKÄLEN 1:41",
         "streetAddress": "Yxskaftkälen 540",
@@ -46553,7 +46399,7 @@
     },
     {
         "id": "115128",
-        "name": "Hoting Reningsverket",
+        "name": "CUS Hotings Reningsverk",
         "secondaryName": null,
         "propertyNumber": "HOTING 2:245",
         "streetAddress": "Idrottsgatan 21",
@@ -46564,7 +46410,7 @@
     },
     {
         "id": "115129",
-        "name": "Siljeåsen CUS",
+        "name": "CUS Siljeåsen",
         "secondaryName": null,
         "propertyNumber": "SILJEÅSEN 1:25",
         "streetAddress": "Siljeåsen",
@@ -46575,7 +46421,7 @@
     },
     {
         "id": "115130",
-        "name": "Järvsand CUS",
+        "name": "CUS Järvsand",
         "secondaryName": null,
         "propertyNumber": "JÄRVSAND 1:75",
         "streetAddress": "Järvsand 360",
@@ -46586,7 +46432,7 @@
     },
     {
         "id": "115131",
-        "name": "Östra Havsnäs CUS",
+        "name": "CUS Östra Havsnäs",
         "secondaryName": null,
         "propertyNumber": "HAVSNÄS 1:257",
         "streetAddress": "Östra Havsnäs 325",
@@ -46597,7 +46443,7 @@
     },
     {
         "id": "115132",
-        "name": "Södra Öhn, CUS",
+        "name": "CUS Södra Öhn",
         "secondaryName": null,
         "propertyNumber": "TULLINGSÅS 7:67",
         "streetAddress": "Bredkälsflon 120",
@@ -46608,7 +46454,7 @@
     },
     {
         "id": "115133",
-        "name": "Västertåsjö CUS",
+        "name": "CUS Västertåsjö",
         "secondaryName": null,
         "propertyNumber": "VÄSTERTÅSJÖ 1:88",
         "streetAddress": "Västertåsjö 340",
@@ -46619,7 +46465,7 @@
     },
     {
         "id": "115134",
-        "name": "Fagerdal CUS",
+        "name": "CUS Fagerdal",
         "secondaryName": null,
         "propertyNumber": "GISSELÅS 2:62",
         "streetAddress": "Fagerdal",
@@ -46630,7 +46476,7 @@
     },
     {
         "id": "115160",
-        "name": "Alanäs CUS",
+        "name": "CUS Alanäs",
         "secondaryName": null,
         "propertyNumber": "ALANÄSET 2:1",
         "streetAddress": "Alanäs",
@@ -46641,7 +46487,7 @@
     },
     {
         "id": "115161",
-        "name": "Ringvattnet CUS",
+        "name": "CUS Ringvattnet",
         "secondaryName": null,
         "propertyNumber": "RINGVATTNET 1:61",
         "streetAddress": "Ringvattnet",
@@ -46652,7 +46498,7 @@
     },
     {
         "id": "115162",
-        "name": "Hallviken CUS",
+        "name": "Cus Hallviken",
         "secondaryName": null,
         "propertyNumber": "HAMMERDALS-SVEDJE 1:1",
         "streetAddress": "Hallviken",
@@ -46663,7 +46509,7 @@
     },
     {
         "id": "115163",
-        "name": "Tullingsås CUS",
+        "name": "CUS Tullingsås",
         "secondaryName": null,
         "propertyNumber": "TULLINGSÅS 7:15",
         "streetAddress": "Tullingsås 210",
@@ -46674,7 +46520,7 @@
     },
     {
         "id": "115164",
-        "name": "Bredkälen CUS",
+        "name": "CUS Bredkälen ",
         "secondaryName": null,
         "propertyNumber": "BREDKÄLEN 1:70",
         "streetAddress": "Bredkälen 170",
@@ -46685,7 +46531,7 @@
     },
     {
         "id": "115165",
-        "name": "Sjulsåsen",
+        "name": "CUS Sjulsåsen",
         "secondaryName": null,
         "propertyNumber": "SJULSÅSEN 1:7",
         "streetAddress": "Sjulsåsen",
@@ -46696,7 +46542,7 @@
     },
     {
         "id": "115167",
-        "name": "Färjsundet CUS",
+        "name": "CUS Färjsundet",
         "secondaryName": null,
         "propertyNumber": "TÄXAN 2:28",
         "streetAddress": "Färjsundet 115",
@@ -46707,7 +46553,7 @@
     },
     {
         "id": "115168",
-        "name": "Lorås CUS",
+        "name": "CUS Lorås ",
         "secondaryName": null,
         "propertyNumber": "LORÅS 2:24",
         "streetAddress": "Lorås 210",
@@ -46718,7 +46564,7 @@
     },
     {
         "id": "115169",
-        "name": "Rudsjö CUS",
+        "name": "CUS Rudsjö",
         "secondaryName": null,
         "propertyNumber": "RUDSJÖN 1:25",
         "streetAddress": "Rudsjö 115",
@@ -46729,7 +46575,7 @@
     },
     {
         "id": "115170",
-        "name": "Rossön CUS, Ringvägen",
+        "name": "CUS Rossön, Ringvägen",
         "secondaryName": null,
         "propertyNumber": "ORRNÄS 4:5",
         "streetAddress": "Ringvägen",
@@ -46740,7 +46586,7 @@
     },
     {
         "id": "115179",
-        "name": "Backe Reningsverket CUS",
+        "name": "CUS Backe Reningsverk",
         "secondaryName": null,
         "propertyNumber": "FJÄLLSJÖ-SUNNANSJÖ 2:23",
         "streetAddress": "Sunnansjö 330",
@@ -46751,7 +46597,7 @@
     },
     {
         "id": "115181",
-        "name": "Stora Blåsjön Östra, CUS",
+        "name": "CUS Stora Blåsjön Östra",
         "secondaryName": null,
         "propertyNumber": "STORA BLÅSJÖN 2:8",
         "streetAddress": "Stora Blåsjön",
@@ -46762,7 +46608,7 @@
     },
     {
         "id": "115184",
-        "name": "Backe Kyrkvägen CUS",
+        "name": "CUS Backe Kyrkvägen",
         "secondaryName": null,
         "propertyNumber": "BACKE 29:1",
         "streetAddress": "Kyrkvägen",
@@ -46773,7 +46619,7 @@
     },
     {
         "id": "115185",
-        "name": "Norråker, reningsverket",
+        "name": "CUS Norråker, reningsverket",
         "secondaryName": null,
         "propertyNumber": "TÅSJÖ-NORRBY 1:121",
         "streetAddress": "Skolgatan 19",
@@ -46784,7 +46630,7 @@
     },
     {
         "id": "115188",
-        "name": "Tåsjöedet CUS",
+        "name": "CUS Tåsjöedet",
         "secondaryName": null,
         "propertyNumber": "TÅSJÖ KAPELLJORD 1:1",
         "streetAddress": "Tåsjö",
@@ -46795,7 +46641,7 @@
     },
     {
         "id": "115189",
-        "name": "Hillsand",
+        "name": "CUS Hillsand",
         "secondaryName": null,
         "propertyNumber": "HILLSAND 1:112",
         "streetAddress": "Hillsand",
@@ -46806,7 +46652,7 @@
     },
     {
         "id": "115197",
-        "name": "Stora Blåsjön Västra, CUS",
+        "name": "CUS Stora Blåsjön Västra",
         "secondaryName": null,
         "propertyNumber": "STORA BLÅSJÖN 2:9",
         "streetAddress": "Stora Blåsjön",
@@ -46817,7 +46663,7 @@
     },
     {
         "id": "115200",
-        "name": "Ankarvattnet CUS",
+        "name": "CUS Ankarvattnet",
         "secondaryName": null,
         "propertyNumber": "ANKARVATTNET 1:1",
         "streetAddress": "Ankarvattnet",
@@ -46828,7 +46674,7 @@
     },
     {
         "id": "115201",
-        "name": "Ede CUS",
+        "name": "CUS Ede",
         "secondaryName": null,
         "propertyNumber": "EDE 14:1",
         "streetAddress": "Ede 725",
@@ -46839,7 +46685,7 @@
     },
     {
         "id": "115202",
-        "name": "Kilen CUS",
+        "name": "CUS Kilen",
         "secondaryName": null,
         "propertyNumber": "KILEN 1:19",
         "streetAddress": "Kilen 115",
@@ -46850,7 +46696,7 @@
     },
     {
         "id": "115203",
-        "name": "Junsternäs CUS",
+        "name": "CUS Junsternäs",
         "secondaryName": null,
         "propertyNumber": "JUNSTERNÄSET 1:1",
         "streetAddress": "Junsternäset 220",
@@ -46861,7 +46707,7 @@
     },
     {
         "id": "115204",
-        "name": "Sikåssågen CUS",
+        "name": "CUS Sikåssågen",
         "secondaryName": null,
         "propertyNumber": "SIKÅS 7:37",
         "streetAddress": "Sikås sågvägen",
@@ -46872,7 +46718,7 @@
     },
     {
         "id": "115206",
-        "name": "Blåsjöfallet",
+        "name": "CUS Blåsjöfallet",
         "secondaryName": null,
         "propertyNumber": "JORM 1:139",
         "streetAddress": "Blåsjöfallet 200",
@@ -46883,7 +46729,7 @@
     },
     {
         "id": "115207",
-        "name": "Jorm Skola",
+        "name": "CUS Jormskola",
         "secondaryName": null,
         "propertyNumber": "JORM 1:163",
         "streetAddress": "Jormvattnet 955",
@@ -46894,7 +46740,7 @@
     },
     {
         "id": "115208",
-        "name": "Raftsjöhöjden",
+        "name": "CUS Raftsjöhöjden",
         "secondaryName": null,
         "propertyNumber": "RAFTSJÖHÖJDEN 1:12",
         "streetAddress": "Raftsjöhöjden 315",
@@ -46905,7 +46751,7 @@
     },
     {
         "id": "115209",
-        "name": "Kyrktåsjö Fotbollsplan",
+        "name": "CUS Kyrktåsjö Fotbollsplan",
         "secondaryName": null,
         "propertyNumber": "KARBÄCKEN 1:108",
         "streetAddress": "Kyrktåsjö",
@@ -46916,7 +46762,7 @@
     },
     {
         "id": "115210",
-        "name": "Vågdalen",
+        "name": "CUS Vågdalen",
         "secondaryName": null,
         "propertyNumber": "VÅGDALEN 1:76",
         "streetAddress": "Vågdalen 460",
@@ -46927,7 +46773,7 @@
     },
     {
         "id": "115211",
-        "name": "Alavattnet",
+        "name": "CUS Alavattnet",
         "secondaryName": null,
         "propertyNumber": "ALAVATTNET 1:59",
         "streetAddress": "Alavattnet",
@@ -46938,7 +46784,7 @@
     },
     {
         "id": "115223",
-        "name": "Valåbränna",
+        "name": "CUS Valåbränna",
         "secondaryName": null,
         "propertyNumber": "SIL 1:5",
         "streetAddress": "Fjällsjösil 170",
@@ -46949,7 +46795,7 @@
     },
     {
         "id": "115224",
-        "name": "Silsjönäs",
+        "name": "CUS Silsjönäs",
         "secondaryName": null,
         "propertyNumber": "FJÄLLSJÖ-SUNNANSJÖ 2:13",
         "streetAddress": "Silsjönäs 195",
@@ -46960,7 +46806,7 @@
     },
     {
         "id": "115225",
-        "name": "Kärrnäset CUS Skalbäcksstugan",
+        "name": "CUS Kärrnäset Skalbäcksstugan",
         "secondaryName": null,
         "propertyNumber": "KÄRRNÄSET S:1",
         "streetAddress": "Kärrnäset 285",
@@ -49256,6 +49102,17 @@
         "extraInfo": "",
         "latitude": 64.00417,
         "longitude": 20.39278
+    },
+    {
+        "id": "4415922",
+        "name": "ÅVS Skogsbrynet",
+        "secondaryName": "13247",
+        "propertyNumber": "GULDSKRINET 1",
+        "streetAddress": "Åvs Skogsbrynet ",
+        "municipalityCode": "2480",
+        "extraInfo": "",
+        "latitude": 63.8325,
+        "longitude": 20.28472
     },
     {
         "id": "4415923",
