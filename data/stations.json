@@ -1753,7 +1753,7 @@
         "name": "ÅVS 8133 Stortorpshallens Parkering",
         "secondaryName": null,
         "propertyNumber": "BASUNEN 13",
-        "streetAddress": "Printz väg",
+        "streetAddress": "Printz väg 7-15",
         "municipalityCode": "0126",
         "extraInfo": null,
         "latitude": 59.2349489025677,
@@ -1841,11 +1841,11 @@
         "name": "ÅVS 8088 Vid vändplan",
         "secondaryName": null,
         "propertyNumber": "RÅDSBACKEN 12",
-        "streetAddress": "Rådsvägen14",
+        "streetAddress": "Rådsvägen 13",
         "municipalityCode": "0126",
         "extraInfo": null,
-        "latitude": 59.2420862588696,
-        "longitude": 17.9891556794581
+        "latitude": 59.2419772029901,
+        "longitude": 17.98842697639
     },
     {
         "id": "97279",
@@ -4632,7 +4632,7 @@
     },
     {
         "id": "585176",
-        "name": "Återvinningsstation 16942",
+        "name": "stängd 2026-04-21",
         "secondaryName": null,
         "propertyNumber": "ÅRSTA 1:1",
         "streetAddress": "Östbergabackarna 73",
@@ -46273,8 +46273,8 @@
         "streetAddress": "Kakuåsen",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 63.7220744887924,
-        "longitude": 14.9514584538407
+        "latitude": 63.7220180923914,
+        "longitude": 14.9517949103472
     },
     {
         "id": "115105",
@@ -46394,8 +46394,8 @@
         "streetAddress": "Yxskaftkälen 540",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 63.7789823642167,
-        "longitude": 15.2260881208987
+        "latitude": 63.7787507723451,
+        "longitude": 15.2262159263004
     },
     {
         "id": "115128",
@@ -46449,8 +46449,8 @@
         "streetAddress": "Bredkälsflon 120",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 63.8455894521867,
-        "longitude": 15.4045626904982
+        "latitude": 63.8454905330755,
+        "longitude": 15.4046597027236
     },
     {
         "id": "115133",
@@ -46559,8 +46559,8 @@
         "streetAddress": "Lorås 210",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 63.4968391704107,
-        "longitude": 15.2559159522513
+        "latitude": 63.4965395783449,
+        "longitude": 15.2554374392637
     },
     {
         "id": "115169",
@@ -46603,8 +46603,8 @@
         "streetAddress": "Stora Blåsjön",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 64.8287943892987,
-        "longitude": 14.1220070373374
+        "latitude": 64.8286065240102,
+        "longitude": 14.1225424144175
     },
     {
         "id": "115184",
@@ -46614,8 +46614,8 @@
         "streetAddress": "Kyrkvägen",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 63.8193703148377,
-        "longitude": 16.3996269686377
+        "latitude": 63.8193523058376,
+        "longitude": 16.3996363006255
     },
     {
         "id": "115185",
@@ -46658,8 +46658,8 @@
         "streetAddress": "Stora Blåsjön",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 64.8331871039214,
-        "longitude": 14.0764584972306
+        "latitude": 64.832552241313,
+        "longitude": 14.0773300822324
     },
     {
         "id": "115200",
@@ -46691,8 +46691,8 @@
         "streetAddress": "Kilen 115",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 63.4469597328508,
-        "longitude": 15.2720476477208
+        "latitude": 63.4469806634478,
+        "longitude": 15.2720668279345
     },
     {
         "id": "115203",
@@ -46713,8 +46713,8 @@
         "streetAddress": "Sikås sågvägen",
         "municipalityCode": "2313",
         "extraInfo": null,
-        "latitude": 63.6237370178472,
-        "longitude": 15.2016033234084
+        "latitude": 63.6236409892458,
+        "longitude": 15.2015907885606
     },
     {
         "id": "115206",
