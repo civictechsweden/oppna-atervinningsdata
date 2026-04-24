@@ -1733,7 +1733,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 36,"Säby LIP, Fotbollsplan",,Säby 24:1,Säbyvallsvägen 2,1080,,56.166898,15.755123
 37,"Rödeby LIP, Skidbacke",,Östra Rödeby 2:18,Stationsvägen ,1080,,56.260273,15.625632
 38,"Rödeby LIP, P-Plats Vårdcentral",,Mo 1:83,Movägen,1080,,56.261582,15.615493
-39,"Rödeby LIP, Simhall",,Östra Rödeby 3:6,Rödebyvägen,1080,,56.265657,15.620938
 4,Mariedal LIP,,Svararen 6,Hillerödsvägen,1080,,56.199113,15.617647
 40,Fridlevstad LIP,,Fridlevstad 6:5,Skolvägen,1080,,56.269292,15.542865
 41,Tving LIP,,Tving 12:9,Nävragölsvägen,1080,,56.310469,15.461139
@@ -2202,6 +2201,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 11170,"Willys, Träslövsvägen 56",,Tolken 11,"ÅVS Willys, Träslövsvägen 56",1383,,57.102260323938,12.2686811015568
 11171,Stockrosgatan,,Getakärr 4:1,ÅVS Stockrosgatan,1383,,57.1109936241923,12.2843739068459
 11172,Stenåsavägen,,Getakärr 2:21,ÅVS Stenåsavägen,1383,,57.1211341806862,12.2711394878771
+11173,Vallinsvägen,,Träslöv 9:28,ÅVS Breared,1383,,57.0888262916522,12.2881381076062
 15136,"Getterön, Östra Hamnvägen",,Getakärr 9:6,"ÅVS Getterön, Östra Hamnvägen",1383,,57.1213872170248,12.2506903509173
 15140,"Bösarp, Skällingevägen",,Skällinge-Bösarp 2:3,"ÅVS Bösarp, Skällingevägen",1383,,57.183482655037,12.4170296535903
 15804,Veddige ÅVS,,Veddige 33:3,ÅVS Veddige ÅVC,1383,,57.2581240611495,12.3145145076739

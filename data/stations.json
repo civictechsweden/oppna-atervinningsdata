@@ -19074,17 +19074,6 @@
         "longitude": 15.615493
     },
     {
-        "id": "39",
-        "name": "Rödeby LIP, Simhall",
-        "secondaryName": "",
-        "propertyNumber": "Östra Rödeby 3:6",
-        "streetAddress": "Rödebyvägen",
-        "municipalityCode": "1080",
-        "extraInfo": "",
-        "latitude": 56.265657,
-        "longitude": 15.620938
-    },
-    {
         "id": "4",
         "name": "Mariedal LIP",
         "secondaryName": "",
@@ -24231,6 +24220,17 @@
         "extraInfo": null,
         "latitude": 57.1211341806862,
         "longitude": 12.2711394878771
+    },
+    {
+        "id": "11173",
+        "name": "Vallinsvägen",
+        "secondaryName": null,
+        "propertyNumber": "Träslöv 9:28",
+        "streetAddress": "ÅVS Breared",
+        "municipalityCode": "1383",
+        "extraInfo": null,
+        "latitude": 57.0888262916522,
+        "longitude": 12.2881381076062
     },
     {
         "id": "15136",
