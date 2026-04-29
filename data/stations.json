@@ -31394,17 +31394,6 @@
         "longitude": 12.01556
     },
     {
-        "id": "100008",
-        "name": "Lammevallsgatan",
-        "secondaryName": "x",
-        "propertyNumber": "Kräftan 1",
-        "streetAddress": "Lammevallsgatan 42",
-        "municipalityCode": "1481",
-        "extraInfo": "",
-        "latitude": 57.65762965896775,
-        "longitude": 11.993623500121588
-    },
-    {
         "id": "100009",
         "name": "Kållereds IP",
         "secondaryName": "x",
@@ -31414,17 +31403,6 @@
         "extraInfo": "",
         "latitude": 57.60999618593688,
         "longitude": 12.076115088879588
-    },
-    {
-        "id": "100104",
-        "name": "Fågelbergsgatan",
-        "secondaryName": "x",
-        "propertyNumber": "Videsvärmaren 1",
-        "streetAddress": "Fågelbergsgatan 2",
-        "municipalityCode": "1481",
-        "extraInfo": "",
-        "latitude": 57.645593,
-        "longitude": 12.031789
     },
     {
         "id": "100229",
@@ -31449,17 +31427,6 @@
         "longitude": 12.014338
     },
     {
-        "id": "100253",
-        "name": "Lantbruksgatan",
-        "secondaryName": "x",
-        "propertyNumber": "Pinnharven",
-        "streetAddress": "Pinnharvsgatan 1",
-        "municipalityCode": "1481",
-        "extraInfo": "",
-        "latitude": 57.66359784903522,
-        "longitude": 11.99527530516769
-    },
-    {
         "id": "100256",
         "name": "Krokslätts Torg",
         "secondaryName": "x",
@@ -31469,17 +31436,6 @@
         "extraInfo": "",
         "latitude": 57.674363,
         "longitude": 12.008188
-    },
-    {
-        "id": "100342",
-        "name": "Kryssgatan",
-        "secondaryName": "x",
-        "propertyNumber": "",
-        "streetAddress": "Kryssgatan",
-        "municipalityCode": "1481",
-        "extraInfo": "",
-        "latitude": 57.659695,
-        "longitude": 12.025637
     },
     {
         "id": "100354",
@@ -31504,39 +31460,6 @@
         "longitude": 12.050676986574922
     },
     {
-        "id": "116847",
-        "name": "Fågelstensvägen",
-        "secondaryName": "x",
-        "propertyNumber": "Gastorp",
-        "streetAddress": "Fågelstensvägen 70",
-        "municipalityCode": "1481",
-        "extraInfo": "",
-        "latitude": 57.575057252121795,
-        "longitude": 12.062067445936302
-    },
-    {
-        "id": "116849",
-        "name": "Tullbomsvägen",
-        "secondaryName": "x",
-        "propertyNumber": "",
-        "streetAddress": "Tullbomsvägen",
-        "municipalityCode": "1481",
-        "extraInfo": "",
-        "latitude": 57.591305,
-        "longitude": 12.061921
-    },
-    {
-        "id": "116850",
-        "name": "Bäckstensgatan",
-        "secondaryName": "x",
-        "propertyNumber": "Bastuban 1",
-        "streetAddress": "Bäckstensgatan 11",
-        "municipalityCode": "1481",
-        "extraInfo": "",
-        "latitude": 57.65331429713682,
-        "longitude": 11.959740813806814
-    },
-    {
         "id": "116851",
         "name": "Fjällgatan",
         "secondaryName": "x",
@@ -31546,17 +31469,6 @@
         "extraInfo": "",
         "latitude": 57.651929,
         "longitude": 12.03606
-    },
-    {
-        "id": "118466",
-        "name": "Flyttfågelvägen",
-        "secondaryName": "x",
-        "propertyNumber": "Fågelsten 1:17",
-        "streetAddress": "Stannfågelvägen 24",
-        "municipalityCode": "1481",
-        "extraInfo": "",
-        "latitude": 57.57277153058639,
-        "longitude": 12.071500370287335
     },
     {
         "id": "118852",
@@ -45365,10 +45277,10 @@
     },
     {
         "id": "4430032",
-        "name": "Gimåtvägen",
+        "name": "Gimåtvägen  ",
         "secondaryName": null,
         "propertyNumber": "GIMÅT 1:63",
-        "streetAddress": "Gimåtvägen",
+        "streetAddress": "Gimåtvägen   ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.3173819566322,

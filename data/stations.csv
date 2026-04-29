@@ -2853,21 +2853,13 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 248947,ÅVS 99265 Miraallén   ,,SANNEGÅRDEN 37:2,Miraallén   ,1480,,57.70694,11.92889
 248948,ÅVS 99268 Valskvarnsgatan/Östra Eriksbergsgatan   ,,SANNEGÅRDEN 32:2,Valskvarnsgatan/Östra Eriksbergsgatan   ,1480,,57.70222,11.91278
 248949,ÅVS 99269 Bögatan 47  ,,BÖ 750:798,Bögatan 47  ,1480,,57.70111,12.01556
-100008,Lammevallsgatan,x,Kräftan 1,Lammevallsgatan 42,1481,,57.65762965896775,11.993623500121588
 100009,Kållereds IP,x,Stretered 1:191,Sporredsvägen 3,1481,,57.60999618593688,12.076115088879588
-100104,Fågelbergsgatan,x,Videsvärmaren 1,Fågelbergsgatan 2,1481,,57.645593,12.031789
 100229,Almåsgången,x,Lindome 2:42,Almåsgången,1481,,57.576512,12.087582
 100238,Katrinebergsgatan,x,Åby 1:84,Katrinebergsgatan ,1481,,57.648852,12.014338
-100253,Lantbruksgatan,x,Pinnharven,Pinnharvsgatan 1,1481,,57.66359784903522,11.99527530516769
 100256,Krokslätts Torg,x,Krokslätt 1:165,Krokslätts Torg,1481,,57.674363,12.008188
-100342,Kryssgatan,x,,Kryssgatan,1481,,57.659695,12.025637
 100354,Greggered,x,Greggered 3:2,Norra Hällesåkersvägen,1481,,57.60757384595976,12.14998555157344
 100358,Kikås ÅVS,x,,Kikåsleden 5,1481,,57.64942986996109,12.050676986574922
-116847,Fågelstensvägen,x,Gastorp,Fågelstensvägen 70,1481,,57.575057252121795,12.062067445936302
-116849,Tullbomsvägen,x,,Tullbomsvägen,1481,,57.591305,12.061921
-116850,Bäckstensgatan,x,Bastuban 1,Bäckstensgatan 11,1481,,57.65331429713682,11.959740813806814
 116851,Fjällgatan,x,Kikås 1:15,Fjällgatan,1481,,57.651929,12.03606
-118466,Flyttfågelvägen,x,Fågelsten 1:17,Stannfågelvägen 24,1481,,57.57277153058639,12.071500370287335
 118852,Tallkottegatan,x,Stensjön 1:66,Tallkottegatan,1481,,57.662974,12.041031
 121871,Lindome ÅVC,x,,Smidesvägen 9,1481,,57.575518,12.090751
 677014478,Diseröd,,.,Askvägen 3,1482,,57.9252781492403,12.0329743622623
@@ -4123,7 +4115,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430029,Bonäsvägen  ,,NEDERÖN 1:11,Bonäsvägen   ,2284,,63.2585606141098,18.7779746025046
 4430030,Centralgatan  ,,TREHÖRNINGSJÖ 1:359,Centralgatan   ,2284,,63.6938742975558,18.8664630270481
 4430031,"Flärke, Hembyggsgården Flärke",,ÅVS,Flärkemon,2284,,63.5759132694495,19.0396207085924
-4430032,Gimåtvägen,,GIMÅT 1:63,Gimåtvägen,2284,,63.3173819566322,18.7072641936866
+4430032,Gimåtvägen  ,,GIMÅT 1:63,Gimåtvägen   ,2284,,63.3173819566322,18.7072641936866
 4430033,Granitvägen  ,,ÖVERHÖRNÄS 2:8,Granitvägen   ,2284,,63.2879475108267,18.5563500637249
 4430034,Hummelviksvägen  ,,HUMMELVIK 4:83,Hummelviksvägen   ,2284,,63.1680252418828,18.5622120896248
 4430035,"Solberg, Vid vändplanen",,SOLBERG 1:196,Hässjevägen,2284,,63.7883222697576,17.632751046785
