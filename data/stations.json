@@ -5394,7 +5394,7 @@
         "name": "Återvinningsstation 10139",
         "secondaryName": null,
         "propertyNumber": "LINET 1",
-        "streetAddress": "Eriksdalsgatan 40 ",
+        "streetAddress": "Eriksdalsgatan 40",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3063432997909,
@@ -46728,10 +46728,32 @@
         "longitude": 15.2177108003249
     },
     {
+        "id": "115226",
+        "name": "CUS Öjarn",
+        "secondaryName": null,
+        "propertyNumber": "ÖJARN 11:5",
+        "streetAddress": "Öjarn",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.9332986833706,
+        "longitude": 15.103812889771
+    },
+    {
+        "id": "115231",
+        "name": "CUS Äspnäs",
+        "secondaryName": null,
+        "propertyNumber": "ÄSPNÄS 2:29",
+        "streetAddress": "Äspnäs",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.0055447376304,
+        "longitude": 15.4280173245642
+    },
+    {
         "id": "115237",
         "name": "CUS Grenås",
         "secondaryName": null,
-        "propertyNumber": ".",
+        "propertyNumber": "GRENÅS 2:41",
         "streetAddress": "Grenås 305",
         "municipalityCode": "2313",
         "extraInfo": null,
