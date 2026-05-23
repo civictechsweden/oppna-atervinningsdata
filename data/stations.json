@@ -32681,17 +32681,6 @@
         "longitude": 12.90389
     },
     {
-        "id": "035",
-        "name": "Hässleholmen Kapplandsgatan",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Kapplandsgatan 20",
-        "municipalityCode": "1490",
-        "extraInfo": "Se vad du kan sortera på varje station samt dess tömningsdagar i vår app \"Sortera med mera\", där kan du även felanmäla.",
-        "latitude": 57.72972,
-        "longitude": 12.97139
-    },
-    {
         "id": "036",
         "name": "Hässleholmen Marklandsgatan",
         "secondaryName": "",
@@ -32976,17 +32965,6 @@
         "extraInfo": "Se vad du kan sortera på varje station samt dess tömningsdagar i vår app \"Sortera med mera\", där kan du även felanmäla.",
         "latitude": 57.72583,
         "longitude": 12.98611
-    },
-    {
-        "id": "070",
-        "name": "Norrby Billdalsgatan",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Billdalsgatan 12",
-        "municipalityCode": "1490",
-        "extraInfo": "Se vad du kan sortera på varje station samt dess tömningsdagar i vår app \"Sortera med mera\", där kan du även felanmäla.",
-        "latitude": 57.725619,
-        "longitude": 12.933809
     },
     {
         "id": "071",
@@ -44469,8 +44447,8 @@
         "streetAddress": "ÅVS Taxivägen 14",
         "municipalityCode": "2281",
         "extraInfo": null,
-        "latitude": 62.3504961286105,
-        "longitude": 17.0218515759123
+        "latitude": 62.3486333780615,
+        "longitude": 17.0170712464807
     },
     {
         "id": "107454",
