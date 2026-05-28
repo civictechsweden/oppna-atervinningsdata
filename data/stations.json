@@ -4778,7 +4778,7 @@
         "name": "Återvinningsstation 16724",
         "secondaryName": null,
         "propertyNumber": "KÄTTINGEN 30",
-        "streetAddress": "Kungsholms Strand 127 ",
+        "streetAddress": "Kungsholms Strand 127",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3368555358115,
@@ -6505,7 +6505,7 @@
         "name": "Återvinningsstation 17658",
         "secondaryName": null,
         "propertyNumber": "FASTE 5",
-        "streetAddress": "Spånga Stationsväg 39 ",
+        "streetAddress": "Spånga Stationsväg 39",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3817936622278,
@@ -46728,6 +46728,17 @@
         "longitude": 15.4280173245642
     },
     {
+        "id": "115233",
+        "name": "CUS Fyrås",
+        "secondaryName": null,
+        "propertyNumber": "FYRÅS 4:5",
+        "streetAddress": "Fyrås",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 63.5213573895253,
+        "longitude": 15.3573887348151
+    },
+    {
         "id": "115237",
         "name": "CUS Grenås",
         "secondaryName": null,
@@ -46737,6 +46748,17 @@
         "extraInfo": null,
         "latitude": 63.6197694827843,
         "longitude": 15.4214211498881
+    },
+    {
+        "id": "115241",
+        "name": "CUS Lillviken",
+        "secondaryName": null,
+        "propertyNumber": "LILLVIKEN 1:25",
+        "streetAddress": "Lillviken",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.2318291803244,
+        "longitude": 15.4850070586659
     },
     {
         "id": "11605",
@@ -49014,17 +49036,6 @@
         "extraInfo": "",
         "latitude": 64.00417,
         "longitude": 20.39278
-    },
-    {
-        "id": "4415922",
-        "name": "ÅVS Skogsbrynet",
-        "secondaryName": "13247",
-        "propertyNumber": "GULDSKRINET 1",
-        "streetAddress": "Åvs Skogsbrynet ",
-        "municipalityCode": "2480",
-        "extraInfo": "",
-        "latitude": 63.8325,
-        "longitude": 20.28472
     },
     {
         "id": "4415923",
