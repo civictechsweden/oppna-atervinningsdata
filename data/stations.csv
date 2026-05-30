@@ -271,7 +271,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 96614,ÅVS 7952 Sandells Livs,,HERRSTUGAN 2:16,Herrviksvägen 2  muskö,0136,,59.0255318936442,18.1747008539821
 96615,ÅVS 7953 Ludvigsberg,,LUDVIGSBERG 8:1,Högvreten 7/skarpavägen  muskö,0136,,59.0031526069981,18.129367640753
 97632,ÅVS 16489 Ica Maxi,,SÖDERBY HUVUDGÅRD 2:365,Österport 4,0136,,59.1808591289563,18.1557128010014
-98382,ÅVS 7939 Infart från Gamla Nynäsvägen / Stänger v. 27,,TÄCKÅKER 1:146,Hallstens väg,0136,,59.1894818178157,18.1429347147905
+98382,ÅVS 7939  Infart från Gamla Nynäsvägen,,TÄCKÅKER 1:146,Hallstens väg,0136,,59.1894818178157,18.1429347147905
 98970,ÅVS 14589 Årsta Havsbad Torget (Bakom affär),,STADSBERGA 8:1,Årsta Havsbad Torget,0136,,59.0827695564522,18.1644511830595
 99283,ÅVS 7985 Elhus Åbyinfarten,,ÅBY 1:27,Ringvägen/Åbyinfarten,0136,,59.1261936950801,18.1072363170325
 10868,ÅVS Granängsringen/Granängsvägen Tyresö,,Bollmora 2:1,*,0138,,59.2381260785598,18.2284597610866
@@ -887,7 +887,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 988318,"ÅVS 652 P-plats, f.d.  Fanna-kiosken Enköping",,Fanna 15:13,Fannagatan 23,0381,,59.6397908549943,17.1012787302248
 988319,ÅVS 653 Bangatan/Brunnsgatan Grillby Enköping,,Grillby 80:3,Bangatan 19,0381,,59.625987793132,17.2529057525356
 988320,ÅVS 655 Lastbilsparkeringen (f.d. Hummelsta Livs) Enköping,,Tillinge-Hummelsta 1:61,Åsundavägen 7,0381,,59.6272099279133,16.9481911923953
-988321,ÅVS 17738 Torggatan/Långgatan Enköping,,Kryddgården 6:3,Långgatan,0381,,59.6384717862856,17.0718261182514
 988322,"ÅVS 665 Närbutiken, Lillkyrka Enköping",,Hässlinge 1:27,Prästvägen 2,0381,,59.560543231156,17.2464189484213
 988324,"ÅVS 667 , bakom ICA Örsundsbro Enköping",,Örsundsbro 1:1,Enköpingsvägen 9 -11,0381,,59.7353849196537,17.311024320249
 988364,ÅVS 99091 Ny mitt emot Dollarstore Enköping,,Romberga 23:31,Malmagatan,0381,,59.6534803584824,17.0879797484592
@@ -4740,7 +4739,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 240,Norra svartbyn,,SVARTBYN 6:12,Fårhagsvägen,2582,,65.8078193051024,21.763475522985
 250,Flarken,,VIBBYN 3:21,Flarken,2582,,65.8114300644574,21.8791863145681
 300,Heden ,,HEDEN 6:47,Glimmervägen,2582,,65.8160451569058,21.5839657595523
-310,Degerbäcken,,DEGERBÄCKEN 18:1,Degerbäckens by 47 C,2582,,65.8585050177047,21.4097725871742
+310,,,Degerbäcken 18:1,Degerbäckens by 47 C,2582,,65.8584762219765,21.4102060075664
 320,Brännberg,,BRÄNNBERG 100:2,Brännberg,2582,,65.7849892419624,21.2263474410706
 400,Svartbjörnsbyn,,SVARTBJÖRSBYN 10:32,Krusvägen,2582,,65.852392320104,21.700885396887
 410,Buddbygården,,BUDDBYN 3:46,Gamla buddbyvägen,2582,,65.879526008989,21.6881876325847

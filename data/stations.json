@@ -2993,7 +2993,7 @@
     },
     {
         "id": "98382",
-        "name": "ÅVS 7939 Infart från Gamla Nynäsvägen / Stänger v. 27",
+        "name": "ÅVS 7939  Infart från Gamla Nynäsvägen",
         "secondaryName": null,
         "propertyNumber": "TÄCKÅKER 1:146",
         "streetAddress": "Hallstens väg",
@@ -9766,17 +9766,6 @@
         "extraInfo": null,
         "latitude": 59.6272099279133,
         "longitude": 16.9481911923953
-    },
-    {
-        "id": "988321",
-        "name": "ÅVS 17738 Torggatan/Långgatan Enköping",
-        "secondaryName": null,
-        "propertyNumber": "Kryddgården 6:3",
-        "streetAddress": "Långgatan",
-        "municipalityCode": "0381",
-        "extraInfo": null,
-        "latitude": 59.6384717862856,
-        "longitude": 17.0718261182514
     },
     {
         "id": "988322",
@@ -52152,14 +52141,14 @@
     },
     {
         "id": "310",
-        "name": "Degerbäcken",
+        "name": null,
         "secondaryName": null,
-        "propertyNumber": "DEGERBÄCKEN 18:1",
+        "propertyNumber": "Degerbäcken 18:1",
         "streetAddress": "Degerbäckens by 47 C",
         "municipalityCode": "2582",
         "extraInfo": null,
-        "latitude": 65.8585050177047,
-        "longitude": 21.4097725871742
+        "latitude": 65.8584762219765,
+        "longitude": 21.4102060075664
     },
     {
         "id": "320",
