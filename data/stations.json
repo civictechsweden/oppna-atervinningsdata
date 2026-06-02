@@ -2993,7 +2993,7 @@
     },
     {
         "id": "98382",
-        "name": "ÅVS 7939  Infart från Gamla Nynäsvägen",
+        "name": "ÅVS 7939 Infart från Gamla Nynäsvägen / Stänger v. 27",
         "secondaryName": null,
         "propertyNumber": "TÄCKÅKER 1:146",
         "streetAddress": "Hallstens väg",
@@ -9537,17 +9537,6 @@
         "longitude": 17.6622490953112
     },
     {
-        "id": "4061359",
-        "name": "Svamptorget ICA Norby",
-        "secondaryName": null,
-        "propertyNumber": "NORBY 31:53",
-        "streetAddress": "NÄRA SVAMPTORGET 1",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.8254086284679,
-        "longitude": 17.6186406121831
-    },
-    {
         "id": "4061364",
         "name": "Vänge förskola",
         "secondaryName": null,
@@ -9568,28 +9557,6 @@
         "extraInfo": null,
         "latitude": 59.8509853527305,
         "longitude": 17.6059225939498
-    },
-    {
-        "id": "4061369",
-        "name": "Stenhagen ICA Maxi",
-        "secondaryName": null,
-        "propertyNumber": "BERTHÅGA 45:3",
-        "streetAddress": "NATURSTENSVÄGEN 6",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.849832621616,
-        "longitude": 17.5584133065327
-    },
-    {
-        "id": "4061373",
-        "name": "Brantingsskolan, Parkering",
-        "secondaryName": null,
-        "propertyNumber": "SALA BACKE 1:1",
-        "streetAddress": "NÄRA HJALMAR BRANTINGSGATAN 37",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.8678356084417,
-        "longitude": 17.6688423534532
     },
     {
         "id": "4061385",
@@ -9634,28 +9601,6 @@
         "extraInfo": null,
         "latitude": 59.9114635398524,
         "longitude": 17.7405494805627
-    },
-    {
-        "id": "4061390",
-        "name": "Knutby pendlarparkering",
-        "secondaryName": null,
-        "propertyNumber": "ELLSTA 2:42",
-        "streetAddress": "NÄRA KNUTBY VIDEVÄG 2",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.9113164959471,
-        "longitude": 18.2662416313799
-    },
-    {
-        "id": "4061394",
-        "name": "Ekeby fotbollsplaner",
-        "secondaryName": null,
-        "propertyNumber": "FLOGSTA 11:70",
-        "streetAddress": "NÄRA EKEBYVÄGEN 23",
-        "municipalityCode": "0380",
-        "extraInfo": null,
-        "latitude": 59.8469283376637,
-        "longitude": 17.6087685615437
     },
     {
         "id": "4061398",
