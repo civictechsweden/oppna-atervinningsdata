@@ -2993,7 +2993,7 @@
     },
     {
         "id": "98382",
-        "name": "ÅVS 7939 Infart från Gamla Nynäsvägen / Stänger v. 27",
+        "name": "ÅVS 7939 Infart från Gamla Nynäsvägen / Stänger v. 26",
         "secondaryName": null,
         "propertyNumber": "TÄCKÅKER 1:146",
         "streetAddress": "Hallstens väg",
@@ -52196,14 +52196,14 @@
     },
     {
         "id": "620",
-        "name": "Sörbyn",
+        "name": null,
         "secondaryName": null,
-        "propertyNumber": "SÖRBYN 4:9",
+        "propertyNumber": "Sörbyn 4:9",
         "streetAddress": "Sörbyn 3",
         "municipalityCode": "2582",
         "extraInfo": null,
-        "latitude": 66.0472172998997,
-        "longitude": 21.7856543332232
+        "latitude": 66.0472055339954,
+        "longitude": 21.7862314118547
     },
     {
         "id": "630",
