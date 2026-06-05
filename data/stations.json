@@ -3084,7 +3084,7 @@
         "name": "ÅVS Fornuddsvägen/Fornuddsparken Tyresö",
         "secondaryName": null,
         "propertyNumber": "Kumla 3:1103",
-        "streetAddress": "Insamling ljuskällor",
+        "streetAddress": "Stationen tas bort juni 2026",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.2201946940354,
@@ -3227,7 +3227,7 @@
         "name": "ÅVS Energivägen Tyresö",
         "secondaryName": null,
         "propertyNumber": "Bollmora 2:1",
-        "streetAddress": "*",
+        "streetAddress": "Stationen tas bort juni 2026",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.2462471721059,
@@ -35981,17 +35981,6 @@
         "longitude": 14.1277
     },
     {
-        "id": "461532",
-        "name": "Axvallagatan Malmen",
-        "secondaryName": "",
-        "propertyNumber": "Södermalm 1:1",
-        "streetAddress": "Axvallagatan",
-        "municipalityCode": "1781",
-        "extraInfo": "",
-        "latitude": 59.30269,
-        "longitude": 14.11699
-    },
-    {
         "id": "461533",
         "name": "Kurlandaallén ",
         "secondaryName": "",
@@ -52229,14 +52218,14 @@
     },
     {
         "id": "710",
-        "name": "Norra bredåker",
+        "name": null,
         "secondaryName": null,
-        "propertyNumber": "BREDÅKER 1:52",
-        "streetAddress": "Norra bredåker 620",
+        "propertyNumber": "Bredåker 1:52",
+        "streetAddress": "Norra Bredåker 620",
         "municipalityCode": "2582",
         "extraInfo": null,
-        "latitude": 65.9009537646518,
-        "longitude": 21.3524941598107
+        "latitude": 65.9019606537382,
+        "longitude": 21.3545342331759
     },
     {
         "id": "720",
