@@ -2587,11 +2587,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 248650,ÅVS 7709 Koppargatan/Långedragsvägen,,Älvsborg 755:411,Koppargatan/Långedragsvägen   ,1480,,57.67889,11.89556
 248651,ÅVS 7710 Långedragsvägen 134  ,,Älvsborg 755:411,Långedragsvägen 134  ,1480,,57.67056,11.87167
 248652,ÅVS 7711 Toredammen 2  ,,ÄLVSBORG 312:3,Toredammen 2  ,1480,,57.68028,11.88083
-248653,ÅVS 7714 Hammarkroken 2  ,,HJÄLLBO 38:1,Hammarkroken 2  ,1480,,57.77833,12.04111
 248654,ÅVS 7715 Hammarkulletorget 36  ,,HJÄLLBO 37:10,Hammarkulletorget 36  ,1480,,57.77833,12.03917
-248655,ÅVS 7720 Engelbrektsgatan/Sten Sturegatan   ,,HEDEN 705:1,Engelbrektsgatan/Sten Sturegatan   ,1480,,57.70083,11.98222
-248656,ÅVS 7722 Sandspåret 27  ,,HJÄLLBO 7:7,Sandspåret 27  ,1480,,57.76694,12.01528
-248657,ÅVS 7723 Bergsgårdsgärdet 16  ,,HJÄLLBO 5:14,Bergsgårdsgärdet 16  ,1480,,57.77222,12.02222
 248658,ÅVS 7730 Skiljemyntsgatan 2  ,,JÄRNBROTT 83:2,Skiljemyntsgatan 2  ,1480,,57.67028,11.9275
 248659,ÅVS 7732 Gibraltargatan 36  ,,JOHANNEBERG 707:11,Gibraltargatan 36  ,1480,,57.68972,11.98
 248660,ÅVS 7733 Gibraltargatan 52 ,,JOHANNEBERG 707:11,Gibraltargatan 52  ,1480,,57.6875,11.98194
@@ -2846,7 +2842,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 248946,ÅVS 99220 Brännekullavägen  ,,HÄSTEVIK 2:28,Brännekullavägen   ,1480,,57.71194,11.72361
 248947,ÅVS 99265 Miraallén   ,,SANNEGÅRDEN 37:2,Miraallén   ,1480,,57.70694,11.92889
 248948,ÅVS 99268 Valskvarnsgatan/Östra Eriksbergsgatan   ,,SANNEGÅRDEN 32:2,Valskvarnsgatan/Östra Eriksbergsgatan   ,1480,,57.70222,11.91278
-248949,ÅVS 99269 Bögatan 47  ,,BÖ 750:798,Bögatan 47  ,1480,,57.70111,12.01556
 100009,Kållereds IP,x,Stretered 1:191,Sporredsvägen 3,1481,,57.60999618593688,12.076115088879588
 100229,Almåsgången,x,Lindome 2:42,Almåsgången,1481,,57.576512,12.087582
 100238,Katrinebergsgatan,x,Åby 1:84,Katrinebergsgatan ,1481,,57.648852,12.014338
@@ -4239,6 +4234,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 115224,CUS Silsjönäs,,FJÄLLSJÖ-SUNNANSJÖ 2:13,Silsjönäs 195,2313,,63.77770319789,16.3968845257117
 115225,CUS Kärrnäset Skalbäcksstugan,,KÄRRNÄSET S:1,Kärrnäset 285,2313,,63.9544481784796,15.2177108003249
 115226,CUS Öjarn,,ÖJARN 11:5,Öjarn,2313,,63.9332986833706,15.103812889771
+115228,CUS Bränna,,FROSTVIKEN 1:57,Bränna,2313,,64.6482180602188,13.7570904716423
 115231,CUS Äspnäs,,ÄSPNÄS 2:29,Äspnäs,2313,,64.0055447376304,15.4280173245642
 115233,CUS Fyrås,,FYRÅS 4:5,Fyrås,2313,,63.5213573895253,15.3573887348151
 115237,CUS Grenås,,GRENÅS 2:41,Grenås 305,2313,,63.6197694827843,15.4214211498881
@@ -4361,6 +4357,16 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4270,Överklinten 3,,Överklinten 3:82,Ytterklintvägen 10,2409,,64.243531,20.661504
 4271,"Robertsfors,vid  busstation",,Lärkan 2,Bakom Coop,2409,,64.192874,20.846558
 4277,Överklinten 3,,Överklinten 3:82,Ytterklintvägen 10,2409,,64.243531,20.661504
+10285,Gunnarn,,Bastuträsk 3:58,Gubbträskvägen,2421,,65.00652,17.67812
+10286,Hemavan,,Björkfors 1:64,Älvstigen 4,2421,,65.81497,15.0812
+10287,Slussfors,,Slussfors 1:105,Skogsvägen,2421,,65.43083,16.2476
+10288,Stensele,,Luspen 2:25,Blå vägen,2421,,65.06873,17.14649
+10290,Tärnaby Morkan,,Laxnäs 1:79,Morkan 101,2421,,65.71151,15.21523
+10291,Storuman Hantverksgatan,,Fräsaren 1,Hantverksgatan 7,2421,,65.08996,17.10503
+13998,Storuman Järnvägsgatan,,Luspen 1:65,Järnvägsgatan,2421,,65.09499,17.10834
+14845,Storuman Innanför ÅVC,,Luspen 10:2,Kungavägen 5,2421,,65.09212,17.09646
+15740,Åskilje,,Åskilje 2:69,Åskilje 317,2421,,64.90834,17.85694
+16095,Tärnaby Industrivägen,,Laxnäs 1:87,Industrivägen 10,2421,,65.7098,15.24818
 25884,Busstationen,,Smeden 5,Strandvägen 3,2422,,65.5360186,17.5310693
 25885,Sorsele VV,,Vattenverket 1,Strandvägen 43,2422,,65.5414973,17.5109493
 25886,Sorselegården,,Fiskgjusen 2,Sorselegårdsvägen 8 C,2422,,65.5431248,17.5417269

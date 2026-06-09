@@ -28468,17 +28468,6 @@
         "longitude": 11.88083
     },
     {
-        "id": "248653",
-        "name": "ÅVS 7714 Hammarkroken 2  ",
-        "secondaryName": "",
-        "propertyNumber": "HJÄLLBO 38:1",
-        "streetAddress": "Hammarkroken 2  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.77833,
-        "longitude": 12.04111
-    },
-    {
         "id": "248654",
         "name": "ÅVS 7715 Hammarkulletorget 36  ",
         "secondaryName": "",
@@ -28488,39 +28477,6 @@
         "extraInfo": "",
         "latitude": 57.77833,
         "longitude": 12.03917
-    },
-    {
-        "id": "248655",
-        "name": "ÅVS 7720 Engelbrektsgatan/Sten Sturegatan   ",
-        "secondaryName": "",
-        "propertyNumber": "HEDEN 705:1",
-        "streetAddress": "Engelbrektsgatan/Sten Sturegatan   ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.70083,
-        "longitude": 11.98222
-    },
-    {
-        "id": "248656",
-        "name": "ÅVS 7722 Sandspåret 27  ",
-        "secondaryName": "",
-        "propertyNumber": "HJÄLLBO 7:7",
-        "streetAddress": "Sandspåret 27  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.76694,
-        "longitude": 12.01528
-    },
-    {
-        "id": "248657",
-        "name": "ÅVS 7723 Bergsgårdsgärdet 16  ",
-        "secondaryName": "",
-        "propertyNumber": "HJÄLLBO 5:14",
-        "streetAddress": "Bergsgårdsgärdet 16  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.77222,
-        "longitude": 12.02222
     },
     {
         "id": "248658",
@@ -31315,17 +31271,6 @@
         "extraInfo": "",
         "latitude": 57.70222,
         "longitude": 11.91278
-    },
-    {
-        "id": "248949",
-        "name": "ÅVS 99269 Bögatan 47  ",
-        "secondaryName": "",
-        "propertyNumber": "BÖ 750:798",
-        "streetAddress": "Bögatan 47  ",
-        "municipalityCode": "1480",
-        "extraInfo": "",
-        "latitude": 57.70111,
-        "longitude": 12.01556
     },
     {
         "id": "100009",
@@ -46640,6 +46585,17 @@
         "longitude": 15.103812889771
     },
     {
+        "id": "115228",
+        "name": "CUS Bränna",
+        "secondaryName": null,
+        "propertyNumber": "FROSTVIKEN 1:57",
+        "streetAddress": "Bränna",
+        "municipalityCode": "2313",
+        "extraInfo": null,
+        "latitude": 64.6482180602188,
+        "longitude": 13.7570904716423
+    },
+    {
         "id": "115231",
         "name": "CUS Äspnäs",
         "secondaryName": null,
@@ -47980,6 +47936,116 @@
         "extraInfo": "",
         "latitude": 64.243531,
         "longitude": 20.661504
+    },
+    {
+        "id": "10285",
+        "name": "Gunnarn",
+        "secondaryName": "",
+        "propertyNumber": "Bastuträsk 3:58",
+        "streetAddress": "Gubbträskvägen",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.00652,
+        "longitude": 17.67812
+    },
+    {
+        "id": "10286",
+        "name": "Hemavan",
+        "secondaryName": "",
+        "propertyNumber": "Björkfors 1:64",
+        "streetAddress": "Älvstigen 4",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.81497,
+        "longitude": 15.0812
+    },
+    {
+        "id": "10287",
+        "name": "Slussfors",
+        "secondaryName": "",
+        "propertyNumber": "Slussfors 1:105",
+        "streetAddress": "Skogsvägen",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.43083,
+        "longitude": 16.2476
+    },
+    {
+        "id": "10288",
+        "name": "Stensele",
+        "secondaryName": "",
+        "propertyNumber": "Luspen 2:25",
+        "streetAddress": "Blå vägen",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.06873,
+        "longitude": 17.14649
+    },
+    {
+        "id": "10290",
+        "name": "Tärnaby Morkan",
+        "secondaryName": "",
+        "propertyNumber": "Laxnäs 1:79",
+        "streetAddress": "Morkan 101",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.71151,
+        "longitude": 15.21523
+    },
+    {
+        "id": "10291",
+        "name": "Storuman Hantverksgatan",
+        "secondaryName": "",
+        "propertyNumber": "Fräsaren 1",
+        "streetAddress": "Hantverksgatan 7",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.08996,
+        "longitude": 17.10503
+    },
+    {
+        "id": "13998",
+        "name": "Storuman Järnvägsgatan",
+        "secondaryName": "",
+        "propertyNumber": "Luspen 1:65",
+        "streetAddress": "Järnvägsgatan",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.09499,
+        "longitude": 17.10834
+    },
+    {
+        "id": "14845",
+        "name": "Storuman Innanför ÅVC",
+        "secondaryName": "",
+        "propertyNumber": "Luspen 10:2",
+        "streetAddress": "Kungavägen 5",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.09212,
+        "longitude": 17.09646
+    },
+    {
+        "id": "15740",
+        "name": "Åskilje",
+        "secondaryName": "",
+        "propertyNumber": "Åskilje 2:69",
+        "streetAddress": "Åskilje 317",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 64.90834,
+        "longitude": 17.85694
+    },
+    {
+        "id": "16095",
+        "name": "Tärnaby Industrivägen",
+        "secondaryName": "",
+        "propertyNumber": "Laxnäs 1:87",
+        "streetAddress": "Industrivägen 10",
+        "municipalityCode": "2421",
+        "extraInfo": "",
+        "latitude": 65.7098,
+        "longitude": 15.24818
     },
     {
         "id": "25884",
