@@ -1959,7 +1959,7 @@
     },
     {
         "id": "3004103",
-        "name": "ÅVS 17653  Bussvändpl Korpvägen TILLFÄLLIGT STÄNGD",
+        "name": "ÅVS 17653  Bussvändpl Korpvägen TILLFÄLLIGT STÄNGD T.O.M. v.34",
         "secondaryName": null,
         "propertyNumber": "Tumba 8:536",
         "streetAddress": "Skäcklingevägen",
@@ -2130,8 +2130,8 @@
         "streetAddress": "Samaritvägen",
         "municipalityCode": "0127",
         "extraInfo": null,
-        "latitude": 59.2055673989552,
-        "longitude": 17.8372078490543
+        "latitude": 59.2038281129091,
+        "longitude": 17.8362050250184
     },
     {
         "id": "96773",
@@ -11058,7 +11058,7 @@
         "id": "685",
         "name": "ÅVS Coop Triangeln",
         "secondaryName": "685",
-        "propertyNumber": "HOVSLAGAREN :2",
+        "propertyNumber": "HOVSLAGAREN 2",
         "streetAddress": "Fridhemsgatan 3",
         "municipalityCode": "0484",
         "extraInfo": "",
@@ -12199,17 +12199,6 @@
         "longitude": 15.781131355483
     },
     {
-        "id": "2942",
-        "name": "ÅVS Tellbovägen",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Tellbovägen 28",
-        "municipalityCode": "0580",
-        "extraInfo": null,
-        "latitude": 58.4376795962259,
-        "longitude": 15.7977709722237
-    },
-    {
         "id": "2945",
         "name": "ÅVS Ridhuset Ånestad",
         "secondaryName": null,
@@ -12318,17 +12307,6 @@
         "extraInfo": null,
         "latitude": 58.2904662714461,
         "longitude": 15.5622115509573
-    },
-    {
-        "id": "3028",
-        "name": "ÅVS Maxi Stormarknad väster Tornby",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Västra Svedengatan 14",
-        "municipalityCode": "0580",
-        "extraInfo": null,
-        "latitude": 58.4327485366005,
-        "longitude": 15.5907154583315
     },
     {
         "id": "3030",

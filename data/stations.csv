@@ -177,7 +177,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 2134661,ÅVS 17388 Sandstugan,,LINDHOV 15:24,Tant gröns väg,0127,,59.2033802848905,17.7996754032971
 2144100,17214   Mittemot Parkering,,TULLINGE 21:223,Gösta Frohms väg,0127,,59.1828986612248,17.9158345166534
 3004101,ÅVS 7255  St Albans väg,,ERIKSBERG 2:1,Sankt albans väg,0127,,59.2429878337873,17.8135976805854
-3004103,ÅVS 17653  Bussvändpl Korpvägen TILLFÄLLIGT STÄNGD,,Tumba 8:536,Skäcklingevägen,0127,,59.1817327048792,17.8263018301297
+3004103,ÅVS 17653  Bussvändpl Korpvägen TILLFÄLLIGT STÄNGD T.O.M. v.34,,Tumba 8:536,Skäcklingevägen,0127,,59.1817327048792,17.8263018301297
 6289,ÅVS 13328  Hörna Adler Salvius V,,TULLINGE 16:119,Anna Maria Roosväg,0127,,59.2149370376147,17.8935590919468
 6329,ÅVS 7252  Vändplan,,BRUNNA GÅRD 1,Tomtbergavägen 66,0127,,59.2490510825839,17.8325601275427
 6779,ÅVS 7292,,Rotemannen S:1,Albyvägen 15,0127,,59.2391073057404,17.8513245331713
@@ -192,7 +192,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 96765,ÅVS 7310  Vändplan,,TULLINGE 19:282,Solskensvägen 19,0127,,59.2102610243718,17.9094072585416
 96766,ÅVS 7311  Älggräsvägen,,TULLINGE 19:282,Snödroppsvägen,0127,,59.2242061165371,17.9150654085423
 96768,ÅVS 7348  Tumbavägen,,TUMBA 7:206,Sedelvägen,0127,,59.2022023820227,17.8262772003664
-96769,ÅVS 7324  Vändplan Vid Tumba Sjukhem,,TUMBA 7:206,Samaritvägen,0127,,59.2055673989552,17.8372078490543
+96769,ÅVS 7324  Vändplan Vid Tumba Sjukhem,,TUMBA 7:206,Samaritvägen,0127,,59.2038281129091,17.8362050250184
 96773,ÅVS 7359  Dalvägen Vårsta,,VÅRSTA 1:168,Malmtorpsvägen,0127,,59.1701276388726,17.7983027555822
 96796,ÅVS 7291  Vid Närbutik,,ALBY 15:32,Alhagsvägen 95,0127,,59.2344990953997,17.8520794571355
 96798,ÅVS 7327  P-Plats Tumbav,,TUMBA 7:206,Nackdalavägen,0127,,59.2095993051296,17.8245409038014
@@ -1004,7 +1004,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 675,ÅVS Husbybyn,675,HUSBY-REKARNE 3:20,Melinsvägen ,0484,,59.31778,16.46722
 679,ÅVS ICA Bron Kvicksund,679,HILDERO 1:1,Tumbovägen ,0484,,59.45056,16.32194
 684,ÅVS Tivoliallén,684,NÅLSÖGAT 3,Tivoliallén ,0484,,59.37444,16.52778
-685,ÅVS Coop Triangeln,685,HOVSLAGAREN :2,Fridhemsgatan 3,0484,,59.35944,16.51667
+685,ÅVS Coop Triangeln,685,HOVSLAGAREN 2,Fridhemsgatan 3,0484,,59.35944,16.51667
 686,ÅVS Valhalla,686,ESKILSHEM 4:1,Vallhallagatan ,0484,,59.38667,16.50306
 691,ÅVS Glömsta,691,GLÖMSTA 1:6,Västerleden ,0484,,59.40722,16.48944
 693,ÅVS Helgesta,693,SLAGSTA 3:15,Helgestahillsvägen 4,0484,,59.39,16.50417
@@ -1108,7 +1108,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 2925,ÅVS Vid infarten,,.,Grönhögsvägen,0580,,58.4622891722157,15.6408053009327
 2926,ÅVS Skiffervägen Gistad,,.,Skiffervägen 4,0580,,58.4682274999234,15.892043461875
 2941,ÅVS Vändplan vid kyrka/vårdcentral,,.,Himnavägen 151,0580,,58.4278810761042,15.781131355483
-2942,ÅVS Tellbovägen,,.,Tellbovägen 28,0580,,58.4376795962259,15.7977709722237
 2945,ÅVS Ridhuset Ånestad,,.,Ridhusgatan 1,0580,,58.386437412718,15.6499260204448
 2965,ÅVS Johannelunds centrum,,.,Skogslyckegatan,0580,,58.3971796384114,15.6611865566962
 2967,ÅVS ICA Skillingen,,.,Riksdalergatan 2,0580,,58.3826229489097,15.6516217012994
@@ -1119,7 +1118,6 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 3013,ÅVS Förskolan Maspelösa,,.,Maspelösa 7,0580,,58.4920318986009,15.4224725135249
 3014,ÅVS Pumpstationen Nykil,,.,Pumpstationen Nykil,0580,,58.2850856875783,15.4348290806629
 3017,ÅVS Idrottsplatsen Uddevallen,,.,Sofielundsvägen,0580,,58.2904662714461,15.5622115509573
-3028,ÅVS Maxi Stormarknad väster Tornby,,.,Västra Svedengatan 14,0580,,58.4327485366005,15.5907154583315
 3030,ÅVS Affären,,.,Gammakilsvägen,0580,,58.1259753013295,15.4332183022462
 3032,ÅVS Trådgatan,,.,Trådgatan 1,0580,,58.3863723655747,15.4334404541434
 3034,ÅVS Idrottsplatsen Västerlösa,,.,Spärringevägen,0580,,58.4215993468858,15.3393212123077
