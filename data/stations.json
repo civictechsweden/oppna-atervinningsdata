@@ -3964,7 +3964,7 @@
         "name": "Återvinningsstation 10009",
         "secondaryName": null,
         "propertyNumber": "KYRKBYN 7",
-        "streetAddress": "Gliavägen 128 ",
+        "streetAddress": "Gliavägen 128",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.353705697553,
@@ -5196,7 +5196,7 @@
         "name": "Återvinningsstation 15760",
         "secondaryName": null,
         "propertyNumber": "SPANJOREN 2",
-        "streetAddress": "Björnsonsgatan 4 ",
+        "streetAddress": "Björnsonsgatan 4",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3436157278927,
@@ -20379,8 +20379,8 @@
         "streetAddress": "Tjustorp 2:28, Gårdlösav",
         "municipalityCode": "1270",
         "extraInfo": null,
-        "latitude": 55.5496614222092,
-        "longitude": 14.1150471531881
+        "latitude": 55.5495992122807,
+        "longitude": 14.1147601577751
     },
     {
         "id": "5527",
@@ -22359,8 +22359,8 @@
         "streetAddress": "Måsalyckevägen 6, anl 13954",
         "municipalityCode": "1291",
         "extraInfo": null,
-        "latitude": 55.6145710961356,
-        "longitude": 14.1343188217303
+        "latitude": 55.6145650338194,
+        "longitude": 14.134286636828
     },
     {
         "id": "13955",
@@ -22436,8 +22436,8 @@
         "streetAddress": "Järnvägsgatan/Snickaregatan id 4431",
         "municipalityCode": "1291",
         "extraInfo": null,
-        "latitude": 55.5841664373287,
-        "longitude": 14.2277991752962
+        "latitude": 55.5842634518441,
+        "longitude": 14.2277884460086
     },
     {
         "id": "4437",
