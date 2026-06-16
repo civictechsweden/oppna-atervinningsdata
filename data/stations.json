@@ -31242,7 +31242,7 @@
     {
         "id": "100009",
         "name": "Kållereds IP",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "Stretered 1:191",
         "streetAddress": "Sporredsvägen 3",
         "municipalityCode": "1481",
@@ -31253,7 +31253,7 @@
     {
         "id": "100229",
         "name": "Almåsgången",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "Lindome 2:42",
         "streetAddress": "Almåsgången",
         "municipalityCode": "1481",
@@ -31264,7 +31264,7 @@
     {
         "id": "100238",
         "name": "Katrinebergsgatan",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "Åby 1:84",
         "streetAddress": "Katrinebergsgatan ",
         "municipalityCode": "1481",
@@ -31275,7 +31275,7 @@
     {
         "id": "100256",
         "name": "Krokslätts Torg",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "Krokslätt 1:165",
         "streetAddress": "Krokslätts Torg",
         "municipalityCode": "1481",
@@ -31286,7 +31286,7 @@
     {
         "id": "100354",
         "name": "Greggered",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "Greggered 3:2",
         "streetAddress": "Norra Hällesåkersvägen",
         "municipalityCode": "1481",
@@ -31297,7 +31297,7 @@
     {
         "id": "100358",
         "name": "Kikås ÅVS",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Kikåsleden 5",
         "municipalityCode": "1481",
@@ -31308,7 +31308,7 @@
     {
         "id": "116851",
         "name": "Fjällgatan",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "Kikås 1:15",
         "streetAddress": "Fjällgatan",
         "municipalityCode": "1481",
@@ -31319,7 +31319,7 @@
     {
         "id": "118852",
         "name": "Tallkottegatan",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "Stensjön 1:66",
         "streetAddress": "Tallkottegatan",
         "municipalityCode": "1481",
@@ -31330,13 +31330,24 @@
     {
         "id": "121871",
         "name": "Lindome ÅVC",
-        "secondaryName": "x",
+        "secondaryName": "",
         "propertyNumber": "",
         "streetAddress": "Smidesvägen 9",
         "municipalityCode": "1481",
         "extraInfo": "",
         "latitude": 57.575518,
         "longitude": 12.090751
+    },
+    {
+        "id": "122730",
+        "name": "Lindome Boule",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Hällesåkersvägen 17",
+        "municipalityCode": "1481",
+        "extraInfo": "",
+        "latitude": 57.585201,
+        "longitude": 12.115185
     },
     {
         "id": "677014478",

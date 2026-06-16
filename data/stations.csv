@@ -2839,15 +2839,16 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 248946,ÅVS 99220 Brännekullavägen  ,,HÄSTEVIK 2:28,Brännekullavägen   ,1480,,57.71194,11.72361
 248947,ÅVS 99265 Miraallén   ,,SANNEGÅRDEN 37:2,Miraallén   ,1480,,57.70694,11.92889
 248948,ÅVS 99268 Valskvarnsgatan/Östra Eriksbergsgatan   ,,SANNEGÅRDEN 32:2,Valskvarnsgatan/Östra Eriksbergsgatan   ,1480,,57.70222,11.91278
-100009,Kållereds IP,x,Stretered 1:191,Sporredsvägen 3,1481,,57.60999618593688,12.076115088879588
-100229,Almåsgången,x,Lindome 2:42,Almåsgången,1481,,57.576512,12.087582
-100238,Katrinebergsgatan,x,Åby 1:84,Katrinebergsgatan ,1481,,57.648852,12.014338
-100256,Krokslätts Torg,x,Krokslätt 1:165,Krokslätts Torg,1481,,57.674363,12.008188
-100354,Greggered,x,Greggered 3:2,Norra Hällesåkersvägen,1481,,57.60757384595976,12.14998555157344
-100358,Kikås ÅVS,x,,Kikåsleden 5,1481,,57.64942986996109,12.050676986574922
-116851,Fjällgatan,x,Kikås 1:15,Fjällgatan,1481,,57.651929,12.03606
-118852,Tallkottegatan,x,Stensjön 1:66,Tallkottegatan,1481,,57.662974,12.041031
-121871,Lindome ÅVC,x,,Smidesvägen 9,1481,,57.575518,12.090751
+100009,Kållereds IP,,Stretered 1:191,Sporredsvägen 3,1481,,57.60999618593688,12.076115088879588
+100229,Almåsgången,,Lindome 2:42,Almåsgången,1481,,57.576512,12.087582
+100238,Katrinebergsgatan,,Åby 1:84,Katrinebergsgatan ,1481,,57.648852,12.014338
+100256,Krokslätts Torg,,Krokslätt 1:165,Krokslätts Torg,1481,,57.674363,12.008188
+100354,Greggered,,Greggered 3:2,Norra Hällesåkersvägen,1481,,57.60757384595976,12.14998555157344
+100358,Kikås ÅVS,,,Kikåsleden 5,1481,,57.64942986996109,12.050676986574922
+116851,Fjällgatan,,Kikås 1:15,Fjällgatan,1481,,57.651929,12.03606
+118852,Tallkottegatan,,Stensjön 1:66,Tallkottegatan,1481,,57.662974,12.041031
+121871,Lindome ÅVC,,,Smidesvägen 9,1481,,57.575518,12.090751
+122730,Lindome Boule,,,Hällesåkersvägen 17,1481,,57.585201,12.115185
 677014478,Diseröd,,.,Askvägen 3,1482,,57.9252781492403,12.0329743622623
 677014480,Vikingatorget Willys,,.,Vikingagatan 1,1482,,57.8691699999911,11.96639
 677014491,Tvetens samfällighet,,.,Tvetgatan,1482,,57.8769399999911,11.99389
