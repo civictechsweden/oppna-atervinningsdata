@@ -3081,7 +3081,7 @@
     },
     {
         "id": "10873",
-        "name": "ÅVS Fornuddsvägen/Fornuddsparken Tyresö",
+        "name": "FLYTTAD till Sofiebergsv/Kumla Allé",
         "secondaryName": null,
         "propertyNumber": "Kumla 3:1103",
         "streetAddress": "Stationen tas bort juni 2026",
@@ -33499,7 +33499,7 @@
         "name": "ÅVS KARTÅSEN",
         "secondaryName": null,
         "propertyNumber": "KARTÅSEN 1:1",
-        "streetAddress": "KARTÅSENS AVFALLSANLÄGGNING",
+        "streetAddress": "KARTÅSENS AVFALLSANLÄGGNING 1",
         "municipalityCode": "1494",
         "extraInfo": null,
         "latitude": 58.4891142532673,
@@ -35902,6 +35902,17 @@
         "extraInfo": "",
         "latitude": 59.31215,
         "longitude": 14.1277
+    },
+    {
+        "id": "461532",
+        "name": "Axvallagatan Malmen",
+        "secondaryName": "",
+        "propertyNumber": "Södermalm 1:1",
+        "streetAddress": "Axvallagatan",
+        "municipalityCode": "1781",
+        "extraInfo": "",
+        "latitude": 59.30269,
+        "longitude": 14.11699
     },
     {
         "id": "461533",
