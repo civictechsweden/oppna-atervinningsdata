@@ -2992,17 +2992,6 @@
         "longitude": 18.1557128010014
     },
     {
-        "id": "98382",
-        "name": "ÅVS 7939 Infart från Gamla Nynäsvägen / Stänger v. 26",
-        "secondaryName": null,
-        "propertyNumber": "TÄCKÅKER 1:146",
-        "streetAddress": "Hallstens väg",
-        "municipalityCode": "0136",
-        "extraInfo": null,
-        "latitude": 59.1894818178157,
-        "longitude": 18.1429347147905
-    },
-    {
         "id": "98970",
         "name": "ÅVS 14589 Årsta Havsbad Torget (Bakom affär)",
         "secondaryName": null,
@@ -3084,7 +3073,7 @@
         "name": "FLYTTAD till Sofiebergsv/Kumla Allé",
         "secondaryName": null,
         "propertyNumber": "Kumla 3:1103",
-        "streetAddress": "Stationen tas bort juni 2026",
+        "streetAddress": "Fornuddsvägen/Fornuddsparken",
         "municipalityCode": "0138",
         "extraInfo": null,
         "latitude": 59.2201946940354,
@@ -8856,7 +8845,7 @@
     },
     {
         "id": "96634",
-        "name": "ÅVS 9497 Parkeringsplats",
+        "name": "ÅVS 9497 Parkeringsplats // STÄNGER UNDER V. 34",
         "secondaryName": null,
         "propertyNumber": "NYNÄSHAMN 2:1",
         "streetAddress": "Estövägen/Trollstigen",
