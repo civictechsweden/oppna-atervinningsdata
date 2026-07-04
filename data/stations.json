@@ -43010,6 +43010,17 @@
         "longitude": 16.84389
     },
     {
+        "id": "10616",
+        "name": "Holmsveden",
+        "secondaryName": "",
+        "propertyNumber": "Härnebo 1:70",
+        "streetAddress": "Stationsgatan 50",
+        "municipalityCode": "2182",
+        "extraInfo": "",
+        "latitude": 61.119096,
+        "longitude": 16.719303
+    },
+    {
         "id": "10619",
         "name": "Variant köpcenter",
         "secondaryName": "",
@@ -43033,14 +43044,14 @@
     },
     {
         "id": "10621",
-        "name": "Söderala Åsvägen",
+        "name": "Söderala fd. Vivo",
         "secondaryName": "",
-        "propertyNumber": "Orsta 6:1",
-        "streetAddress": "Sockenvägen/Åsvägen",
+        "propertyNumber": "Orsta 1:4",
+        "streetAddress": "Sockenvägen/Stapelvägen",
         "municipalityCode": "2182",
         "extraInfo": "",
-        "latitude": 61.2791,
-        "longitude": 16.96568
+        "latitude": 61.27944,
+        "longitude": 16.96028
     },
     {
         "id": "10622",
@@ -43204,8 +43215,8 @@
         "streetAddress": "Södra Järnvägsgatan",
         "municipalityCode": "2182",
         "extraInfo": "",
-        "latitude": 61.30266,
-        "longitude": 17.0628
+        "latitude": 61.30222,
+        "longitude": 17.06139
     },
     {
         "id": "17286",
