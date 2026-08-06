@@ -14686,10 +14686,10 @@
     },
     {
         "id": "10821",
-        "name": "Coop",
+        "name": "Nämdemansparkeringen",
         "secondaryName": null,
         "propertyNumber": "10821",
-        "streetAddress": "Ängarydsgatan 6",
+        "streetAddress": "Storgatan 7",
         "municipalityCode": "0687",
         "extraInfo": null,
         "latitude": 58.03128,
@@ -22436,8 +22436,8 @@
         "streetAddress": "Nordins väg, Kivik id 4437",
         "municipalityCode": "1291",
         "extraInfo": null,
-        "latitude": 55.6836681641014,
-        "longitude": 14.2171937229264
+        "latitude": 55.6836454878176,
+        "longitude": 14.2170810687851
     },
     {
         "id": "4441",
@@ -44961,7 +44961,7 @@
         "name": "Returvägen  ",
         "secondaryName": null,
         "propertyNumber": "ÅVS",
-        "streetAddress": "Returvägen   ",
+        "streetAddress": "Returvägen ",
         "municipalityCode": "2284",
         "extraInfo": null,
         "latitude": 63.3024955013646,
