@@ -16819,17 +16819,6 @@
         "longitude": 16.4395975242546
     },
     {
-        "id": "212063",
-        "name": "Ljungnässkolan Mönsterås",
-        "secondaryName": null,
-        "propertyNumber": ".",
-        "streetAddress": "Skepparvägen",
-        "municipalityCode": "0861",
-        "extraInfo": null,
-        "latitude": 57.0307928310458,
-        "longitude": 16.4483070064276
-    },
-    {
         "id": "212064",
         "name": "Idrottsgatan Mönsterås",
         "secondaryName": null,
@@ -37370,7 +37359,7 @@
         "id": "79476",
         "name": "Stora Mellösa ÅVS",
         "secondaryName": null,
-        "propertyNumber": "Alm 1:30",
+        "propertyNumber": "ALM 1:30",
         "streetAddress": "Mällsavägen 15",
         "municipalityCode": "1880",
         "extraInfo": null,
