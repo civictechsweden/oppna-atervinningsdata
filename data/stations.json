@@ -35882,17 +35882,6 @@
         "longitude": 14.1277
     },
     {
-        "id": "461532",
-        "name": "Axvallagatan Malmen",
-        "secondaryName": "",
-        "propertyNumber": "Södermalm 1:1",
-        "streetAddress": "Axvallagatan",
-        "municipalityCode": "1781",
-        "extraInfo": "",
-        "latitude": 59.30269,
-        "longitude": 14.11699
-    },
-    {
         "id": "461533",
         "name": "Kurlandaallén ",
         "secondaryName": "",
@@ -47501,7 +47490,7 @@
         "id": "1000308",
         "name": "Orrviken",
         "secondaryName": null,
-        "propertyNumber": "Orrviken 6:40",
+        "propertyNumber": "ORRVIKEN 6:40",
         "streetAddress": "Fåkervägen 1",
         "municipalityCode": "2380",
         "extraInfo": null,
