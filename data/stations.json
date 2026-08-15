@@ -5504,7 +5504,7 @@
         "name": "Återvinningsstation 15486",
         "secondaryName": null,
         "propertyNumber": "SÖDERMALM 4:1",
-        "streetAddress": "Torkel Knutssonsgatan 10  ",
+        "streetAddress": "Torkel Knutssonsgatan 10",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3189563886124,
@@ -47546,7 +47546,7 @@
         "name": "Blomängen",
         "secondaryName": null,
         "propertyNumber": "ODENSLUND 4:8",
-        "streetAddress": "SÖDRA TORLANDSGATAN 26",
+        "streetAddress": "Södra Torlandsgatan 26",
         "municipalityCode": "2380",
         "extraInfo": null,
         "latitude": 63.1680057984807,
@@ -51192,6 +51192,17 @@
         "extraInfo": null,
         "latitude": 65.5813900126428,
         "longitude": 22.1438899942752
+    },
+    {
+        "id": "9811898",
+        "name": "MÄSTERLOTSVÄGEN",
+        "secondaryName": null,
+        "propertyNumber": "MJÖLKUDDEN 3:42",
+        "streetAddress": "MJÖLKUDDSVÄGEN 6",
+        "municipalityCode": "2580",
+        "extraInfo": null,
+        "latitude": 65.6020822195664,
+        "longitude": 22.1312264406241
     },
     {
         "id": "9811899",
