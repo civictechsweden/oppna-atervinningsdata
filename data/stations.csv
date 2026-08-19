@@ -177,7 +177,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 2134661,ÅVS 17388 Sandstugan,,LINDHOV 15:24,Tant gröns väg,0127,,59.2033802848905,17.7996754032971
 2144100,17214   Mittemot Parkering,,TULLINGE 21:223,Gösta Frohms väg,0127,,59.1828986612248,17.9158345166534
 3004101,ÅVS 7255  St Albans väg,,ERIKSBERG 2:1,Sankt albans väg,0127,,59.2429878337873,17.8135976805854
-3004103,ÅVS 17653  Bussvändpl Korpvägen TILLFÄLLIGT STÄNGD T.O.M. v.34,,Tumba 8:536,Skäcklingevägen,0127,,59.1817327048792,17.8263018301297
+3004103,ÅVS 17653  Bussvändpl Korpvägen TILLFÄLLIGT STÄNGD T.O.M. v.35,,Tumba 8:536,Skäcklingevägen,0127,,59.1816596670975,17.8247025583456
 6289,ÅVS 13328  Hörna Adler Salvius V,,TULLINGE 16:119,Anna Maria Roosväg,0127,,59.2149370376147,17.8935590919468
 6329,ÅVS 7252  Vändplan,,BRUNNA GÅRD 1,Tomtbergavägen 66,0127,,59.2490510825839,17.8325601275427
 6779,ÅVS 7292,,Rotemannen S:1,Albyvägen 15,0127,,59.2391073057404,17.8513245331713
@@ -455,7 +455,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585222,Återvinningsstation 16638,,SEGELBÅTEN 9,Polhemsgatan 37  ,0180,,59.3352225777074,18.0390598881291
 585223,Återvinningsstation 16630,,HAMMARBYHÖJDEN 1:1,Finn Malmgrens Väg 43,0180,,59.2955877283361,18.1074124293049
 585224,Återvinningsstation 16590,,RÖDBY 2,Jyllandsgatan 141,0180,,59.4022316132848,17.9331388726359
-585226,Återvinningsstation 16482,,MUNKLÄGRET 14,Norr Mälarstrand 20 ,0180,,59.3266791229781,18.0462621777146
+585226,Återvinningsstation 16482,,MUNKLÄGRET 14,Norr Mälarstrand 20,0180,,59.3266791229781,18.0462621777146
 585227,Återvinningsstation 16468,,SÅGEN 22,Hornsgatan 182,0180,,59.3150911577495,18.0322167218678
 585228,Återvinningsstation 16451,,ENIGHETEN 25,Enighetsvägen 5,0180,,59.3611206815473,17.9526811241284
 585232,Återvinningsstation 16300,,REKRYTEN 6,Valhallavägen 192,0180,,59.3375518177617,18.1037714623302
@@ -1331,17 +1331,17 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6955,Dukers väg 2A,,6955,Dukers väg 2 A,0686,,57.65278,14.98389
 10810,Ica Nära,,10810,Jönköpingsvägen 66,0687,,57.989332,14.849657
 10812,Sommen Mossebogatan,,10812,Mossebogatan,0687,,58.139668,14.965477
-10814,Tranås Skyttegatan IP,,10814,Skyttegatan IP,0687,,58.033687,14.958442
+10814,Tranås Skyttegatan,,,"Skyttegatan ,IP",0687,,58.03361,14.95833
 10815,Tranås Parkvägen P-plats Folkets Park,,10815,Parkvägen P-plats,0687,,58.032653,14.983688
-10820,Tranås Beckhemsvägen,,10820,Beckhemsvägen,0687,,58.047083,14.970717
-10821,Nämdemansparkeringen,,10821,Storgatan 7,0687,,58.03128,14.969433
-10822,Tranås Toståsvägen vid Sveagatan,,10822,Toståsvägen vid Sveagatan,0687,,58.018343,14.962113
-10823,Tranås Östra Järnvägsgatan,,10823,Östra Järnvägsgatan,0687,,58.03666,14.975042
+10820,Tranås Beckhemsvägen,,,Beckhemsvägen,0687,,58.04694,14.97056
+10821,Tranås Coop,,,Ängarydsgatan,0687,,58.03111,14.96917
+10822,Tranås Toståsvägen,,,Toståsvägen,0687,,58.01833,14.96194
+10823,Tranås Östra Järnvägsgatan,,,Östra järnvägsgatan,0687,,58.03639,14.975
 14115,Norraby (ÅVC),,14115,Svampgatan 4,0687,,58.054197,14.989035
 14795,Norrabyvägen,,14795,Norrabyvägen 2,0687,,58.047655,14.982563
 14796,Rundelgatan,,14796,Rundelgatan,0687,,58.036267,14.995318
 14895,Hamnvägen vid Båthamnen,,14895,Hamnvägen 2,0687,,58.04071,14.99026
-14896,Marknadsplatsen/hållplats,,14896,Marknadsplatsen,0687,,58.012793,14.667907
+14896,Adelöv Marknadsplatsen,,,Marknadsplatsen,0687,,58.01279,14.6679
 14897,Lindängsvägen,,14897,Lindängsvägen,0687,,57.975558,14.801245
 17459,Marknadsplatsen/hållplats,,14896,Marknadsplatsen,0687,,58.012793,14.667907
 17460,Lindängsvägen,,14897,Lindängsvägen,0687,,57.975558,14.801245

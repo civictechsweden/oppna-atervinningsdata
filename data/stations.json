@@ -1959,14 +1959,14 @@
     },
     {
         "id": "3004103",
-        "name": "ÅVS 17653  Bussvändpl Korpvägen TILLFÄLLIGT STÄNGD T.O.M. v.34",
+        "name": "ÅVS 17653  Bussvändpl Korpvägen TILLFÄLLIGT STÄNGD T.O.M. v.35",
         "secondaryName": null,
         "propertyNumber": "Tumba 8:536",
         "streetAddress": "Skäcklingevägen",
         "municipalityCode": "0127",
         "extraInfo": null,
-        "latitude": 59.1817327048792,
-        "longitude": 17.8263018301297
+        "latitude": 59.1816596670975,
+        "longitude": 17.8247025583456
     },
     {
         "id": "6289",
@@ -5020,7 +5020,7 @@
         "name": "Återvinningsstation 16482",
         "secondaryName": null,
         "propertyNumber": "MUNKLÄGRET 14",
-        "streetAddress": "Norr Mälarstrand 20 ",
+        "streetAddress": "Norr Mälarstrand 20",
         "municipalityCode": "0180",
         "extraInfo": null,
         "latitude": 59.3266791229781,
@@ -14653,14 +14653,14 @@
     },
     {
         "id": "10814",
-        "name": "Tranås Skyttegatan IP",
-        "secondaryName": null,
-        "propertyNumber": "10814",
-        "streetAddress": "Skyttegatan IP",
+        "name": "Tranås Skyttegatan",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Skyttegatan ,IP",
         "municipalityCode": "0687",
-        "extraInfo": null,
-        "latitude": 58.033687,
-        "longitude": 14.958442
+        "extraInfo": "",
+        "latitude": 58.03361,
+        "longitude": 14.95833
     },
     {
         "id": "10815",
@@ -14676,46 +14676,46 @@
     {
         "id": "10820",
         "name": "Tranås Beckhemsvägen",
-        "secondaryName": null,
-        "propertyNumber": "10820",
+        "secondaryName": "",
+        "propertyNumber": "",
         "streetAddress": "Beckhemsvägen",
         "municipalityCode": "0687",
-        "extraInfo": null,
-        "latitude": 58.047083,
-        "longitude": 14.970717
+        "extraInfo": "",
+        "latitude": 58.04694,
+        "longitude": 14.97056
     },
     {
         "id": "10821",
-        "name": "Nämdemansparkeringen",
-        "secondaryName": null,
-        "propertyNumber": "10821",
-        "streetAddress": "Storgatan 7",
+        "name": "Tranås Coop",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Ängarydsgatan",
         "municipalityCode": "0687",
-        "extraInfo": null,
-        "latitude": 58.03128,
-        "longitude": 14.969433
+        "extraInfo": "",
+        "latitude": 58.03111,
+        "longitude": 14.96917
     },
     {
         "id": "10822",
-        "name": "Tranås Toståsvägen vid Sveagatan",
-        "secondaryName": null,
-        "propertyNumber": "10822",
-        "streetAddress": "Toståsvägen vid Sveagatan",
+        "name": "Tranås Toståsvägen",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Toståsvägen",
         "municipalityCode": "0687",
-        "extraInfo": null,
-        "latitude": 58.018343,
-        "longitude": 14.962113
+        "extraInfo": "",
+        "latitude": 58.01833,
+        "longitude": 14.96194
     },
     {
         "id": "10823",
         "name": "Tranås Östra Järnvägsgatan",
-        "secondaryName": null,
-        "propertyNumber": "10823",
-        "streetAddress": "Östra Järnvägsgatan",
+        "secondaryName": "",
+        "propertyNumber": "",
+        "streetAddress": "Östra järnvägsgatan",
         "municipalityCode": "0687",
-        "extraInfo": null,
-        "latitude": 58.03666,
-        "longitude": 14.975042
+        "extraInfo": "",
+        "latitude": 58.03639,
+        "longitude": 14.975
     },
     {
         "id": "14115",
@@ -14763,14 +14763,14 @@
     },
     {
         "id": "14896",
-        "name": "Marknadsplatsen/hållplats",
-        "secondaryName": null,
-        "propertyNumber": "14896",
+        "name": "Adelöv Marknadsplatsen",
+        "secondaryName": "",
+        "propertyNumber": "",
         "streetAddress": "Marknadsplatsen",
         "municipalityCode": "0687",
-        "extraInfo": null,
-        "latitude": 58.012793,
-        "longitude": 14.667907
+        "extraInfo": "",
+        "latitude": 58.01279,
+        "longitude": 14.6679
     },
     {
         "id": "14897",
