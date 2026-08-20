@@ -1331,17 +1331,17 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6955,Dukers väg 2A,,6955,Dukers väg 2 A,0686,,57.65278,14.98389
 10810,Ica Nära,,10810,Jönköpingsvägen 66,0687,,57.989332,14.849657
 10812,Sommen Mossebogatan,,10812,Mossebogatan,0687,,58.139668,14.965477
-10814,Tranås Skyttegatan,,,"Skyttegatan ,IP",0687,,58.03361,14.95833
+10814,Tranås Skyttegatan IP,,10814,Skyttegatan IP,0687,,58.033687,14.958442
 10815,Tranås Parkvägen P-plats Folkets Park,,10815,Parkvägen P-plats,0687,,58.032653,14.983688
-10820,Tranås Beckhemsvägen,,,Beckhemsvägen,0687,,58.04694,14.97056
-10821,Tranås Coop,,,Ängarydsgatan,0687,,58.03111,14.96917
-10822,Tranås Toståsvägen,,,Toståsvägen,0687,,58.01833,14.96194
-10823,Tranås Östra Järnvägsgatan,,,Östra järnvägsgatan,0687,,58.03639,14.975
+10820,Tranås Beckhemsvägen,,10820,Beckhemsvägen,0687,,58.047083,14.970717
+10821,Nämdemansparkeringen,,10821,Storgatan 7,0687,,58.03128,14.969433
+10822,Tranås Toståsvägen vid Sveagatan,,10822,Toståsvägen vid Sveagatan,0687,,58.018343,14.962113
+10823,Tranås Östra Järnvägsgatan,,10823,Östra Järnvägsgatan,0687,,58.03666,14.975042
 14115,Norraby (ÅVC),,14115,Svampgatan 4,0687,,58.054197,14.989035
 14795,Norrabyvägen,,14795,Norrabyvägen 2,0687,,58.047655,14.982563
 14796,Rundelgatan,,14796,Rundelgatan,0687,,58.036267,14.995318
 14895,Hamnvägen vid Båthamnen,,14895,Hamnvägen 2,0687,,58.04071,14.99026
-14896,Adelöv Marknadsplatsen,,,Marknadsplatsen,0687,,58.01279,14.6679
+14896,Marknadsplatsen/hållplats,,14896,Marknadsplatsen,0687,,58.012793,14.667907
 14897,Lindängsvägen,,14897,Lindängsvägen,0687,,57.975558,14.801245
 17459,Marknadsplatsen/hållplats,,14896,Marknadsplatsen,0687,,58.012793,14.667907
 17460,Lindängsvägen,,14897,Lindängsvägen,0687,,57.975558,14.801245
@@ -3547,7 +3547,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 988265,ÅVS 15875 IKEA Erikslund Västerås,,Domkraften S:1 S:1,Domkraftsgatan 2,1980,,59.6082828345963,16.449797443071
 988267,ÅVS 16011 Munga Västerås,,Sjöbo 2:1,Sjöbovägen/Glimmervägen,1980,,59.7448846319537,16.5268672785646
 988275,ÅVS 16440 Tillberga Västerås,,Hubbo-Sörby 2:14,Kvarnbacksvägen 2,1980,,59.6885453392072,16.6172662040187
-988280,"ÅVS 16649 Stallhagen, Järnvägen Västerås",,Västerås 2:70,Nedre Hyttvägen,1980,,59.6001651102097,16.5342777646824
 988282,ÅVS 16884 ICA Supermarket Skultuna Västerås,,Kvarnbacka 3:84,Krongjutarvägen,1980,,59.7191672381622,16.427261615724
 988287,ÅVS 17340 Ymergatan/Sveaborgsvägen Irsta Västerås,,Ullvi 3:640,Ymergatan 1,1980,,59.6006336635704,16.6839125659135
 988361,ÅVS 99070 Vattentornet Västerås,,Västerås 4:91,Nansengatan,1980,,59.629738068496,16.5425260911341

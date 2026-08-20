@@ -14653,14 +14653,14 @@
     },
     {
         "id": "10814",
-        "name": "Tranås Skyttegatan",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Skyttegatan ,IP",
+        "name": "Tranås Skyttegatan IP",
+        "secondaryName": null,
+        "propertyNumber": "10814",
+        "streetAddress": "Skyttegatan IP",
         "municipalityCode": "0687",
-        "extraInfo": "",
-        "latitude": 58.03361,
-        "longitude": 14.95833
+        "extraInfo": null,
+        "latitude": 58.033687,
+        "longitude": 14.958442
     },
     {
         "id": "10815",
@@ -14676,46 +14676,46 @@
     {
         "id": "10820",
         "name": "Tranås Beckhemsvägen",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "secondaryName": null,
+        "propertyNumber": "10820",
         "streetAddress": "Beckhemsvägen",
         "municipalityCode": "0687",
-        "extraInfo": "",
-        "latitude": 58.04694,
-        "longitude": 14.97056
+        "extraInfo": null,
+        "latitude": 58.047083,
+        "longitude": 14.970717
     },
     {
         "id": "10821",
-        "name": "Tranås Coop",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Ängarydsgatan",
+        "name": "Nämdemansparkeringen",
+        "secondaryName": null,
+        "propertyNumber": "10821",
+        "streetAddress": "Storgatan 7",
         "municipalityCode": "0687",
-        "extraInfo": "",
-        "latitude": 58.03111,
-        "longitude": 14.96917
+        "extraInfo": null,
+        "latitude": 58.03128,
+        "longitude": 14.969433
     },
     {
         "id": "10822",
-        "name": "Tranås Toståsvägen",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Toståsvägen",
+        "name": "Tranås Toståsvägen vid Sveagatan",
+        "secondaryName": null,
+        "propertyNumber": "10822",
+        "streetAddress": "Toståsvägen vid Sveagatan",
         "municipalityCode": "0687",
-        "extraInfo": "",
-        "latitude": 58.01833,
-        "longitude": 14.96194
+        "extraInfo": null,
+        "latitude": 58.018343,
+        "longitude": 14.962113
     },
     {
         "id": "10823",
         "name": "Tranås Östra Järnvägsgatan",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Östra järnvägsgatan",
+        "secondaryName": null,
+        "propertyNumber": "10823",
+        "streetAddress": "Östra Järnvägsgatan",
         "municipalityCode": "0687",
-        "extraInfo": "",
-        "latitude": 58.03639,
-        "longitude": 14.975
+        "extraInfo": null,
+        "latitude": 58.03666,
+        "longitude": 14.975042
     },
     {
         "id": "14115",
@@ -14763,14 +14763,14 @@
     },
     {
         "id": "14896",
-        "name": "Adelöv Marknadsplatsen",
-        "secondaryName": "",
-        "propertyNumber": "",
+        "name": "Marknadsplatsen/hållplats",
+        "secondaryName": null,
+        "propertyNumber": "14896",
         "streetAddress": "Marknadsplatsen",
         "municipalityCode": "0687",
-        "extraInfo": "",
-        "latitude": 58.01279,
-        "longitude": 14.6679
+        "extraInfo": null,
+        "latitude": 58.012793,
+        "longitude": 14.667907
     },
     {
         "id": "14897",
@@ -39026,17 +39026,6 @@
         "extraInfo": null,
         "latitude": 59.6885453392072,
         "longitude": 16.6172662040187
-    },
-    {
-        "id": "988280",
-        "name": "ÅVS 16649 Stallhagen, Järnvägen Västerås",
-        "secondaryName": null,
-        "propertyNumber": "Västerås 2:70",
-        "streetAddress": "Nedre Hyttvägen",
-        "municipalityCode": "1980",
-        "extraInfo": null,
-        "latitude": 59.6001651102097,
-        "longitude": 16.5342777646824
     },
     {
         "id": "988282",
