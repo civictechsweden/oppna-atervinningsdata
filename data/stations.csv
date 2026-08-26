@@ -275,10 +275,9 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 99283,ÅVS 7985 Elhus Åbyinfarten,,ÅBY 1:27,Ringvägen/Åbyinfarten,0136,,59.1261936950801,18.1072363170325
 10868,ÅVS Granängsringen/Granängsvägen Tyresö,,Bollmora 2:1,*,0138,,59.2381260785598,18.2284597610866
 10869,ÅVS Kyrkogränd/Myggdalsvägen Tyresö,,Bollmora 2:585,Insamling matfett,0138,,59.2440537538412,18.2318287802651
-10870,ÅVS FNI Krusbodavägen/Lummergången Tyresö,,Bollmora 2:1,Insamling ljuskällor,0138,,59.2336149630043,18.2458596671529
+10870,FNI Krusbodavägen/Lummergången (ÅVS) Tyresö,,Bollmora 2:1,Insamling ljuskällor,0138,,59.2336149630043,18.2458596671529
 10871,ÅVS Pluggvägen/Tyresöhallen Tyresö,,Bollmora 2:403,*,0138,,59.241142386137,18.2283923264651
 10872,ÅVS Sikvägen/Siklöjevägen 7 Tyresö,,Bollmora 2:1,*,0138,,59.2486787414825,18.235733286571
-10873,FLYTTAD till ÅVS Sofiebergsv/Kumla Allé,,Kumla 3:1103,Fornuddsvägen/Fornuddsparken,0138,,59.2201946940354,18.1925829421327
 10874,ÅVS Sofiebergsvägen/Kumla Allé Tyresö,,Kumla 3:1264,*,0138,,59.2182328065891,18.1958987441755
 10875,ÅVS Vendelsövägen 49/Trollbäckens C Tyresö,,Kumla 69:26,Insamling elreturskåp & matfett,0138,,59.2242380055332,18.2019400594069
 10877,ÅVS Skolvägen/Trollbäckens IP Tyresö,,Näsby 4:1044,Insamling ljuskällor,0138,,59.2247287218375,18.2203842396719
@@ -288,10 +287,9 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 10885,ÅVS Tegvägen/Gudobroleden,,Näsby 50:1,Insamling ljuskällor,0138,,59.2136451662725,18.2077950064769
 10888,ÅVS Bollmoravägen/Lindalsvägen Tyresö,,Kumla 3:1264,*,0138,,59.2421899250849,18.1971224888894
 10890,ÅVS Breviksvägen/Tegelbruksvägen Tyresö,,Trinntorp 1:1,Insamling ljuskällor,0138,,59.22762157463,18.3536190904265
-12220,ÅVS Öringe Strandväg 4 Tyresö,,Gimmersta 1:1,Insamling ljuskällor,0138,,59.2480414602652,18.2593000969367
+12220,FNI Öringe Strandväg 4 (ÅVS) Tyresö,,Gimmersta 1:1,Insamling ljuskällor,0138,,59.2480414602652,18.2593000969367
 15569,ÅVS Strömfallsvägen 73/ KLC Tyresö,,Strömfallet 9,Kretsloppscentralen,0138,,59.245661019231,18.2509581968353
-15926,ÅVS Lagergrens väg/Strand C Tyresö,,Tyresö 1:544,Insamling ljuskällor,0138,,59.2417385300722,18.2856226266089
-16476,ÅVS BORTTAGEN,,Bollmora 2:1,Energivägen 6,0138,,59.2462471721059,18.2448465783439
+15926,ÅVS Lagergrens väg/Strand C Tyresö,,Tyresö 1:544,Insamling elreturskåp,0138,,59.2417385300722,18.2856226266089
 16519,ÅVS Bollmora Allé/Rimfrostgränd Tyresö,,Bollmora 2:1,Insamling ljuskällor,0138,,59.2462747581595,18.2245713364822
 16926,ÅVS Basilikagränd Tyresö,,Näsby 4:1469,Insamling ljuskällor,0138,,59.2319442551454,18.2317466216813
 16974,ÅVS Brakmarsvägen/Raksta Tyresö,,Raksta 1:3,Insamling ljuskällor,0138,,59.2251942605564,18.3015616490946
@@ -380,7 +378,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585105,Återvinningsstation 10043,,HOVRÄTTSRÅDET 2,Fogdevägen 116,0180,,59.2768674270151,18.126969446315
 585106,Återvinningsstation 10044,,HAMMARBYHÖJDEN 1:1,Olaus Magnus Väg 36,0180,,59.2974175983497,18.0913274536303
 585107,Återvinningsstation 10048,,HAMMARBYHÖJDEN 1:1,Karlskronavägen 2,0180,,59.2934596021058,18.1148602118564
-585108,Återvinningsstation 10050,,DALGÄRDET 12,Gamla Tyresövägen 374 ,0180,,59.2795517267418,18.1087068841745
+585108,Återvinningsstation 10050,,DALGÄRDET 12,Gamla Tyresövägen 374,0180,,59.2795517267418,18.1087068841745
 585109,Återvinningsstation 10053,,JOHANNESHOV 1:12,Pastellvägen 1,0180,,59.2941134369526,18.086284174382
 585110,Återvinningsstation 10055,,BRÄNNERIET 3,Reimersholmsgatan 10,0180,,59.3180367740257,18.0226345580812
 585111,Återvinningsstation 10057,,STÄMJÄRNET 1,Heleneborgsgatan 12,0180,,59.3195510054224,18.040965011413
@@ -392,7 +390,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585118,Återvinningsstation 10067,,LOKATTEN 1,Hägerstens Allé 5,0180,,59.3050958018574,17.9758662170312
 585119,Återvinningsstation 10069,,VÄSTBERGA 1:1,Fredrika Bremers Gata 36,0180,,59.2854626593158,17.9734485965531
 585120,Återvinningsstation 10077,,FJÄLLRUTAN 27,Blåklocksvägen 3,0180,,59.3680396269982,17.8208256612723
-585121,Återvinningsstation 10080,,GUBBÄNGEN 1:1,Fagersjövägen 4 ,0180,,59.256720476547,18.0798462635335
+585121,Återvinningsstation 10080,,GUBBÄNGEN 1:1,Fagersjövägen 4,0180,,59.256720476547,18.0798462635335
 585122,Återvinningsstation 10081,,GAMEN 9,Tjurbergsgatan 23,0180,,59.3105815796153,18.0723981975805
 585123,Återvinningsstation 10082,,MASKEN 9,Bohusgatan 57,0180,,59.3073176521343,18.0838785775988
 585124,Återvinningsstation 10083,,MOROTEN 5,Ringvägen 163,0180,,59.3102326478019,18.087148248178
@@ -434,14 +432,14 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585189,Återvinningsstation 10106,,ISBRYTAREN 34,Igeldammsgatan 42 ,0180,,59.3383196073394,18.0222037907303
 585190,Återvinningsstation 16724,,KÄTTINGEN 30,Kungsholms Strand 127,0180,,59.3368555358115,18.0341576455676
 585191,Återvinningsstation 10107,,BORGARE 1,Hjalmar Söderbergs Väg 14,0180,,59.3330152227021,18.0017178508769
-585192,Återvinningsstation 16653,,SOMMAREN 10,Alsnögatan 3 ,0180,,59.3125094570131,18.1006257723683
+585192,Återvinningsstation 16653,,SOMMAREN 10,Alsnögatan 3,0180,,59.3125094570131,18.1006257723683
 585193,Återvinningsstation 16652,,PRINSEN 13,Klevgränd 5,0180,,59.3186332165949,18.0746899511251
 585194,Återvinningsstation 10108,,DUNGEN 22,Essinge Kyrkväg 9,0180,,59.3213022975102,17.9897839335492
 585195,Återvinningsstation 16648,,HAIFA 1,Tullvaktsvägen 2  ,0180,,59.3395271096413,18.1173917714877
 585196,Återvinningsstation 16647,,BJÖRKLÅNGEN 1,Sandfjärdsgatan 9,0180,,59.2952613590495,18.0436445075256
 585197,Återvinningsstation 16644,,INSTRUKTIONEN 1,Snöripsvägen 36,0180,,59.2728607849264,17.977528244613
 585199,Återvinningsstation 16643,,PLANKAN 24,Varvsgatan 21,0180,,59.3172276349804,18.0404057640136
-585200,Återvinningsstation 10109,,DAMMSUGAREN 1,Essinge Brogata 37 ,0180,,59.3250676782381,18.0034429454825
+585200,Återvinningsstation 10109,,DAMMSUGAREN 1,Essinge Brogata 37,0180,,59.3250676782381,18.0034429454825
 585207,Återvinningsstation 10114,,STADSARKIVET 1,Kungsklippan 10,0180,,59.3301504410538,18.0484548532348
 585208,Återvinningsstation 10117,,KUNGSHOLMEN 2:2,Pontonjärgatan 25,0180,,59.3290582518279,18.0328816330477
 585209,Återvinningsstation 10118,,STADSHAGEN 1:1,Stadshagsvägen 14,0180,,59.3363434410815,18.0213949117304
@@ -465,7 +463,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585237,Återvinningsstation 10128,,BARKSKEPPET 1,Fregattvägen 28,0180,,59.3138836448514,18.0056197245026
 585238,Återvinningsstation 16101,,HALMSJÖN 1,Vättersvägen 24,0180,,59.2958433087521,18.059068964375
 585239,Återvinningsstation 16100,,KLOTEN 2,Åmänningevägen 64,0180,,59.2964755046896,18.0416799151312
-585244,Återvinningsstation 16040,,HJORTHAGEN 1:5,Artemisgatan 89  ,0180,,59.3548090859793,18.0972170766892
+585244,Återvinningsstation 16040,,HJORTHAGEN 1:5,Artemisgatan 89,0180,,59.3548090859793,18.0972170766892
 585245,Återvinningsstation 16001,,HÖGBERGSTERRASSEN 1,Högbergsgatan 99,0180,,59.3146455692291,18.0574192620513
 585246,Återvinningsstation 15932,,KUNDREGISTRET 5,Multrågatan 57,0180,,59.360199323677,17.8785898599685
 585247,Återvinningsstation 15877,,GETEN 21,Frejgatan 31,0180,,59.3472360143812,18.0567790806913
@@ -561,14 +559,14 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585362,Återvinningsstation 14382,,MANHEM 3,Stagneliusvägen 56 ,0180,,59.3302145358918,18.0000285975832
 585363,Återvinningsstation 14380,,VEJLE 1,Vejlegatan 1,0180,,59.4016190235123,17.9439765501789
 585364,Återvinningsstation 14376,,BEGONIAN 28,Riddersviksvägen 182,0180,,59.3800476569921,17.8035792538489
-585365,Återvinningsstation 14375,,GRIMSTA 1:2,Kvarnhagsgatan 52 ,0180,,59.3663948279087,17.8501746923025
+585365,Återvinningsstation 14375,,GRIMSTA 1:2,Kvarnhagsgatan 52,0180,,59.3663948279087,17.8501746923025
 585366,Återvinningsstation 14373,,HÄSSELBY VILLASTAD 28:1,Dvärglinsgränd,0180,,59.3925837465174,17.81934276143
 585367,Återvinningsstation 14372,,VITMÅRAN 1,Bergmyntegränd 5,0180,,59.3892812288105,17.8012242881054
 585369,Återvinningsstation 14370,,BACKLÖKEN 38,Backlöksvägen 45 ,0180,,59.3934789468754,17.8099214438348
 585370,Återvinningsstation 14369,,ISVAKEN 1,Broddgränd 1 ,0180,,59.290391692091,17.970488806997
 585372,Återvinningsstation 14361,,MILJÖVÅRDEN 1,Spångavägen 277,0180,,59.3613911630357,17.9054622809462
 585373,Återvinningsstation 14359,,BETONGBLANDAREN 13,Adolfsbergsvägen 25 ,0180,,59.3582339905445,17.9559502162082
-585375,Återvinningsstation 12839,,TIMGLASET 2,Bärbogränd 2 ,0180,,59.2713010621915,18.0426107871625
+585375,Återvinningsstation 12839,,TIMGLASET 2,Bärbogränd 2,0180,,59.2713010621915,18.0426107871625
 585376,Återvinningsstation 10244,,BALUNGEN 3,Siljansvägen 75  ,0180,,59.2993313363711,18.0413727872214
 585377,Återvinningsstation 12827,,VEGA 3,Kungstensgatan 47,0180,,59.3405182478222,18.0543102445112
 585378,Återvinningsstation 10248,,ENSKEDE GÅRD 1:1,Gullmarsvägen 7,0180,,59.2985644358023,18.0782012360229
@@ -4009,7 +4007,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 1904,Härnösand Coop Forum,,Staget 1,Ö. Bondsjögatan,2280,,62.63611,17.92389
 1907,Härnösand Skyttevägen,,Ön 2:52,Skyttevägen 1,2280,,62.63806,17.9625
 1908,Älandsbro (ÅVC),,Äland 1:32,Äland 250,2280,,62.66667,17.79194
-1909,Härnösand Coop Tullporten,,Fastlandet 2:66,Tunnelplan,2280,,62.6275,17.9225
 1910,Härnösand Ångströmsgatan,,Ön 2:51,Ångströmsgatan 4,2280,,62.625,17.96528
 6960,Hemsön Färjeläget,,Finsvik 5:17,Älandsbro,2280,,62.69,17.97917
 6961,Häggdånger Kyrkan,,Hov S:1,Kyrkan,2280,,62.54,17.81917
