@@ -274,7 +274,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 98970,ÅVS 14589 Årsta Havsbad Torget (Bakom affär),,STADSBERGA 8:1,Årsta Havsbad Torget,0136,,59.0827695564522,18.1644511830595
 99283,ÅVS 7985 Elhus Åbyinfarten,,ÅBY 1:27,Ringvägen/Åbyinfarten,0136,,59.1261936950801,18.1072363170325
 10868,ÅVS Granängsringen/Granängsvägen Tyresö,,Bollmora 2:1,*,0138,,59.2381260785598,18.2284597610866
-10869,ÅVS Kyrkogränd/Myggdalsvägen Tyresö,,Bollmora 2:585,Insamling matfett,0138,,59.2440537538412,18.2318287802651
+10869,ÅVS Kyrkogränd/Myggdalsvägen Tyresö,,Bollmora 2:585,Insamling elreturskåp & matfett,0138,,59.2440537538412,18.2318287802651
 10870,FNI Krusbodavägen/Lummergången (ÅVS) Tyresö,,Bollmora 2:1,Insamling ljuskällor,0138,,59.2336149630043,18.2458596671529
 10871,ÅVS Pluggvägen/Tyresöhallen Tyresö,,Bollmora 2:403,*,0138,,59.241142386137,18.2283923264651
 10872,ÅVS Sikvägen/Siklöjevägen 7 Tyresö,,Bollmora 2:1,*,0138,,59.2486787414825,18.235733286571
@@ -410,7 +410,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585164,Återvinningsstation 17223,,SVEDJAREN 4,Hagsätravägen 123 ,0180,,59.2611024186216,18.025624541432
 585166,Återvinningsstation 17201,,PELARBACKEN MINDRE 23,Kapellgränd 7,0180,,59.3160082912335,18.0743472704079
 585167,Återvinningsstation 17122,,BODHOLMEN 1,Ängsholmsgränd 63  ,0180,,59.2754495187766,17.8825249186816
-585168,Återvinningsstation 17109,,PIEDESTALEN 3,Maltesholmsvägen 144  ,0180,,59.3603334115701,17.8331042435763
+585168,Återvinningsstation 17109,,PIEDESTALEN 3,Maltesholmsvägen 144,0180,,59.3603334115701,17.8331042435763
 585169,Återvinningsstation 17068,,DOPFUNTEN 1,Sköndalsvägen 88,0180,,59.2544657374113,18.1156502227575
 585170,Återvinningsstation 16966,,VAGNHALLEN 8,Jämtlandsgatan 123,0180,,59.3558070232583,17.8789216352735
 585172,Återvinningsstation 16957,,ÄNGSHOLMEN 1,Ängsholmsgränd 6 ,0180,,59.2755498536728,17.880022789572
@@ -507,7 +507,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 585297,Återvinningsstation 15360,,VOLONTÄREN 16,Rörstrandsgatan 32,0180,,59.3408048161432,18.0293382223317
 585298,Återvinningsstation 15351,,SÄNGKAMMAREN 3,Ormängsgatan 16,0180,,59.3639557224976,17.8425418872186
 585299,Återvinningsstation 10185,,BROMSTEN 8:1,Duvbovägen 147,0180,,59.3832932856639,17.9097148783364
-585300,Återvinningsstation 15350,,FÖRMAKET 1,Maltesholmsvägen 85 ,0180,,59.3656113249627,17.8432613537621
+585300,Återvinningsstation 15350,,FÖRMAKET 1,Maltesholmsvägen 85,0180,,59.3656113249627,17.8432613537621
 585301,Återvinningsstation 15347,,STJÄRNFALLET 21,Upplandsgatan 30,0180,,59.339970666319,18.0512177434476
 585302,Återvinningsstation 10189,,CALIXTUS 10,Arrendevägen 32 ,0180,,59.3655260923206,17.916659770341
 585303,Återvinningsstation 15028,,VÄSTBERGA 1:1,Elsa Brändströms Gata 62,0180,,59.2878126180204,17.9641868658573
@@ -801,7 +801,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 96630,ÅVS 9499 Parkeringsplats Backluravägen 11,,STAVEN 9,Backluravägen 11C,0192,,58.9139748971584,17.9395442329255
 96631,ÅVS 16375 Vid Coop Parkering,,TORP 22:1,Kyrkgatan 1,0192,,59.008212678867,17.8071926161723
 96633,ÅVS 9506 Marstavägen/Mariebergsvägen,,MARSTA 5:70,Marstavägen/Mariebergsvägen,0192,,58.9527794431986,17.7901795103115
-96634,ÅVS 9497 Parkeringsplats // STÄNGER UNDER V. 34,,NYNÄSHAMN 2:1,Estövägen/Trollstigen,0192,,58.8957566301705,17.9282030660308
+96634,ÅVS 9497 Parkeringsplats // Avslytad 34 2026,,NYNÄSHAMN 2:1,Estövägen/Trollstigen,0192,,58.8957566301705,17.9282030660308
 96637,ÅVS 9503  Fröjas väg/Idunvägen,,NYNÄSHAMN 2:1,Fröjas väg,0192,,58.9003867461402,17.9340479663847
 96638,ÅVS 9508 Vid Torö Lanthandel,,STORBYGÅRDEN 1:229,Torövägen,0192,,58.8265430723247,17.839804680177
 96639,ÅVS 9494 Hamnviksvägen/Sandskogsvägen,,NYNÄSHAMN 2:130,Hamnviksvägen/Sandskogsvägen,0192,,58.8946710893625,17.9356469068028
@@ -1974,7 +1974,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 131318,1014 ESLÖVS ÅVC,,STÄDET 6,ÅKERIVÄGEN 3,1285,,55.8290270590785,13.3263618759195
 131321,1007 LÖBERÖD ÅVC,,LÖBERÖD 1:196,LÖPAREGATAN 4,1285,,55.77499407146,13.5043936190401
 131322,1012 MARIEHOLM ÅVC,,SIBBARP 2:85,BRUKSGATAN 15,1285,,55.8655940047232,13.1626114767782
-131364,1015 RÖNNEHOLMS AVF.ANL ÅVS,,HASSLE 32:11,RÖNNEHOLMS AVF.ANL HASSLE 3211,1285,,55.914619081101,13.4052253058634
+131364,1015 Rönneholms avfallsanläggning ÅVS,,HASSLE 32:11,RÖNNEHOLMS AVF.ANL HASSLE 3211,1285,,55.914619081101,13.4052253058634
 230183,Skarpskyttegatans ÅVS,,Innerstaden 4:30,Skarpskyttegatan 10,1287,,55.37176,13.17057
 230184,Alstads ÅVS,,Västra Alstad 4:30,Alstads stationsväg 3,1287,,55.45341,13.20915
 230185,Rosenhagens ÅVS,,Sörby 8:12,Landsvägen 2229,1287,,55.43746,13.32812
@@ -2156,7 +2156,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 7489,"Slätten, Fredens väg",,Slätten 1:1,"ÅVS Slätten, Fredens väg",1382,,56.8956777100032,12.5287221192939
 7490,"Hjortsberg, Hjortvägen",,Hjortsberg 4:1,"ÅVS Hjortsberg, Hjortvägen",1382,,56.884933998251,12.5142618636235
 7491,"Gamla Coop, Klockaregatan 27",,Spettet 1,ÅVS Klockaregatan 27 Gamla Coop,1382,,56.9094665615083,12.4913181764666
-7495,Sanddynevägen/Strandridaregatan,,Västra Gärdet 2:1,ÅVS Sanddynevägen,1382,,56.8954838555942,12.4810234846148
+7495,Sanddynevägen/Strandridaregatan,,VÄSTRA GÄRDET 2:1,ÅVS Sanddynevägen,1382,,56.8954838555942,12.4810234846148
 7500,Gällared Hagabergsvägen,,Gällared 8:1,ÅVS Gällared Hagabergsvägen,1382,,57.0995871911733,12.8326302243534
 7501,"Heberg, Gamla vägen",,Heberg 3:12,"ÅVS Heberg, Gamla vägen 12",1382,,56.8784744365265,12.6312854713436
 7504,Källsjö Kyrka,,Holmen 1:1,ÅVS Källsjö kyrka,1382,,57.2154146252985,12.6469260766696
@@ -2860,7 +2860,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 1002,1002 Drottninggatan,,1002 Drottninggatan,1002 Drottninggatan,1484,,58.2743445406444,11.4295329162329
 1003,1003 Färgargatan,,1003 Färgargatan,1003 Färgargatan,1484,,58.2763914445369,11.4347672903434
 1004,1004 Slätten,,1004 Slätten,1004 Slätten,1484,,58.2811976349904,11.446161310855
-1005,1005Bangatan Grötö,,1005 Bangatan Grötö,1005 Bangatan Grötö,1484,,58.2765308924743,11.4463523452732
+1005,1005 Bangatan Grötö,,1005 Bangatan Grötö,1005 Bangatan Grötö,1484,,58.2765308924743,11.4463523452732
 1006,1006 Götes,,1006 Sälgvägen,1006 Sälgvägen,1484,,58.2788381617968,11.4550721941449
 1007,1007 Dalskogen,,1007 Dalskogen,1007 Dalskogen,1484,,58.2834453832662,11.4661209740573
 1008,1008 Torpet,,1008 Torpet,1008 Torpet,1484,,58.2883602464763,11.4718728141284
@@ -2894,30 +2894,30 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 6054161,Fridhem.,148519,HELENEDAL 1:1,Fridhemsvägen Åvs ,1485,,58.38139,11.93556
 6058838,Äsperöd,148517,ÄSPERÖD 1:35,Äsperödsvägen Åvs ,1485,,58.34444,11.9625
 6058839,Aröd,148516,ARÖD 1:40,Vassbovägen Åvs ,1485,,58.24,11.91639
-148801,ÅVS Nysätra IP Skoftebyn,,0,Nysätra Fotbollsplan,1488,,58.26474,12.26609
-148802,ÅVS Bergkullevägen,,0,Bergkullevägen 58,1488,,58.258,12.26396
-148803,ÅVS Åsaka Kryddlunds,,0,Slätternavägen 3,1488,,58.2455,12.4217
-148804,ÅVS Velanda,,0,Velandavägen 4,1488,,58.232,12.30439
-148805,ÅVS Halvorstorp Kiosk,,0,Skogsvägen 1,1488,,58.28922,12.3405
-148806,ÅVS Hedeängsvägen,,0,Hedeängsvägen 61,1488,,58.2892,12.33604
-148807,ÅVS Utsiktsgatan,,0,Bengtsforsvägen 2,1488,,58.32122,12.2808
-148808,ÅVS Alunvägen,,0,Alunvägen,1488,,58.31585,12.27079
-148809,ÅVS Älvdalens Livs,,0,Castorvägen 1,1488,,58.30977,12.29196
-148810,ÅVS Gryningsvägen,,0,Gryningsvägen,1488,,58.303,12.28335
-148811,ÅVS Tunhemsvägen Kungsporten,,0,Kyrkogårdsvägen 4,1488,,58.28908,12.2979
-148812,ÅVS Södra hamnvägen,,0,Grundbergsvägen 11,1488,,58.29566,12.30468
-148813,ÅVS Klintvägen,,0,Klintvägen,1488,,58.28056,12.28874
-148815,ÅVS P-Plats Edsborg IP,,0,Tunhemsvägen 45,1488,,58.29003,12.31408
-148816,ÅVS Albertsvägen,,0,Albertsvägen,1488,,58.28975,12.27551
-148817,ÅVS Överby,,0,Anes väg 10,1488,,58.31138,12.30405
-148818,ÅVS Pomonavägen,,0,Pomonavägen,1488,,58.27772,12.25343
-148819,ÅVS Kvarntorpsvägen,,0,Kvarntorpsvägen,1488,,58.19789,12.21971
-148820,ÅVS Skrehall,,0,Skrehall,1488,,58.18392,12.21887
-148821,ÅVS Upphärad,,0,Upphärad ÅVS,1488,,58.15586,12.30699
-148822,ÅVS Håjum,,0,Verkmästarevägen 20,1488,,58.2766,12.3133
-148823,ÅVS Träffen,,0,Stamkullevägen Träffen,1488,,58.28115,12.32971
-148824,ÅVS Skogstorpavägen,,0,Skogstorpavägen,1488,,58.29147,12.30966
-148825,ÅVS Norra Björke,,0,Norra Björke,1488,,58.2738,12.50758
+30581,ÅVS Bergkullevägen,,,Bergkullevägen 58,1488,"Städas eftermiddagar på måndag, onsdag, torsdag, lördag och söndag",58.257985419642694,12.26393730578998
+30582,ÅVS Åsaka Kryddlunds,,,Slätternavägen 3,1488,Städas eftermiddagar på tisdag och lördag,58.2455,12.4217
+30583,ÅVS Velanda,,,Velandavägen 4,1488,Städas eftermiddagar på tisdag och lördag,58.23202072607222,12.30434006397795
+30584,ÅVS Halvorstorp Kiosk,,,Skogsvägen 1,1488,"Städas eftermiddagar på tisdag, fredag och söndag",58.28922162140745,12.340312696106464
+30585,ÅVS Hedeängsvägen,,,Hedeängsvägen 61,1488,"Städas eftermiddagar på måndag, onsdag och lördag",58.28918600602981,12.335986995795302
+30586,ÅVS Nysätra IP Skoftebyn,,,Nysätra Fotbollsplan,1488,"Städas eftermiddagar på måndag, onsdag, fredag och söndag",58.26478096284538,12.26624035168053
+30589,ÅVS Utsiktsgatan,,,Bengtforsvägen 2,1488,"Städas eftermiddagar på tisdag, fredag och söndag",58.32122,12.2808
+30590,ÅVS Alunvägen,,,Alunvägen,1488,"Städas eftermiddagar på måndag, onsdag och lördag",58.31585,12.27079
+30591,ÅVS Älvdalens Livs,,,Castorvägen 1,1488,"Städas eftermiddagar på tisdag, torsdag och söndag",58.30977,12.29196
+30592,ÅVS Gryningsvägen,,,Gryningsvägen,1488,"Städas eftermiddagar på måndag, onsdag, fredag och lördag",58.303,12.28335
+30593,ÅVS Tunhemsvägen Kungsporten,,,Kyrkogårdsvägen 4,1488,"Städas eftermiddagar på måndag, tisdag, torsdag, fredag och söndag",58.28908,12.2979
+30594,ÅVS Södra hamnvägen,,,Grundbergsvägen 11,1488,"Städas eftermiddagar på måndag, onsdag och fredag",58.29566,12.30468
+30595,ÅVS Klintvägen,,,Klintvägen,1488,"Städas eftermiddagar på måndag, onsdag, fredag och lördag",58.28056,12.28874
+30597,ÅVS P-Plats Edsborg IP,,,Tunhemsvägen 45,1488,"Städas eftermiddagar på måndag, onsdag och lördag",58.29003,12.31408
+30598,ÅVS Albertsvägen,,,Albertsvägen,1488,"Städas eftermiddagar på måndag, onsdag, torsdag och lördag",58.28975,12.27551
+30599,ÅVS Överby,,,Anes väg 10,1488,"Städas eftermiddagar på måndag, onsdag, fredag och söndag",58.31139749325391,12.304237983082881
+30600,ÅVS Pomonavägen,,,Pomonavägen,1488,"Städas eftermiddagar på måndag, onsdag och fredag",58.2778740251338,12.253190749162957
+30601,ÅVS Kvarntorpsvägen,,,Kvarntorpsvägen,1488,Städas eftermiddagar på tisdag och söndag,58.19783882833087,12.219710360655366
+30602,ÅVS Skrehall,,,Skrehall,1488,Städas eftermiddagar på tisdag och söndag,58.18386342130103,12.218718701737687
+30603,ÅVS Upphärad,,,Upphärad ÅVS,1488,Städas eftermiddagar på tisdag och söndag,58.15592722232236,12.307043471443356
+30604,ÅVS Håjum,,,Verkmästarevägen 20,1488,"Städas på måndag, tisdag, onsdag, torsdag, fredag och lördag",58.27656626450036,12.313262731253928
+30605,ÅVS Träffen,,,Stamkullevägen Träffen,1488,"Städas eftermiddagar på tisdag, torsdag och söndag",58.28113480842768,12.329749745906469
+30606,ÅVS Skogstorpavägen,,,Skogstorpavägen,1488,"Städas eftermiddagar på onsdag, fredag och söndag",58.29145870298015,12.309664194138463
+30607,ÅVS Norra Björke,,,Norra Björke,1488,Städas eftermiddagar på torsdag,58.27380545275216,12.507657210893264
 15375,Sollebrunn (ÅVC),,,Torps Industriområde,1489,,58.11972,12.54028
 15693,Bälinge (ÅVC),,,Tokebackavägen 6,1489,,57.94444,12.58472
 6982,Hemköp,,,Sveagatan 8,1489,,57.92639,12.52611
@@ -4109,7 +4109,7 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4430045,Mycklingsvägen  ,,SJÄLEVADS-MYCKLING 1:47,Mycklingsvägen   ,2284,,63.3004673552691,18.6058361700703
 4430046,Torsvägen  ,,ÖRNSKÖLDSVIK 6:1,Torsvägen   ,2284,,63.2991478292701,18.7268909908352
 4430047,Vegagatan  ,,ÖRNSKÖLDSVIK 8:24,Vegagatan   ,2284,,63.29214024014,18.7214347101053
-4430049,Västra Dalgatan  ,,ÖRNSKÖLDSVIK 3:1,Västra Dalgatan   ,2284,,63.2942157772864,18.7002812564755
+4430049,"Åsdalen, Vid vändplanen",,ÖRNSKÖLDSVIK 3:1,Västra Dalgatan ,2284,,63.2942157772864,18.7002812564755
 4430050,Wibergsvägen  ,,DOMBÄCK 1:161,Wibergsvägen   ,2284,,63.3347635300613,19.145955775091
 4430051,Ångermanlandsgatan  ,,RENEN 1,Ångermanlandsgatan   ,2284,,63.2981232540406,18.7174411796716
 4430054,"Trysunda, Vid Kajen",,ÅVS,Trysunda,2284,,63.1383320021086,18.7879315914414
@@ -4731,7 +4731,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 220,Torgärdan industrivägen,,SVARTBYN 1:128,Industrivägen/Gamla Lulevägen,2582,,65.81043016278,21.7260781993424
 230,Södra svartbyn,,SVARTBYN 1:128,Gamla Lulevägen/Gideons väg,2582,,65.7978319634845,21.7395239388092
 240,Norra svartbyn,,SVARTBYN 6:12,Fårhagsvägen,2582,,65.8078193051024,21.763475522985
-250,Flarken,,VIBBYN 3:21,Flarken,2582,,65.8114300644574,21.8791863145681
 300,Heden ,,HEDEN 6:47,Glimmervägen,2582,,65.8160451569058,21.5839657595523
 310,,,Degerbäcken 18:1,Degerbäckens by 47 C,2582,,65.8584762219765,21.4102060075664
 320,Brännberg,,BRÄNNBERG 100:2,Brännberg,2582,,65.7849892419624,21.2263474410706
