@@ -801,7 +801,7 @@ id,name,secondaryName,propertyNumber,streetAddress,municipalityCode,extraInfo,la
 96630,ÅVS 9499 Parkeringsplats Backluravägen 11,,STAVEN 9,Backluravägen 11C,0192,,58.9139748971584,17.9395442329255
 96631,ÅVS 16375 Vid Coop Parkering,,TORP 22:1,Kyrkgatan 1,0192,,59.008212678867,17.8071926161723
 96633,ÅVS 9506 Marstavägen/Mariebergsvägen,,MARSTA 5:70,Marstavägen/Mariebergsvägen,0192,,58.9527794431986,17.7901795103115
-96634,ÅVS 9497 Parkeringsplats // Avslytad 34 2026,,NYNÄSHAMN 2:1,Estövägen/Trollstigen,0192,,58.8957566301705,17.9282030660308
+96634,ÅVS 9497 Parkeringsplats // Avslutad v34 2026,,NYNÄSHAMN 2:1,Estövägen/Trollstigen,0192,,58.8957566301705,17.9282030660308
 96637,ÅVS 9503  Fröjas väg/Idunvägen,,NYNÄSHAMN 2:1,Fröjas väg,0192,,58.9003867461402,17.9340479663847
 96638,ÅVS 9508 Vid Torö Lanthandel,,STORBYGÅRDEN 1:229,Torövägen,0192,,58.8265430723247,17.839804680177
 96639,ÅVS 9494 Hamnviksvägen/Sandskogsvägen,,NYNÄSHAMN 2:130,Hamnviksvägen/Sandskogsvägen,0192,,58.8946710893625,17.9356469068028
@@ -4334,7 +4334,6 @@ ASK_99236,OLSHAMMAR RENINGSVERKET,,OLSHAMMAR 6:17,BRUKSVÄGEN,1882,,58.753609998
 4415987,ÅVS Nyåker,9237,NYÅKER S:4,Åvs Nyåker Byvägen ,2401,,63.76083,19.31333
 4415989,ÅVS Gräsmyr,9230,GRÄSMYR 4:5,Åvs Gräsmyr ,2401,,63.77444,19.65222
 4416789,ÅVS Nordmaling ÅVC,,BÄVERN 1,Åvs Nordmaling (Åvc) Åsgatan 20,2401,,63.578394,19.50634
-4428760,ÅVS Butiksgatan,,AFFÄREN 2,Åvs Butiksgatan ,2401,,63.566759,19.49418
 12881,"Agnäs, Bagarstugan",,Agnäs 2:31,Agnäs,2403,,63.84944,19.2625
 13383,"Bjurholm, Ledningscentralen",,Skolan 1,"Färgargatan, vid COOP",2403,,63.9325,19.21583
 15661,"Bjurholm, Industrivägen 5",,Verktyget 3,Industrivägen 5,2403,,63.931076,19.235103

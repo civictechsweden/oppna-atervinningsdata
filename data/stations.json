@@ -8823,7 +8823,7 @@
     },
     {
         "id": "96634",
-        "name": "ÅVS 9497 Parkeringsplats // Avslytad 34 2026",
+        "name": "ÅVS 9497 Parkeringsplats // Avslutad v34 2026",
         "secondaryName": null,
         "propertyNumber": "NYNÄSHAMN 2:1",
         "streetAddress": "Estövägen/Trollstigen",
@@ -47683,17 +47683,6 @@
         "extraInfo": "",
         "latitude": 63.578394,
         "longitude": 19.50634
-    },
-    {
-        "id": "4428760",
-        "name": "ÅVS Butiksgatan",
-        "secondaryName": null,
-        "propertyNumber": "AFFÄREN 2",
-        "streetAddress": "Åvs Butiksgatan ",
-        "municipalityCode": "2401",
-        "extraInfo": "",
-        "latitude": 63.566759,
-        "longitude": 19.49418
     },
     {
         "id": "12881",
