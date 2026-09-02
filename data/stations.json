@@ -39963,39 +39963,6 @@
         "longitude": 13.3571819289714
     },
     {
-        "id": "208000",
-        "name": "Tandåliden",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Tandåliden",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1836971353036,
-        "longitude": 12.9979894272884
-    },
-    {
-        "id": "208001",
-        "name": "Gilleråsvägen",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Gilleråsvägen",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1873478113134,
-        "longitude": 13.017846246344
-    },
-    {
-        "id": "208003",
-        "name": "Hundfjällscenter",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Hundfjällscenter",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1779762392845,
-        "longitude": 12.9661054308392
-    },
-    {
         "id": "208006",
         "name": "Salbäcksvägen",
         "secondaryName": "",
@@ -40007,39 +39974,6 @@
         "longitude": 12.9470958557593
     },
     {
-        "id": "208009",
-        "name": "Fjällgläntan",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Fjällgläntan",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1751473104134,
-        "longitude": 12.9516776987949
-    },
-    {
-        "id": "208011",
-        "name": "Trollbäcken 1",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Trollbäcken 1",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1779562352498,
-        "longitude": 12.9596304188846
-    },
-    {
-        "id": "208012",
-        "name": "Trollbäcken 2",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Trollbäcken 2",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1771856443663,
-        "longitude": 12.9541885585709
-    },
-    {
         "id": "208615",
         "name": "Orrliden",
         "secondaryName": "",
@@ -40049,28 +39983,6 @@
         "extraInfo": "",
         "latitude": 61.1849318879893,
         "longitude": 12.982095774557
-    },
-    {
-        "id": "208620",
-        "name": "Solbacken",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Solbacken",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1774919991529,
-        "longitude": 12.9937861969771
-    },
-    {
-        "id": "208622",
-        "name": "Panorama",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Panorama",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1740228986281,
-        "longitude": 13.0015150961001
     },
     {
         "id": "210837",
@@ -40106,17 +40018,6 @@
         "longitude": 13.1969719123512
     },
     {
-        "id": "212516",
-        "name": "Skilodge",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Skilodge",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1574410615971,
-        "longitude": 13.2042979782329
-    },
-    {
         "id": "213120",
         "name": "Gubbmyrsvägen",
         "secondaryName": "",
@@ -40137,28 +40038,6 @@
         "extraInfo": "",
         "latitude": 61.2672224530335,
         "longitude": 12.8865536247649
-    },
-    {
-        "id": "213675",
-        "name": "Fjällhotellslingan",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Fjällhotellslingan",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1778220080497,
-        "longitude": 12.998788066401
-    },
-    {
-        "id": "214206",
-        "name": "Tandådaltorget",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Tandådaltorget",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1755001558699,
-        "longitude": 12.9963121987753
     },
     {
         "id": "214350",
@@ -40302,72 +40181,6 @@
         "extraInfo": "",
         "latitude": 60.6764787091301,
         "longitude": 13.7280456360468
-    },
-    {
-        "id": "214534",
-        "name": "Timmerbyarna",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Timmerbyarna",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1526566436005,
-        "longitude": 13.2087415246066
-    },
-    {
-        "id": "214535",
-        "name": "Skilodge Village",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Skilodge Village",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1550655524685,
-        "longitude": 13.2061225555077
-    },
-    {
-        "id": "214536",
-        "name": "Vinterplatsen",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Vinterplatsen",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1604896704826,
-        "longitude": 13.2007580987568
-    },
-    {
-        "id": "214537",
-        "name": "Killingvägen",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Killingvägen",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1595372517322,
-        "longitude": 13.1975036021682
-    },
-    {
-        "id": "214538",
-        "name": "Gustavtorget",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Gustavtorget",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1602962517059,
-        "longitude": 13.1921392286238
-    },
-    {
-        "id": "214539",
-        "name": "Isvägen",
-        "secondaryName": "",
-        "propertyNumber": "",
-        "streetAddress": "Isvägen",
-        "municipalityCode": "2023",
-        "extraInfo": "",
-        "latitude": 61.1629090988089,
-        "longitude": 13.1887264342664
     },
     {
         "id": "214602",
