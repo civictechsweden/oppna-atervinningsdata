@@ -13,15 +13,21 @@ Avfall Sverige hosts an OpenAPI 3.0 specification for Avfallshubben:
 - **Swagger UI**: [https://avfallshubben.avfallsverige.se/swagger/index.html](https://avfallshubben.avfallsverige.se/swagger/index.html)
 - **OpenAPI 3.0 JSON**: [https://avfallshubben.avfallsverige.se/swagger/v1/swagger.json](https://avfallshubben.avfallsverige.se/swagger/v1/swagger.json)
 
-> **Note on Authentication**: The `/api/avs/*` endpoints documented in Avfall Sverige's Swagger are protected by municipal API keys (HTTP 401 Unauthorized) for contractors and municipal authorities. However, the Umbraco API endpoints (`/umbraco/Api/SoporApi/*`) and Surface Controllers (`/umbraco/surface/*`) used by `sopor.nu` are **publicly accessible without authentication**.
+### How to convert Swagger endpoints to the public unauthenticated endpoints
 
-### Public Frontend API Specification
+The Swagger specification at `/swagger/v1/swagger.json` documents the exact underlying data models (`Avs`, `Service`, `ServiceCategory`), but uses the authenticated `/api/avs/*` route prefix intended for suppliers.
 
-Because Avfall Sverige does not publish an OpenAPI document for the unauthenticated frontend endpoints, this repository provides a full, community-maintained OpenAPI 3.0.3 specification:
-- **YAML**: [`docs/openapi.yaml`](openapi.yaml)
-- **JSON**: [`docs/openapi.json`](openapi.json)
+To convert any documented read endpoint to its public, unauthenticated equivalent used by `sopor.nu`:
 
-You can import these files directly into Postman, Insomnia, Swagger Editor, or API client generators.
+1. **Replace the route prefix**:
+   Change `/api/avs/` (or `/api/v1-1-0/avs/`) to `/umbraco/Api/SoporApi/`
+2. **Capitalize the acronym**:
+   - `/api/avs/GetAllAvs` $\rightarrow$ `/umbraco/Api/SoporApi/GetAllAVS`
+   - `/api/avs/GetAvs` $\rightarrow$ `/umbraco/Api/SoporApi/GetAVS`
+   - For recycling centers: `GetAllAVC` and `GetAVC`
+3. **Query parameters and response schemas are identical**:
+   The query parameters (`externalAvsId`, `municipalityCode`) and response objects match the `Avs` and `Service` schemas documented in Swagger.
+
 ---
 
 ## Base URLs
