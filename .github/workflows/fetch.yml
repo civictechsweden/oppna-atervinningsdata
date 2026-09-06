@@ -1,12 +1,17 @@
-name: Fetch the data
+name: Fetch the data (Deactivated)
+
+# DEACTIVATED: Automated scheduled scraping has been paused.
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '0 1 * * *' # 1AM every night
+  # schedule:
+  #   - cron:  '0 1 * * *' # 1AM every night
+
 jobs:
   scrape:
     name: Fetch the data
     runs-on: ubuntu-latest
+    # Deactivated: change to true if you explicitly want to run the scraper manually
+    if: false
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v5
@@ -17,7 +22,6 @@ jobs:
         run: uv run run.py
       - name: Commit and push
         run: |
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git config --global user.name 'github-actions[bot]'
           git add .
           git commit -m 'Update the data' || echo "Nothing to commit"

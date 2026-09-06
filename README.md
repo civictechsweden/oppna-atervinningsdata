@@ -1,63 +1,90 @@
-# Öppna återvinningsdata (Open recycling data)
+# Öppna återvinningsdata (Open Recycling Data)
 
-This python script can automatically fetch all the Swedish recycling stations (återvinningsstationer) using Avfall Sverige's open APIs. It also fetches the station "service info", which means basic information about when containers are emptied and in some cases information about cleaning, snow ploughing.
+**Öppna återvinningsdata** is a civic tech project documenting and providing open access to data about Swedish recycling stations (*återvinningsstationer*, ÅVS) and staffed municipal recycling centers (*återvinningscentraler*, ÅVC).
 
-It exports the result as JSON or CSV in the data folder.
+The Swedish national waste platform—**Avfallshubben** (`https://avfallshubben.avfallsverige.se`), managed by **Avfall Sverige** and powering the citizen portal **[sopor.nu](https://www.sopor.nu)**—exposes an official OpenAPI 3.0 / Swagger specification:
 
-On this repository, you can download the data directly. It is updated monthly by Github Actions every night at 1AM EST.
+- **Swagger UI**: [https://avfallshubben.avfallsverige.se/swagger/index.html](https://avfallshubben.avfallsverige.se/swagger/index.html)
+- **OpenAPI 3.0 JSON**: [https://avfallshubben.avfallsverige.se/swagger/v1/swagger.json](https://avfallshubben.avfallsverige.se/swagger/v1/swagger.json)
 
-The data is updated continuously by Avfall Sverige. The data made available by this hobby project might be outdated, or inaccurate.
+While Avfall Sverige treats Avfallshubben as an internal administrative tool for municipalities and does not publish it as open data on [dataportal.se](https://www.dataportal.se), the underlying citizen-facing REST endpoints are public and unauthenticated. This repository provides comprehensive English documentation for these endpoints in the [`docs/`](docs/) directory, alongside historical data exports.
 
-License for the code is AGPL 3.0, license for the data is CC0 (but attribution is appreciated).
+---
 
-## Why?
+## API Documentation (`docs/`)
 
-I started this project two years ago to fill in a gap, when FTI AB was still in charge of recycling data. The list of recycling stations often comes up among the most requested datasets in Sweden. Although the information is well structured and made available nationally through open APIs and a user-friendly map by Avfall Sverige on [sopor.nu](https://www.sopor.nu) (previously by FTI AB), it is not available as open data.
+Explore the detailed documentation for the public APIs powering `sopor.nu`:
 
-And since these organisations aren't part of the public sector, open data is even less of a priority for them than it is for government organisations.
+- **[API Overview & Architecture](docs/README.md)**: Base URLs, architecture, authentication notes, and Swagger details.
+- **[Recycling Stations (ÅVS)](docs/stations-avs.md)**: National station directory (`GetAllAVS`), container emptying schedules, contractor assignments, and cache feeds (`GetAVS`, `GetCacheItems`).
+- **[Recycling Centers (ÅVC)](docs/centers-avc.md)**: Staffed municipal centers (`GetAllAVC`, `GetAVC`), opening hours text, visitor quotas (`noOfFreeEntries`), entry systems, and accepted waste fractions (`fractionIds`).
+- **[Citizen Issue Reporting / Felanmälan](docs/issue-reporting.md)**: Taxonomy of problem codes for reporting full containers (`needsEmptying`), illegal dumping (`needsCleaning`), or snow/ice hazards (`winterManagement`).
+- **[National Sorting Guide / Sorteringsguide](docs/sorting-guide.md)**: Public dictionary of 1,199 consumer items (`AutocompleteApi/GetStrings`) and how they map to disposal fractions.
 
-Therefore, introducing Öppna återvinningsdata.
+---
 
-UPDATE July 2024: FTI AB has now completely transferred its mandate to the new Swedish waste portal (*Sveriges avfallsportal*, at [sopor.nu](https://www.sopor.nu)). That means that their APIs do not work anymore and I've updated my code to use the new portal's API. Good news is they are much better! They use the modern standard REST (instead of SOAP for FTI AB) and there is no need anymore to parse data from HTML. The variable naming is still a bit obscure though and there is no documentation so this project is still useful in order to understand which API endpoints exist, what data format they return and what some values stand for.
+## Project History & Background
 
-For instance, here is a correspondence table for service ids:
+### Why this project started (FTI AB Era, 2022–2023)
+The directory of Swedish recycling stations has consistently been one of the most requested public datasets in Sweden. Historically, packaging collection was run by the private producer consortium **FTI AB** (*Förpacknings- och tidningsinsamlingen*). While FTI provided a website and SOAP service (`ftiws.ftiab.se`), the data was not released under an open data license. This project was launched to bridge that gap by converting SOAP XML into open CSV and JSON files under CC0.
 
-- 1: Pappersförpackningar
-- 2: Plastförpackningar
-- 3: Metallförpackningar
-- 4: Ofärgade glasförpackningar
-- 5: Färgade glasförpackningar
-- 6: Tidningar och andra trycksaker
-- 7: Batterier
-- 8: Textil
-- 9: Städning
+### The Avfallshubben Transition (July 2024)
+Under Sweden's Packaging Reform (*Förordning 2022:1274 om producentansvar för förpackningar*), responsibility for packaging collection was transferred to Sweden's 290 municipalities on **January 1, 2024**. Avfall Sverige developed **Avfallshubben** to replace FTI's backend. In July 2024, this repository was migrated to consume the new REST endpoints on `avfallshubben.avfallsverige.se` (`GetAllAVS` and `GetAVS`).
 
-## Installation
+### Transition to Open Documentation (September 2026)
+In autumn 2025, Avfall Sverige expanded the platform with staffed recycling centers (ÅVC) and an OpenAPI standard. However, Avfallshubben experienced upstream stability and database sync fluctuations (such as sudden 50%+ drops in indexed stations), and Avfall Sverige does not offer an official open data SLA or publisher catalog on `dataportal.se`. Consequently, automated scheduled scraping was deactivated in favor of open documentation of the public APIs and maintaining curated historical data.
+---
 
-- Install [uv](https://docs.astral.sh/uv/) if you don't already have it.
+## Historical Data
 
-- Install dependencies
+Pre-generated data files remain available in the [`data/`](data/) directory:
+- `data/stations.json` / `data/stations.csv`: Registry of ~4,750 recycling stations with coordinates and cadastral references.
+- `data/services.csv`: Flattened container services, emptying frequencies, and operating contractors.
+- `data/stations_with_services.json`: Combined hierarchical JSON of stations with nested container services.
+
+---
+
+## Running the Code
+
+### 1. Prerequisites
+Install [uv](https://docs.astral.sh/uv/) (Python package and project manager) and Python 3.14:
 
 ```bash
+# Install dependencies from pyproject.toml / uv.lock
 uv sync
 ```
 
-## Usage
-
-- Run the fetch script:
+### 2. Running the Full Scraper
+To run the scraper manually against Avfallshubben:
 
 ```bash
 uv run run.py
 ```
 
-- Or import ***sopor*** and use one of its functions:
+The script will:
+1. Load existing stations from `data/stations_with_services.json`.
+2. Fetch the latest station list via `GetAllAVS`.
+3. Check for catastrophic drops (aborts if upstream drops by >20% to prevent data corruption).
+4. Concurrently fetch container service details for each station with retry backoff and timeout handling.
+5. Export updated records to `data/stations.json`, `data/stations.csv`, `data/services.csv`, and `data/stations_with_services.json`.
+
+### 3. Programmatic Usage in Python
+You can import the `sopor` module directly:
 
 ```python
 import sopor
 
-# Getting a list of all stations
-station_list = sopor.get_station_list()
+# Fetch list of all active stations
+stations = sopor.get_station_list()
+print(f"Fetched {len(stations)} stations")
 
-# Getting services of a station, here station 901006.
-services = sopor.get_station_info("901006", "2085")
+# Fetch detailed container services for a specific station (e.g. ID 11045 in Upplands Väsby)
+service_info = sopor.get_station_info(("11045", "0114"))
+print("Station services:", service_info)
 ```
+---
+
+## License
+
+- **Code** (scraper, parser, utilities): [AGPL 3.0](LICENSE)
+- **Data & Documentation**: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (Attribution appreciated)
