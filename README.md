@@ -34,17 +34,23 @@ For instance, here is a correspondence table for service ids:
 
 ## Installation
 
-- Install Python 3 on your machine if you don't already have it.
+- Install [uv](https://docs.astral.sh/uv/) if you don't already have it.
 
-- Install the dependencies
+- Install dependencies
 
-```python
-pip install -r requirements.txt
+```bash
+uv sync
 ```
 
 ## Usage
 
-- Import ***sopor*** and use one of its functions
+- Run the fetch script:
+
+```bash
+uv run run.py
+```
+
+- Or import ***sopor*** and use one of its functions:
 
 ```python
 import sopor
