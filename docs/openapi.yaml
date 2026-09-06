@@ -1,0 +1,315 @@
+openapi: 3.0.3
+info:
+  title: Sopor.nu & Avfallshubben Public API
+  version: 1.0.0
+  description: |
+    Community-maintained OpenAPI 3.0 specification for the public, unauthenticated
+    REST APIs powering https://www.sopor.nu and backed by Avfallshubben (Avfall Sverige).
+  contact:
+    name: Civic Tech Sweden
+    url: https://github.com/civictechsweden/oppna-atervinningsdata
+servers:
+  - url: https://avfallshubben.avfallsverige.se
+    description: Avfallshubben API (Primary data & cache feeds)
+  - url: https://www.sopor.nu
+    description: Sopor.nu Portal (Surface controllers, autocomplete & sorting guide)
+
+paths:
+  /umbraco/Api/SoporApi/GetAllAVS:
+    get:
+      summary: Get all recycling stations (ÅVS)
+      description: Retrieves the nationwide list of active unstaffed recycling stations in Sweden.
+      operationId: getAllAvs
+      responses:
+        '200':
+          description: A list of recycling stations
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Station'
+
+  /umbraco/Api/SoporApi/GetAVS:
+    get:
+      summary: Get station details and container service schedules
+      description: Retrieves service frequencies, container counts, and contractor assignments for a station.
+      operationId: getAvs
+      parameters:
+        - name: externalAvsId
+          in: query
+          required: true
+          description: Public station ID (e.g. 11045)
+          schema:
+            type: string
+        - name: municipalityCode
+          in: query
+          required: true
+          description: 4-digit municipality code (e.g. 0114)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Station details with container services
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/StationDetailResponse'
+
+  /umbraco/Api/SoporApi/GetAllAVC:
+    get:
+      summary: Get all recycling centers (ÅVC)
+      description: Retrieves all staffed municipal recycling centers in Sweden.
+      operationId: getAllAvc
+      responses:
+        '200':
+          description: A list of recycling centers
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/RecyclingCenter'
+
+  /umbraco/Api/SoporApi/GetAVC:
+    get:
+      summary: Get recycling center details
+      description: Retrieves opening hours, contact details, entry quotas, and accepted waste fractions for an ÅVC.
+      operationId: getAvc
+      parameters:
+        - name: externalAvcId
+          in: query
+          required: true
+          description: Recycling center ID (e.g. 246301)
+          schema:
+            type: string
+        - name: municipalityCode
+          in: query
+          required: true
+          description: 4-digit municipality code (e.g. 2463)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Recycling center details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RecyclingCenter'
+
+  /umbraco/Api/SoporApi/GetCacheItems/:
+    get:
+      summary: Get unified map markers cache
+      description: Returns both ÅVS stations and ÅVC centers in a single combined geo payload.
+      operationId: getCacheItems
+      responses:
+        '200':
+          description: Combined map cache payload
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CacheItemsResponse'
+
+  /umbraco/api/AutocompleteApi/GetStrings:
+    get:
+      summary: Get sorting guide item taxonomy
+      description: Retrieves all 1,199 indexed consumer goods and waste items in the national sorting guide.
+      operationId: getSortingGuideStrings
+      parameters:
+        - name: culture
+          in: query
+          required: false
+          schema:
+            type: string
+            default: sv-se
+      responses:
+        '200':
+          description: Array of item names
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+
+components:
+  schemas:
+    Station:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        accountId:
+          type: string
+          format: uuid
+        apiVersion:
+          type: string
+          example: 1.0.0
+        externalAvsId:
+          type: string
+          example: "11045"
+        name:
+          type: string
+          example: "Glädjens ÅVS"
+        secondaryName:
+          type: string
+          nullable: true
+        propertyNumber:
+          type: string
+          nullable: true
+        municipalityCode:
+          type: string
+          example: "0114"
+        streetAddress:
+          type: string
+          example: "Frejavägen"
+        lat:
+          type: string
+          example: "59.513491498998114"
+        long:
+          type: string
+          example: "17.930354788447218"
+        extraInfo:
+          type: string
+          nullable: true
+
+    StationDetailResponse:
+      type: object
+      properties:
+        avs:
+          allOf:
+            - $ref: '#/components/schemas/Station'
+            - type: object
+              properties:
+                services:
+                  type: array
+                  items:
+                    $ref: '#/components/schemas/ContainerService'
+        disableServiceRequestReportingToUser:
+          type: boolean
+        disableServiceRequestErrorDescriptionForUser:
+          type: boolean
+        enableServiceRequestImagePath:
+          type: boolean
+        customServiceRequestUrl:
+          type: string
+
+    ContainerService:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        avsId:
+          type: string
+          format: uuid
+        externalAvsId:
+          type: string
+        municipalityCode:
+          type: string
+        serviceId:
+          type: string
+          example: "101"
+        serviceType:
+          type: integer
+          description: |
+            1=Paper, 2=Plastic, 3=Metal, 4=Clear glass, 5=Coloured glass,
+            6=Newspaper, 7=Batteries, 8=Textiles, 9=Cleaning, 10=Winter maintenance
+          example: 1
+        lastAction:
+          type: string
+          format: date-time
+          nullable: true
+        lastActionAltText:
+          type: string
+          nullable: true
+        nextAction:
+          type: string
+          format: date-time
+          nullable: true
+        nextActionAltText:
+          type: string
+          example: "Töms måndag , torsdag och lördag"
+        numberOfServices:
+          type: integer
+          example: 1
+        responsible:
+          type: string
+          example: "SÖRAB/Strandqvist"
+
+    RecyclingCenter:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+        accountId:
+          type: string
+          format: uuid
+        name:
+          type: string
+          example: "Åsele Återvinningscentral"
+        externalAvcId:
+          type: string
+          example: "246301"
+        propertynumber:
+          type: string
+          nullable: true
+        municipalityCode:
+          type: string
+          example: "2463"
+        streetAddress:
+          type: string
+          example: "Industrivägen 15"
+        zipCode:
+          type: string
+          example: "97931"
+        city:
+          type: string
+          example: "Åsele"
+        lat:
+          type: string
+          example: "64.176375"
+        long:
+          type: string
+          example: "17.367202"
+        openingHours:
+          type: string
+          example: "Tisdagar 12.00-18:30\r\nTorsdagar 09:00-16:00"
+        openingHoursUrl:
+          type: string
+          nullable: true
+        noOfFreeEntries:
+          type: integer
+          nullable: true
+        entrySystem:
+          type: string
+          nullable: true
+        proffessionalInfo:
+          type: string
+          nullable: true
+        contactEmail:
+          type: string
+          nullable: true
+        contactPhone:
+          type: string
+          nullable: true
+        url:
+          type: string
+          nullable: true
+        fractionIds:
+          type: string
+          example: "2019,2021,2017,2013,2030,2023,2020,2022,2025"
+
+    CacheItemsResponse:
+      type: object
+      properties:
+        avsList:
+          type: array
+          items:
+            $ref: '#/components/schemas/Station'
+        avcList:
+          type: array
+          items:
+            $ref: '#/components/schemas/RecyclingCenter'

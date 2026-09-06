@@ -15,12 +15,12 @@ While Avfall Sverige treats Avfallshubben as an internal administrative tool for
 
 Explore the detailed documentation for the public APIs powering `sopor.nu`:
 
+- **[OpenAPI 3.0 Specification](docs/openapi.yaml)**: Direct OpenAPI definitions in [YAML](docs/openapi.yaml) and [JSON](docs/openapi.json) ready for Postman, Insomnia, or client generators.
 - **[API Overview & Architecture](docs/README.md)**: Base URLs, architecture, authentication notes, and Swagger details.
 - **[Recycling Stations (ÅVS)](docs/stations-avs.md)**: National station directory (`GetAllAVS`), container emptying schedules, contractor assignments, and cache feeds (`GetAVS`, `GetCacheItems`).
 - **[Recycling Centers (ÅVC)](docs/centers-avc.md)**: Staffed municipal centers (`GetAllAVC`, `GetAVC`), opening hours text, visitor quotas (`noOfFreeEntries`), entry systems, and accepted waste fractions (`fractionIds`).
 - **[Citizen Issue Reporting / Felanmälan](docs/issue-reporting.md)**: Taxonomy of problem codes for reporting full containers (`needsEmptying`), illegal dumping (`needsCleaning`), or snow/ice hazards (`winterManagement`).
 - **[National Sorting Guide / Sorteringsguide](docs/sorting-guide.md)**: Public dictionary of 1,199 consumer items (`AutocompleteApi/GetStrings`) and how they map to disposal fractions.
-
 ---
 
 ## Project History & Background

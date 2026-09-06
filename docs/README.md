@@ -13,8 +13,15 @@ Avfall Sverige hosts an OpenAPI 3.0 specification for Avfallshubben:
 - **Swagger UI**: [https://avfallshubben.avfallsverige.se/swagger/index.html](https://avfallshubben.avfallsverige.se/swagger/index.html)
 - **OpenAPI 3.0 JSON**: [https://avfallshubben.avfallsverige.se/swagger/v1/swagger.json](https://avfallshubben.avfallsverige.se/swagger/v1/swagger.json)
 
-> **Note on Authentication**: The `/api/avs/*` endpoints documented in Swagger are protected by municipal API keys (HTTP 401 Unauthorized) for contractors and municipal authorities to manage their stations. However, the Umbraco API endpoints (`/umbraco/Api/SoporApi/*`) and Surface Controllers (`/umbraco/surface/*`) used by `sopor.nu` are **publicly accessible without authentication**.
+> **Note on Authentication**: The `/api/avs/*` endpoints documented in Avfall Sverige's Swagger are protected by municipal API keys (HTTP 401 Unauthorized) for contractors and municipal authorities. However, the Umbraco API endpoints (`/umbraco/Api/SoporApi/*`) and Surface Controllers (`/umbraco/surface/*`) used by `sopor.nu` are **publicly accessible without authentication**.
 
+### Public Frontend API Specification
+
+Because Avfall Sverige does not publish an OpenAPI document for the unauthenticated frontend endpoints, this repository provides a full, community-maintained OpenAPI 3.0.3 specification:
+- **YAML**: [`docs/openapi.yaml`](openapi.yaml)
+- **JSON**: [`docs/openapi.json`](openapi.json)
+
+You can import these files directly into Postman, Insomnia, Swagger Editor, or API client generators.
 ---
 
 ## Base URLs
