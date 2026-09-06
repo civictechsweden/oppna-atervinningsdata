@@ -16,6 +16,7 @@ Retrieves the nationwide list of active recycling stations.
 - **Parameters**: None
 
 #### Response Structure (`200 OK`)
+
 Returns a JSON array of station objects:
 
 ```json
@@ -39,8 +40,9 @@ Returns a JSON array of station objects:
 ```
 
 #### Field Reference
+
 | Field | Type | Description |
-|---|---|---|
+| --- | --- | --- |
 | `id` | `string (UUID)` | Internal unique identifier for the station in Avfallshubben |
 | `accountId` | `string (UUID)` | Identifier of the municipal authority or contractor managing the station |
 | `apiVersion` | `string` | Ingestion source format (`1.0.0` via API, or `Excel` via manual upload) |
@@ -68,6 +70,7 @@ Retrieves detailed information and container servicing schedules for a specific 
   - `municipalityCode` *(required, string)*: The 4-digit municipality code (e.g. `0114`)
 
 #### Example Request
+
 ```bash
 curl -G "https://avfallshubben.avfallsverige.se/umbraco/Api/SoporApi/GetAVS" \
   --data-urlencode "externalAvsId=11045" \
@@ -75,6 +78,7 @@ curl -G "https://avfallshubben.avfallsverige.se/umbraco/Api/SoporApi/GetAVS" \
 ```
 
 #### Response Structure (`200 OK`)
+
 ```json
 {
   "avs": {
@@ -116,14 +120,16 @@ curl -G "https://avfallshubben.avfallsverige.se/umbraco/Api/SoporApi/GetAVS" \
 ```
 
 #### Top-level Control Flags
+
 - `disableServiceRequestReportingToUser` (`bool`): When `true`, citizen fault reporting (*felanmälan*) is disabled on `sopor.nu`.
 - `disableServiceRequestErrorDescriptionForUser` (`bool`): When `true`, free-text description in reports is prohibited.
 - `enableServiceRequestImagePath` (`bool`): When `true`, photo upload is accepted in citizen reports.
 - `customServiceRequestUrl` (`string`): If the municipality uses its own reporting portal, this field contains the redirect URL.
 
 #### Services Array Item Reference
+
 | Field | Type | Description |
-|---|---|---|
+| --- | --- | --- |
 | `serviceId` | `string` | Category/service identifier code (e.g. `101`, `102`) |
 | `serviceType` | `integer` | Numerical fraction/service type identifier (1–10) |
 | `lastAction` | `string (ISO 8601)` | Timestamp of previous recorded emptying or cleaning |
@@ -134,8 +140,9 @@ curl -G "https://avfallshubben.avfallsverige.se/umbraco/Api/SoporApi/GetAVS" \
 | `responsible` | `string` | Name of the operating contractor or municipal company |
 
 #### Standard `serviceType` & `serviceId` Mapping
+
 | `serviceType` | Standard `serviceId` | Swedish Name | English Description |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `1` | `101` | Pappersförpackningar | Paper & cardboard packaging |
 | `2` | `102` | Plastförpackningar | Plastic packaging |
 | `3` | `103` | Metallförpackningar | Metal packaging |
@@ -158,6 +165,7 @@ Used by the `sopor.nu` map interface to fetch all map markers (both ÅVS station
 - **Authentication**: None
 
 #### Response Structure (`200 OK`)
+
 ```json
 {
   "avsList": [
@@ -197,10 +205,12 @@ Generates HTML dropdown options for stations within a specific municipality.
 - **Query Parameter**: `municipalityCode` (e.g. `0114`)
 
 #### Example Response
+
 ```html
 <select class="form-control js-choice1 w-100 mb-3" name="avs">
     <option selected disabled value="">Välj station</option>
     <option class="avs-option" data-type="avs" value="11045:0114:0:0">Glädjens ÅVS (11045)</option>
 </select>
 ```
+
 The option value format is: `{externalAvsId}:{municipalityCode}:{isAvc}:{hasCustomUrl}`.

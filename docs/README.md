@@ -9,6 +9,7 @@ These APIs drive the citizen-facing web frontend—allowing people to find Swedi
 ## Official OpenAPI / Swagger Specifications
 
 Avfall Sverige hosts an OpenAPI 3.0 specification for Avfallshubben:
+
 - **Swagger UI**: [https://avfallshubben.avfallsverige.se/swagger/index.html](https://avfallshubben.avfallsverige.se/swagger/index.html)
 - **OpenAPI 3.0 JSON**: [https://avfallshubben.avfallsverige.se/swagger/v1/swagger.json](https://avfallshubben.avfallsverige.se/swagger/v1/swagger.json)
 
@@ -19,7 +20,7 @@ Avfall Sverige hosts an OpenAPI 3.0 specification for Avfallshubben:
 ## Base URLs
 
 | Service | Base URL | Purpose |
-|---|---|---|
+| --- | --- | --- |
 | **Avfallshubben API** | `https://avfallshubben.avfallsverige.se` | Primary REST API for station data, centers, and cache feeds |
 | **Sopor.nu Web Portal** | `https://www.sopor.nu` | Surface controllers, autocomplete, and sorting guide queries |
 

@@ -17,11 +17,13 @@ Retrieves the complete list of 1,199 standardized item names and materials index
   - `culture` *(string, default: `sv-se`)*: Language locale
 
 #### Example Request
+
 ```bash
 curl "https://www.sopor.nu/umbraco/api/AutocompleteApi/GetStrings?culture=sv-se"
 ```
 
 #### Example Response (`200 OK`)
+
 Returns a JSON array of 1,199 item strings:
 
 ```json
@@ -60,6 +62,7 @@ Queries the sorting guide to retrieve the destination waste stream, disposal gui
   - `page` *(integer)*: Page index (0-indexed)
 
 #### Example Request
+
 ```bash
 curl -G "https://www.sopor.nu/sortera-och-aatervinn/sorteringsguide/" \
   --data-urlencode "searchTerm=Tandborste" \
@@ -67,6 +70,7 @@ curl -G "https://www.sopor.nu/sortera-och-aatervinn/sorteringsguide/" \
 ```
 
 #### Result HTML Structure
+
 The response returns HTML containing `<div class="recycleSearchResult">` blocks:
 
 ```html
@@ -98,17 +102,17 @@ The response returns HTML containing `<div class="recycleSearchResult">` blocks:
 The sorting guide maps all 1,199 items into one of the following official disposal destinations:
 
 | Fraction Name | Primary Disposal Location | Example Items |
-|---|---|---|
+| --- | --- | --- |
 | **Matavfall** | Brown household food waste bin | Matrester, blast, kaffesump |
 | **Restavfall** | Grey/black household garbage bin | Tandborste, disktrasa, kuvert, dammsugarpåse |
 | **Pappersförpackningar** | ÅVS (Green station) or property bin | Mjölkkartong, flingpaket, wellpappkartong |
 | **Plastförpackningar** | ÅVS (Green station) or property bin | Schampoflaska, plastfolie, chipspåse |
 | **Metallförpackningar** | ÅVS (Green station) or property bin | Konservburk, metallock, värmeljuskopp |
-| **Färgade glasförpackningar**| ÅVS (Green station) or property bin | Vinflaska, ölflaska |
-| **Ofärgade glasförpackningar**| ÅVS (Green station) or property bin | Syltburk, barnmatsburk |
-| **Tidningar & trycksaker**| ÅVS (Green station) or property bin | Dagstidning, magasin, reklam |
+| **Färgade glasförpackningar** | ÅVS (Green station) or property bin | Vinflaska, ölflaska |
+| **Ofärgade glasförpackningar** | ÅVS (Green station) or property bin | Syltburk, barnmatsburk |
+| **Tidningar & trycksaker** | ÅVS (Green station) or property bin | Dagstidning, magasin, reklam |
 | **Farligt avfall** | ÅVC (Recycling center) or mobile miljöbil | Nagellack, målarfärg, lösningsmedel, sprayburk |
-| **Elavfall** | ÅVC (Recycling center) or electronics store| Brödrost, hörlurar, eltandborste, sladdar |
+| **Elavfall** | ÅVC (Recycling center) or electronics store | Brödrost, hörlurar, eltandborste, sladdar |
 | **Batterier** | Batteriholk (battery box) or ÅVC | AA/AAA-batterier, knappcellsbatterier |
 | **Grovavfall** | ÅVC (Recycling center) | Möbler, cyklar, mattor, madrasser |
 | **Trädgårdsavfall** | ÅVC (Recycling center) | Grenar, löv, gräsklipp |
@@ -136,13 +140,13 @@ def resolve_item(term):
     url = "https://www.sopor.nu/sortera-och-aatervinn/sorteringsguide/"
     resp = requests.get(url, params={"searchTerm": term, "lang": "sv-se"})
     soup = BeautifulSoup(resp.text, "html.parser")
-    
+
     results = []
     for card in soup.select(".recycleSearchResult"):
         name = card.select_one("h2")
         desc = card.select_one("p")
         img = card.select_one("img")
-        
+
         results.append({
             "name": name.text.strip() if name else "",
             "fraction": img.get("alt", "") if img else "",

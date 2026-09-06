@@ -16,6 +16,7 @@ Retrieves the nationwide list of registered municipal recycling centers.
 - **Parameters**: None
 
 #### Response Structure (`200 OK`)
+
 Returns an array of ÅVC objects:
 
 ```json
@@ -63,6 +64,7 @@ Retrieves detailed access rules, contact info, and accepted materials for a spec
   - `municipalityCode` *(required, string)*: The 4-digit municipality code (e.g. `2463`)
 
 #### Example Request
+
 ```bash
 curl -G "https://avfallshubben.avfallsverige.se/umbraco/Api/SoporApi/GetAVC" \
   --data-urlencode "externalAvcId=246301" \
@@ -74,7 +76,7 @@ curl -G "https://avfallshubben.avfallsverige.se/umbraco/Api/SoporApi/GetAVC" \
 ## Field Reference
 
 | Field | Type | Description |
-|---|---|---|
+| --- | --- | --- |
 | `id` | `string (UUID)` | Internal unique identifier for the ÅVC in Avfallshubben |
 | `accountId` | `string (UUID)` | Municipal organisation account managing the center |
 | `externalAvcId` | `string` | Publicly displayed recycling center ID |
@@ -105,10 +107,11 @@ When a user clicks on an ÅVC on `sopor.nu`, the web application loads a pre-ren
 - **Query Parameters**: `externalAvcId`, `municipalityCode`
 
 #### Accepted Fraction Categories (from the HTML view)
+
 Each fraction is rendered with an SVG icon and official Swedish label:
 
 | Category Name (Swedish) | English Translation | Typical SVG Icon Path |
-|---|---|---|
+| --- | --- | --- |
 | **Farligt Avfall** | Hazardous waste (chemicals, paint, oils) | `/media/hfnpisiu/farligt.svg` |
 | **Elavfall** | Electronic waste (appliances, IT equipment) | `/media/ktylevay/elavfall.svg` |
 | **Grovplast** | Bulky plastic items (furniture, toys, buckets) | `/media/g50jat2z/hardplast.svg` |
@@ -121,7 +124,7 @@ Each fraction is rendered with an SVG icon and official Swedish label:
 | **Pappersförpackningar** | Paper & cardboard packaging | `/media/a3inob1g/forpackningar.svg` |
 | **Plastförpackningar** | Household plastic packaging | `/media/1exezpuy/plast.svg` |
 | **Metallförpackningar** | Household metal tins & cans | `/media/fkvja4vu/metall.svg` |
-| **Tidningar & trycksaker**| Newspapers, catalogs & flyers | `/media/at3pyjl2/tidningar.svg` |
+| **Tidningar & trycksaker** | Newspapers, catalogs & flyers | `/media/at3pyjl2/tidningar.svg` |
 | **Batterier** | Household batteries & car batteries | `/media/fh4pt0jn/batterier.svg` |
 | **Färgade glasförpackningar** | Coloured glass bottles & jars | `/media/wwlflliw/fargat-glas.svg` |
 | **Ofärgade glasförpackningar** | Clear glass bottles & jars | `/media/stwdqs0q/ofargat-glas.svg` |
